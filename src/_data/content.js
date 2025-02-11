@@ -11,10 +11,11 @@ const entries = [
   //Project_2025 = hammer
   //J6 = skull
   //Gun violence = gun
-  //Fascism = exclamation
+  //Fascism = fire
   //Resist = jedi
   //Climate = radiation
   //Health = virus
+  //Foreign Policy = globe
 
   {
     id: 'Paris_Accord',
@@ -98,11 +99,11 @@ const entries = [
 
   {
     id: 'Clean_Gaza',
-    categories: ['Fascism'],
+    categories: ['Foreign Policy', 'Fascism'],
     color: 'red',
-    faicon: 'exclamation',
+    faicon: 'globe',
     date: '2025-01-26',
-    title: 'Trump wants neighbours to take in Palestinians to \'\clean out\'\ Gaza',
+    title: 'Trump wants neighbours to take in Palestinians to \'clean out\' Gaza',
     body: 'Describing Gaza as a "demolition site", Trump said: "You\'re talking about probably a million and a half people, and we just clean out that whole thing". He added that the move "could be temporary" or "could be long-term".',
     links: [
       {
@@ -124,13 +125,136 @@ const entries = [
     links: [
       {
         href: 'https://www.nbcnews.com/politics/national-security/quaker-groups-file-suit-end-policy-restricting-ice-arrests-houses-wors-rcna189471',
-        linkText: 'NBC News',
+        linkText: 'NBC',
       },
     ],
   },
+
+  {
+    id: '30k_Guantanamo',
+    categories: ['Immigration', 'Fascism'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-01-30',
+    title: 'Trump to prepare facility at Guantanamo for 30,000 migrants',
+    body: 'U.S. President Donald Trump said on Wednesday he will order the Pentagon and the Department of Homeland Security to prepare a migrant detention facility at Guantanamo Bay for as many as 30,000 migrants.',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/us/trump-says-he-will-instruct-homeland-security-pentagon-prepare-migrant-facility-2025-01-29/',
+        linkText: 'Reuters',
+      },
+      {
+        href: 'https://www.bbc.co.uk/news/articles/c5yelgxk3rlo',
+        linkText: 'BBC',
+      },
+
+      {
+        href: 'https://thehill.com/homenews/5131164-trump-guantanamo-migrant-directive/',
+        linkText: 'The Hill',
+      },
+    ],
+  },
+
+  {
+    id: 'Fire-Fed_Workers',
+    categories: ['Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-01-30',
+    title: 'Trump\'s plan to reclassify, fire federal workers challenged by unions',
+    body: 'Two major unions representing U.S. government employees filed a lawsuit on Wednesday aimed at slowing President Donald Trump\'s effort to reclassify up to 50,000 federal workers and make it easier to fire them.',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/us/trumps-plan-ease-firing-federal-workers-challenged-by-union-2025-01-29/',
+        linkText: 'Reuters',
+      },
+      {
+        href: 'https://www.bbc.co.uk/news/articles/c5yelgxk3rlo',
+        linkText: 'BBC',
+      },
+
+      {
+        href: 'https://thehill.com/homenews/5131164-trump-guantanamo-migrant-directive/',
+        linkText: 'The Hill',
+      },
+    ],
+  },
+
+  {
+    id: 'Musk-Force_Out_Workers',
+    categories: ['Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-02-02',
+    title: 'Exclusive: Musk aides lock workers out of OPM computer systems',
+    body: 'Since taking office 11 days ago, President Donald Trump has embarked on a massive government makeover, firing and sidelining hundreds of civil servants in his first steps toward downsizing the bureaucracy and installing more loyalists.',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/',
+        linkText: 'Reuters',
+      },
+    ],
+  },
+
+  {
+    id: 'Flight_Lands-Guantanamo',
+    categories: ['Immigration', 'Fascism'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-02-04',
+    title: 'Migrant flight lands in Guantanamo Bay as legal questions swirl around Trump plans',
+    body: 's tents went up in Guantanamo Bay, Cuba, to hold migrants, attorneys at the Department of Homeland Security and Pentagon were still trying to determine whether it was legal to take the unprecedented step of flying migrants from the US southern border to the facility, according to two US officials and a person familiar with the planning.',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/02/04/politics/guantanamo-migrant-flight/index.html',
+        linkText: 'CNN',
+      },
+      {
+        href: 'https://abcnews.go.com/Politics/1st-migrant-flight-heads-guantanamo-bay-carrying-worst/story?id=118456073',
+        linkText: 'ABC',
+      },
+    ],
+  },
+
+  {
+    id: '1stGroup_Guantanamo',
+    categories: ['Immigration', 'Fascism'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-02-05',
+    title: 'The first group of migrants has been sent to Guantánamo, but legal challenges loom',
+    body: 'The Trump administration said Tuesday it has begun flying migrants from the U.S. to a temporary holding facility in Guantánamo Bay, Cuba, before deporting them to other countries, even though some lawyers question the legality of that move.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/02/04/nx-s1-5286579/donald-trump-migrants-guantanamo-legal-challenges-immigration',
+        linkText: 'NPR',
+      },
+      {
+        href: 'https://www.bbc.co.uk/news/articles/cy0p1ykxyzjo',
+        linkText: 'BBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Govt-Overhaul',
+    categories: ['Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-02-06',
+    title: 'What Trump has done to remake the US government so far',
+    body: 'President Donald Trump has signed a series of executive orders and taken other actions since his inauguration on January 20 to remake and reduce the size of the United States\' 2.2 million-strong federal workforce.',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/us/what-trump-has-done-remake-us-government-so-far-2025-01-30/',
+        linkText: 'Reuters',
+      },
+    ],
+  },
+
   {
     id: 'TentCity_Guantanamo',
-    categories: ['Immigration'],
+    categories: ['Immigration', 'Fascism'],
     color: 'red',
     faicon: 'plane',
     date: '2025-02-08',
@@ -150,16 +274,16 @@ const entries = [
 
   {
     id: 'Vance-Musk_question-judge',
-    categories: ['Courts'],
+    categories: ['Fascism'],
     color: 'red',
-    faicon: 'landmark',
+    faicon: 'fire',
     date: '2025-02-09',
-    title: 'Legal experts warn of \'\constitutional crisis\'\ as JD Vance and Elon Musk question judges\'\ authority over Trump',
-    body: 'Vice President JD Vance wrote Sunday on X, \"\Judges aren’t allowed to control the executive\’\s legitimate power.',
+    title: 'Legal experts warn of \'constitutional crisis\' as JD Vance and Elon Musk question judges\' authority over Trump',
+    body: 'Vice President JD Vance wrote Sunday on X, \"Judges aren’t allowed to control the executive\’s legitimate power.',
     links: [
       {
         href: 'https://www.nbcnews.com/politics/white-house/legal-experts-constitutional-crisis-vance-musk-judicial-rulings-trump-rcna191387',
-        linkText: 'NBC News',
+        linkText: 'NBC',
       },
     ],
   },
