@@ -15,7 +15,8 @@ const entries = [
   //Resist = jedi
   //Climate = radiation
   //Health = virus
-  //Foreign Policy = globe
+  //Global = globe
+  //Tiddlywinks = democrat
 
   {
     id: 'Paris_Accord',
@@ -24,7 +25,7 @@ const entries = [
     faicon: 'radiation',
     date: '2025-01-21',
     title: 'Trump Is Once Again Quitting The Paris Climate Accords',
-    body: 'President Donald Trump is once again withdrawing the United States from the Paris climate accords, pulling the nation whose factories, cars and power plants contributed the most cumulative planet-heating pollution to the atmosphere out of the first global pact to slash carbon emissions enough to prevent the world\’\s average temperature from reaching dangerous new heights.',
+    body: 'Trump Is Once Again Quitting The Paris Climate Accords. Last time, quitting the Paris Agreement was largely symbolic. Not this time.',
     links: [
       {
         href: 'https://www.huffingtonpost.co.uk/entry/trump-paris-climate_n_678e8350e4b099ed401ccbec',
@@ -56,7 +57,7 @@ const entries = [
     faicon: 'jedi',
     date: '2025-01-23',
     title: 'Rep AOC Floor Speech - Laken Riley Act',
-    body: 'Republicans are exploiting this moment to roll back civil liberties and write their wealthy friends in the private prison industry an $83 billion check.They aren\’\t working for you. They are lining their own pockets and hoping that drumming up immigrant panic will cover up their own profiteering. Excerpt: “When a prison camp opens in your town…when a DREAMer is disappeared from your classroom…when the President destroys what\’\s left of the Constitution…They will all say they didn\’\t know this was coming. And I want the American people to know that they did.”',
+    body: '“When a prison camp opens in your town…when a DREAMer is disappeared from your classroom…when the President destroys what\’\s left of the Constitution…They will all say they didn\’t know this was coming. And I want the American people to know that they did.”',
     links: [
       {
         href: 'https://www.youtube.com/watch?v=aH_gWH68glA',
@@ -99,7 +100,7 @@ const entries = [
 
   {
     id: 'Clean_Gaza',
-    categories: ['Foreign Policy', 'Fascism'],
+    categories: ['Global', 'Fascism'],
     color: 'red',
     faicon: 'globe',
     date: '2025-01-26',
@@ -121,11 +122,59 @@ const entries = [
     faicon: 'plane',
     date: '2025-01-27',
     title: 'Quaker groups file suit over the end of policy restricting ICE arrests in houses of worship',
-    body: 'A group of Quaker congregations is suing the Department of Homeland Security for changing a policy that prevented Immigration and Customs Enforcement agents from carrying out operations in so-called “sensitive locations” such as houses of worship, playgrounds, schools and hospitals without approval from supervisors.',
+    body: 'The suit challenges the removal of a policy that prevented ICE agents invading “sensitive locations” such as houses of worship, playgrounds, schools, and hospitals.',
     links: [
       {
         href: 'https://www.nbcnews.com/politics/national-security/quaker-groups-file-suit-end-policy-restricting-ice-arrests-houses-wors-rcna189471',
         linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'DEI-Military',
+    categories: ['LGBTQ', 'Racism', 'Discrimination'],
+    color: 'red',
+    faicon: 'rainbow',
+    date: '2025-01-28',
+    title: 'Trump takes aim at DEI, COVID expulsions and transgender troops',
+    body: 'U.S. President Donald Trump signed a series of executive orders on Monday to remove diversity, equity and inclusion (DEI) from the military, reinstate thousands of troops who were kicked out for refusing COVID-19 vaccines during the pandemic, and take aim at transgender troops.',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/us/trump-order-end-dei-military-reinstate-troops-who-refused-covid-vaccines-hegseth-2025-01-27/',
+        linkText: 'Reuters',
+      },
+    ],
+  },
+
+  {
+    id: 'DEI-Military',
+    categories: ['Tiddlywinks'],
+    color: 'red',
+    faicon: 'democrat',
+    date: '2025-01-28',
+    title: 'Democrats\' playbook for Trump 2.0: Tune out the noise and focus on economic issues',
+    body: 'Democrats continue to play Tiddlywinks while the MAGA GOP play hardball. What else is new?',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/congress/democrats-playbook-trump-tune-noise-focus-economic-issues-rcna189180',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Trans-Suit',
+    categories: ['LGBTQ'],
+    color: 'green',
+    faicon: 'rainbow',
+    date: '2025-01-28',
+    title: 'Rights groups file lawsuit against Trump\'s transgender troops order',
+    body: 'Transgender rights advocacy groups filed a lawsuit on Tuesday against U.S. President Donald Trump\'s executive order that targeted transgender service members, in what would be the first legal challenge to a cornerstone of his conservative agenda at the Pentagon.',
+    links: [
+      {
+        href: 'https://www.reuters.com/legal/rights-groups-preparing-file-lawsuit-against-trumps-transgender-troops-order-2025-01-28/',
+        linkText: 'Reuters',
       },
     ],
   },
@@ -203,7 +252,7 @@ const entries = [
     faicon: 'plane',
     date: '2025-02-04',
     title: 'Migrant flight lands in Guantanamo Bay as legal questions swirl around Trump plans',
-    body: 's tents went up in Guantanamo Bay, Cuba, to hold migrants, attorneys at the Department of Homeland Security and Pentagon were still trying to determine whether it was legal to take the unprecedented step of flying migrants from the US southern border to the facility, according to two US officials and a person familiar with the planning.',
+    body: 'Tents went up in Guantanamo Bay to hold migrants. Attorneys at the DHS and Pentagon are yet to determine whether it was legal to take the unprecedented step of flying migrants from the US southern border to the facility.',
     links: [
       {
         href: 'https://edition.cnn.com/2025/02/04/politics/guantanamo-migrant-flight/index.html',
