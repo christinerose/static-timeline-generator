@@ -4,6 +4,8 @@ A timeline chronicling America's descent into a fascist hellscape by the Trump A
 
 Created from : https://github.com/molly/static-timeline-generator 
 
+Content mined from a variety of sources, including [WTF Happened Today](https://whatthefuckjusthappenedtoday.us7.list-manage.com/track/click?u=104aa3abb9fec8b4d037ed51d&id=64ab08fb07&e=b667db2106+).
+
 ## Static Timeline Generator
 
 (Original README from creator's repo :: https://github.com/molly/static-timeline-generator)
