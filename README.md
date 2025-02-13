@@ -3,6 +3,7 @@
 A timeline chronicling America's descent into a fascist hellscape by the Trump Administration. It focuses mostly on civil liberties, executive overreach, discrimination, and other topics that are reshaping (read: destroying) American Democracy.
 
 Created from : https://github.com/molly/static-timeline-generator
+Original ReadMe :: 
 
 # Static timeline generator
 
