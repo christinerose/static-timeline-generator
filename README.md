@@ -4,7 +4,9 @@ A timeline chronicling America's descent into a fascist hellscape by the Trump A
 
 Created from : https://github.com/molly/static-timeline-generator 
 
-## Original README :: Static timeline generator
+## Static Timeline Generator
+
+(Original README from creator's repo :: https://github.com/molly/static-timeline-generator)
 
 Easily create a static timeline webpage like my [Wikimedia timeline](https://www.mollywhite.net/wikimedia-timeline/). Check out a preview of this sample site, deployed with GitHub Pages: https://molly.github.io/static-timeline-generator/.
 
@@ -30,11 +32,11 @@ Clone this repository, then run `npm install` from the directory.
 
 `npm run-script serve` will build the project and serve the static files locally at http://localhost:8080. `npm run-script build` just runs the build step without starting the development server.
 
-## Customize
+### Customize
 
 Almost all of the content you need to change is in `src/_data/content.js`.
 
-### Primary content
+#### Primary content
 
 - `header` (HTML, optional): The content to display in the header at the top of the page.
 - `footer` (HTML, optional): The content to display in the footer at the bottom of the page.
@@ -57,13 +59,13 @@ Almost all of the content you need to change is in `src/_data/content.js`.
     - `linkText` (HTML, **required**): Link text.
     - `extra` (HTML, optional): Extra HTML to display at the end of the link.
 
-### Meta
+#### Meta
 
 - `pageTitle` (string, **required**): The text to go in the `<title>` tag, to set the title of the page in the browser.
 - `pageDescription` (string, optional): Page description to go into [meta](https://www.w3schools.com/tags/tag_meta.asp) tags.
 - `pageAuthor` (string, optinal): Page author to go into [meta](https://www.w3schools.com/tags/tag_meta.asp) tags.
 
-## Additional customization
+### Additional customization
 
 If you would like to add more color options for the circles on the timeline, you can edit the `src/css/custom.css` file to add your own. You can use [this tool](https://htmlcolorcodes.com/) to pick colors and get their hex color codes. They are defined like so:
 
@@ -77,17 +79,17 @@ You would then use `color: yourcolorhere` in the content.js file.
 
 Replace the images in the `src/img` folder to customize the page [favicon](https://blog.hubspot.com/website/what-is-a-favicon) and [OpenGraph image](https://blog.hubspot.com/marketing/open-graph-tags-facebook-twitter-linkedin).
 
-## Deploy
+### Deploy
 
 Once you run `npm run-script buld`, you will see a `_site` directory containing static HTML/CSS/JS files with your site content. You can now use any static site hosting to deploy these files!
 
-### GitHub pages
+#### GitHub pages
 
 To deploy your static site on GitHub pages (free), create a branch containing the static files in the root directory by running `git subtree push --prefix _site origin gh-pages`. Then you can go to your repository's Settings > Pages options and choose "Deploy from a branch", then select `gh-pages` as the branch.
 
 <img src="docs/gh-pages-config.png" alt="Github Pages config settings. Under 'Build and deployment', Source is set to 'Deploy from a branch', branch is set to 'gh-pages', and the folder is set to '/ (root)'." width="500"/>
 
-### Other services
+#### Other services
 
 There are some good tutorials out there for deploying a static site on various other free services. A few are listed below.
 
@@ -100,7 +102,7 @@ You can also look for tutorials on how to deploy a site built with [eleventy](ht
   - Set "build command" to `npm run-script build`
   - Set "publish directory" to `_site`
 
-## Responsiveness
+### Responsiveness
 
 Timelines will render well on tablets:
 
@@ -110,13 +112,13 @@ or mobile devices:
 
 <img src="docs/phone.png" alt="Screenshot rendered on a phone" width="400"/>
 
-## Browser compatibility
+### Browser compatibility
 
 This should work well on all modern browsers. IE <9 is not supported.
 
 Without JavaScript enabled, the page degrades gracefully. However, posts will show in a single-column timeline and filters will not show.
 
-## Under the hood
+### Under the hood
 
 This project uses
 
