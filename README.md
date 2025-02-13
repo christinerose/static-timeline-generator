@@ -1,6 +1,10 @@
-# Static timeline generator
+# America is Going Great Timeline
 
-(ReadMe edited from original creator : https://github.com/molly/static-timeline-generator)
+A timeline chronicling America's descent into a fascist hellscape by the Trump Administration. It focuses mostly on civil liberties, executive overreach, discrimination, and other topics that are reshaping (read: destroying) American Democracy.
+
+Created from : https://github.com/molly/static-timeline-generator
+
+# Static timeline generator
 
 Easily create a static timeline webpage like my [Wikimedia timeline](https://www.mollywhite.net/wikimedia-timeline/). Check out a preview of this sample site, deployed with GitHub Pages: https://molly.github.io/static-timeline-generator/.
 
