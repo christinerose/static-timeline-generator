@@ -4,7 +4,7 @@ A timeline chronicling America's descent into a fascist hellscape by the Trump A
 
 Created from : https://github.com/molly/static-timeline-generator 
 
-# Original ReadMe :: Static timeline generator
+## Original README :: Static timeline generator
 
 Easily create a static timeline webpage like my [Wikimedia timeline](https://www.mollywhite.net/wikimedia-timeline/). Check out a preview of this sample site, deployed with GitHub Pages: https://molly.github.io/static-timeline-generator/.
 
