@@ -1,5 +1,7 @@
 # Static timeline generator
 
+(ReadMe edited from original creator : https://github.com/molly/static-timeline-generator)
+
 Easily create a static timeline webpage like my [Wikimedia timeline](https://www.mollywhite.net/wikimedia-timeline/). Check out a preview of this sample site, deployed with GitHub Pages: https://molly.github.io/static-timeline-generator/.
 
 **Contents**
