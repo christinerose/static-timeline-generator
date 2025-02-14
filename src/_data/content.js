@@ -854,8 +854,8 @@ const entries = [
 ];
 
 // Page details
-const pageTitle = 'Static timeline generator'; // The title of the page that shows in the browser tab
-const pageDescription = 'A super fancy timeline'; // The description of the page for search engines
+const pageTitle = 'Ameria is Going Just Great'; // The title of the page that shows in the browser tab
+const pageDescription = 'A timeline of America\'s descent into a fascist hellscape.'; // The description of the page for search engines
 const pageAuthor = 'Christine Rose'; // Your name
 
 // DON'T EDIT BELOW THIS LINE! --------------------------------------------------------------------
