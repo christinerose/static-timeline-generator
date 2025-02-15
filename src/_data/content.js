@@ -5,7 +5,7 @@ const entries = [
   //LGBTQ+ = rainbow
   //Immigration = plane
   //Courts = landmark
-  //Racism = person
+  //Discrimination = person
   //Religion = cross
   //Women = venus
   //Project_2025 = hammer
@@ -880,25 +880,8 @@ const entries = [
     ],
   },
 
-
   {
-    id: 'DEI-Military',
-    categories: ['LGBTQ', 'Racism', 'Discrimination', 'Project 2025'],
-    color: 'red',
-    faicon: 'rainbow',
-    date: '2025-01-28',
-    title: 'Trump takes aim at DEI, COVID expulsions and transgender troops',
-    body: 'U.S. President Donald Trump signed a series of executive orders on Monday to remove diversity, equity and inclusion (DEI) from the military, reinstate thousands of troops who were kicked out for refusing COVID-19 vaccines during the pandemic, and take aim at transgender troops.',
-    links: [
-      {
-        href: 'https://www.reuters.com/world/us/trump-order-end-dei-military-reinstate-troops-who-refused-covid-vaccines-hegseth-2025-01-27/',
-        linkText: 'Reuters',
-      },
-    ],
-  },
-
-  {
-    id: 'DEI-Military',
+    id: 'Democrats-Wont-Fight-Trump',
     categories: ['Tiddlywinks'],
     color: 'red',
     faicon: 'democrat',
@@ -914,23 +897,20 @@ const entries = [
   },
 
   {
-    id: 'Trans-Suit',
-    categories: ['LGBTQ'],
-    color: 'green',
+    id: 'DEI-Military',
+    categories: ['LGBTQ', 'Discrimination', 'Project 2025'],
+    color: 'red',
     faicon: 'rainbow',
-    date: '2025-01-28',
-    title: 'Rights groups file lawsuit against Trump\'s transgender troops order',
-    body: 'Transgender rights advocacy groups filed a lawsuit on Tuesday against U.S. President Donald Trump\'s executive order that targeted transgender service members, in what would be the first legal challenge to a cornerstone of his conservative agenda at the Pentagon.',
+    date: '2025-01-27',
+    title: 'Trump takes aim at DEI, COVID expulsions and transgender troops',
+    body: 'U.S. President Donald Trump signed a series of executive orders on Monday to remove diversity, equity and inclusion (DEI) from the military, reinstate thousands of troops who were kicked out for refusing COVID-19 vaccines during the pandemic, and take aim at transgender troops.',
     links: [
       {
-        href: 'https://www.reuters.com/legal/rights-groups-preparing-file-lawsuit-against-trumps-transgender-troops-order-2025-01-28/',
+        href: 'https://www.reuters.com/world/us/trump-order-end-dei-military-reinstate-troops-who-refused-covid-vaccines-hegseth-2025-01-27/',
         linkText: 'Reuters',
       },
     ],
   },
-
-
-
 
 
   {
@@ -1014,17 +994,300 @@ const entries = [
   },
 
   {
+    id: 'Laken-Riley',
+    categories: ['Immigration', 'Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-01-23',
+    title: 'House passes immigrant detention bill that would be Trump\’s first law to sign',
+    body: '“Passage of the Laken Riley Act shows just how sharply the political debate over immigration has shifted to the right following Trump\’s election victory.',
+    links: [
+      {
+        href: 'https://apnews.com/article/congress-immigration-crackdown-laken-riley-act-trump-a3e52af60b6b952f487e4ae03ebfacde',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Pause-Communications',
+    categories: ['Health', 'Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-01-22',
+    title: 'Trump administration directs federal health agencies to pause communications',
+    body: 'The memo told health agency employees to have all documents and communications - including regulations, guidance, notices, social media, websites and press releases - reviewed and approved by a presidential appointee before issuing them.',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/01/21/health/hhs-cdc-fda-trump-pause-communication/index.html',
+        linkText: 'CNN',
+      },
+
+      {
+        href: 'https://www.axios.com/2025/01/22/trump-cdc-nih-hhs-health-agencies-communications',
+        linkText: 'Axios',
+      },
+
+
+    ],
+  },
+
+  {
+    id: 'New-J6-Subcommittee',
+    categories: ['J6', 'Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'skull',
+    date: '2025-01-22',
+    title: 'House Republicans announce new subcommittee to investigate Jan. 6',
+    body: '“House Republicans are proud of our work so far in exposing the false narratives peddled by the politically motivated January 6 Select Committee during the 117th Congress, but there is still more work to be done,” House Speaker Mike Johnson said.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/congress/house-republicans-new-subcommittee-investigate-jan-6-rcna188808',
+        linkText: 'NBC',
+      },
+
+    ],
+  },
+
+  {
+    id: 'Police-Condemn-Pardons',
+    categories: ['J6', 'Project 2025', 'Fascism'],
+    color: 'green',
+    faicon: 'skull',
+    date: '2025-01-22',
+    title: 'Police union that endorsed Trump condemns Jan. 6 pardons',
+    body: 'Trump\'s mass pardon of Jan. 6 rioters, many of whom assaulted police officers defending the U.S. Capitol, has provoked a furious response from the Fraternal Order of Police and the International Association of Chiefs of Police (clear case of FAFO)',
+    links: [
+      {
+        href: 'https://www.salon.com/2025/01/22/police-union-that-endorsed-condemns-jan-6-pardons/',
+        linkText: 'Salon',
+      },
+
+      {
+        href: 'https://www.huffingtonpost.co.uk/entry/trump-police-union-jan-6-pardons_n_6790faebe4b07360cb50134a',
+        linkText: 'Huffington Post',
+      },
+
+      {
+        href: 'https://www.motherjones.com/politics/2025/01/trumps-jan-6-pardons-come-as-a-betrayal-to-former-capitol-police/',
+        linkText: 'Mother Jones',
+      },
+
+      {
+        href: ' https://www.npr.org/2025/01/22/nx-s1-5269733/january-6-pardons-trump-voters',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Troops-Border',
+    categories: ['Immigration', 'Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-01-22',
+    title: 'US military to send additional 1,500 troops to border',
+    body: '“Trump in his first day in office declared illegal immigration a national emergency, tasking the U.S. military with aiding border security, issuing a broad ban on asylum, and taking steps to restrict citizenship for children born on American soil.',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/us/us-military-preparing-send-additional-1000-troops-border-official-says-2025-01-22/',
+        linkText: 'Reuters',
+      },
+
+      {
+        href: 'https://apnews.com/live/trump-presidency-day-3-updates',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Bye-DEI',
+    categories: ['Discrimination', 'Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-01-22',
+    title: 'Trump administration directs all federal diversity, equity and inclusion staff be put on leave',
+    body: '“Trump\’s administration has moved to end affirmative action in federal contracting and directed that all federal diversity, equity and inclusion staff be put on paid leave and eventually be laid off.',
+    links: [
+      {
+        href: 'https://apnews.com/article/dei-trump-executive-order-diversity-834a241a60ee92722ef2443b62572540',
+        linkText: 'AP',
+      },
+
+      {
+        href: 'https://www.npr.org/2025/01/22/nx-s1-5270081/trump-executive-orders-dei',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Security-Sent-Home',
+    categories: ['Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-01-22',
+    title: 'National Security Council staffers grilled about loyalty to Trump',
+    body: 'The screenings are part of a larger push by President Trump to reshape the federal workforce that includes staffing the administration with loyalists and making it easier to fire civil servants',
+    links: [
+      {
+        href: 'https://www.axios.com/2025/01/22/trump-national-security-council-civil-servants',
+        linkText: 'Axios',
+      },
+
+      {
+        href: 'https://apnews.com/article/trump-national-security-council-staffers-d167985d61c96dd278b0e58a402ff865',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+    {
+    id: 'Trump-Threatens-Russia',
+    categories: ['Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-01-22',
+    title: 'Trump threatens tariffs if Russia doesn\'t end Ukraine war',
+    body: 'Trump made ending Russia\'s invasion of Ukraine a key campaign pledge, but its not clear that his new threat will put significant pressure on Russia to change its negotiating posture.',
+    links: [
+      {
+        href: 'https://www.axios.com/2025/01/22/trump-tariffs-russia-end-ukraine-war',
+        linkText: 'Axios',
+      },
+
+      {
+        href: 'https://www.npr.org/2025/01/22/nx-s1-5270883/trump-threat-russia-ukraine-war-tariffs-sanctions',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump-Slams-Bishop',
+    categories: ['Religion', 'Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-01-22',
+    title: 'Trump slams sermon asking him to show \'mercy\' toward LGBTQ people, immigrants',
+    body: 'Trump called the bishop of Washington, the Right Rev. Mariann Edgar Budde, "a Radical Left hard line Trump hater."',
+    links: [
+      {
+        href: 'https://abcnews.go.com/Politics/trump-criticizes-sermon-show-mercy-lgbtq-people-immigrants/story?id=117950533',
+        linkText: 'ABC',
+      },
+
+      {
+        href: 'https://apnews.com/article/trump-inaugural-prayer-service-washington-national-cathedral-interfaith-a95b36f962be93c8647cc5144266da11',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Spanish-WH-Website-Gone',
+    categories: ['Discrimination', 'Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-01-22',
+    title: 'Trump administration shuts down White House Spanish-language page and social media',
+    body: 'Hispanic advocacy groups and others expressed confusion at the abrupt change and frustration at what some called the administration’s lack of efforts to maintain communication with the Latino community, which helped propel him to the presidency.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-white-house-spanish-language-website-62224890c5b05c8ce0878358ba4a5266',
+        linkText: 'AP',
+      },
+
+    ],
+  },
+
+  {
+    id: 'States-Sue',
+    categories: ['Immigration', 'Resist'],
+    color: 'green',
+    faicon: 'plane',
+    date: '2025-01-21',
+    title: '22 states sue to stop Trump\’s order blocking birthright citizenship',
+    body: '“The president cannot, with a stroke of a pen, write the 14th Amendment out of existence, period,” New Jersey Attorney General Matt Platkin said.',
+    links: [
+      {
+        href: 'https://apnews.com/article/birthright-citizenship-trump-executive-order-immigrants-fc7dd75ba1fb0a10f56b2a85b92dbe53',
+        linkText: 'AP',
+      },
+
+      {
+        href: 'https://edition.cnn.com/2025/01/21/politics/democratic-states-sue-birthright-citizenship-trump/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'Arrest-At-Schools',
+    categories: ['Fascism', 'Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-01-21',
+    title: 'Trump says immigration authorities can arrest people at churches and schools',
+    body: 'Administration overturns policies that for more than a decade restricted enforcement from \‘sensitive areas\’.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/jan/21/trump-ice-churches-schools-hospitals-sensitive-areas',
+        linkText: 'The Guardian',
+      },
+      {
+        href: 'https://apnews.com/article/justice-department-immigration-enforcement-f0e3fc616da9746796378d1cd6385b1b',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Yes-False-Info',
+    categories: ['Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-01-21',
+    title: 'Trump signs order to end \‘government censorship\’ of social media',
+    body: 'A sweeping action that could chill years of efforts to combat the proliferation of false information online.',
+    links: [
+      {
+        href: 'https://archive.is/8QTai',
+        linkText: 'Washington Post (via archive.is)',
+      },
+    ],
+  },
+
+  {
     id: 'J6Freed',
     categories: ['J6', 'Project 2025'],
     color: 'red',
     faicon: 'skull',
     date: '2025-01-21',
-    title: 'Former OC Police Chief, Prominent Activist And Jan. 6 Rioter Freed',
+    title: 'Former OC Police Chief, Prominent Activist and Jan. 6 Rioter Freed',
     body: 'The man who "collected weapons for Jan. 6 and called for executions of politicians," said, "We are just getting started," upon his release.',
     links: [
       {
         href: 'https://patch.com/california/sanclemente/s/j46g2/former-oc-police-chief-prominent-activist-and-jan-6-rioter-freed?utm_term=article-slot-2&utm_source=newsletter-daily&utm_medium=email&utm_campaign=newsletter&user_email=7365fa8a2d2ebabd5914fa405416324c85fd63134570ec45cbc1edadb8a0ff1f&user_email_md5=c899ca5813293dc5ba7ae6b69b42553f&lctg=51f98d901e240a9c3f2373aa',
         linkText: 'Patch',
+      },
+    ],
+  },
+
+
+  {
+    id: 'Constitution-404',
+    categories: ['Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-01-21',
+    title: 'The U.S. Constitution Delivers a 404 Now - Democracy not found',
+    body: 'Arguably one of the most shocking changes to the president’s web footprint involves the U.S. Constitution. Anyone who now googles the Constitution and follows the link to the White House website currently sees a 404 error.',
+    links: [
+      {
+        href: 'https://gizmodo.com/the-u-s-constitution-delivers-a-404-now-2000552847',
+        linkText: 'Gizmodo',
       },
     ],
   },
@@ -1042,6 +1305,80 @@ const entries = [
       {
         href: 'https://www.huffingtonpost.co.uk/entry/trump-paris-climate_n_678e8350e4b099ed401ccbec',
         linkText: 'Huffington Post',
+      },
+    ],
+  },
+
+  {
+    id: 'Bishop-Mercy',
+    categories: ['Immigration', 'LGBTQ', 'Religion', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-01-21',
+    title: 'Bishop at inaugural prayer service urges Trump to \'have mercy\' on LGBTQ children, immigrants',
+    body: '“In the name of our God, I ask you to have mercy upon the people in our country who are scared now,” said Budde, who was looking directly at the president.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/nbc-out/out-politics-and-policy/bishop-trump-inaugural-prayer-service-lgbtq-immigration-policie-rcna188590',
+        linkText: 'NBC',
+      },
+
+      {
+        href: 'https://edition.cnn.com/2025/01/21/politics/democratic-states-sue-birthright-citizenship-trump/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+
+  {
+    id: 'War-On-Trans',
+    categories: ['Fascism', 'Project 2025', 'LGBTQ'],
+    color: 'red',
+    faicon: 'rainbow',
+    date: '2025-01-20',
+    title: 'Trump Declares War on Transgender People',
+    body: 'Trump is expected to immediately move to end the federal government\’s recognition of transgender people',
+    links: [
+      {
+        href: 'https://www.motherjones.com/politics/2025/01/trump-declares-war-on-transgender-people/',
+        linkText: 'Mother Jones',
+      },
+
+      {
+        href: 'https://edition.cnn.com/2025/01/20/politics/executive-actions-trump-day-1/index.html',
+        linkText: 'CNN',
+      },
+
+      {
+        href: 'https://www.politico.com/live-updates/2025/01/20/donald-trump-inauguration-day-news-updates-analysis/trump-repeals-transgender-troops-rule-00199577',
+        linkText: 'Politico',
+      },
+    ],
+  },
+
+  {
+    id: 'US-Leave-WHO',
+    categories: ['Global', 'Health'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-01-20',
+    title: 'Trump declares U.S. will withdraw from the World Health Organization',
+    body: 'Trump announced the start of the process for terminating U.S. membership in the U.N. agency that oversees global health issues.',
+    links: [
+      {
+        href: 'https://www.npr.org/sections/goats-and-soda/2025/01/20/g-s1-42918/trump-world-health-organization-withdrawal',
+        linkText: 'NPR',
+      },
+
+      {
+        href: 'https://www.axios.com/2025/01/21/trump-world-health-organization-executive-order',
+        linkText: 'Axios',
+      },
+
+      {
+        href: 'https://archive.is/USvx7',
+        linkText: 'NYT (via archive.is)',
       },
     ],
   },
