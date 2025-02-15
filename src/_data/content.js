@@ -12,6 +12,7 @@ const entries = [
   //J6 = skull
   //Gun violence = gun
   //Fascism = fire
+  //Education = scroll
   //Resist = jedi
   //Climate = radiation
   //Health = virus
@@ -19,12 +20,170 @@ const entries = [
   //Tiddlywinks = democrat
 
   {
+    id: 'Patel-FBI',
+    categories: ['Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-14',
+    title: 'Senate panel advances nomination of Kash Patel, Trump’s pick to lead the FBI',
+    body: 'Patel has vowed to overhaul the FBI, turn its headquarters into a museum, and punish members of the so-called “deep state.”',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-fbi-kash-patel-61610c5384536667eb112734465b0a19',
+        linkText: 'AP',
+      },
+
+      {
+        href: 'https://www.politico.com/live-updates/2025/02/13/congress/kash-patel-trump-fbi-00204035',
+        linkText: 'Politico',
+      },
+    ],
+  },
+
+  {
+    id: 'DOJ-Resignations',
+    categories: ['Resist', 'Project 2025'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-02-14',
+    title: 'Diagram: How the Justice Department Resignations Unfolded',
+    body: 'More than half a dozen government attorneys have resigned since an order by the Trump administration’s Justice Department to drop charges against Mayor Eric Adams of New York City.',
+    links: [
+      {
+        href: 'https://archive.is/JnWNy',
+        linkText: 'NYT (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'RFK-Sworn-In',
+    categories: ['Health', 'Project 2025'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-02-14',
+    title: 'Vaccine skeptic Robert F. Kennedy Jr. is sworn in as Trump’s health chief after a close Senate vote',
+    body: '"Kennedy faced opposition from the left for his decades of espousing conspiracy theories about vaccines and from the right for his past support of abortion rights."',
+    links: [
+      {
+        href: 'https://apnews.com/article/rfk-trump-health-secretary-vote-5dbefeef0537dc241e6fb33b8f2a748b',
+        linkText: 'AP',
+      },
+
+      {
+        href: 'https://www.npr.org/sections/shots-health-news/2025/02/13/nx-s1-5294591/rfk-jr-trump-health-human-services-hhs-vaccines',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Utah-Nazi-Flag',
+    categories: ['Fascism', 'LGBTQ', 'Project 2025'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-02-14',
+    title: 'Nazi flags can fly in Utah schools, but not pride flags, GOP lawmaker says',
+    body: 'A new bill would allow for Nazi and Confederate flags to be displayed in some instances in Utah schools and government buildings, but pride flags would be banned.',
+    links: [
+      {
+        href: 'https://archive.is/2025.02.14-125336/https://www.sltrib.com/news/politics/2025/02/13/nazi-flags-can-fly-utah-school-not/#selection-261.0-261.162',
+        linkText: 'The Salt Lake Tribune (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump-Fires-Nuclear-Staff',
+    categories: ['Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-14',
+    title: 'Trump officials fired nuclear staff not realizing they oversee the country\’s weapons stockpile',
+    body: '“Congress is freaking out because it appears DOE didn’t really realize NNSA oversees the nuclear stockpile.”',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/02/14/climate/nuclear-nnsa-firings-trump/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'Fire-Fed-Employees',
+    categories: ['Fascism', 'Project 2025', 'Education'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-13',
+    title: 'Scores of firings have begun at federal agencies',
+    body: 'Terminations of probationary employees underway at the Department of Education and the Small Business Administration',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/02/12/politics/scores-of-firings-federal-agencies/index.html',
+        linkText: 'CNN',
+      },
+
+      {
+        href: 'https://www.reuters.com/world/us/mass-firings-federal-workers-begin-trump-musk-purge-us-government-2025-02-13/',
+        linkText: 'Reuters',
+      },
+
+      {
+        href: 'https://www.cnn.com/2025/02/12/politics/buyout-trump-federal-employee-judge/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'Musk-Delete-Agencies',
+    categories: ['Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-13',
+    title: 'Elon Musk calls for the US to \‘delete entire agencies\’ from the federal government',
+    body: 'Google has also turned off the ability to suggest edits or report inaccuracies for the Gulf of America.',
+    links: [
+      {
+        href: 'https://apnews.com/article/elon-musk-doge-us-uae-6f7c0e5b43adfb4ec3c1f14a964f573c',
+        linkText: 'AP',
+      },
+
+      {
+        href: 'https://www.politico.com/news/2025/02/13/elon-musk-target-federal-agencies-017563',
+        linkText: 'Politico',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump-Recipricol-Tariffs',
+    categories: ['Fascism', 'Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-02-13',
+    title: 'Trump threatens reciprocal tariffs against other countries',
+    body: 'Economists fear the tariffs could also put upward pressure on prices, making it harder to curb stubborn inflation.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/02/13/nx-s1-5296521/trump-retaliatory-reciprocal-tariffs-inflation-trade-war',
+        linkText: 'NPR',
+      },
+
+      {
+        href: 'https://apnews.com/article/trump-tariffs-reciprocal-imports-tax-trade-economy-54c0a26687dc96157d96229068894720',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
     id: 'Google-Deletes-Reviews',
     categories: ['Fascism'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-13',
-    title: 'Google Maps Admits Deleting Critical ‘Gulf Of America’ Reviews',
+    title: 'Google Maps Admits Deleting Critical \‘Gulf Of America\’ Reviews',
     body: 'Google has also turned off the ability to suggest edits or report inaccuracies for the Gulf of America.',
     links: [
       {
@@ -35,8 +194,24 @@ const entries = [
   },
 
   {
+    id: 'Judge-Blocks-Trump-Order',
+    categories: ['Courts', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-02-13',
+    title: 'Federal judge pauses President Trump\’s order restricting gender-affirming care for trans youth',
+    body: 'The judge\’s ruling came after a lawsuit was filed earlier this month on behalf of families with transgender or nonbinary children who allege their health care has already been compromised.',
+    links: [
+      {
+        href: 'https://apnews.com/article/judge-restraining-order-trump-transgender-health-care-8f8d935a3e757a1700dfb7363a67b07b',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
     id: 'Legal-Showdown',
-    categories: ['Fascism'],
+    categories: ['Fascism', 'Project 2025'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-12',
@@ -127,9 +302,9 @@ const entries = [
 
   {
     id: 'USAID-Inspector-Fired',
-    categories: ['Fascism'],
+    categories: ['Fascism', 'Project 2025'],
     color: 'red',
-    faicon: 'fire',
+    faicon: 'hammer',
     date: '2025-02-12',
     title: 'White House fires USAID inspector general after warning about funding oversight',
     body: 'On Monday, Martin\’s office issued a flash report warning that the Trump administration\’s freeze on all foreign assistance and moves to cut USAID staff had left oversight of the humanitarian aid “largely nonoperational.',
@@ -148,9 +323,9 @@ const entries = [
 
   {
     id: 'Massive-Layoffs',
-    categories: ['Fascism'],
+    categories: ['Fascism', 'Project 2025'],
     color: 'red',
-    faicon: 'fire',
+    faicon: 'hammer',
     date: '2025-02-12',
     title: 'DOGE\’s power expands as federal agencies start planning large-scale layoffs',
     body: 'The next stage of the Trump administration’s efforts to slash the federal workforce is underway.',
@@ -158,6 +333,27 @@ const entries = [
       {
         href: 'https://edition.cnn.com/2025/02/12/politics/federal-employees-layoffs-trump/index.html',
         linkText: 'CNN',
+      },
+
+      {
+        href: 'https://archive.is/HrspM',
+        linkText: 'NYT (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: '30-Actions',
+    categories: ['Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-02-12',
+    title: 'Thirty lonely but beautiful actions you can take right now',
+    body: '(which probably won\'t magically catalyze a mass movement against Trump but that are still wildly important)',
+    links: [
+      {
+        href: 'https://thewhitepages.net/p/thirty-lonely-but-beautiful-actions',
+        linkText: 'The White Pages',
       },
 
       {
@@ -205,7 +401,7 @@ const entries = [
   },
 
   {
-    id: 'Judges-Fault',
+    id: 'FEMA-Fired',
     categories: ['Fascism', 'Courts'],
     color: 'red',
     faicon: 'fire',
@@ -243,9 +439,9 @@ const entries = [
 
   {
     id: 'Abolish-FEMA',
-    categories: ['Fascism'],
+    categories: ['Fascism', 'Project 2025'],
     color: 'red',
-    faicon: 'fire',
+    faicon: 'hammer',
     date: '2025-02-11',
     title: 'Trump Calls for Abolishing FEMA, Expanding Battle Against Feds',
     body: 'Trump said FEMA should be eliminated, widening his fight against the federal bureaucracy that he has denounced as a “deep state” working against his interests.',
@@ -259,7 +455,7 @@ const entries = [
 
   {
     id: 'Musk_DOGE-Conflicts',
-    categories: ['Fascism', 'Courts'],
+    categories: ['Fascism', 'Courts', 'Project 2025'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-11',
@@ -311,9 +507,9 @@ const entries = [
 
   {
     id: 'DOGE-Cuts-Millions',
-    categories: ['Fascism'],
+    categories: ['Fascism', 'Project 2025', 'Education'],
     color: 'red',
-    faicon: 'fire',
+    faicon: 'scroll',
     date: '2025-02-11',
     title: 'Musk Team Announces Millions in Cuts to Education Dept. Amid Legal Pushback',
     body: 'Elon Musk\’s cost-cutting effort announced a variety of cuts at the Education Department totaling over $900 million...',
@@ -328,7 +524,7 @@ const entries = [
 
   {
     id: 'Trump-Ignores-Judge',
-    categories: ['Fascism', 'Courts'],
+    categories: ['Fascism', 'Courts', 'Project 2025'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-10',
@@ -380,7 +576,7 @@ const entries = [
 
   {
     id: 'Hamas-Hostage-Threat',
-    categories: ['Fascism', 'Global'],
+    categories: ['Global', 'Fascism'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-10',
@@ -401,7 +597,7 @@ const entries = [
 
   {
     id: 'Jordan-Egypt-Threat',
-    categories: ['Fascism', 'Global'],
+    categories: ['Global', 'Fascism'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-10',
@@ -417,7 +613,7 @@ const entries = [
 
   {
     id: 'Trump-Buy-Gaza',
-    categories: ['Fascism', 'Global'],
+    categories: ['Global', 'Fascism'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-10',
@@ -459,7 +655,7 @@ const entries = [
 
   {
     id: 'Musk-Impeach-Judge',
-    categories: ['Fascism', 'Courts'],
+    categories: ['Fascism', 'Courts', 'Project 2025'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-09',
@@ -480,7 +676,7 @@ const entries = [
 
   {
     id: 'Vance-Musk_question-judge',
-    categories: ['Fascism', 'Courts'],
+    categories: ['Fascism', 'Courts', 'Project 2025'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-09',
@@ -516,7 +712,7 @@ const entries = [
 
   {
     id: 'Govt-Overhaul',
-    categories: ['Fascism'],
+    categories: ['Fascism', 'Project 2025'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-06',
@@ -604,9 +800,9 @@ const entries = [
 
   {
     id: 'Musk-Force_Out_Workers',
-    categories: ['Fascism'],
+    categories: ['Fascism', 'Project 2025'],
     color: 'red',
-    faicon: 'fire',
+    faicon: 'hammer',
     date: '2025-02-02',
     title: 'Exclusive: Musk aides lock workers out of OPM computer systems',
     body: 'Since taking office 11 days ago, President Donald Trump has embarked on a massive government makeover, firing and sidelining hundreds of civil servants in his first steps toward downsizing the bureaucracy and installing more loyalists.',
@@ -645,9 +841,9 @@ const entries = [
 
   {
     id: 'Fire-Fed_Workers',
-    categories: ['Fascism'],
+    categories: ['Fascism', 'Project 2025'],
     color: 'red',
-    faicon: 'fire',
+    faicon: 'hammer',
     date: '2025-01-30',
     title: 'Trump\'s plan to reclassify, fire federal workers challenged by unions',
     body: 'Two major unions representing U.S. government employees filed a lawsuit on Wednesday aimed at slowing President Donald Trump\'s effort to reclassify up to 50,000 federal workers and make it easier to fire them.',
@@ -670,7 +866,7 @@ const entries = [
 
   {
     id: 'Constitutional-Crisis',
-    categories: ['Fascism'],
+    categories: ['Fascism', 'Project 2025'],
     color: 'red',
     faicon: 'fire',
     date: '2025-01-29',
@@ -687,7 +883,7 @@ const entries = [
 
   {
     id: 'DEI-Military',
-    categories: ['LGBTQ', 'Racism', 'Discrimination'],
+    categories: ['LGBTQ', 'Racism', 'Discrimination', 'Project 2025'],
     color: 'red',
     faicon: 'rainbow',
     date: '2025-01-28',
@@ -787,7 +983,7 @@ const entries = [
 
   {
     id: 'Shut_School-Board',
-    categories: ['Gun Violence'],
+    categories: ['Gun Violence', 'Project 2025','Education'],
     color: 'red',
     faicon: 'gun',
     date: '2025-01-23',
@@ -819,7 +1015,7 @@ const entries = [
 
   {
     id: 'J6Freed',
-    categories: ['J6'],
+    categories: ['J6', 'Project 2025'],
     color: 'red',
     faicon: 'skull',
     date: '2025-01-21',
@@ -850,12 +1046,59 @@ const entries = [
     ],
   },
 
+  {
+    id: 'J6-Pardoned',
+    categories: ['J6', 'Project 2025'],
+    color: 'red',
+    faicon: 'skull',
+    date: '2025-01-20',
+    title: 'Trump offers long-promised pardons to some 1,500 January 6 rioters',
+    body: 'The order would grant "a full, complete and unconditional pardon to all other individuals convicted of offenses related to events that occurred at or near the United States Capitol on January 6, 2021."',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/01/20/g-s1-36809/trump-pardons-january-6-riot',
+        linkText: 'NPR',
+      },
+
+      {
+        href: 'https://apnews.com/article/capitol-jan-6-pardons-trump-justice-department-8ce8b2a8f8cb602d5eaf85ac7b969606',
+        linkText: 'AP',
+      },
+
+      {
+        href: 'https://www.nbcnews.com/politics/justice-department/trump-set-pardon-defendants-stormed-capitol-jan-6-2021-rcna187735',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Exec-Orders',
+    categories: ['Fascism', 'Project 2025', 'J6'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-01-20',
+    title: 'Trump signs executive actions on Jan. 6, TikTok, immigration and more',
+    body: 'His sweeping agenda with a series of executive actions that are expected to kickstart his promised transformation of the federal government.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/01/20/g-s1-43698/trump-inauguration-executive-orders-2025-day-1',
+        linkText: 'NPR',
+      },
+
+      {
+        href: 'https://edition.cnn.com/2025/01/20/politics/executive-actions-trump-day-1/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
 
 ];
 
 // Page details
-const pageTitle = 'Ameria is Going Just Great'; // The title of the page that shows in the browser tab
-const pageDescription = 'A timeline of America\'s descent into a fascist hellscape.'; // The description of the page for search engines
+const pageTitle = 'America is Going Just Great'; // The title of the page that shows in the browser tab
+const pageDescription = 'A timeline of America\'s descent into a fascist hellscape'; // The description of the page for search engines
 const pageAuthor = 'Christine Rose'; // Your name
 
 // DON'T EDIT BELOW THIS LINE! --------------------------------------------------------------------
