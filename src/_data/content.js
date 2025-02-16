@@ -19,6 +19,40 @@ const entries = [
   //Global = globe
   //Tiddlywinks = democrat
 
+  //Start with "Lawless" 28 Jan WTF Happened to catch up
+
+  {
+    id: 'Vance-Munich',
+    categories: ['Global', 'Project 2025'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-02-15',
+    title: 'JD Vance’s Munich speech laid bare the collapse of the transatlantic alliance',
+    body: 'The US vice-president was hypocritical and insensitive, but bracingly clear in his resetting of relationships.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/world/2025/feb/15/jd-vance-munich-speech-laid-bare-collapse-transatlantic-alliance-us-europe?CMP=Share_iOSApp_Other',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Judge-Blocks-Transfer',
+    categories: ['Immigration', 'Resist', 'Project 2025'],
+    color: 'green',
+    faicon: 'plane',
+    date: '2025-02-15',
+    title: 'US deports immigrants to Venezuela after judge blocked transfer to Guantanamo Bay',
+    body: 'TThree immigrants who won a restraining order against the federal government to avoid transfer to the Guantanamo Bay Naval Base in Cuba were deported this week on direct flights to Venezuela, according to court documents published Friday.',
+    links: [
+      {
+        href: 'https://apnews.com/article/venezuelans-deported-immigration-crackdown-guantanamo-b12eee8c28b23e63cc35583083a79df0',
+        linkText: 'AP',
+      },
+    ],
+  },
+
   {
     id: 'Patel-FBI',
     categories: ['Fascism', 'Project 2025'],
@@ -41,6 +75,22 @@ const entries = [
   },
 
   {
+    id: 'Vance-AfD',
+    categories: ['Fascism', 'Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-02-14',
+    title: 'JD Vance breaks taboo by meeting with leader of Germany’s far-right party',
+    body: 'US vice-president meets with AfD leader Alice Weidel as Trump administration courts European populist parties',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/feb/14/jd-vance-alice-weidel-meeting-germany-far-right',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
     id: 'DOJ-Resignations',
     categories: ['Resist', 'Project 2025'],
     color: 'green',
@@ -52,6 +102,54 @@ const entries = [
       {
         href: 'https://archive.is/JnWNy',
         linkText: 'NYT (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'Layoffs-HUD',
+    categories: ['Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-14',
+    title: 'HUD employees are bracing for what they hear will be \'drastic\' staff cuts',
+    body: 'Agency officials looked visibly distraught and described these targets as "drastic" and "shocking."',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/02/14/g-s1-49177/hud-employees-are-bracing-for-what-they-hear-will-be-drastic-staff-cuts',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Layoffs-Accelerate',
+    categories: ['Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-14',
+    title: 'Layoffs accelerate at federal agencies with more cuts to come',
+    body: 'This week President Trump signed an executive order directing agencies to prepare for "large-scale" reductions in force.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/02/14/nx-s1-5298144/federal-layoffs-usda-hud-defense-trump',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Iowa-Farmers',
+    categories: ['FAFO', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-14',
+    title: 'Trump spending freeze sticks Iowa farmers with million in bills for conservation work',
+    body: 'About 1,000 farmers in Midwestern states are owed $11 million — roughly $10 million of it in Iowa.',
+    links: [
+      {
+        href: 'https://archive.is/2025.02.14-134450/https://www.desmoinesregister.com/story/money/agriculture/2025/02/14/donald-trump-federal-spending-freeze-iowa-farmers-owed-millions-climate-smart-agriculture/78407310007/',
+        linkText: 'Des Moins Register (via archive.is)',
       },
     ],
   },
@@ -105,6 +203,22 @@ const entries = [
       {
         href: 'https://edition.cnn.com/2025/02/14/climate/nuclear-nnsa-firings-trump/index.html',
         linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'Corporate-America-Sours',
+    categories: ['Fascism', 'Project 2025', 'FAFO'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-14',
+    title: 'Is corporate America already souring on Trump?',
+    body: 'Across the US, businesspeople are warning that this new trade war could drive up costs, disrupt supply chains and hurt profits — and make a whole range of products more expensive for American consumers.',
+    links: [
+      {
+        href: 'https://archive.is/W0oGN',
+        linkText: 'Financial Times (via archive.is)',
       },
     ],
   },
@@ -192,6 +306,23 @@ const entries = [
       },
     ],
   },
+
+  {
+    id: 'Trans-Removed',
+    categories: ['LGBTQ', 'Project 2025'],
+    color: 'red',
+    faicon: 'rainbow',
+    date: '2025-02-13',
+    title: 'U.S. Park Service Strikes Transgender References From Stonewall Website',
+    body: 'The “T” was removed in references to L.G.B.T.Q.+ on the official site for the Greenwich Village monument, which marks a milestone in the fight for gay rights. Later, the Q+ also disappeared.',
+    links: [
+      {
+        href: 'https://archive.is/4ioPz',
+        linkText: 'NYT (via archive.is)',
+      },
+    ],
+  },
+
 
   {
     id: 'Judge-Blocks-Trump-Order',
@@ -401,6 +532,22 @@ const entries = [
   },
 
   {
+    id: 'Church-Proud-Boys',
+    categories: ['Fascism', 'J6', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-02-12',
+    title: 'Black Church Already Selling Proud Boys-Style Merch After Winning Trademark',
+    body: 'Metropolitan African Methodist Episcopal has repurposed the extremist group’s logo to signify \‘Stay Proud, Stay Black\’',
+    links: [
+      {
+        href: 'https://www.rollingstone.com/politics/politics-features/proud-boys-trademark-black-church-shirts-1235265640/',
+        linkText: 'Rolling Stone',
+      },
+    ],
+  },
+
+  {
     id: 'FEMA-Fired',
     categories: ['Fascism', 'Courts'],
     color: 'red',
@@ -523,6 +670,23 @@ const entries = [
   },
 
   {
+    id: 'Judge-Restores',
+    categories: ['Fascism', 'Resist', 'Court', 'Health'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-02-11',
+    title: 'Judge orders restoration of federal health websites',
+    body: 'A federal judge has ordered federal health agencies to restore websites and datasets that were abruptly pulled down beginning in late January, prompting an outcry from medical and public health communities.',
+    links: [
+      {
+        href: 'https://www.npr.org/sections/shots-health-news/2025/02/11/nx-s1-5293387/judge-orders-cdc-fda-hhs-websites-restored',
+        linkText: 'NPR',
+      },
+
+    ],
+  },
+
+  {
     id: 'Trump-Ignores-Judge',
     categories: ['Fascism', 'Courts', 'Project 2025'],
     color: 'red',
@@ -631,6 +795,23 @@ const entries = [
       },
     ],
   },
+
+  {
+    id: 'Blueland',
+    categories: ['Global', 'Fascism'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-02-10',
+    title: 'H.R.1161 - Red, White, and Blueland Act of 2025',
+    body: 'To authorize the President to enter into negotiations to acquire Greenland and to rename Greenland as “Red, White, and Blueland.”',
+    links: [
+      {
+        href: 'https://www.congress.gov/bill/119th-congress/house-bill/1161/text',
+        linkText: 'Congress.gov',
+      },
+    ],
+  },
+
 
   {
     id: 'Trump-Steel-Tarifs',
@@ -881,6 +1062,22 @@ const entries = [
   },
 
   {
+    id: 'Fires-Prosecutors',
+    categories: ['Fascism', 'Courts'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-01-28',
+    title: 'Trump Justice Department says it has fired employees involved in prosecutions of the president',
+    body: 'The Justice Department said that it had fired more than a dozen employees who worked on criminal prosecutions of President Donald Trump, moving rapidly to pursue retribution against lawyers involved in the investigations and signaling an early willingness to take action favorable to the president’s personal interests.',
+    links: [
+      {
+        href: 'https://apnews.com/article/justice-department-special-counsel-trump-046ce32dbad712e72e500c32ecc20f2f',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
     id: 'Democrats-Wont-Fight-Trump',
     categories: ['Tiddlywinks'],
     color: 'red',
@@ -892,6 +1089,59 @@ const entries = [
       {
         href: 'https://www.nbcnews.com/politics/congress/democrats-playbook-trump-tune-noise-focus-economic-issues-rcna189180',
         linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Columbia-Caves',
+    categories: ['Immigration', 'Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-01-27',
+    title: 'Colombia agrees to take deported migrants after Trump tariff showdown',
+    body: 'The White House claimed victory in a showdown with Colombia over accepting flights of deported migrants from the U.S. on Sunday, hours after President Donald Trump threatened steep tariffs on imports and other sanctions on the longtime U.S. partner.',
+    links: [
+      {
+        href: 'https://apnews.com/article/colombia-immigration-deportation-flights-petro-trump-us-67870e41556c5d8791d22ec6767049fd',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Chicago-ICE',
+    categories: ['Immigration', 'Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-01-27',
+    title: 'Top Trump administration officials in Chicago for start of immigration enforcement crackdown',
+    body: 'Immigration and Customs Enforcement said it made 956 arrests nationwide on Sunday and 286 on Saturday.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-deportations-chicago-immigration-arrests-cfb20a3e412443aa2ca6c6ed4d1070d4',
+        linkText: 'AP',
+      },
+
+      {
+        href: 'https://edition.cnn.com/2025/01/27/politics/immigration-raids-federal-agents-uniform/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'Sweeping-Blueprint',
+    categories: ['Immigration', 'Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-01-27',
+    title: 'Trump\'s immigration orders are a blueprint for sweeping policy changes',
+    body: 'From his first moments back in office, President Trump framed the problem of illegal immigration in terms of national security.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/01/27/nx-s1-5276139/trump-immigration-border-orders-blueprint',
+        linkText: 'NPR',
       },
     ],
   },
@@ -930,17 +1180,53 @@ const entries = [
   },
 
   {
+    id: 'Canada-Mexico-Tariffs',
+    categories: ['Global', 'Fascism'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-01-26',
+    title: 'Trump Aides Want to Hit Mexico, Canada With Tariffs Before Talks',
+    body: 'The 25% import levy could go into place as soon as Feb. 1.',
+    links: [
+      {
+        href: 'https://www.wsj.com/world/americas/trump-aides-want-to-hit-mexico-canada-with-tariffs-before-talks-3ff27f14',
+        linkText: 'Wall Street Journal',
+      },
+    ],
+  },
+
+  {
     id: 'Clean_Gaza',
     categories: ['Global', 'Fascism'],
     color: 'red',
     faicon: 'globe',
     date: '2025-01-26',
-    title: 'Trump wants neighbours to take in Palestinians to \'clean out\' Gaza',
+    title: 'Trump wants neighbours (Jordan & Egypt) to take in Palestinians to \'clean out\' Gaza',
     body: 'Describing Gaza as a "demolition site", Trump said: "You\'re talking about probably a million and a half people, and we just clean out that whole thing". He added that the move "could be temporary" or "could be long-term".',
     links: [
       {
         href: 'https://www.bbc.co.uk/news/articles/c07kpjyzgllo',
         linkText: 'BBC',
+      },
+      {
+        href: 'https://www.npr.org/2025/01/26/g-s1-44831/trump-jordan-egypt-accept-more-refugees-just-clean-out-gaza',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Musk-Nazi-NoDoubt',
+    categories: ['Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-01-24',
+    title: 'Elon Musk doesn\’t deserve the benefit of the doubt',
+    body: 'Elon Musk\’s Nazi trolling exposes the collapse of America\’s guardrails against some of history\’s foulest ideas.',
+    links: [
+      {
+        href: 'https://www.vox.com/politics/396535/elon-musk-nazi-salute-trump-inauguration?utm_source=sailthru&utm_medium=email&utm_content=wildfireroundup&utm_campaign=storyroundup&ueid=x&utm_term=All%20newsletter%20subscribers%20%28valid%29',
+        linkText: 'Vox',
       },
     ],
   },
@@ -957,6 +1243,22 @@ const entries = [
       {
         href: 'https://adamkinzinger.substack.com/p/revisiting-january-6th-the-truth',
         linkText: 'Adam Kinzinger',
+      },
+    ],
+  },
+
+  {
+    id: 'Mexico-Refuses-Plane',
+    categories: ['Immigration', 'Resist'],
+    color: 'green',
+    faicon: 'plane',
+    date: '2025-01-24',
+    title: 'Mexico refuses to accept a U.S. deportation flight',
+    body: 'The Mexican government has criticized President Donald Trump\'s unilateral immigration actions, and the landing would have required Mexico\'s assistance.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/immigration/mexico-refuses-accept-us-deportation-flight-rcna189182',
+        linkText: 'NBC',
       },
     ],
   },
@@ -979,7 +1281,7 @@ const entries = [
 
   {
     id: 'AOC_Speech',
-    categories: ['Resist'],
+    categories: ['Resist', 'Fascism', 'Project 2025'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-01-23',
@@ -1010,6 +1312,38 @@ const entries = [
   },
 
   {
+    id: 'Name-Colleagues-DEI',
+    categories: ['Discrimination', 'Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-01-23',
+    title: 'Federal employees are told to name colleagues who work in DEI roles or risk \'adverse consequences\'',
+    body: '“Emails sent to government workers at numerous agencies gave employees 10 days to report if a colleague\'s job relates to diversity, equity and inclusion efforts.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/white-house/federal-workers-told-name-dei-colleagues-risk-adverse-consequences-rcna188871',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Judge-Blocks-Birthright',
+    categories: ['Resist', 'Fascism', 'Project 2025'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-01-23',
+    title: 'A federal judge temporarily blocks Trump\’s executive order redefining birthright citizenship',
+    body: '“The 14th Amendment to the Constitution promises citizenship to those born on U.S. soil, a measure ratified in 1868 to ensure citizenship for former slaves after the Civil War.',
+    links: [
+      {
+        href: 'https://apnews.com/article/birthright-citizenship-donald-trump-lawsuit-immigration-9ac27b234c854a68a9b9f8c0d6cd8a1c',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
     id: 'Pause-Communications',
     categories: ['Health', 'Project 2025', 'Fascism'],
     color: 'red',
@@ -1033,6 +1367,23 @@ const entries = [
   },
 
   {
+    id: 'Revokes-LBJ',
+    categories: ['Discrimination', 'Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'person',
+    date: '2025-01-22',
+    title: 'Trump Revokes Workplace Discrimination Rules Enacted By LBJ In 1965',
+    body: '“The rule Trump nuked, Executive Order 11246, forbade federal contractors from discriminating on the basis of race, color, religion, national origin, sex, sexual orientation or gender identity.',
+    links: [
+      {
+        href: 'https://www.huffingtonpost.co.uk/entry/trump-executive-order-discrimination-lbj_n_67914b7ce4b0835f2b834b9c',
+        linkText: 'Huffington Post',
+      },
+
+  ],
+ },
+
+  {
     id: 'New-J6-Subcommittee',
     categories: ['J6', 'Project 2025', 'Fascism'],
     color: 'red',
@@ -1049,9 +1400,27 @@ const entries = [
     ],
   },
 
+
+  {
+    id: 'Hide-Plain-Sight',
+    categories: ['Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-01-22',
+    title: 'How Trump will hide his anti-democratic politics in plain sight',
+    body: 'The executive orders expose the strategy: claim to be defending democracy as you dismantle it.',
+    links: [
+      {
+        href: 'https://www.vox.com/on-the-right-newsletter/396127/trump-democracy-executive-orders-day-one?',
+        linkText: 'Vox',
+      },
+
+    ],
+  },
+
   {
     id: 'Police-Condemn-Pardons',
-    categories: ['J6', 'Project 2025', 'Fascism'],
+    categories: ['J6', 'Project 2025', 'Fascism', 'FAFO'],
     color: 'green',
     faicon: 'skull',
     date: '2025-01-22',
