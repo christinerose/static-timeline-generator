@@ -19,7 +19,57 @@ const entries = [
   //Global = globe
   //Tiddlywinks = democrat
 
-  //Start with "Lawless" 28 Jan WTF Happened to catch up
+  //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
+
+
+  {
+    id: 'Russia-Ukraine',
+    categories: ['Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-02-17',
+    title: 'Trump stuns Europe with opening Ukraine-Russia gambit',
+    body: 'European leaders are scrambling to respond to President Trump’s first moves to end Russia’s war in Ukraine, shocked to find themselves on the outside of high-stakes talks about the continent’s security and grappling with a potential retreat of U.S. forces from Europe.',
+    links: [
+      {
+        href: 'https://thehill.com/policy/international/5149929-european-leaders-react-trump-russia-ukraine/',
+        linkText: 'The Hill',
+      },
+    ],
+  },
+
+
+  {
+    id: 'DOGE-FtKnox',
+    categories: ['Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-17',
+    title: 'Musk signals DOGE could look into gold at Fort Knox',
+    body: 'Fort Knox would be the latest target of the Department of Government Efficiency (DOGE), which has led President Trump\’s overhaul of government agencies...',
+    links: [
+      {
+        href: 'https://thehill.com/homenews/administration/5149699-elon-musk-doge-fort-knox-gold/',
+        linkText: 'The Hill',
+      },
+    ],
+  },
+
+  {
+    id: 'SpaceX-FAA',
+    categories: ['Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-17',
+    title: 'A team from SpaceX is being brought in to overhaul FAA\’s air traffic control system',
+    body: 'The exact number of workers losing their jobs is unknown, but the union representing them said it was in the “hundreds.”',
+    links: [
+      {
+        href: 'https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage',
+        linkText: 'The Verge',
+      },
+    ],
+  },
 
   {
     id: 'Vance-Munich',
@@ -1060,6 +1110,68 @@ const entries = [
       },
     ],
   },
+
+
+
+  {
+    id: 'Freeze-FederalGrants',
+    categories: ['Fascism', 'Courts', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-01-28',
+    title: 'Federal judge temporarily blocks Trump administration freeze on federal grants and loans',
+    body: 'The order capped the most chaotic day for the U.S. government since Trump returned to office, with uncertainty over a crucial financial lifeline causing panic and confusion among states, schools and organizations that rely on trillions of dollars from Washington.',
+    links: [
+      {
+        href: 'https://apnews.com/article/justice-department-special-counsel-trump-046ce32dbad712e72e500c32ecc20f2f',
+        linkText: 'AP',
+      },
+
+      {
+        href: 'https://www.npr.org/2025/01/28/nx-s1-5277029/trump-memo-halt-funding',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Democrats-Const-Crisis',
+    categories: ['Fascism', 'Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'fire',
+    date: '2025-01-28',
+    title: 'Democrats declare \‘constitutional crisis\’ on funding freeze',
+    body: 'Senate Democrats vowed to fight a White House freeze on federal financial assistance',
+    links: [
+      {
+        href: 'https://www.politico.com/live-updates/2025/01/28/congress/schumer-murray-funding-freeze-00200955',
+        linkText: 'Politico',
+      },
+
+      {
+        href: 'https://archive.is/WKjGY',
+        linkText: 'NYT (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'Medicaid-Interrupted',
+    categories: ['Fascism', 'Project 2025', 'Resist'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-01-28',
+    title: 'Medicaid System That Provides Funding to States Stops Working, Officials Say',
+    body: 'The outage at least temporarily jeopardized payments the federal government makes to state programs, and sowed uncertainty for patients, doctors, hospitals and others.',
+    links: [
+
+      {
+        href: 'https://archive.is/gMKkx',
+        linkText: 'NYT (via archive.is)',
+      },
+    ],
+  },
+  
 
   {
     id: 'Fires-Prosecutors',
