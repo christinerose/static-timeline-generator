@@ -1157,7 +1157,7 @@ const entries = [
 
   {
     id: 'Medicaid-Interrupted',
-    categories: ['Fascism', 'Project 2025', 'Resist'],
+    categories: ['Fascism', 'Project 2025'],
     color: 'red',
     faicon: 'virus',
     date: '2025-01-28',
