@@ -22,7 +22,24 @@ const entries = [
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
 
 
-  {
+ 
+ {
+    id: 'USDA-AvianFlu',
+    categories: ['Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-18',
+    title: 'USDA accidentally fired officials working on bird flu and is now trying to rehire them',
+    body: 'The error is the latest in the Trump administration\'s attempts to rapidly shrink the size of the government by conducting mass firings of federal workers — an effort by Elon Musk and DOGE, which is heavily staffed by people who have no experience in government.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716',
+        linkText: 'NBC',
+      },
+    ],
+  },  
+  
+{
     id: 'Russia-Ukraine',
     categories: ['Global'],
     color: 'red',
