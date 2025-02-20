@@ -22,6 +22,69 @@ const entries = [
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
 
 
+  {
+    id: 'RFK-JR_Mental-Health-Camps',
+    categories: ['Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-02-19',
+    title: 'RFK\'s plan to make America healthy again? Round up people with mental health conditions in camps',
+    body: 'Robert F. Kennedy wants to replace standard psychological care with unpaid labor on "wellness farms."',
+    links: [
+      {
+        href: 'https://www.salon.com/2025/02/19/rfk-s-plan-to-make-america-healthy-again-round-up-people-with-mental-health-conditions-in-camps/',
+        linkText: 'Salon',
+      },
+    ],
+  },  
+
+  {
+    id: 'Trump_Expanded-Power',
+    categories: ['Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-02-19',
+    title: 'Trump claims expanded power over independent agencies',
+    body: 'President Trump on Tuesday signed an executive order to give the president greater power over independent regulatory agencies — government entities Congress set up to be shielded from White House control.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/02/19/nx-s1-5302481/trump-independent-agencies',
+        linkText: 'NPR',
+      },
+    ],
+  },  
+  {
+    id: 'Missing-Analyses_CDC-Layoffs',
+    categories: ['Project 2025', 'Health'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-02-19',
+    title: 'Urgent CDC data and analyses on influenza and bird flu go missing as outbreaks escalate',
+    body: 'The Centers for Disease Control and Prevention (CDC), a critical source of urgent analyses of the flu and other public health threats, has gone quiet in the weeks since President Donald Trump took office..."The American public is at greater risk when we don\’t have information on a timely basis."',
+    links: [
+      {
+        href: 'https://www.fiercebiotech.com/medtech/urgent-cdc-data-and-analyses-influenza-and-bird-flu-go-missing-outbreaks-escalate',
+        linkText: 'Fierce Biotech',
+      },
+    ],
+  },  
+
+  {
+    id: 'Consequences_CDC-Layoffs',
+    categories: ['Project 2025', 'Health'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-02-19',
+    title: 'CDC layoffs strike deeply at its ability to respond to the current flu, norovirus and measles outbreaks and other public health emergencies',
+    body: 'The Trump administration has taken actions to dismantle established public health infrastructure as part of its second-term agenda.',
+    links: [
+      {
+        href: 'https://theconversation.com/cdc-layoffs-strike-deeply-at-its-ability-to-respond-to-the-current-flu-norovirus-and-measles-outbreaks-and-other-public-health-emergencies-248486',
+        linkText: 'The Conversation',
+      },
+    ],
+  },  
+
  
  {
     id: 'USDA-AvianFlu',
@@ -38,6 +101,70 @@ const entries = [
       },
     ],
   },  
+
+  {
+    id: 'Musk_Not_Employee',
+    categories: ['Project 2025', 'Fascism',],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-18',
+    title: 'Musk is just an adviser with no power to make decisions, White House claims',
+    body: 'Legal filing says billionaire Trump aide is not an employee of so-called \‘department of government efficiency\’',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/feb/18/turmp-elon-musk-doge',
+        linkText: 'The Guardian',
+      },
+    ],
+  },  
+
+  {
+    id: 'Musk_Ally',
+    categories: ['Project 2025', 'Fascism',],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-18',
+    title: 'Musk Ally Demands Admin Access to System That Lets Government Text the Public',
+    body: 'Notify.gov contains not just the phone numbers of everyday people but also information about whether they participate in government programs such as Medicaid, which is based on a person\'s financial situation.',
+    links: [
+      {
+        href: 'https://archive.is/VUrqc',
+        linkText: '404 Media (via archive.is)',
+      },
+    ],
+  },  
+
+  {
+    id: 'Judge_Rejects-DOGE',
+    categories: ['Project 2025', 'Fascism', 'Courts'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-18',
+    title: 'Judge Chutkan rejects call from Democratic AGs for temporary restraining order blocking DOGE\’s access to federal data',
+    body: 'A federal judge declined on Tuesday to temporarily block Elon Musk and his Department of Government Efficiency from accessing federal data systems at a slew of executive branch agencies.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/02/18/politics/doge-temporary-restraining-order-chutkan',
+        linkText: 'CNN',
+      },
+    ],
+  },  
+
+  {
+    id: 'ACLU_Demands',
+    categories: ['Immigration', 'Resist', 'Project 2025'],
+    color: 'green',
+    faicon: 'plane',
+    date: '2025-02-17',
+    title: 'ACLU Demands Information on Migrants Transferred to Guantánamo Bay',
+    body: '“The noncitizens being held in Guantánamo are not in criminal custody and, therefore, cannot be subject to punitive conditions, including conditions that reduce their access to counsel. Nor are they detainable by the military under any authorization for the use of force.”',
+    links: [
+      {
+        href: 'https://theowp.org/aclu-demands-information-on-migrants-transferred-to-guantanamo-bay/',
+        linkText: 'The Organization for World Peace (OWP)',
+      },
+    ],
+  },
   
 {
     id: 'Russia-Ukraine',
@@ -73,6 +200,38 @@ const entries = [
   },
 
   {
+    id: 'DOGE-IRS',
+    categories: ['Fascism', 'Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-02-17',
+    title: 'Privacy advocates file lawsuit to stop DOGE from peeking at IRS taxpayer data',
+    body: 'A coalition of watchdog groups and unions has filed a lawsuit seeking to block Elon Musk\'s DOGE team from accessing sensitive taxpayer information at the IRS.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/02/18/nx-s1-5300826/doge-irs-lawsuit-taxpayers-data',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'DOGE-IRS',
+    categories: ['Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-17',
+    title: 'Musk Team Seeks Access to I.R.S. System With Taxpayers\’ Records',
+    body: 'The Internal Revenue Service is preparing to give a team member working with Elon Musk’s so-called Department of Government Efficiency access to sensitive taxpayer data.',
+    links: [
+      {
+        href: 'https://archive.is/cfVRA',
+        linkText: 'NYT (via archive.is)',
+      },
+    ],
+  },
+
+  {
     id: 'SpaceX-FAA',
     categories: ['Fascism', 'Project 2025'],
     color: 'red',
@@ -84,6 +243,86 @@ const entries = [
       {
         href: 'https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage',
         linkText: 'The Verge',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump-Fires-Nuclear-Staff-Oops',
+    categories: ['Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-16',
+    title: 'Trump administration wants to un-fire nuclear safety workers but can\’t figure out how to reach them',
+    body: '“The workers, whose agency oversees the nation\’s nuclear stockpile, had been fired on Thursday and lost access to their federal government email accounts.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/national-security/trump-administration-wants-un-fire-nuclear-safety-workers-cant-figure-rcna192345',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Asks-SCOTUS',
+    categories: ['Fascism', 'Project 2025', 'Courts'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-02-16',
+    title: 'Trump administration asks Supreme Court to greenlight whistleblower office firing',
+    body: 'The Justice Department is asking the Supreme Court to greenlight President Trump\’s firing of the head of a federal whistleblower protection office, marking the new Trump administration\’s first appeal to the high court.',
+    links: [
+      {
+        href: 'https://thehill.com/homenews/5148365-trump-supreme-court-whistleblower-office-firing/',
+        linkText: 'The Hill',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_FDA_Fires',
+    categories: ['Fascism', 'Project 2025',],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-02-16',
+    title: 'Trump cuts reach FDA workers focused on food safety and medical devices',
+    body: 'Positions cut also appeared to focus on agency’s centers for tobacco products, including oversight of e-cigarettes',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/feb/16/trump-administration-fda-layoffs',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Napoleon',
+    categories: ['Fascism', 'Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'fire',
+    date: '2025-02-16',
+    title: 'Trump under fire for likening himself to Napoleon amid attacks on judges',
+    body: 'Critics rounded on Donald Trump on Sunday for likening himself to Napoleon in a “dictatorial” social media post echoing the French emperor\’s assertion that “he who saves his country does not violate any laws”',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/feb/16/trump-napoleon-judges-government-firings',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Save_Country',
+    categories: ['Fascism', 'Project 2025',],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-02-16',
+    title: 'Trump: If it saves the country, it\'s not illegal',
+    body: 'Echoing France\'s Napoleon Bonaparte, U.S. President Donald Trump on Saturday took to social media to signal continued resistance to limits on his executive authority in the face of multiple legal challenges.”',
+    links: [
+      {
+        href: 'https://archive.is/nvW3d',
+        linkText: 'Reuters (via archive.is)',
       },
     ],
   },
@@ -265,7 +504,7 @@ const entries = [
     faicon: 'hammer',
     date: '2025-02-14',
     title: 'Trump officials fired nuclear staff not realizing they oversee the country\’s weapons stockpile',
-    body: '“Congress is freaking out because it appears DOE didn’t really realize NNSA oversees the nuclear stockpile.”',
+    body: '“Congress is freaking out because it appears DOE didn\’t really realize NNSA oversees the nuclear stockpile.”',
     links: [
       {
         href: 'https://edition.cnn.com/2025/02/14/climate/nuclear-nnsa-firings-trump/index.html',
@@ -954,6 +1193,22 @@ const entries = [
       {
         href: 'https://archive.is/ZuAWL',
         linkText: 'NYT (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'ACLU_LGBTQ',
+    categories: ['LGBTQ', 'Resist', 'Project 2025', 'Fascism'],
+    color: 'green',
+    faicon: 'rainbow',
+    date: '2025-02-07',
+    title: 'Transgender and Nonbinary People Take Trump to Court Over Passport Restrictions',
+    body: 'Following an executive order from President Donald Trump barring people from updating the sex designation on their passports, seven people have filed a federal lawsuit challenging the State Department’s refusal to issue passports with accurate sex designations.',
+    links: [
+      {
+        href: 'https://www.aclu.org/press-releases/transgender-and-nonbinary-people-take-trump-to-court-over-passport-restrictions',
+        linkText: 'ACLU',
       },
     ],
   },
