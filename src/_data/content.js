@@ -21,6 +21,86 @@ const entries = [
 
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
 
+  {
+    id: 'End_Of_Science',
+    categories: ['Project 2025', 'Health'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-02-21',
+    title: 'DOGE shut the funding spigot for medical research overnight. Scientists are calling it \‘the end of science\’ in America',
+    body: 'DOGE will cut more than $4 billion from the NIH budget—which equates to 11% of its 2023 budget—impacting major research institutions nationwide.',
+    links: [
+      {
+        href: 'https://archive.is/ADH1F',
+        linkText: 'Fortune (via archive.is)',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Judge_USAID',
+    categories: ['Project 2025', 'Courts'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-02-21',
+    title: 'Judge clears path to pull USAID personnel off the job',
+    body: 'U.S. District Judge Carl Nichols dissolved his order temporarily staving off the purge and declined to provide further relief, contending that the plaintiffs’ initial assertions of harm were “overstated.” ',
+    links: [
+      {
+        href: 'https://thehill.com/regulation/court-battles/5158201-judge-usaid-personnel/',
+        linkText: 'The Hill',
+      },
+    ],
+  },  
+
+  {
+    id: 'Trump_Fires_General',
+    categories: ['Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-21',
+    title: 'RFK\'s plan to make America healthy again? Round up people with mental health conditions in camps',
+    body: 'Trump has fired the Chairman of the Joint Chiefs of Staff CQ Brown, the highest-ranking officer in the country, as part of a major shake-up of top military leadership.',
+    links: [
+      {
+        href: 'https://www.bbc.com/news/articles/clyr2xvn4dpo',
+        linkText: 'BBC',
+      },
+    ],
+  },  
+
+  {
+    id: 'Trump_Fires_General',
+    categories: ['Project 2025', 'Health'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-02-20',
+    title: 'HHS postpones meeting of key CDC vaccine panel, one week after RFK Jr. sworn in',
+    body: 'There was no time frame given for when the meeting would be rescheduled.',
+    links: [
+      {
+        href: 'https://thehill.com/policy/healthcare/5156221-hhs-postpones-meeting-key-cdc-vaccine-panel-rfk-jr/',
+        linkText: 'The Hill',
+      },
+    ],
+  },  
+
+  {
+    id: 'Portland_Protest',
+    categories: ['Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-02-20',
+    title: '\'Concerned about our democracy\': Protesters rally in Northeast Portland against federal mass layoffs, firings',
+    body: 'Hundreds of people gathered outside the Federal Building in Northeast Portland to protest the large-scale federal layoffs and send a message to the Trump administration.',
+    links: [
+      {
+        href: 'https://www.kgw.com/article/news/local/portland-protesters-rally-northeast-portland-federal-layoffs-firings-bonneville-power-administration-forest-service/283-91e1e89a-f46a-4311-88d9-24f9da4d623e',
+        linkText: 'KGW8 Portland',
+      },
+    ],
+  },  
+
 
   {
     id: 'RFK-JR_Mental-Health-Camps',
@@ -81,6 +161,22 @@ const entries = [
       {
         href: 'https://theconversation.com/cdc-layoffs-strike-deeply-at-its-ability-to-respond-to-the-current-flu-norovirus-and-measles-outbreaks-and-other-public-health-emergencies-248486',
         linkText: 'The Conversation',
+      },
+    ],
+  },  
+
+  {
+    id: 'POTUS_Seizes_Power',
+    categories: ['Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-02-18',
+    title: 'POTUS just seized absolute Executive Power. A very dark future for democracy in America.',
+    body: '"For the Federal Government to be truly accountable to the American people, officials who wield vast executive power must be supervised and controlled by the people’s elected President."',
+    links: [
+      {
+        href: 'https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/',
+        linkText: 'White House',
       },
     ],
   },  
@@ -162,6 +258,38 @@ const entries = [
       {
         href: 'https://theowp.org/aclu-demands-information-on-migrants-transferred-to-guantanamo-bay/',
         linkText: 'The Organization for World Peace (OWP)',
+      },
+    ],
+  },
+
+  {
+    id: 'No_Kings',
+    categories: ['Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-02-17',
+    title: 'No kings on Presidents Day’ rings out from protests against Trump and Musk',
+    body: 'Boston protesters, some dressed in Revolutionary War-style clothing, carried signs saying such things as “This is a Coup” and “Cowards Bow to Trump, Patriots Stand Up.” One sign had a depiction of Uncle Sam saying “I Want You to Resist.”',
+    links: [
+      {
+        href: 'https://apnews.com/article/president-donald-trump-protest-c8796556fbf20e796f42167f61c3d942',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'DC_Protest',
+    categories: ['Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-02-17',
+    title: 'Thousands of people protest in Washington, D.C., and across the U.S. on Presidents Day',
+    body: 'On Presidents Day, demonstrators across the U.S. descended upon state capitol buildings and other locations to protest actions by President Donald Trump and billionaire Elon Musk, who are implementing significant changes to the federal government.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/02/17/nx-s1-5299915/dc-protests',
+        linkText: 'NPR',
       },
     ],
   },
