@@ -18,8 +18,89 @@ const entries = [
   //Health = virus
   //Global = globe
   //Tiddlywinks = democrat
+  //FAFO = poo
 
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
+
+  {
+    id: 'Musk_Justify-Job',
+    categories: ['Project 2025', 'Health'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-02-22',
+    title: 'NIH funding freeze stalls applications on $1.5 billion in medical research funds',
+    body: 'The National Institutes of Health has stopped considering new grant applications, delaying decisions about how to spend millions of dollars on research into diseases ranging from heart disease and cancer to Alzheimer\'s and allergies.',
+    links: [
+      {
+        href: 'https://www.npr.org/sections/shots-health-news/2025/02/22/nx-s1-5305276/trump-nih-funding-freeze-medical-research',
+        linkText: 'NPR',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Musk_Justify-Job',
+    categories: ['Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-02-22',
+    title: 'US threatens to shut off Starlink if Ukraine won\'t sign minerals deal',
+    body: 'Starlink internet terminals have played a crucial role in securing communications in the war in Ukraine. Last year, Ukraine said that approximately 42,000 terminals were in operation across the military, hospitals, businesses, and aid organizations.',
+    links: [
+      {
+        href: 'https://kyivindependent.com/us-threatens-to-shut-off-starlink-if-ukraine-wont-sign-minerals-deal-sources-tell-reuters/',
+        linkText: 'Kyiv Independent',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Musk_Justify-Job',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-22',
+    title: 'Elon Musk Says Federal Employees Must Explain Their Work Or Be Fired',
+    body: 'All federal employees will receive an email asking them to explain the work they’ve done over the past week, and employees who fail to respond will be forced to resign.',
+    links: [
+      {
+        href: 'https://www.forbes.com/sites/conormurray/2025/02/22/elon-musk-says-federal-employees-must-explain-their-work-or-be-fired',
+        linkText: 'Forbes',
+      },
+    ],
+  }, 
+
+  {
+    id: 'FAFO_IRS-Layoffs',
+    categories: ['Project 2025', 'FAFO'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-02-21',
+    title: 'Trump voter shocked to get fired by DOGE: It\’s \‘destroying people\’s lives\'',
+    body: 'An IRS worker who voted for President Donald Trump expressed shock after being among the roughly 7,000 people in the department to be laid off by the Department of Government Efficiency.',
+    links: [
+      {
+        href: 'https://www.nj.com/politics/2025/02/trump-voter-shocked-to-get-fired-by-doge-its-destroying-peoples-lives.html',
+        linkText: 'NJ.com',
+      },
+    ],
+  }, 
+
+  {
+    id: 'CDC_Layoffs_Flu',
+    categories: ['Project 2025', 'Health'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-02-21',
+    title: 'CDC layoffs strike deeply at its ability to respond to current flu, norovirus and measles outbreaks',
+    body: 'Beginning with the removal of websites and key public health datasets in January, the Trump administration has taken actions to dismantle established public health infrastructure as part of its second-term agenda.',
+    links: [
+      {
+        href: 'https://www.upi.com/Voices/2025/02/21/centers-for-disease-control-layoffs/9301740085546/',
+        linkText: 'UPI',
+      },
+    ],
+  }, 
 
   {
     id: 'End_Of_Science',
@@ -70,6 +151,22 @@ const entries = [
   },  
 
   {
+    id: 'NISD_Mass-Firings',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-20',
+    title: 'The National Institute of Standards and Technology Braces for Mass Firings',
+    body: 'Approximately 500 NIST staffers, including at least three lab directors, are expected to lose their jobs at the standards agency as part of the ongoing DOGE purge.',
+    links: [
+      {
+        href: 'https://www.wired.com/story/the-national-institute-of-standards-and-technology-braces-for-mass-firings/',
+        linkText: 'Wired',
+      },
+    ],
+  },  
+
+  {
     id: 'Trump_Fires_General',
     categories: ['Project 2025', 'Health'],
     color: 'red',
@@ -101,6 +198,21 @@ const entries = [
     ],
   },  
 
+  {
+    id: 'DOE_Chaos',
+    categories: ['Project 2025', 'Education'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-19',
+    title: 'Department of Education contract cuts spur \‘chaos and confusion\’',
+    body: 'More than a billion dollars of government contracts at the Department of Education has been cut, a move the Trump administration argues gets rid of “woke” wasteful spending as others sound the alarm on educational research and learning outcomes for students',
+    links: [
+      {
+        href: 'https://thehill.com/homenews/education/5151673-department-of-education-cuts-trump-musk-doge-research-funding/',
+        linkText: 'The Hill',
+      },
+    ],
+  },  
 
   {
     id: 'RFK-JR_Mental-Health-Camps',
@@ -166,6 +278,22 @@ const entries = [
   },  
 
   {
+    id: 'FDA_Resigns',
+    categories: ['Project 2025', 'Resist', 'Health'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-02-18',
+    title: 'FDA\’s food safety head resigns over mass layoffs',
+    body: 'Jim Jones, the head of the Food and Drug Administration\’s (FDA) food division, resigned Monday, citing the...“indiscriminate firing” of 89 staff members.',
+    links: [
+      {
+        href: 'https://thehill.com/policy/healthcare/5152084-fdas-food-safety-head-resigns/',
+        linkText: 'The Hill',
+      },
+    ],
+  },  
+
+  {
     id: 'POTUS_Seizes_Power',
     categories: ['Project 2025', 'Fascism'],
     color: 'red',
@@ -180,6 +308,23 @@ const entries = [
       },
     ],
   },  
+
+  {
+    id: 'Prosecutor_Resigns',
+    categories: ['Project 2025', 'Fascism', 'Resist'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-02-18',
+    title: 'Top US prosecutor quits over pressure to investigate Biden climate spending',
+    body: 'Denise Cheung resigns after Trump appointees demand she open grand jury investigation into EPA grants',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/feb/18/denise-cheung-resigns-biden-climate-spending',
+        linkText: 'The Guardian',
+      },
+    ],
+  },  
+
 
  
  {
@@ -1264,6 +1409,22 @@ const entries = [
       {
         href: 'https://www.cnbc.com/2025/02/10/global-winners-and-losers-of-trumps-steel-and-aluminium-tariffs.html',
         linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'DOGE_Exposes_Networks',
+    categories: ['Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-09',
+    title: 'DOGE Exposes Once-Secret Government Networks, Making Cyber-Espionage Easier than Ever',
+    body: 'This exposure jeopardizes both U.S. national security and the privacy of millions of Americans.',
+    links: [
+      {
+        href: 'https://cyberintel.substack.com/p/doge-exposes-once-secret-government?utm_medium=web&triedRedirect=true',
+        linkText: 'Cyberintel',
       },
     ],
   },
