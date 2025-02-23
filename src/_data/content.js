@@ -167,6 +167,22 @@ const entries = [
   },  
 
   {
+    id: 'Judge_Blocks_Abortion',
+    categories: ['Project 2025'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-02-20',
+    title: 'Judge blocks release of Indiana abortion records',
+    body: '“Disclosing abortion patients’ personal health information to anti-abortion vigilantes puts the safety of both patients and doctors at-risk,” said Stephanie Toti, Executive Director of the Lawyering Project.',
+    links: [
+      {
+        href: 'https://www.wthr.com/article/news/special-reports/indiana-abortion/judge-blocks-release-of-indiana-abortion-records-terminated-pregnancy-governor-mike-braun-marion-county-court-restraining-order-tpr-ban-abortion/531-3b6085c4-7263-4cf5-ad8e-87fdd1b84d5d',
+        linkText: 'WTHR',
+      },
+    ],
+  }, 
+
+  {
     id: 'Trump_Fires_General',
     categories: ['Project 2025', 'Health'],
     color: 'red',
