@@ -39,6 +39,27 @@ const entries = [
     ],
   }, 
 
+  {
+    id: 'US_Votes_Russia',
+    categories: ['Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-02-24',
+    title: 'US joins Russia to vote against UN resolution condemning Russia\’s war against Ukraine',
+    body: 'The vote against the Ukrainian and European-backed resolution saw the US at odds with its longtime European allies and instead aligned with the aggressor in the war on the three-year anniversary of Moscow\’s full-scale invasion of Ukraine.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/02/24/politics/us-joins-russia-ukraine-un-vote/index.html',
+        linkText: 'CNN',
+      },
+
+      {
+        href: 'https://apnews.com/article/un-russia-ukraine-war-resolution-trump-zelenskyy-cde221e5850196776525403e788c272c',
+        linkText: 'AP',
+      },
+    ],
+  }, 
+
 
   {
     id: 'Judge_Blocks-OPM',
@@ -130,12 +151,33 @@ const entries = [
     body: 'Trump\'s cost-cutting chief said Saturday that failure to respond to the demand would be taken as a resignation. Agencies like the FBI and Pentagon told workers not to comply.',
     links: [
       {
-        href: 'https://whyy.org/articles/elon-musk-donald-trump-federal-workers-48-hours-explain-work/s',
+        href: 'https://whyy.org/articles/elon-musk-donald-trump-federal-workers-48-hours-explain-work/',
         linkText: 'Whyy PBS',
       },
+
+      {
+        href: 'https://www.cnn.com/2025/02/23/politics/opm-federal-agencies-pushback-doge-musk/index.html',
+        linkText: 'CNN',
+      },
+
     ],
   }, 
 
+  {
+    id: 'USAID_Leave',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-23',
+    title: 'The Trump administration is putting USAID staffers on leave worldwide and firing at least 1,600',
+    body: 'The move was the latest and one of the biggest steps in what President Donald Trump and cost-cutting ally Elon Musk say is their goal of gutting the six-decade-old aid and development agency in a broader campaign to slash the size of the federal government.',
+    links: [
+      {
+        href: 'https://apnews.com/article/usaid-trump-musk-foreign-aid-firings-a3af8ce6ef17878b718c8e2ed3bf98e4',
+        linkText: 'AP',
+      },
+    ],
+  }, 
 
   {
     id: 'NIH-Funding-Freeze',
@@ -184,6 +226,22 @@ const entries = [
       },
     ],
   }, 
+
+  {
+    id: 'Town_Hall_Pushback',
+    categories: ['Project 2025', 'FAFO', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-02-21',
+    title: 'At town halls, Republicans feel the heat from Trump and Musk\'s firing and cutting spree',
+    body: 'Republicans faced sometimes-hostile crowds furious about the sweeping budget cuts and mass firings of federal workers that President Donald Trump and Elon Musk’s Department of Government Efficiency are carrying out.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/congress/town-halls-republicans-feel-heat-trump-musks-firing-cutting-spree-rcna193164',
+        linkText: 'NBC',
+      },
+    ],
+  },
 
   {
     id: 'FAFO_IRS-Layoffs',
@@ -272,7 +330,7 @@ const entries = [
     faicon: 'landmark',
     date: '2025-02-21',
     title: 'Judge clears path to pull USAID personnel off the job',
-    body: 'U.S. District Judge Carl Nichols dissolved his order temporarily staving off the purge and declined to provide further relief, contending that the plaintiffs’ initial assertions of harm were “overstated.” ',
+    body: 'U.S. District Judge Carl Nichols dissolved his order temporarily staving off the purge and declined to provide further relief, contending that the plaintiffs\’ initial assertions of harm were “overstated.” ',
     links: [
       {
         href: 'https://thehill.com/regulation/court-battles/5158201-judge-usaid-personnel/',
@@ -293,6 +351,27 @@ const entries = [
       {
         href: 'https://www.bbc.com/news/articles/clyr2xvn4dpo',
         linkText: 'BBC',
+      },
+
+      {
+        href: 'https://www.nbcnews.com/politics/white-house/trump-fires-chairman-joint-chiefs-staff-cq-brown-rcna193288',
+        linkText: 'NBC',
+      },
+    ],
+  },  
+
+  {
+    id: 'Military_Budget_Cuts',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-20',
+    title: 'Defense secretary orders military to prepare for major budget cuts',
+    body: 'Defense Secretary Pete Hegseth has ordered the military to prepare plans to make drastic budget cuts over the next five years, with an exception for border security, according to a new memo obtained by CNN.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/02/19/politics/hegseth-military-major-budget-cuts/index.html',
+        linkText: 'CNN',
       },
     ],
   },  
@@ -346,6 +425,22 @@ const entries = [
   },  
 
   {
+    id: 'Americans_Worried',
+    categories: ['Project 2025', 'Fasism', 'FAFO'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-02-20',
+    title: 'Americans worried by Trump’s push to expand power',
+    body: 'About half of all Americans feel that Trump has overstepped in using the power of the presidency and the executive branch.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/02/20/politics/cnn-poll-trump-approval/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },  
+
+  {
     id: 'Portland_Protest',
     categories: ['Project 2025', 'Resist'],
     color: 'green',
@@ -391,6 +486,27 @@ const entries = [
         linkText: 'Salon',
       },
     ],
+  }, 
+  
+  {
+    id: 'IRS_Layoffs',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-19',
+    title: 'IRS to lay off 6,700 employees on Thursday, source says',
+    body: 'The workers being cut are probationary employees who have typically been at the agency for less than one to two years, and enjoy fewer protections than longer-term workers. The IRS has a total of roughly 100,000 employees.',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/us/us-irs-start-laying-off-6000-employees-thursday-nyt-reports-2025-02-19/',
+        linkText: 'Reuters',
+      },
+
+      {
+        href: 'https://www.npr.org/2025/02/20/nx-s1-5304220/irs-job-cuts-doge-tax-season',
+        linkText: 'NPR',
+      },
+    ],
   },  
 
   {
@@ -408,6 +524,7 @@ const entries = [
       },
     ],
   },  
+
   {
     id: 'Missing-Analyses_CDC-Layoffs',
     categories: ['Project 2025', 'Health'],
@@ -576,7 +693,7 @@ const entries = [
     color: 'green',
     faicon: 'jedi',
     date: '2025-02-17',
-    title: 'No kings on Presidents Day’ rings out from protests against Trump and Musk',
+    title: 'No kings on Presidents Day\’ rings out from protests against Trump and Musk',
     body: 'Boston protesters, some dressed in Revolutionary War-style clothing, carried signs saying such things as “This is a Coup” and “Cowards Bow to Trump, Patriots Stand Up.” One sign had a depiction of Uncle Sam saying “I Want You to Resist.”',
     links: [
       {
@@ -801,7 +918,7 @@ const entries = [
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-14',
-    title: 'Senate panel advances nomination of Kash Patel, Trump’s pick to lead the FBI',
+    title: 'Senate panel advances nomination of Kash Patel, Trump\’s pick to lead the FBI',
     body: 'Patel has vowed to overhaul the FBI, turn its headquarters into a museum, and punish members of the so-called “deep state.”',
     links: [
       {
@@ -1749,6 +1866,22 @@ const entries = [
       {
         href: 'https://abcnews.go.com/Politics/1st-migrant-flight-heads-guantanamo-bay-carrying-worst/story?id=118456073',
         linkText: 'ABC',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Attack_PBI',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-03',
+    title: 'Trump’s attack on the FBI',
+    body: 'The Trump administration is preparing a remarkable power grab over the federal law enforcement agency.',
+    links: [
+      {
+        href: 'https://www.vox.com/politics/398025/the-logoff-donald-trumps-fbi-purge-law-doj?ueid=ffb28db06ced21f14e4653d5131fad10&utm_source=Sailthru&utm_medium=email&utm_campaign=Logoff%202/20/25&utm_term=The%20Logoff',
+        linkText: 'Vox',
       },
     ],
   },
