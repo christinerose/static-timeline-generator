@@ -21,9 +21,124 @@ const entries = [
   //FAFO = poo
 
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
+  //Create page explaining "Fascism" & archive.is, one for About, one for Resources for articles like "Is this a Coup," etc.
 
   {
-    id: 'Musk_Justify-Job',
+    id: 'Eugenics',
+    categories: ['Project 2025', 'Health', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-02-25',
+    title: 'The US is talking about mass sterilisation',
+    body: 'A senior US government official has called for “lower quality humans” to be sterilised en masse; his country has been here before.',
+    links: [
+      {
+        href: 'https://yorkshirebylines.co.uk/news/world/the-us-is-talking-about-mass-sterilisation-again/',
+        linkText: 'Yorkshire Bylines',
+      },
+    ],
+  }, 
+
+
+  {
+    id: 'Judge_Blocks-OPM',
+    categories: ['Project 2025', 'Courts'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-02-24',
+    title: 'Judge blocks OPM, Education Department from sharing personal info with DOGE',
+    body: '“The continuing, unauthorized disclosure of plaintiffs’ sensitive personal information to DOGE affiliates is irreparable harm that money damages cannot rectify,” U.S. District Judge Deborah Boardman',
+    links: [
+      {
+        href: 'https://archive.is/IJVH3',
+        linkText: 'Politico (via archive.is)',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Viral_Misinformation',
+    categories: ['Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-02-24',
+    title: 'As Meta gets rid of fact-checkers, misinformation is going viral',
+    body: 'Meta is phasing out its third-party fact-checking programs in the U.S. while it reintroduces a bonus program for creators, which pays them for viral content. (i.e., Meta will pay for misinformation)',
+    links: [
+      {
+        href: 'https://techcrunch.com/2025/02/24/as-meta-gets-rid-of-fact-checkers-misinformation-is-going-viral/',
+        linkText: 'Tech Crunch',
+      },
+    ],
+  }, 
+
+  {
+    id: 'AfD_Win-Block',
+    categories: ['Project 2025', 'Global', 'Fascism'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-02-24',
+    title: 'Germany\'s AfD, Left win enough seats to block changes to debt brake',
+    body: ' The far-right Alternative for Germany (AfD) and the Left Party jointly secured one third of seats in the new parliament, enough to block a loosening of Germany\'s debt brake - a mechanism some investors and political parties say stymies economic growth',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/europe/germanys-afd-left-party-can-jointly-block-changes-constitution-2025-02-24/',
+        linkText: 'Reuters',
+      },
+    ],
+  }, 
+
+  {
+    id: 'AfD_Win',
+    categories: ['Project 2025', 'Global', 'Fascism'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-02-24',
+    title: 'Germany\’s election result cements a shift to the right in Europe',
+    body: 'Provisional results confirmed that mainstream conservatives led by Friedrich Merz have won Germany\’s national election, while Alternative for Germany nearly doubled its support, the strongest showing for a far-right party since World War II.',
+    links: [
+      {
+        href: 'https://apnews.com/live/germany-election-updates-parliament',
+        linkText: 'AP',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Musk_Justify-Sue',
+    categories: ['Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-02-24',
+    title: 'Federal workers sue over Elon Musk\’s threat to fire them if they don\’t explain their accomplishments',
+    body: 'Attorneys representing unions, businesses, veterans and conservation organizations filed an updated lawsuit in federal court in California on Monday, arguing Musk had violated the law with his demand.',
+    links: [
+      {
+        href: 'https://www.pbs.org/newshour/politics/federal-workers-sue-over-elon-musks-threat-to-fire-them-if-they-dont-explain-their-accomplishments',
+        linkText: 'PBS',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Musk_Justify-Resist',
+    categories: ['Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-02-24',
+    title: 'Elon Musk said all federal workers must explain last week\’s work. Key federal agencies are refusing to comply.',
+    body: 'Trump\'s cost-cutting chief said Saturday that failure to respond to the demand would be taken as a resignation. Agencies like the FBI and Pentagon told workers not to comply.',
+    links: [
+      {
+        href: 'https://whyy.org/articles/elon-musk-donald-trump-federal-workers-48-hours-explain-work/s',
+        linkText: 'Whyy PBS',
+      },
+    ],
+  }, 
+
+
+  {
+    id: 'NIH-Funding-Freeze',
     categories: ['Project 2025', 'Health'],
     color: 'red',
     faicon: 'virus',
@@ -39,7 +154,7 @@ const entries = [
   }, 
 
   {
-    id: 'Musk_Justify-Job',
+    id: 'Shutoff_Starlink-Ukraine',
     categories: ['Project 2025', 'Global'],
     color: 'red',
     faicon: 'globe',
@@ -101,6 +216,38 @@ const entries = [
       },
     ],
   }, 
+
+  {
+    id: 'LBGTQ-Lawsuit-DEI',
+    categories: ['Project 2025', 'LBGTQ', 'Resist'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-02-21',
+    title: 'LGBTQ+ groups file lawsuit against Trump DEI actions',
+    body: 'In a lawsuit filed on Thursday by Lambda Legal, a civil rights organization focused on LGBTQ+ policies, the nonprofit groups said Trump\’s executive orders should be declared unconstitutional and discriminatory.',
+    links: [
+      {
+        href: 'https://www.wmtw.com/article/lgbtq-groups-file-lawsuit-against-trump-dei-actions/63867763',
+        linkText: 'WMTW',
+      },
+    ],
+  }, 
+
+  {
+    id: 'USDA-Scientists-Ripple',
+    categories: ['Project 2025', 'FAFO'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-02-21',
+    title: 'Experts foresee negative ripple effects in termination of USDA scientists in St. Paul lab',
+    body: '“This was just to make the cuts, and following the precedent that we can always rehire later if we have to, and that\’s just no what\’s going to happen here,” he said. “You\’re losing potentially huge amounts of expertise in this field that\’s just not going to come back.”',
+    links: [
+      {
+        href: 'https://www.mprnews.org/story/2025/02/21/usda-scientists-terminated-from-cereal-disease-lab-in-st-paul',
+        linkText: 'MPR News',
+      },
+    ],
+  },  
 
   {
     id: 'End_Of_Science',
