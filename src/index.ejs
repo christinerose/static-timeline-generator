@@ -24,12 +24,20 @@
               <input type="checkbox" name="filter-shortcut" id="all" checked />
               <label for="all">All</label>
             </li>
-            <% content.filters.forEach(function(filter){ %>
+            <%
+            let counter=1; // includes the All label, above.
+            content.filters.forEach(function(filter){ %>
             <li>
               <input type="checkbox" name="filter" id="<%= filter %>" checked />
               <label for="<%= filter %>"><%- utilities.sentenceCase(filter) %> </label>
             </li>
-            <% }); %>
+            <%
+            if (++counter % 10 == 0) 
+                {
+                %>
+                    </ul><ul>
+                <% }
+            }); %>
           </ul>
         </header>
       </div>
