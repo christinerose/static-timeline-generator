@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <%- include('/head', {head: content.head}) %>
+  </head>
+  <body>
+    <% if (content.header) { %>
+    <header class="page-header">
+      <% if (!utilities.isWrappedInParagraphTags(content.header)) { %>
+      <p>
+        <% } %> <%- content.header %> <% if (!utilities.isWrappedInParagraphTags(content.header)) {
+        %>
+      </p>
+
+      <p><% } %></p>
+    </header>
+
+    <% } %>
+    <section>
+        <div class="static-page"> 
+
+<%- include("_includes/resources.html") %>
+
+        </div>
+    </section>
+    <% if (content.footer) { %>
+    <footer class="page-footer">
+      <% if (!utilities.isWrappedInParagraphTags(content.footer)) { %>
+      <p>
+        <% } %> <%- content.footer %> <% if (!utilities.isWrappedInParagraphTags(content.footer)) {
+        %>
+      </p>
+      <% } %>
+      <p>
+        Built with Molly White's
+        <a href="https://github.com/molly/static-timeline-generator" target="_blank"
+          >static timeline generator</a
+        >.
+      </p>
+    </footer>
+    <% } %>
+
+    <script src="/js/classlist-polyfill.js"></script>
+    <script src="/js/site-js.js"></script>
+  </body>
+</html>
