@@ -25,6 +25,38 @@ const entries = [
 
 
   {
+    id: 'Mass_Layoffs',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-27',
+    title: 'The Trump administration sets the stage for large-scale federal worker layoffs in a new memo',
+    body: 'Thousands of probationary employees have already been fired, and now the Republican administration is turning its attention to career officials with civil service protection.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-elon-musk-federal-workers-layoffs-d295d4bb2cdd5023c27d9cb03754e81b',
+        linkText: 'AP',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Trans_Military',
+    categories: ['Project 2025', 'LGBTQ'],
+    color: 'red',
+    faicon: 'rainbow',
+    date: '2025-02-27',
+    title: 'Transgender troops will be removed from U.S. military, Pentagon says',
+    body: 'The previous Trump administration effectively banned transgender people from joining, but the new memo says currently serving transgender troops will be discharged.',
+    links: [
+      {
+        href: 'https://www.washingtonpost.com/national-security/2025/02/27/transgender-ban-us-service-members-military-pentagon/?ueid=ffb28db06ced21f14e4653d5131fad10&utm_source=Sailthru&utm_medium=email&utm_campaign=Logoff%202/27/25',
+        linkText: 'Washington Post',
+      },
+    ],
+  }, 
+
+  {
     id: 'EU_Military',
     categories: ['Project 2025', 'Global'],
     color: 'red',
@@ -36,6 +68,54 @@ const entries = [
       {
         href: 'https://defence-blog.com/europe-plans-historic-military-buildup/',
         linkText: 'Defence Blog',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Gold_Card',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-26',
+    title: 'Trump says he will offer \‘gold cards\’ for $5 million path to citizenship, replacing investor visas',
+    body: '“They\’ll be wealthy and they\’ll be successful, and they\’ll be spending a lot of money and paying a lot of taxes and employing a lot of people, and we think it\’s going to be extremely successful,” Trump said Tuesday in the Oval Office.',
+    links: [
+      {
+        href: 'https://apnews.com/article/investor-visas-trump-immigration-eb5-gold-cards-cdb943dd1633bc234bb715fa20914e05',
+        linkText: 'AP',
+      },
+    ],
+  }, 
+
+  {
+    id: 'First_Cabinet',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-26',
+    title: 'Trump and Elon Musk dominate his first Cabinet meeting',
+    body: 'While not a member of Trump\’s Cabinet, Musk has been near omnipresent by the president\’s side since he was elected last year.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/trump-administration/trump-elon-musk-dominate-first-cabinet-meeting-rcna193836',
+        linkText: 'NBC',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Budget_Cuts',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-25',
+    title: 'House narrowly adopts budget plan to advance Trump\'s agenda',
+    body: 'The budget measure calls for $4.5 trillion in tax cuts and a goal of $2 trillion in spending cuts. It includes more than $100 billion in new spending on immigration enforcement and the military.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/congress/house-budget-vote-speaker-johnson-trump-agenda-rcna193626',
+        linkText: 'NBC',
       },
     ],
   }, 
@@ -90,7 +170,7 @@ const entries = [
 
   {
     id: 'Gitmo_Mistreatment',
-    categories: ['Project 2025', 'Immigration'. 'Fascism'],
+    categories: ['Project 2025', 'Immigration', 'Fascism'],
     color: 'red',
     faicon: 'plane',
     date: '2025-02-25',
