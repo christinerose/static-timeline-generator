@@ -23,6 +23,23 @@ const entries = [
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
   //Create page explaining "Fascism" & archive.is, one for About, one for Resources for articles like "Is this a Coup," etc.
 
+
+  {
+    id: 'EU_Military',
+    categories: ['Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-02-27',
+    title: 'Europe plans historic military buildup',
+    body: 'The European Union is preparing its most extensive defense initiative since the Cold War, with plans to allocate hundreds of billions of euros to strengthen security across the bloc.',
+    links: [
+      {
+        href: 'https://defence-blog.com/europe-plans-historic-military-buildup/',
+        linkText: 'Defence Blog',
+      },
+    ],
+  }, 
+
   {
     id: 'Eugenics',
     categories: ['Project 2025', 'Health', 'Fascism'],
@@ -35,6 +52,171 @@ const entries = [
       {
         href: 'https://yorkshirebylines.co.uk/news/world/the-us-is-talking-about-mass-sterilisation-again/',
         linkText: 'Yorkshire Bylines',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Processing_Camps',
+    categories: ['Project 2025', 'Fascism', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-02-25',
+    title: 'Trump allies circulate mass deportation plan calling for \‘processing camps\’ and a private citizen \‘army\’',
+    body: 'A group of prominent military contractors has pitched the Trump White House on a proposal to carry out mass deportations through a network of “processing camps” on military bases, a private fleet of 100 planes, and a “small army” of private citizens empowered to make arrests.',
+    links: [
+      {
+        href: 'https://archive.is/1ENg9',
+        linkText: 'Politico (via archive.is)',
+      },
+    ],
+  }, 
+
+  {
+    id: 'WH_Reporters',
+    categories: ['Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-02-25',
+    title: 'White House says it will determine which reporters have access to the president',
+    body: 'Fresh of a legal victory allowing it to ban the Associated Press from White House events, the Trump White House announced on Tuesday that the administration — not an independent group of journalists — will determine which outlets have access to the president as part of a pool allowed into the Oval Office, aboard Air Force One and into other otherwise closed meetings and events.',
+    links: [
+      {
+        href: 'https://archive.is/sp32E',
+        linkText: 'Politico (via archive.is)',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Gitmo_Mistreatment',
+    categories: ['Project 2025', 'Immigration'. 'Fascism'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-02-25',
+    title: 'Invasive frisks, suicide attempts: Three migrants describe Guantánamo detention',
+    body: 'The men said they were denied calls to loved ones, subjected to humiliating searches and left in isolation for prolonged periods.',
+    links: [
+      {
+        href: 'https://archive.is/KV3hr',
+        linkText: 'Washingon Post (via archive.is)',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Judge_Make_Trump_Pay',
+    categories: ['Project 2025', 'Courts', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-02-25',
+    title: 'Judge orders Trump administration to pay bills from foreign aid contractors, comply with earlier ruling',
+    body: 'U.S. District Judge Amir Ali required the State Department and  USAID to restore foreign-assistance funds for contracts and other awards while proceedings continue in a case brought by a group of businesses, nonprofits, and organizations that do foreign aid work.',
+    links: [
+      {
+        href: 'https://www.cbsnews.com/news/judge-usaid-state-department-foreign-assistance-funding-contractors-grants/',
+        linkText: 'CBS',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Can_Mex_Tariffs',
+    categories: ['Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-02-25',
+    title: 'Trump says Canada and Mexico tariffs are \‘going forward\’ with more import taxes to come',
+    body: 'Most economists say the cost of the taxes could largely be borne by consumers, retailers and manufacturers such as auto companies that source globally and rely on raw materials such as steel and aluminum that Trump is already, separately, tariffing at 25%.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-tariffs-macron-canada-mexicoreciprocal-49caafc1240db7e17cfb45e71520dc98',
+        linkText: 'AP',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Seattle_Judge_Blocks',
+    categories: ['Project 2025', 'Courts', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-02-25',
+    title: 'A federal judge in Seattle blocks Trump\’s effort to halt the refugee admissions system',
+    body: 'The ruling came in a lawsuit brought by individual refugees whose efforts to resettle in the U.S. have been halted as well as major refugee aid groups',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-refugee-seattle-ruling-lawsuit-eef485154e2a3f008a01d6790ce0ee06',
+        linkText: 'AP',
+      },
+    ],
+  }, 
+
+  {
+    id: 'DOGE_40',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-25',
+    title: 'Nearly 40% of contracts canceled by Musk\’s DOGE are expected to produce no savings',
+    body: 'Nearly 40% of the federal contracts that President Donald Trump\’s administration claims to have canceled as part of its signature cost-cutting program aren\’t expected to save the government any money, the administration\’s own data shows.',
+    links: [
+      {
+        href: 'https://apnews.com/article/doge-federal-contracts-canceled-musk-trump-cuts-a65976a725412934ad686389889db0df',
+        linkText: 'AP',
+      },
+    ],
+  }, 
+
+  {
+    id: 'DOGE_Quits',
+    categories: ['Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-02-25',
+    title: 'Federal technology staffers resign rather than help Musk and DOGE',
+    body: 'More than 20 civil service employees resigned Tuesday from billionaire Trump adviser Elon Musk\’s Department of Government Efficiency, saying they were refusing to use their technical expertise to “dismantle critical public services.”',
+    links: [
+      {
+        href: 'https://apnews.com/article/doge-elon-musk-federal-government-resignations-usds-6b7e9b7022e6d89d69305e9510f2a43c',
+        linkText: 'AP',
+      },
+
+      {
+        href: 'https://www.npr.org/2025/02/25/nx-s1-5308095/doge-staff-resignations-elon-musk',
+        linkText: 'NPR',
+      },
+    ],
+  }, 
+
+  {
+    id: 'IED_Mexico',
+    categories: ['Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-02-25',
+    title: 'IED kills at least 1 Texas rancher near border with Mexico, officials say',
+    body: 'An improvised explosive device (IED) killed a Texas rancher near the state\’s border with Mexico, Texas Agriculture Commissioner Sid Miller said Tuesday.',
+    links: [
+      {
+        href: 'https://thenationaldesk.com/news/americas-news-now/ied-kills-at-least-one-texas-rancher-near-border-with-mexico-official-says',
+        linkText: 'National New Desk',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Trump_Kiss_Feet',
+    categories: ['Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-02-24',
+    title: 'Fake video of Trump kissing Musk\'s feet displayed at HUD office in Washington',
+    body: 'The video appeared to have been created with the help of artificial intelligence and poked fun at the power dynamic between the two men.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/doge/fake-video-trump-kissing-musks-feet-displayed-hud-office-washington-rcna193503',
+        linkText: 'NBC',
       },
     ],
   }, 
@@ -105,6 +287,22 @@ const entries = [
       {
         href: 'https://www.reuters.com/world/europe/germanys-afd-left-party-can-jointly-block-changes-constitution-2025-02-24/',
         linkText: 'Reuters',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Patel_ATF',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-24',
+    title: 'New FBI Director Kash Patel will also be named acting head of the ATF',
+    body: 'New FBI Director Kash Patel is expected to be named the acting head of the Bureau of Alcohol, Tobacco, Firearms and Explosives...an unusual arrangement that raises questions about the future of the bureau that has long drawn the ire of conservatives.',
+    links: [
+      {
+        href: 'https://www.pressdemocrat.com/article/news/new-fbi-director-kash-patel-will-also-be-named-acting-head-of-the-atf-offi/',
+        linkText: 'Press Democrat',
       },
     ],
   }, 
