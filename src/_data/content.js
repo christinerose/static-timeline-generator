@@ -21,10 +21,7 @@ const entries = [
   //FAFO = poo
 
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
-  //Create page explaining "Fascism" vs. Authoritarianism & archive.is on About, one for Resources for articles like "Is this a Coup," etc. Perhaps summary of P2025, WW3
-  //Not an exhaustive list. Usually only one link although there may be many other sources due to limited time since I'm doing this myself.
-  //Please report any mistakes or suggest articles at professor.rose@gmail.com (or a different email just for this, perhaps Proton?)
-  //Virtually everything has Project 2025... solution? Reserve "Fascism" for the most shocking, note that much of P2025 is also Fascist.
+
 
   {
     id: 'Tariffs_Go',
