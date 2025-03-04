@@ -1,4 +1,6 @@
-const header = '<p>America is Going Just Great<p><p class="subHeader">A timeline of America\'s descent into a fascist hellscape.</p>';
+const header = `<p>America is Going Just Great<p>
+    <p class="subHeader">A timeline of America\'s descent into a fascist hellscape.</p>
+    <div class="nav"><a href="/">[timeline]</a> <a href="/resources/">[resources]</a> <a href="/about/">[about]</a></div>`;
 const footer = 'Compiled by <a href="christineroseauthor.com">Christine Rose</a>';
 const entries = [
 
