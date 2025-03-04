@@ -21,8 +21,210 @@ const entries = [
   //FAFO = poo
 
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
-  //Create page explaining "Fascism" & archive.is, one for About, one for Resources for articles like "Is this a Coup," etc.
+  //Create page explaining "Fascism" vs. Authoritarianism & archive.is on About, one for Resources for articles like "Is this a Coup," etc. Perhaps summary of P2025, WW3
+  //Not an exhaustive list. Usually only one link although there may be many other sources due to limited time since I'm doing this myself.
+  //Please report any mistakes or suggest articles at professor.rose@gmail.com (or a different email just for this, perhaps Proton?)
+  //Virtually everything has Project 2025... solution? Reserve "Fascism" for the most shocking, note that much of P2025 is also Fascist.
 
+
+
+  {
+    id: 'Suspend_Aid_Ukraine',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-04',
+    title: 'US suspends all military aid to Ukraine in wake of Trump-Zelenskyy row',
+    body: 'The Trump administration has suspended delivery of all US military aid to Ukraine, blocking billions in crucial shipments as the White House piles pressure on Ukraine to sue for peace with Vladimir Putin.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/world/2025/mar/04/us-military-aid-ukraine-pause-trump-zelenskyy-updates',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Vance_Bully',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-01',
+    title: 'Vance took the lead attacking Zelensky. Why?',
+    body: 'JD Vance\'s remarkable dressing down of Volodymyr Zelensky in the Oval Office on Friday showed the US vice-president unafraid to take centre stage as an attack dog,',
+    links: [
+      {
+        href: 'https://www.bbc.co.uk/news/articles/cewkg71d8rlo',
+        linkText: 'BBC',
+      },
+    ],
+  },
+
+  {
+    id: 'BBC_Coverage',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-01',
+    title: 'BBC\'s Live Coverage',
+    body: 'Thread of stories in the wake of Trump and Vance\'s verbal attack on Zelenskyy. It shows how this has affected world politics, especially the EU, and could lead to the breakdown of long-standing allies',
+    links: [
+
+      {
+        href: 'https://www.bbc.co.uk/news/live/c981p3dxnent',
+        linkText: 'BBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Temper_Tantrum',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-01',
+    title: 'Trump & Vance Berate Zelenskyy in the Oval Office',
+    body: 'Video of this terrifying, unprecedented incident',
+    links: [
+      {
+        href: 'https://www.youtube.com/watch?v=v_kTNIYsFnQ',
+        linkText: 'YouTube',
+      },
+
+      {
+        href: 'https://www.bbc.co.uk/news/live/c981p3dxnent',
+        linkText: 'BBC :: Thread of stories in the aftermath',
+      },
+    ],
+  },
+
+  {
+    id: 'Power_Grab',
+    categories: ['Project 2025', 'Courts'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-02-27',
+    title: 'Trump\’s biggest power grab just reached the Supreme Court',
+    body: 'Trump’s lawyers just revealed their plan to place him in charge of federal spending.',
+    links: [
+      {
+        href: 'https://www.vox.com/scotus/401838/supreme-court-usaid-impoundment-trump-aids-vaccine',
+        linkText: 'VOX',
+      },
+    ],
+  },
+
+  {
+    id: 'Revolution_Podcast',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-27',
+    title: 'The Trump revolution will be podcasted',
+    body: 'The future of American politics is being hashed out on podcasts.',
+    links: [
+      {
+        href: 'https://www.vox.com/politics/396998/podcast-spotify-youtube-trump-rogan-kelce-politics-news',
+        linkText: 'VOX',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Musk_Verison',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-27',
+    title: 'Elon Musk says upgrade of FAA\’s air traffic control system is failing and SpaceX needs to take over Verizon\’s contract',
+    body: '“The Verizon communication system to air traffic control is breaking down very rapidly,” he said in a post on his social media platform X. “The FAA assessment is single digit months to catastrophic failure, putting air traveler safety at serious risk.”',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/02/27/business/elon-musk-faa-air-traffic-control-failing-spacex/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Unemployment_Increase',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-27',
+    title: 'Number of Americans filing for unemployment benefits rises to 242,000, highest level in 3 months',
+    body: 'The number of Americans filing for jobless benefits rose by 22,000 to 242,000 for the week ending Feb. 22, the Labor Department said Thursday. Analysts projected that 220,000 new applications would be filed.',
+    links: [
+      {
+        href: 'https://apnews.com/article/unemployment-benefits-jobless-claims-layoffs-labor-a4b9beab0c8a16c374ed5492f02a61f6',
+        linkText: 'AP',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Tariffs_Increase',
+    categories: ['Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-02-27',
+    title: 'Trump plans tariffs on Mexico and Canada for Tuesday, while doubling existing 10% tariffs on China',
+    body: 'Trump said illicit drugs such as fentanyl are being smuggled into the United States at “unacceptable levels” and that import taxes would force other countries to crack down on the trafficking',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-tariffs-mexico-canada-71761a2894e13a050717afda4fd8131a',
+        linkText: 'AP',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Stop_Vaccine',
+    categories: ['Project 2025', 'Health'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-02-27',
+    title: 'FDA meeting to choose flu vaccine composition canceled without explanation',
+    body: 'A March meeting of outside advisers to the US Food and Drug Administration to discuss the composition of flu vaccines for this fall\’s flu season has been canceled.',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/02/26/health/news-fda-meeting-to-choose-flu-vaccine-composition-canceled-without-explanation/',
+        linkText: 'CNN',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Cut_USAID',
+    categories: ['Project 2025', 'Courts', 'Global'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-27',
+    title: 'Trump administration says it\’s cutting 90% of USAID foreign aid contracts',
+    body: 'The cuts detailed by the administration would leave few surviving USAID projects for advocates to try to save in what are ongoing court battles with the administration.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-usaid-foreign-aid-cuts-6292f48f8d4025bed0bf5c3e9d623c16',
+        linkText: 'AP',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Judge_DEI',
+    categories: ['Project 2025', 'Courts', 'Discrimination'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-02-27',
+    title: 'Federal judge rules Trump administration can fire career intel officers who had DEI jobs',
+    body: 'A group of CIA and other intelligence officers had sued asking to be reassigned to other positions instead of being fired, but the court rejected their challenge.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/national-security/federal-judge-rules-trump-administration-can-fire-career-intel-officer-rcna194036',
+        linkText: 'NBC',
+      },
+    ],
+  }, 
 
   {
     id: 'Mass_Layoffs',
@@ -68,6 +270,22 @@ const entries = [
       {
         href: 'https://defence-blog.com/europe-plans-historic-military-buildup/',
         linkText: 'Defence Blog',
+      },
+    ],
+  }, 
+
+  {
+    id: 'SCOTUS_Pauses',
+    categories: ['Project 2025', 'Courts'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-26',
+    title: 'Supreme Court temporarily pauses judge\'s order on releasing frozen foreign aid funding',
+    body: 'The Supreme Court on Wednesday night temporarily paused a lower court order that required the Trump administration to release frozen foreign aid funding by midnight.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/justice-department/justice-department-judges-cant-comply-deadline-usaid-funds-rcna193837',
+        linkText: 'NBC',
       },
     ],
   }, 
@@ -1808,7 +2026,7 @@ const entries = [
 
   {
     id: 'Judge-Restores',
-    categories: ['Fascism', 'Resist', 'Court', 'Health'],
+    categories: ['Fascism', 'Resist', 'Courts', 'Health'],
     color: 'green',
     faicon: 'landmark',
     date: '2025-02-11',
