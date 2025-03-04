@@ -26,7 +26,21 @@ const entries = [
   //Please report any mistakes or suggest articles at professor.rose@gmail.com (or a different email just for this, perhaps Proton?)
   //Virtually everything has Project 2025... solution? Reserve "Fascism" for the most shocking, note that much of P2025 is also Fascist.
 
-
+  {
+    id: 'Tariffs_Go',
+    categories: ['Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-04',
+    title: 'Trump says 25% tariffs on Mexican and Canadian imports will start Tuesday, with \‘no room\’ for delay',
+    body: 'Sparks renewed fears of a North American trade war that already showed signs of pushing up inflation and hindering growth.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-tariffs-mexico-canada-b19e004dddb579c373b247037e04424b',
+        linkText: 'AP',
+      },
+    ],
+  },
 
   {
     id: 'Suspend_Aid_Ukraine',
@@ -44,6 +58,125 @@ const entries = [
     ],
   },
 
+
+
+  {
+    id: 'Elon_Sux',
+    categories: ['Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-03',
+    title: 'Elvira, Portland\’s \‘Mistress of the Dark,\’ sends Tesla down the \‘Highway to Hell\’ in viral video',
+    body: '"I don’t want to drive something around that represents a person who is directly trying to take away our freedoms.”"',
+    links: [
+      {
+        href: 'https://www.oregonlive.com/politics/2025/03/elvira-portlands-mistress-of-the-dark-sends-tesla-down-the-highway-to-hell-in-viral-video.html',
+        linkText: 'Oregon Live',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Power_Grab',
+    categories: ['Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-03',
+    title: 'Trump\’s speech to Congress comes as he wields vast power almost daring lawmakers, courts to stop him',
+    body: 'Since his reelection, Trump has blazed across the federal government, dismantling not just norms and traditions but the very government itself.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-speech-congress-musk-zelenskyy-3b7c80f39606911b9f12e732131fe7d1',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'EU_Ukraine',
+    categories: ['Global', 'WW3', 'Resist'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-03',
+    title: 'Europeans embrace Zelensky after he was vilified by Trump',
+    body: 'Europe backs Zelensky while White House increases pressure. The contrast highlights the most damaging split in the Western alliance at least since the Berlin Wall fell and bolstered a sense that the “free world” has been pushed to the brink of fracturing.',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/03/03/politics/zelensky-trump-europe-summit-starmer/index.html',
+        linkText: 'CNN',
+      },
+
+      {
+        href: 'https://www.bbc.co.uk/news/articles/c62k9rr2wgvo',
+        linkText: 'BBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Pentagon_Guts',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-02',
+    title: 'Pentagon guts national security program that harnessed social science',
+    body: 'Dozens of U.S. academics lose grants from Minerva program for studies related to terrorism, drug trafficking, and other threats.',
+    links: [
+      {
+        href: 'https://www.science.org/content/article/pentagon-guts-national-security-program-harnessed-social-science',
+        linkText: 'Science',
+      },
+    ],
+  },
+
+  {
+    id: 'Vance_Flees',
+    categories: ['Resist', 'FAFO'],
+    color: 'green',
+    faicon: 'poop',
+    date: '2025-03-01',
+    title: 'Vance flees to undisclosed location after protesters disrupt vermont ski trip',
+    body: 'Vice-President JD Vance was forced to flee to an undisclosed location after he was greeted by hundreds of protesters in Vermont on Saturday.',
+    links: [
+      {
+        href: 'https://themindshield.com/vance-flees-to-undisclosed-location-after-protesters-disrupt-vermont-ski-trip/',
+        linkText: 'The Mind Shield',
+      },
+    ],
+  },
+
+  {
+    id: 'Russia_Recruits',
+    categories: ['Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-01',
+    title: 'US intel shows Russia and China are attempting to recruit disgruntled federal employees, sources say',
+    body: 'Foreign adversaries including Russia and China have recently directed their intelligence services to ramp up recruiting of US federal employees working in national security, targeting those who have been fired or feel they could be soon.',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/02/28/politics/us-intel-russia-china-attempt-recruit-disgruntled-federal-employees/',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'Border_Troops',
+    categories: ['Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-01',
+    title: 'Pentagon to send 3,000 more troops to the US-Mexico border',
+    body: 'Roughly 3,000 more active-duty troops will deploy to the southern border, expanding a major military operation to curb illegal immigration — a central priority of the Trump administration.',
+    links: [
+      {
+        href: 'https://archive.is/23iYL',
+        linkText: 'Politico (via archive.is)',
+      },
+    ],
+  },
+
   {
     id: 'Vance_Bully',
     categories: ['Project 2025', 'Global', 'WW3'],
@@ -51,7 +184,7 @@ const entries = [
     faicon: 'globe',
     date: '2025-03-01',
     title: 'Vance took the lead attacking Zelensky. Why?',
-    body: 'JD Vance\'s remarkable dressing down of Volodymyr Zelensky in the Oval Office on Friday showed the US vice-president unafraid to take centre stage as an attack dog,',
+    body: 'JD Vance\'s remarkable dressing down of Volodymyr Zelensky in the Oval Office on Friday showed the US vice-president unafraid to take centre stage as an attack dog.',
     links: [
       {
         href: 'https://www.bbc.co.uk/news/articles/cewkg71d8rlo',
@@ -78,11 +211,32 @@ const entries = [
   },
 
   {
+    id: 'New_World_Leader',
+    categories: ['Resist', 'Global', 'WW3'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-02-28',
+    title: '\‘Free world needs a new leader\’: Europe defends Zelenskyy after Trump attack',
+    body: 'France, Germany and Poland all make prompt declarations of support as Europe fears Trump\’s alignment with Putin.',
+    links: [
+      {
+        href: 'https://www.politico.eu/article/volodymyr-zelenskyy-donald-trump-jd-vance-oval-office-white-house-us-ukraine-war-russia/',
+        linkText: 'Politico',
+      },
+
+      {
+        href: 'https://www.bbc.co.uk/news/articles/cn527pz54neo',
+        linkText: 'BBC',
+      },
+    ],
+  },
+
+  {
     id: 'Temper_Tantrum',
     categories: ['Project 2025', 'Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
-    date: '2025-03-01',
+    date: '2025-02-28',
     title: 'Trump & Vance Berate Zelenskyy in the Oval Office',
     body: 'Video of this terrifying, unprecedented incident',
     links: [
@@ -91,9 +245,26 @@ const entries = [
         linkText: 'YouTube',
       },
 
+    ],
+  },
+
+  {
+    id: 'Demote',
+    categories: ['Project 2025', 'Courts'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-28',
+    title: 'Trump\'s top prosecutor in Washington demotes senior leaders',
+    body: 'U.S. Attorney Ed Martin wiped out office leadership, including prosecutors of top Trump advisers and allies, Jan. 6 seditious conspiracy and public corruption.',
+    links: [
       {
-        href: 'https://www.bbc.co.uk/news/live/c981p3dxnent',
-        linkText: 'BBC :: Thread of stories in the aftermath',
+        href: 'https://archive.is/XecUI',
+        linkText: 'Reuters (via archive.is)',
+      },
+
+      {
+        href: 'https://archive.is/G9NHR',
+        linkText: 'Washington Post (via archive.is)',
       },
     ],
   },
@@ -772,8 +943,8 @@ const entries = [
   }, 
 
   {
-    id: 'LBGTQ-Lawsuit-DEI',
-    categories: ['Project 2025', 'LBGTQ', 'Resist'],
+    id: 'LGBTQ-Lawsuit-DEI',
+    categories: ['Project 2025', 'LGBTQ', 'Resist'],
     color: 'green',
     faicon: 'hammer',
     date: '2025-02-21',
@@ -922,11 +1093,11 @@ const entries = [
 
   {
     id: 'Americans_Worried',
-    categories: ['Project 2025', 'Fasism', 'FAFO'],
+    categories: ['Project 2025', 'Fascism', 'FAFO'],
     color: 'red',
     faicon: 'poo',
     date: '2025-02-20',
-    title: 'Americans worried by Trump’s push to expand power',
+    title: 'Americans worried by Trump\’s push to expand power',
     body: 'About half of all Americans feel that Trump has overstepped in using the power of the presidency and the executive branch.',
     links: [
       {
@@ -1452,7 +1623,7 @@ const entries = [
     faicon: 'hammer',
     date: '2025-02-14',
     title: 'Diagram: How the Justice Department Resignations Unfolded',
-    body: 'More than half a dozen government attorneys have resigned since an order by the Trump administration’s Justice Department to drop charges against Mayor Eric Adams of New York City.',
+    body: 'More than half a dozen government attorneys have resigned since an order by the Trump administration\’s Justice Department to drop charges against Mayor Eric Adams of New York City.',
     links: [
       {
         href: 'https://archive.is/JnWNy',
@@ -1515,7 +1686,7 @@ const entries = [
     color: 'red',
     faicon: 'virus',
     date: '2025-02-14',
-    title: 'Vaccine skeptic Robert F. Kennedy Jr. is sworn in as Trump’s health chief after a close Senate vote',
+    title: 'Vaccine skeptic Robert F. Kennedy Jr. is sworn in as Trump\’s health chief after a close Senate vote',
     body: '"Kennedy faced opposition from the left for his decades of espousing conspiracy theories about vaccines and from the right for his past support of abortion rights."',
     links: [
       {
@@ -2372,7 +2543,7 @@ const entries = [
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-03',
-    title: 'Trump’s attack on the FBI',
+    title: 'Trump/’s attack on the FBI',
     body: 'The Trump administration is preparing a remarkable power grab over the federal law enforcement agency.',
     links: [
       {
@@ -2559,8 +2730,24 @@ const entries = [
   },
 
   {
+    id: 'DOJ_Fires',
+    categories: ['Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-01-27',
+    title: 'DOJ fires officials who worked on Jack Smith\’s Trump investigations',
+    body: 'The Justice Department fired more than a dozen officials who worked on the special counsel team that investigated Donald Trump in two separate criminal cases, citing a lack of trust in them.',
+    links: [
+      {
+        href: 'https://archive.is/LGtF6',
+        linkText: 'Washington Post (via archive.is)',
+      },
+    ],
+  },
+
+  {
     id: 'Columbia-Caves',
-    categories: ['Immigration', 'Fascism', 'Project 2025'],
+    categories: ['Immigration', 'Project 2025'],
     color: 'red',
     faicon: 'plane',
     date: '2025-01-27',
