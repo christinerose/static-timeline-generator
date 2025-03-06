@@ -24,6 +24,90 @@ const entries = [
 
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
 
+
+  {
+    id: 'Hamas-Hostage-Threat2',
+    categories: ['Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-05',
+    title: 'Trump issues \'last warning\' to Hamas as US confirms direct hostage talks',
+    body: '"I am sending Israel everything it needs to finish the job, not a single Hamas member will be safe if you don\'t do as I say," Trump said in a lengthy post on his Truth Social platform.',
+    links: [
+      {
+        href: 'https://www.bbc.co.uk/news/articles/c0mwln4p87do',
+        linkText: 'BBC',
+      },
+    ],
+  },
+
+
+  {
+    id: 'Democrats_Tiddlywinks',
+    categories: ['Tiddlywinks'],
+    color: 'red',
+    faicon: 'democrat',
+    date: '2025-03-05',
+    title: 'Democrats are acting sedate and silent during Trump\’s worst excesses',
+    body: 'Trump is getting comfortable in power. And Democrats are nowhere to be seen',
+    links: [
+      {
+        href: 'https://www.theguardian.com/commentisfree/2025/mar/05/democrats-trump-speech-congress',
+        linkText: 'The Guardian (Opinion)',
+      },
+    ],
+  },
+
+
+  {
+    id: 'Press_Mouthpiece',
+    categories: ['Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-05',
+    title: 'Trump is turning the media into a mouthpiece of the regime',
+    body: 'As the White House handpicks members of the press pool, questions for the president amount to fluffy valentines',
+    links: [
+      {
+        href: 'https://www.theguardian.com/commentisfree/2025/mar/05/trump-press-media-zelenskyy',
+        linkText: 'The Guardian (Opinion)',
+      },
+    ],
+  },
+
+  {
+    id: 'US_UK_Shift',
+    categories: ['Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-05',
+    title: '\‘Seismic\’ shift in UK-US relations is not a blip, warns ex-ambassador',
+    body: 'Something seismic has changed in the US-British relationship that will require the UK to look elsewhere for allies and accept that deals such as cooperation over the British nuclear deterrent are now in question.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/politics/2025/mar/05/seismic-shift-in-uk-us-relations-is-not-a-blip-warns-ex-ambassador',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Tariff_War',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-05',
+    title: 'Trump\’s trade war draws swift retaliation with new tariffs from Mexico, Canada and China',
+    body: 'Trump launched a trade war Tuesday against America’s three biggest trading partners, drawing immediate retaliation from Mexico, Canada and China and sending financial markets into a tailspin as the U.S. faced the threat of rekindled inflation and paralyzing uncertainty for business.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-tariffs-canada-mexico-china-643086a6dc7ff716d876b3c83e3255b0',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+
   {
     id: 'SCOTUS_Rejects_Bid',
     categories: ['Resist', 'Project 2025', 'Courts'],
@@ -41,7 +125,7 @@ const entries = [
   },
 
   {
-    id: 'Pause_Info_Ukraine',
+    id: 'Pause_Intel_Ukraine',
     categories: ['Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
@@ -52,6 +136,27 @@ const entries = [
       {
         href: 'https://www.bbc.co.uk/news/articles/cwygxvvrd8do',
         linkText: 'BBC',
+      },
+
+      {
+        href: 'https://www.theguardian.com/world/2025/mar/05/us-stops-sharing-intelligence-on-russia-with-ukraine',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Reinstate_USDA',
+    categories: ['Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-03-05',
+    title: 'Trump ordered to reinstate thousands of agriculture department employees',
+    body: 'An independent federal board has ordered the US Department of Agriculture to temporarily reinstate nearly 6,000 employees who were fired as part of Donald Trump\’s efforts to reduce the size of the federal workforce.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/05/trump-fired-agriculture-workers',
+        linkText: 'The Guardian',
       },
     ],
   },
@@ -73,6 +178,22 @@ const entries = [
   },
 
   {
+    id: 'Highlights_Congress_Speech',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-05',
+    title: 'Highlights from Trump\'s speech to a 2025 joint session of Congress',
+    body: 'Speaking for an hour and 40 minutes, the president highlighted the executive orders he has issued and laid out his vision for how Congress should begin implementing his sweeping legislative agenda.',
+    links: [
+      {
+        href: 'https://www.cbsnews.com/live-updates/trump-2025-speech-joint-address-congress/',
+        linkText: 'CBS',
+      },
+    ],
+  },
+
+  {
     id: 'Democrats_WalkOut',
     categories: ['Resist', 'Project 2025'],
     color: 'green',
@@ -85,21 +206,26 @@ const entries = [
         href: 'https://newrepublic.com/post/192332/democrats-walk-out-trump-speech-congress-frost-crockett',
         linkText: 'The New Republic',
       },
+
+      {
+        href: 'https://wwd.com/fashion-news/fashion-scoops/congress-wearing-pink-clothing-trump-speech-protest-1237022379/',
+        linkText: 'WWD',
+      },
     ],
   },
 
   {
-    id: 'Wear_Pink_Resist',
+    id: 'NPR_FactCheck',
     categories: ['Resist', 'Project 2025'],
     color: 'green',
-    faicon: 'jedi',
-    date: '2025-03-05',
-    title: 'Politicians Wear Pink Clothing and Statement T-shirts in Opposition to President Trump\’s Speech to Congress',
-    body: 'From all-pink attire to T-shirts imprinted with “RESIST,” Democratic politicians used clothing to symbolize their views, during the president\’s address to a joint session of Congress.',
+    faicon: 'hammer',
+    date: '2025-03-04',
+    title: 'Read NPR\'s annotated fact check of President Trump\'s address to Congress',
+    body: 'Reporters from across NPR\'s newsroom fact-checked the address and offered context as the speech unfolded.',
     links: [
       {
-        href: 'https://wwd.com/fashion-news/fashion-scoops/congress-wearing-pink-clothing-trump-speech-protest-1237022379/',
-        linkText: 'WWD',
+        href: 'https://www.npr.org/2025/03/04/g-s1-50488/trump-congress-joint-address-fact-check',
+        linkText: 'NPR',
       },
     ],
   },
@@ -121,6 +247,50 @@ const entries = [
     ],
   },
 
+
+  {
+    id: 'Trump_Speech',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-04',
+    title: 'Trump vows to press ahead on reshaping America in speech to Congress as Democrats register dissent',
+    body: 'Trump\’s prime-time speech Tuesday was the latest marker in his takeover of the nation\’s capital.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-speech-congress-immigration-tariffs-guests-93f6107ede260854f90c65c4bde60de8',
+        linkText: 'AP',
+      },
+
+      {
+        href: 'https://edition.cnn.com/politics/live-news/trump-congress-address-03-04-25/index.html',
+        linkText: 'CNN',
+      },
+
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/05/trump-turns-congress-speech-into-a-sordid-campaign-rally-igniting-a-democrat-fightback',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+
+  {
+    id: 'Red_States_Hit',
+    categories: ['Project 2025', 'FAFO'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-03-04',
+    title: 'Federal layoffs hit the deep-red, rural US west: \‘Our public lands are under threat\’',
+    body: 'As layoffs under Trump bleed out, workers in the Mountain West fear devastating consequences for their communities',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/04/trump-doge-federal-layoffs-national-parks',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
   {
     id: 'Tariffs_Go',
     categories: ['Project 2025', 'Global'],
@@ -138,6 +308,56 @@ const entries = [
   },
 
   {
+    id: 'Tariffs_FAFO',
+    categories: ['FAFO'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-03-04',
+    title: 'Here\'s how Trump\'s tariffs could cost you and your wallet',
+    body: 'Every day, many people in the U.S. eat fruit grown in Mexico, use phones made in China and live in homes built from lumber from Canada.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/02/05/nx-s1-5284991/trump-tariffs-higher-prices-inflation-mexico-canada-china',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Fentanyl_Pretext',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-04',
+    title: 'Canada and China say the fentanyl crisis is only a \'pretext\' for Trump\'s new tariffs',
+    body: 'Both countries called the link between fentanyl smuggling and trade barriers unjustified and announced plans to retaliate.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/03/04/nx-s1-5317494/tariffs-fentanyl-canada-mexico-trump',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+
+  {
+    id: 'Anger_at_Vance',
+    categories: ['Global', 'Resist'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-04',
+    title: 'Anger over Vance \'random country\' peacekeeping remark',
+    body: 'The US vice-president has sparked a row with his comments about a potential peacekeeping force in Ukraine.',
+    links: [
+      {
+        href: 'https://www.bbc.co.uk/news/articles/czx7w7q7qzro',
+        linkText: 'BBC',
+      },
+    ],
+  },
+
+
+  {
     id: 'Suspend_Aid_Ukraine',
     categories: ['Project 2025', 'Global', 'WW3'],
     color: 'red',
@@ -150,10 +370,29 @@ const entries = [
         href: 'https://www.theguardian.com/world/2025/mar/04/us-military-aid-ukraine-pause-trump-zelenskyy-updates',
         linkText: 'The Guardian',
       },
+      {
+        href: 'https://apnews.com/article/trump-zelenskyy-russia-ukraine-a15a459c9a3a393d040478ebbe250a9e',
+        linkText: 'AP',
+      },
+
     ],
   },
 
-
+  {
+    id: 'Iowa_Ban',
+    categories: ['Health', 'Project 2025'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-03-03',
+    title: 'Bill banning mRNA vaccines in Iowa passes subcommittee',
+    body: '"A bill banning gene-based vaccines, like some forms of the COVID-19 vaccine, received approval from a Senate subcommittee Monday.',
+    links: [
+      {
+        href: 'https://iowacapitaldispatch.com/2025/03/03/bill-banning-mrna-vaccines-in-iowa-passes-subcommittee/',
+        linkText: 'Iowa Capital Dispatch',
+      },
+    ],
+  },
 
   {
     id: 'Elon_Sux',
@@ -162,7 +401,7 @@ const entries = [
     faicon: 'jedi',
     date: '2025-03-03',
     title: 'Elvira, Portland\’s \‘Mistress of the Dark,\’ sends Tesla down the \‘Highway to Hell\’ in viral video',
-    body: '"I don’t want to drive something around that represents a person who is directly trying to take away our freedoms.”"',
+    body: '"I don’t want to drive something around that represents a person who is directly trying to take away our freedoms."',
     links: [
       {
         href: 'https://www.oregonlive.com/politics/2025/03/elvira-portlands-mistress-of-the-dark-sends-tesla-down-the-highway-to-hell-in-viral-video.html',
@@ -228,7 +467,7 @@ const entries = [
     id: 'Vance_Flees',
     categories: ['Resist', 'FAFO'],
     color: 'green',
-    faicon: 'poop',
+    faicon: 'poo',
     date: '2025-03-01',
     title: 'Vance flees to undisclosed location after protesters disrupt vermont ski trip',
     body: 'Vice-President JD Vance was forced to flee to an undisclosed location after he was greeted by hundreds of protesters in Vermont on Saturday.',
@@ -2377,7 +2616,7 @@ const entries = [
 
   {
     id: 'Hamas-Hostage-Threat',
-    categories: ['Global', 'Fascism'],
+    categories: ['Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-10',
@@ -2398,11 +2637,11 @@ const entries = [
 
   {
     id: 'Jordan-Egypt-Threat',
-    categories: ['Global', 'Fascism'],
+    categories: ['Global'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-10',
-    title: 'Trump May Cut Aid to Jordan and Egypt if They Don’t Take Gazans',
+    title: 'Trump May Cut Aid to Jordan and Egypt if They Don\’t Take Gazans',
     body: 'The president turned up the pressure on the two nations to agree to his proposal for them to house the Palestinian population of Gaza and said the Palestinians would not have the right to return to the territory.',
     links: [
       {
@@ -2452,7 +2691,7 @@ const entries = [
 
   {
     id: 'Trump-Steel-Tarifs',
-    categories: ['Fascism', 'Global'],
+    categories: ['Project 2025', 'Global'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-10',
