@@ -24,6 +24,102 @@ const entries = [
 
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
 
+  {
+    id: 'SCOTUS_Rejects_Bid',
+    categories: ['Resist', 'Project 2025', 'Courts'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-05',
+    title: 'US top court rejects Trump bid to withhold $2bn in foreign aid',
+    body: 'SCOTUS has rejected a request by the Trump administration to withhold nearly $2bn (£1.6bn) in payments to foreign aid organisations for work they have already performed for the government.',
+    links: [
+      {
+        href: 'https://www.bbc.co.uk/news/articles/c5y071kxwn8o',
+        linkText: 'BBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Pause_Info_Ukraine',
+    categories: ['Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-05',
+    title: 'US pauses intelligence sharing with Ukraine',
+    body: 'The future of US support for Ukraine is being pushed further into doubt, with National Security Adviser Mike Waltz confirming on Wednesday that the US has paused intelligence sharing with Ukraine.',
+    links: [
+      {
+        href: 'https://www.bbc.co.uk/news/articles/cwygxvvrd8do',
+        linkText: 'BBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Takeaways_Congress_Speech',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-05',
+    title: 'Six takeaways from Trump\'s big speech',
+    body: 'US President Donald Trump declared "the American Dream is unstoppable" as he addressed a raucous joint session of Congress for the first time since he returned to power.',
+    links: [
+      {
+        href: 'https://www.bbc.co.uk/news/articles/c981wj6n9l2o',
+        linkText: 'BBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Democrats_WalkOut',
+    categories: ['Resist', 'Project 2025'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-05',
+    title: 'The Democrats Who Walked Out in Middle of Trump\’s Speech to Congress',
+    body: 'Several Democratic members of Congress showed off T-shirts emblazoned with messages as they walked out during Donald Trump\’s speech.',
+    links: [
+      {
+        href: 'https://newrepublic.com/post/192332/democrats-walk-out-trump-speech-congress-frost-crockett',
+        linkText: 'The New Republic',
+      },
+    ],
+  },
+
+  {
+    id: 'Wear_Pink_Resist',
+    categories: ['Resist', 'Project 2025'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-05',
+    title: 'Politicians Wear Pink Clothing and Statement T-shirts in Opposition to President Trump\’s Speech to Congress',
+    body: 'From all-pink attire to T-shirts imprinted with “RESIST,” Democratic politicians used clothing to symbolize their views, during the president\’s address to a joint session of Congress.',
+    links: [
+      {
+        href: 'https://wwd.com/fashion-news/fashion-scoops/congress-wearing-pink-clothing-trump-speech-protest-1237022379/',
+        linkText: 'WWD',
+      },
+    ],
+  },
+
+
+  {
+    id: 'Al_Green_Removed',
+    categories: ['Resist', 'Project 2025'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-04',
+    title: 'Starting with Rep. Al Green, Democrats protest against Trump\'s speech to Congress',
+    body: 'Green stood up and began yelling at Trump after the president referenced his 2024 election win and claimed he had been given a mandate from the American people.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/03/04/nx-s1-5318102/trump-joint-session-al-green-protest',
+        linkText: 'NPR',
+      },
+    ],
+  },
 
   {
     id: 'Tariffs_Go',
@@ -188,6 +284,22 @@ const entries = [
       {
         href: 'https://www.bbc.co.uk/news/articles/cewkg71d8rlo',
         linkText: 'BBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Town_Hall_Pushback2',
+    categories: ['Project 2025', 'Tiddlywinks', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-01',
+    title: 'Democratic activists fueled anti-Trump protests at GOP town halls but also rage at their own party',
+    body: 'Democratic activists have turned their anger toward elected officials in their own party, who they believe are not fighting the Republican president and billionaire adviser Elon Musk with the urgency, aggression or creativity that the moment deserves.',
+    links: [
+      {
+        href: 'https://apnews.com/article/democrats-trump-grassroots-constitutional-crisis-bd53cc6ec73f654816c5f4c7bce5fd88',
+        linkText: 'AP',
       },
     ],
   },
@@ -900,7 +1012,7 @@ const entries = [
     faicon: 'jedi',
     date: '2025-02-21',
     title: 'At town halls, Republicans feel the heat from Trump and Musk\'s firing and cutting spree',
-    body: 'Republicans faced sometimes-hostile crowds furious about the sweeping budget cuts and mass firings of federal workers that President Donald Trump and Elon Musk’s Department of Government Efficiency are carrying out.',
+    body: 'Republicans faced sometimes-hostile crowds furious about the sweeping budget cuts and mass firings of federal workers that President Donald Trump and Elon Musk\’s Department of Government Efficiency are carrying out.',
     links: [
       {
         href: 'https://www.nbcnews.com/politics/congress/town-halls-republicans-feel-heat-trump-musks-firing-cutting-spree-rcna193164',
