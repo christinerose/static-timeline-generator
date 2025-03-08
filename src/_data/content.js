@@ -25,6 +25,129 @@ const entries = [
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
 
   {
+    id: 'Pushback_DOGE',
+    categories: ['Project 2025'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-03-08',
+    title: 'Random acts of protest: How federal workers are quietly pushing back on DOGE',
+    body: 'In response to a host of wide-ranging orders from President Donald Trump, Elon Musk, and the White House\'s DOGE office, they\'re displaying pride flags, flaunting their pronouns, and sending snarky emails. As one worker said, it\'s all about "malicious compliance."',
+    links: [
+      {
+        href: 'https://archive.is/7zZA5',
+        linkText: 'Business Insider (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'Not_Elon_Fault',
+    categories: ['Project 2025', 'WW3', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-08',
+    title: 'Ukraine-Russia war latest: Zelensky says Kyiv \‘fully committed\’ to peace talks as 14 killed in missile strike',
+    body: 'Donald Trump said Russia\’s strikes on Ukraine were “what anybody would do” hours before Moscow killed at least 14 Ukrainians and wounded 37 more in it\’s latest aerial assault',
+    links: [
+      {
+        href: 'https://www.independent.co.uk/news/world/europe/ukraine-russia-war-trump-putin-zelensky-latest-updates-news-today-b2711396.html',
+        linkText: 'The Independent',
+      },
+    ],
+  },
+
+  {
+    id: 'Oregon_Tesla',
+    categories: ['Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-03-07',
+    title: 'Violence at several Oregon Tesla Dealerships',
+    body: 'Several people are lashing out against Teslas and their owners to send a message to Elon Musk and DOGE.',
+    links: [
+      {
+        href: 'https://abcnews.go.com/US/wireStory/oregon-police-investigate-nighttime-gunshots-shattered-windows-tesla-119533344',
+        linkText: 'ABC',
+      },
+
+      {
+        href: 'https://www.oregonlive.com/crime/2025/03/tens-of-thousands-in-damage-in-overnight-shooting-at-tigard-tesla-dealership-police-say.html',
+        linkText: 'Oregon Live',
+      },
+
+      {
+        href: 'https://www.teslarati.com/tesla-salem-site-attacked-molotov-cocktails/',
+        linkText: 'Teslarati',
+      },
+    ],
+  },
+
+  {
+    id: 'Baltimore_Tesla',
+    categories: ['Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-03-07',
+    title: 'Tesla contract with Baltimore paused after city \‘decided to go in a different direction\’',
+    body: 'Last Summer, Tesla landed a $5 million contract with the City of Baltimore for a fleet of electric vehicles for the local government. However, Mayor Brandon Scott decided to pause that investment in September after the City “decided to go in a different direction.”',
+    links: [
+      {
+        href: 'https://www.teslarati.com/tesla-contract-baltimore-paused-after-city-decided-to-go-in-a-different-direction/',
+        linkText: 'Teslarati',
+      },
+    ],
+  },
+
+  {
+    id: '5-Things_Risk',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-07',
+    title: 'Musk\’s \‘5 things\’ email mandate a \‘nightmare\’ risk, cyber officials say',
+    body: 'TThe Trump administration’s requirement that federal workers email summaries of their weekly accomplishments poses significant risks to the national security apparatus.',
+    links: [
+      {
+        href: 'https://www.washingtonpost.com/national-security/2025/03/07/doge-emails-cyber-command-intel/',
+        linkText: 'Washington Post',
+      },
+    ],
+  },
+
+  {
+    id: 'NSA_TSA',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-07',
+    title: 'Homeland Security ends collective bargaining agreement with TSA staffers',
+    body: 'The department, in a statement announcing the termination, criticized the union whose staffers are responsible for keeping weapons off of airplanes and protecting air travel.',
+    links: [
+      {
+        href: 'https://abcnews.go.com/US/wireStory/homeland-security-ends-collective-bargaining-agreement-tsa-staffers-119554443',
+        linkText: 'ABC',
+      },
+    ],
+  },
+
+  {
+    id: 'Enola-Gay',
+    categories: ['Project 2025', 'LGBTQ', 'Discrimination'],
+    color: 'red',
+    faicon: 'rainbow',
+    date: '2025-03-07',
+    title: 'Military to Remove \'Enola Gay\' Photos for Violating DEI Rules',
+    body: 'Defense Secretary Pete Hegseth said: "DEI is dead. We are returning the focus of the military to merit and mission readiness."',
+    links: [
+      {
+        href: 'https://www.newsweek.com/military-remove-enola-gay-photos-dei-rules-2041029',
+        linkText: 'Newsweek',
+      },
+    ],
+  },
+
+
+  {
     id: 'Not_Elon_Fault',
     categories: ['Project 2025'],
     color: 'red',
@@ -41,6 +164,54 @@ const entries = [
   },
 
   {
+    id: 'AI_Revoke_Visas',
+    categories: ['Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-06',
+    title: 'State Dept. to use AI to revoke visas of foreign students who appear "pro-Hamas"',
+    body: 'Secretary of State Marco Rubio is launching an AI-fueled "Catch and Revoke" effort to cancel the visas of foreign nationals who appear to support Hamas or other designated terror groups, senior State Department officials tell Axios.',
+    links: [
+      {
+        href: 'https://archive.is/kGvhD',
+        linkText: 'Axios (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'Bomb_Zelensky_Town',
+    categories: ['Project 2025', 'WW3', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-06',
+    title: 'Missile Strikes Hotel in Zelensky\’s Hometown in Ukraine',
+    body: 'At least four people were killed in a Russian attack, Ukraine said, amid concerns about air defenses after the U.S. said it was suspending military and intelligence aid.',
+    links: [
+      {
+        href: 'https://archive.is/ft4qN',
+        linkText: 'NYTimes (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Worse_Russia-Ukraine',
+    categories: ['Project 2025', 'WW3', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-06',
+    title: 'Will Trump\'s pause on U.S. intel and weapons for Ukraine bring Zelenskyy and Putin closer to peace, or further away?',
+    body: 'The CIA chief confirmed Wednesday that the Trump administration had paused not only the flow of military hardware and financial support to Ukraine, but also vital intelligence gathering that has helped Kyiv anticipate and block incoming missile and drone attacks and effectively target Russia\'s invading forces.',
+    links: [
+      {
+        href: 'https://www.cbsnews.com/news/ukraine-russia-war-trump-us-intel-weapons-pause-zelenskyy-putin-peace/',
+        linkText: 'CBS',
+      },
+    ],
+  },
+
+  {
     id: 'Democrats_NoPlan',
     categories: ['Project 2025', 'Tiddlywinks'],
     color: 'red',
@@ -52,6 +223,38 @@ const entries = [
       {
         href: 'https://www.politico.com/news/2025/03/06/poll-democrats-trump-disarray-00215291',
         linkText: 'Politico',
+      },
+    ],
+  },
+
+  {
+    id: 'Stop_Share_Air-Quality',
+    categories: ['Project 2025', 'Climate'],
+    color: 'red',
+    faicon: 'radiation',
+    date: '2025-03-06',
+    title: 'Scientists raise concerns as the US stops sharing air quality data from embassies worldwide',
+    body: 'The U.S. government will stop sharing air quality data gathered from its embassies and consulates, worrying local scientists and experts who say the effort was vital to monitor global air quality and improve public health.',
+    links: [
+      {
+        href: 'https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'NIH_Trans',
+    categories: ['Project 2025', 'LBGTQ'],
+    color: 'red',
+    faicon: 'rainbow',
+    date: '2025-03-06',
+    title: 'New NIH grant terminations target transgender studies—even in mice',
+    body: 'Science has identified more than two dozen halted grants amid Trump\’s transgender crackdown, right as NIH suspends its own researchers who worked on topic',
+    links: [
+      {
+        href: 'https://archive.is/GEpHm',
+        linkText: 'Science Insider (via archive.is)',
       },
     ],
   },
@@ -106,12 +309,12 @@ const entries = [
 
   {
     id: 'Trump_Caves',
-    categories: ['Global', 'Project 2025', 'Resist'],
+    categories: ['Global', 'Project 2025'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-06',
-    title: 'Trump grants monthlong tariff reprieve to Mexico',
-    body: 'Mexico will be granted a monthlong reprieve on tariffs on goods that fall under an existing free-trade agreement with the United States',
+    title: 'Trump grants month-long tariff reprieve to Mexico',
+    body: 'Mexico will be granted a month-long reprieve on tariffs on goods that fall under an existing free-trade agreement with the United States',
     links: [
       {
         href: 'https://archive.is/tN8oG',
@@ -202,6 +405,22 @@ const entries = [
       {
         href: 'https://archive.is/2fasd',
         linkText: 'Washington Post (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'Sierra-Club',
+    categories: ['Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-03-05',
+    title: 'Sierra Club Files Joint Lawsuit Against DOGE Over Unjustified Mass Firings of Parks Staff',
+    body: 'DOGE\’s actions harm the American public\’s ability to safely enjoy our public lands, which includes the Sierra Club\’s millions of members and supporters.',
+    links: [
+      {
+        href: 'https://www.sierraclub.org/press-releases/2025/03/sierra-club-files-joint-lawsuit-against-doge-over-unjustified-mass-firings',
+        linkText: 'Sierra Club',
       },
     ],
   },
@@ -456,6 +675,22 @@ const entries = [
   },
 
 
+{
+    id: 'USA_NATO',
+    categories: ['Project 2025', 'WW3', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-04',
+    title: 'U.S. NATO Membership In Question As Power Players Weigh Options',
+    body: 'The prospect of the U.S. leaving the North Atlantic Treaty Organization (NATO) is once again being floated by some of the nation\’s most powerful individuals.',
+    links: [
+      {
+        href: 'https://dallasexpress.com/national/u-s-senator-musk-discuss-american-nato-withdrawal/',
+        linkText: 'The Dallas Express',
+      },
+    ],
+  },
+
   {
     id: 'Red_States_Hit',
     categories: ['Project 2025', 'FAFO'],
@@ -645,6 +880,22 @@ const entries = [
   },
 
   {
+    id: 'DOGE_Login',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-02',
+    title: 'DOGE Deletes Agency Behind Login.gov, IRS Direct File, Other Tech Projects',
+    body: 'The General Services Administration (GSA) has axed a technology unit that developed key public-facing IT services like Login.gov, the central login system for key government services like Medicare, Medicaid, and Social Security.',
+    links: [
+      {
+        href: 'https://uk.pcmag.com/news/156910/doge-deletes-agency-behind-logingov-irs-direct-file-other-tech-projects',
+        linkText: 'PC Mag',
+      },
+    ],
+  },
+
+  {
     id: 'Vance_Flees',
     categories: ['Resist', 'FAFO'],
     color: 'green',
@@ -775,6 +1026,28 @@ const entries = [
         href: 'https://www.bbc.co.uk/news/articles/cn527pz54neo',
         linkText: 'BBC',
       },
+    ],
+  },
+
+  {
+    id: 'Who_DOGE',
+    categories: ['Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-02-28',
+    title: 'The People Carrying Out Musk\’s Plans at DOGE',
+    body: 'The New York Times identified 50 people within the so-called Department of Government Efficiency, a group formed by Elon Musk that in a short few weeks has radically upended federal agencies. Few members have formal Washington experience. Many are software engineers. All seem to have a clear mandate: Shrink and disrupt the federal government.',
+    links: [
+      {
+        href: 'https://archive.is/2025.03.02-144238/https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html',
+        linkText: 'NYTime (via archive.is)',
+      },
+
+      {
+        href: 'https://bsky.app/profile/esqueer.net/post/3ljpyyjzfis2l',
+        linkText: 'DOGE Employee email addressed released on BlueSky (6 March)',
+      },
+
     ],
   },
 
@@ -1266,7 +1539,7 @@ const entries = [
     faicon: 'landmark',
     date: '2025-02-24',
     title: 'Judge blocks OPM, Education Department from sharing personal info with DOGE',
-    body: '“The continuing, unauthorized disclosure of plaintiffs’ sensitive personal information to DOGE affiliates is irreparable harm that money damages cannot rectify,” U.S. District Judge Deborah Boardman',
+    body: '“The continuing, unauthorized disclosure of plaintiffs\’ sensitive personal information to DOGE affiliates is irreparable harm that money damages cannot rectify,” U.S. District Judge Deborah Boardman',
     links: [
       {
         href: 'https://archive.is/IJVH3',
