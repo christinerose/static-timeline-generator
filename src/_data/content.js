@@ -24,6 +24,187 @@ const entries = [
 
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
 
+  {
+    id: 'Not_Elon_Fault',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-07',
+    title: 'Elon Musk tells Republican lawmakers he\’s not to blame for federal firings',
+    body: 'It\’s a remarkable shift of emphasis away from the chainsaw-wielding tech entrepreneur whose vast power has made him an admired, revered and deeply feared figure in the second Trump administration.',
+    links: [
+      {
+        href: 'https://apnews.com/article/musk-doge-trump-blame-federal-workers-republicans-2945026366f42b0879087f2e7d4b9d71',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Democrats_NoPlan',
+    categories: ['Project 2025', 'Tiddlywinks'],
+    color: 'red',
+    faicon: 'democrat',
+    date: '2025-03-06',
+    title: 'Insider poll: The Democratic Party has \‘lost its way\’',
+    body: 'Voters still have a sour view of Democrats six weeks after President Donald Trump and Republicans swept into Washington with control of all branches of the federal government, according to a new poll.',
+    links: [
+      {
+        href: 'https://www.politico.com/news/2025/03/06/poll-democrats-trump-disarray-00215291',
+        linkText: 'Politico',
+      },
+    ],
+  },
+
+  {
+    id: 'Layoff_Spike',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-06',
+    title: 'US employers cut more jobs last month than any February since 2009',
+    body: 'The Trump administration\’s massive federal cuts and swelling feelings of economic uncertainty helped fuel a recession-level spike in layoff plans last month',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/03/06/economy/us-jobs-report-february-preview/',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'Cut_Medicaid',
+    categories: ['Project 2025', 'Health'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-03-06',
+    title: 'GOP budget goals impossible without Medicare and Medicaid cuts, budget office says',
+    body: 'Republicans are expected to fall short of their goal to slash the budget by $1.5tn despite Donald Trump\’s assurances.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/06/gop-budget-medicare-medicaid-cuts',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Dept_Ed_Close',
+    categories: ['Project 2025', 'Education'],
+    color: 'red',
+    faicon: 'scroll',
+    date: '2025-03-06',
+    title: 'Trump wants to dismantle the Education Department. Here\’s what it does',
+    body: 'An executive order to shutter the department could come as soon as this week.',
+    links: [
+      {
+        href: 'https://apnews.com/article/education-department-trump-ab509ad5778497dfbd6d53b9eef692b5',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Caves',
+    categories: ['Global', 'Project 2025', 'Resist'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-06',
+    title: 'Trump grants monthlong tariff reprieve to Mexico',
+    body: 'Mexico will be granted a monthlong reprieve on tariffs on goods that fall under an existing free-trade agreement with the United States',
+    links: [
+      {
+        href: 'https://archive.is/tN8oG',
+        linkText: 'Washington Post (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'Canada_Retalitory',
+    categories: ['Global', 'Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-06',
+    title: 'Trudeau not willing to lift Canada\’s retaliatory tariffs if Trump leaves some tariffs on Canada',
+    body: '“Zero tariffs or nothing. This attack was not started by our country. This was started by President Trump. He decided to declare an economic war against our country and our province, and we\’re going to hold strong.” ',
+    links: [
+      {
+        href: 'https://apnews.com/article/trudeau-trump-canada-tariffs-921138ff86144357b36610475d37801e',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'China_War',
+    categories: ['Global', 'Project 2025', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-05',
+    title: 'China says it is ready for ''any type of war'' with US',
+    body: '"If war is what the US wants, be it a tariff war, a trade war or any other type of war, we\'re ready to fight till the end," China\'s embassy said',
+    links: [
+      {
+        href: 'https://www.bbc.co.uk/news/articles/c4gmd3g2nzqo',
+        linkText: 'BBC',
+      },
+    ],
+  },
+
+
+  {
+    id: 'Mexico_Retalitory',
+    categories: ['Global', 'Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-05',
+    title: 'Mexico says it will impose retaliatory tariffs on US with details coming Sunday',
+    body: 'Mexico will announce the targeted products and other measures Sunday at an event in Mexico City\’s central plaza, a delay that suggests Mexico hopes to de-escalate the trade war set off by U.S. President Donald Trump.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trade-war-mexico-trump-9cefdded035a0b35e700a7ba0bfc34b4',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Tariff_Pause',
+    categories: ['Global', 'Project 2025'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-05',
+    title: 'White House Grants One-Month Tariff Exemption for Automakers',
+    body: 'The reprieve applies to cars from Canada and Mexico that comply with free-trade deal; Trump is open to more exemptions',
+    links: [
+      {
+        href: 'https://www.wsj.com/economy/trade/white-house-grants-one-month-tariff-exemption-for-automakers-d89c240a',
+        linkText: 'The Wall Street Journal',
+      },
+
+      {
+        href: 'https://www.nbcnews.com/business/economy/tariffs-limbo-mixed-messages-meet-wary-markets-rcna194856',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Air_Quality',
+    categories: ['Global', 'Climate'],
+    color: 'red',
+    faicon: 'radiation',
+    date: '2025-03-05',
+    title: 'State Department halts global monitoring of air pollution',
+    body: 'The move follows other actions by the Trump administration to curtail environmental monitoring and climate-related science.',
+    links: [
+      {
+        href: 'https://archive.is/2fasd',
+        linkText: 'Washington Post (via archive.is)',
+      },
+    ],
+  },
 
   {
     id: 'Hamas-Hostage-Threat2',
@@ -523,6 +704,22 @@ const entries = [
       {
         href: 'https://www.bbc.co.uk/news/articles/cewkg71d8rlo',
         linkText: 'BBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Pelosi_Tiddlywinks',
+    categories: ['Project 2025', 'Tiddlywinks'],
+    color: 'red',
+    faicon: 'democrat',
+    date: '2025-03-01',
+    title: '\‘Let him stew in his own juice,\’ Pelosi advises ahead of Trump’s speech',
+    body: 'Democrats have struggled in these opening weeks of Trump’s term to unify around a rebuttal to his controversial actions.',
+    links: [
+      {
+        href: 'https://archive.is/5ZWCU',
+        linkText: 'Washington Post (via archive.is)',
       },
     ],
   },
