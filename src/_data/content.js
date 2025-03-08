@@ -611,6 +611,12 @@ const entries = [
         href: 'https://wwd.com/fashion-news/fashion-scoops/congress-wearing-pink-clothing-trump-speech-protest-1237022379/',
         linkText: 'WWD',
       },
+
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/05/trump-turns-congress-speech-into-a-sordid-campaign-rally-igniting-a-democrat-fightback',
+        linkText: 'The Guardian',
+      },
+      
     ],
   },
 
