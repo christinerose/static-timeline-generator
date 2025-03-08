@@ -142,7 +142,7 @@ const entries = [
     color: 'red',
     faicon: 'globe',
     date: '2025-03-05',
-    title: 'China says it is ready for ''any type of war'' with US',
+    title: 'China says it is ready for \'any type of war\' with US',
     body: '"If war is what the US wants, be it a tariff war, a trade war or any other type of war, we\'re ready to fight till the end," China\'s embassy said',
     links: [
       {
