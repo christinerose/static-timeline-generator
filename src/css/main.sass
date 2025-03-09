@@ -80,9 +80,10 @@ footer.page-footer
 	padding: 10px 0
 
 .timeline-filter
-	width: 90%
+	width: 40%
 	max-width: 1600px
 	margin: 0px auto
+	text-align: center
 
 	ul
 		list-style: none
@@ -268,6 +269,10 @@ footer.page-footer
 		right: 100%
 		border-right-color: $card-background
 
+@media only screen and (max-width: 1100px)
+	.timeline-filter
+		width: 80%
+
 @media only screen and (max-width: 768px)
 	.timeline::before,
 	.timeline-icon
@@ -283,6 +288,9 @@ footer.page-footer
 
 	.timeline-description
 		width: 90%
+
+	.timeline-filter
+		width: 80%
 
 @media only screen and (max-width: 414px)
 	.timeline-description img,
@@ -305,6 +313,9 @@ footer.page-footer
 	.timeline-entry.odd .timeline-description,
 	.timeline-entry.even .timeline-description
 		margin-left: 35px
+
+	.timeline-filter
+		width: 90%
 
 // DARK MODE
 @media (prefers-color-scheme: dark)
