@@ -58,6 +58,38 @@ const entries = [
   },
 
   {
+    id: 'Tesla_Takedown',
+    categories: ['Project 2025', 'Resist', 'FAFO'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-10',
+    title: 'Musk\'s Tesla facilities in US face \'Takedown\' protests',
+    body: 'Tesla facilities across the US are facing protests and vandalism in response to the political role Elon Musk, who owns the car manufacturer, has played in the Trump administration.',
+    links: [
+      {
+        href: 'https://www.bbc.co.uk/news/articles/cnvze9dzq8vo',
+        linkText: 'BBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Tesla_Protests',
+    categories: ['Project 2025', 'Resist', 'FAFO'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-10',
+    title: 'Tesla faces vandalism and protests amid backlash against Elon Musk',
+    body: 'Tesla just reported its first drop in annual sales in its history, and there are indications that sales could be down again this quarter. ',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/03/10/business/tesla-vandalism-protest-stock/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
     id: 'SCOTUS_USAID',
     categories: ['Project 2025', 'Resist', 'Courts'],
     color: 'green',
