@@ -23,6 +23,189 @@ const entries = [
   //FAFO = poo
 
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
+ 
+
+  {
+    id: 'Tesla_Boycott',
+    categories: ['Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-11',
+    title: 'Trump calls Tesla boycott ‘illegal’ and says he’s buying one to support Elon Musk',
+    body: ' Trump said “radical left lunatics” are “illegally and collusively” boycotting Tesla, which the president described as one of the best automakers in the world. This action, Trump said, was meant as an attack on Musk and what he stands for.',
+    links: [
+      {
+        href: 'https://www.cnbc.com/2025/03/11/trump-says-hes-buying-a-tesla-to-support-elon-musk-and-counter-illegal-boycott-of-ev-maker.html',
+        linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Billionaires_Lose',
+    categories: ['Project 2025', 'FAFO'],
+    color: 'green',
+    faicon: 'poo',
+    date: '2025-03-10',
+    title: '\'Stunning reversal\': Billionaires at Trump\'s inauguration see dramatic decline in wealth',
+    body: 'The tech billionaires who had front-row seats as President Donald Trump was being sworn in on Jan. 20 – including Elon Musk, Mark Zuckerberg and Jeff Bezos – have seen their wealth drop by a staggering $210 billion combined as the president’s economic policies have upended markets.',
+    links: [
+      {
+        href: 'https://www.rawstory.com/trump-billionaires-2671300971/',
+        linkText: 'Raw Story',
+      },
+    ],
+  },
+
+  {
+    id: 'Protestor_Judge-Block',
+    categories: ['Discrimination', 'Project 2025', 'Courts'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-10',
+    title: 'Federal judge blocks Trump administration from deporting pro-Palestinian activist Mahmoud Khalil',
+    body: 'Khalil’s arrest in New York and his detainment in Louisiana have drawn strong pushback from Americans who say the Trump administration’s plans to deport him violate his First Amendment rights.',
+    links: [
+      {
+        href: 'https://www.yahoo.com/news/federal-judge-blocks-trump-administration-from-deporting-pro-palestinian-activist-mahmoud-khalil-203724926.html',
+        linkText: 'Yahoo',
+      },
+    ],
+  },
+ 
+  {
+    id: 'Protestor_Arrested',
+    categories: ['Discrimination', 'Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-10',
+    title: 'Immigration agents arrest Palestinian activist who helped lead Columbia University protests',
+    body: 'Federal immigration authorities arrested a Palestinian activist Saturday who played a prominent role in Columbia University’s protests against Israel, a significant escalation in the Trump administration’s pledge to detain and deport student activists.',
+    links: [
+      {
+        href: 'https://apnews.com/article/columbia-university-mahmoud-khalil-ice-15014bcbb921f21a9f704d5acdcae7a8',
+        linkText: 'AP',
+      },
+    ],
+  },
+ 
+  {
+    id: 'BLM_Removed',
+    categories: ['Discrimination', 'Project 2025'],
+    color: 'red',
+    faicon: 'person',
+    date: '2025-03-10',
+    title: '\‘More than brick and mortar:\’ DC begins removing \‘Black Lives Matter\’ plaza near the White House',
+    body: 'Crews started work Monday to remove the large yellow “Black Lives Matter” painted on the street one block from the White House. D.C. Mayor Muriel Bowser announced the change last week in response to pressure from Republicans in Congress. ',
+    links: [
+      {
+        href: 'https://www.wdio.com/front-page/world-national/more-than-brick-and-mortar-dc-begins-removing-black-lives-matter-plaza-near-the-white-house/',
+        linkText: 'WDIO',
+      },
+    ],
+  },
+
+  {
+    id: 'Social_Sec_Musk',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-10',
+    title: 'Musk eyes Social Security and benefit programs for cuts while claiming widespread fraud',
+    body: 'Elon Musk pushed debunked theories about Social Security on Monday while describing federal benefit programs as rife with fraud, suggesting they will be a primary target in his crusade to reduce government spending.',
+    links: [
+      {
+        href: 'https://apnews.com/article/elon-musk-donald-trump-doge-b21b74f56f30012a6450a629e7232a1a?utm_source=substack&utm_medium=email',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Recession',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-10',
+    title: 'Trump says a transition period for the economy is likely: ‘You can’t really watch the stock market’',
+    body: 'Trump and other senior White House officials have spent the past several days bracing Americans for a potential economic slowdown that they say will then lead to stronger growth ahead.',
+    links: [
+      {
+        href: 'https://www.cnbc.com/2025/03/10/trump-says-transition-period-likely-for-economy-and-you-cant-watch-the-stock-market.html',
+        linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'DOW_Falls',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-10',
+    title: 'Dow falls by almost 900 points in market rout after Trump says he won\’t rule out a recession',
+    body: 'US stocks plunged, bitcoin stumbled and Wall Street\’s fear gauge hit its highest level this year as concerns about President Donald Trump\’s economic policy led to a widespread market selloff on Monday.',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/03/10/investing/us-stocks-drop-after-trump-says-he-wont-rule-out-a-recession/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Downplays',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-10',
+    title: 'Trump downplays business concerns about uncertainty from his tariffs and prospect of higher prices',
+    body: 'Trump is dismissing business concerns over the uncertainty caused by his planned tariffs on a range of American trading partners and the prospect of higher prices, and isn’t ruling out the possibility of a recession this year',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-tariffs-recession-economy-higher-prices-7f481abbaae500bf826445236b958e61',
+        linkText: 'AP',
+      },
+    ],
+  },
+  
+  {
+    id: 'Domocrats_Regret',
+    categories: ['Project 2025', 'Tiddlywinks'],
+    color: 'red',
+    faicon: 'democrat',
+    date: '2025-03-09',
+    title: 'Democrats Voice Regret on Scattered Responses to Trump’s Speech’',
+    body: 'Progressive and moderate Democrats criticized a protest by Representative Al Green as a distraction, and the party leadership tried to refocus attention on economic issues.',
+    links: [
+      {
+        href: 'https://archive.is/uq0av',
+        linkText: 'NYT (via archive.is)',
+      },
+
+    ],
+  },
+
+  {
+    id: 'Poland_Spat_Starlink',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-09',
+    title: 'Rubio and Musk turn on Polish foreign minister in spat over Starlink use in Ukraine: \‘Be quiet small man\’',
+    body: 'Secretary of State presses on with Trump administration\’s efforts to make European nations profess gratitude',
+    links: [
+      {
+        href: 'https://www.independent.co.uk/news/world/americas/us-politics/rubio-musk-poland-starlink-twitter-ukraine-b2711840.html',
+        linkText: 'The Independent',
+      },
+
+      {
+        href: 'https://www.france24.com/en/live-news/20250309-after-poland-spat-musk-vows-ukraine-can-keep-starlink',
+        linkText: 'France 24',
+      },
+    ],
+  },
 
   {
     id: 'Pushback_DOGE',
@@ -105,7 +288,7 @@ const entries = [
     faicon: 'hammer',
     date: '2025-03-07',
     title: 'Musk\’s \‘5 things\’ email mandate a \‘nightmare\’ risk, cyber officials say',
-    body: 'TThe Trump administration’s requirement that federal workers email summaries of their weekly accomplishments poses significant risks to the national security apparatus.',
+    body: 'TThe Trump administration\’s requirement that federal workers email summaries of their weekly accomplishments poses significant risks to the national security apparatus.',
     links: [
       {
         href: 'https://www.washingtonpost.com/national-security/2025/03/07/doge-emails-cyber-command-intel/',
@@ -159,6 +342,86 @@ const entries = [
       {
         href: 'https://apnews.com/article/musk-doge-trump-blame-federal-workers-republicans-2945026366f42b0879087f2e7d4b9d71',
         linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'House_Censure2',
+    categories: ['Project 2025', 'Tiddlywinks'],
+    color: 'red',
+    faicon: 'democrat',
+    date: '2025-03-07',
+    title: '‘We have rules\': Pa. Democrat Houlahan explains why she voted to censure Al Green',
+    body: 'The March 6, 2025, vote was 224 yeas, 198 nays, 2 members present and eight not voting. Only nine other Democrats besides Houlahan joined the Republicans in backing the censure.',
+    links: [
+      {
+        href: 'https://www.nbcphiladelphia.com/news/politics/houlahan-censure-al-green-trump-speech-congress/4127694/',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'House_Censure',
+    categories: ['Project 2025', 'Tiddlywinks'],
+    color: 'red',
+    faicon: 'democrat',
+    date: '2025-03-07',
+    title: 'The House censures Democratic Rep. Al Green for disrupting Trump’s joint address to Congress',
+    body: 'The resolution against Green was approved in a mostly party-line vote of 224-198. Ten Democrats voted for it; no Republicans voted against it.',
+    links: [
+      {
+        href: 'https://apnews.com/article/house-censure-green-trump-joint-address-61d82026983c99a269209bbeb32b45a5?utm_source=substack&utm_medium=email',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Poland_Military_Training',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-07',
+    title: 'Poland to require all adult men to take military training and consider nuclear weapons as Trump shifts on Russia',
+    body: 'Poland “must pursue the most advanced capabilities, including nuclear and modern unconventional weapons,” Prime Minister Donald Tusk said.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/news/world/poland-full-military-training-nuclear-weapons-russia-trump-rcna195357',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Poland_Nuclear',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-07',
+    title: 'Poland seeks access to nuclear arms and looks to build half-million-man army',
+    body: 'Already a major spender within NATO, Warsaw has massive military plans as fears grow about the reliability of the U.S. as an ally against Russia.',
+    links: [
+      {
+        href: 'https://www.politico.eu/article/donald-tusk-plan-train-poland-men-military-service-russia/',
+        linkText: 'Politico',
+      },
+    ],
+  },
+
+  {
+    id: 'Poland_Crisis',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-06',
+    title: 'Polish official warns of international crisis if US cuts Ukraine from Starlink',
+    body: 'Poland helps Ukraine maintain its Starlink access and has provided half of all its terminals, totaling over 20,000 terminals since 2022. Starlink satellite internet access plays a crucial role in Ukraine\'s civilian and military communications infrastructure.',
+    links: [
+      {
+        href: 'https://kyivindependent.com/polish-official-warns-of-international-crisis-between-poland-us-if-ukraine-cut-from-starlink/',
+        linkText: 'Kyiv Independent',
       },
     ],
   },
@@ -675,6 +938,22 @@ const entries = [
 
       {
         href: 'https://www.theguardian.com/us-news/2025/mar/05/trump-turns-congress-speech-into-a-sordid-campaign-rally-igniting-a-democrat-fightback',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Ukraine_Freeze_Aid',
+    categories: ['Project 2025', 'WW3', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-04',
+    title: 'Ukraine’s allies had no notice of Trump freezing military aid, Poland says',
+    body: 'Rattled European politicians reaffirm backing for Kyiv and call for \‘quantum leap\’ in strengthening EU\’s defence',
+    links: [
+      {
+        href: 'https://www.theguardian.com/world/2025/mar/04/ukraine-allies-had-no-notice-of-trump-freezing-military-aid-poland-says',
         linkText: 'The Guardian',
       },
     ],
