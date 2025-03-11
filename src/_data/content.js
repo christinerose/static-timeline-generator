@@ -23,6 +23,9 @@ const entries = [
   //FAFO = poo
 
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
+
+  //Layoffs, DOGE work, restructuring, etc. = Project 2025
+  //DOGE & J6 = Fascism
  
 
   {
@@ -43,7 +46,7 @@ const entries = [
 
   {
     id: 'Tesla_Boycott',
-    categories: ['Project 2025', 'Fascism'],
+    categories: ['Fascism', 'DOGE'],
     color: 'red',
     faicon: 'fire',
     date: '2025-03-11',
@@ -58,8 +61,40 @@ const entries = [
   },
 
   {
+    id: 'AOC_Offense',
+    categories: ['Resist', 'Fascism'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-10',
+    title: 'AOC \'going on the offense\' to rally red-district voters against Trump',
+    body: 'Rep Alexandria Ocasio-Cortez says Democrats should take a page from Sen Bernie Sanders\' playbook',
+    links: [
+      {
+        href: 'https://www.yahoo.com/news/aoc-going-offense-rally-red-170237870.html',
+        linkText: 'Yahoo',
+      },
+    ],
+  },
+
+  {
+    id: 'Bernie_Leader',
+    categories: ['Resist', 'Fascism'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-10',
+    title: 'Drawing huge crowds, Bernie Sanders steps into leadership of the anti-Trump resistance',
+    body: '"The people of this country will not allow us to move toward oligarchy. They will not allow Trump to take us into authoritarianism,” Sanders yelled. “We’re prepared to fight. And we’re going to win.”',
+    links: [
+      {
+        href: 'https://apnews.com/article/bernie-sanders-democrats-trump-c213d5ae42737c956d46f6f7f17e5abd',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
     id: 'Tesla_Takedown',
-    categories: ['Project 2025', 'Resist', 'FAFO'],
+    categories: ['Project 2025', 'Resist', 'FAFO', 'DOGE'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-03-10',
@@ -75,7 +110,7 @@ const entries = [
 
   {
     id: 'Tesla_Protests',
-    categories: ['Project 2025', 'Resist', 'FAFO'],
+    categories: ['Project 2025', 'Resist', 'FAFO', 'DOGE'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-03-10',
@@ -91,7 +126,7 @@ const entries = [
 
   {
     id: 'SCOTUS_USAID',
-    categories: ['Project 2025', 'Resist', 'Courts'],
+    categories: ['Project 2025', 'Resist', 'Courts', 'Global'],
     color: 'green',
     faicon: 'landmark',
     date: '2025-03-10',
@@ -155,7 +190,7 @@ const entries = [
 
   {
     id: 'Fed-Worker_Rogue',
-    categories: ['Project 2025', 'Resist'],
+    categories: ['Project 2025', 'Resist', 'DOGE'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-03-10',
@@ -171,7 +206,7 @@ const entries = [
 
   {
     id: 'Rubio_Purge',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'Global'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-10',
@@ -267,7 +302,7 @@ const entries = [
 
   {
     id: 'Social_Sec_Musk',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-10',
@@ -315,7 +350,7 @@ const entries = [
 
   {
     id: 'Trump_Downplays',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'Global'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-10',
@@ -331,7 +366,7 @@ const entries = [
 
   {
     id: 'Democrats_Misreading',
-    categories: ['Project 2025', 'Tiddlywinks'],
+    categories: ['Tiddlywinks'],
     color: 'red',
     faicon: 'democrat',
     date: '2025-03-09',
@@ -348,7 +383,7 @@ const entries = [
   
   {
     id: 'Democrats_Regret',
-    categories: ['Project 2025', 'Tiddlywinks'],
+    categories: ['Tiddlywinks'],
     color: 'red',
     faicon: 'democrat',
     date: '2025-03-09',
@@ -386,7 +421,7 @@ const entries = [
 
   {
     id: 'Pushback_DOGE',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'green',
     faicon: 'hammer',
     date: '2025-03-08',
@@ -492,7 +527,7 @@ const entries = [
 
   {
     id: '5-Things_Risk',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-07',
@@ -524,7 +559,7 @@ const entries = [
 
   {
     id: 'Enola-Gay',
-    categories: ['Project 2025', 'LGBTQ', 'Discrimination'],
+    categories: ['Fascism', 'LGBTQ', 'Discrimination'],
     color: 'red',
     faicon: 'rainbow',
     date: '2025-03-07',
@@ -541,7 +576,7 @@ const entries = [
 
   {
     id: 'Not_Elon_Fault',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-07',
@@ -559,7 +594,7 @@ const entries = [
 
   {
     id: 'House_Censure4',
-    categories: ['Project 2025', 'Tiddlywinks'],
+    categories: ['Tiddlywinks'],
     color: 'red',
     faicon: 'democrat',
     date: '2025-03-07',
@@ -575,7 +610,7 @@ const entries = [
 
   {
     id: 'Litigants_Responsible',
-    categories: ['Project 2025', 'Fascism'],
+    categories: ['Project 2025', 'Fascism', 'Courts'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-07',
@@ -591,7 +626,7 @@ const entries = [
 
   {
     id: 'Poland_Military_Training',
-    categories: ['Project 2025', 'Global', 'WW3'],
+    categories: ['Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-07',
@@ -607,7 +642,7 @@ const entries = [
 
   {
     id: 'Poland_Nuclear',
-    categories: ['Project 2025', 'Global', 'WW3'],
+    categories: ['Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-07',
@@ -623,7 +658,7 @@ const entries = [
 
   {
     id: 'House_Censure3',
-    categories: ['Project 2025', 'Tiddlywinks', 'Resist'],
+    categories: ['Fascism', 'Tiddlywinks', 'Resist'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-03-07',
@@ -638,7 +673,7 @@ const entries = [
 
   {
     id: 'House_Censure2',
-    categories: ['Project 2025', 'Tiddlywinks', 'Resist'],
+    categories: ['Tiddlywinks', 'Resist'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-03-06',
@@ -660,7 +695,7 @@ const entries = [
 
   {
     id: 'House_Censure',
-    categories: ['Project 2025', 'Tiddlywinks'],
+    categories: ['Tiddlywinks'],
     color: 'red',
     faicon: 'democrat',
     date: '2025-03-06',
@@ -692,7 +727,7 @@ const entries = [
 
   {
     id: 'AI_Revoke_Visas',
-    categories: ['Project 2025', 'Immigration'],
+    categories: ['Project 2025', 'Immigration', 'Discrimination'],
     color: 'red',
     faicon: 'plane',
     date: '2025-03-06',
@@ -708,7 +743,7 @@ const entries = [
 
   {
     id: 'Bomb_Zelensky_Town',
-    categories: ['Project 2025', 'WW3', 'Global'],
+    categories: ['WW3', 'Global'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-06',
@@ -724,7 +759,7 @@ const entries = [
 
   {
     id: 'Trump_Worse_Russia-Ukraine',
-    categories: ['Project 2025', 'WW3', 'Global'],
+    categories: ['WW3', 'Global'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-06',
@@ -740,7 +775,7 @@ const entries = [
 
   {
     id: 'Democrats_NoPlan',
-    categories: ['Project 2025', 'Tiddlywinks'],
+    categories: ['Project 2025', 'Fascism', 'Tiddlywinks'],
     color: 'red',
     faicon: 'democrat',
     date: '2025-03-06',
@@ -788,7 +823,7 @@ const entries = [
 
   {
     id: 'Layoff_Spike',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-06',
@@ -922,7 +957,7 @@ const entries = [
 
   {
     id: 'Air_Quality',
-    categories: ['Global', 'Climate'],
+    categories: ['Global', 'Climate', 'Project 2025'],
     color: 'red',
     faicon: 'radiation',
     date: '2025-03-05',
@@ -938,7 +973,7 @@ const entries = [
 
   {
     id: 'Sierra-Club',
-    categories: ['Project 2025', 'Resist'],
+    categories: ['Project 2025', 'Resist', 'DOGE'],
     color: 'green',
     faicon: 'hammer',
     date: '2025-03-05',
@@ -1037,7 +1072,7 @@ const entries = [
 
   {
     id: 'SCOTUS_Rejects_Bid',
-    categories: ['Resist', 'Project 2025', 'Courts'],
+    categories: ['Resist', 'Global', 'Courts'],
     color: 'green',
     faicon: 'landmark',
     date: '2025-03-05',
@@ -1074,7 +1109,7 @@ const entries = [
 
   {
     id: 'Reinstate_USDA',
-    categories: ['Project 2025', 'Resist'],
+    categories: ['Project 2025', 'Resist', 'DOGE'],
     color: 'green',
     faicon: 'hammer',
     date: '2025-03-05',
@@ -1090,7 +1125,7 @@ const entries = [
 
   {
     id: 'Takeaways_Congress_Speech',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'Fascism'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-05',
@@ -1106,7 +1141,7 @@ const entries = [
 
   {
     id: 'Highlights_Congress_Speech',
-    categories: ['Project 2025'],
+    categories: ['Fascism'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-05',
@@ -1122,7 +1157,7 @@ const entries = [
 
   {
     id: 'Democrats_WalkOut',
-    categories: ['Resist', 'Project 2025'],
+    categories: ['Resist', 'Facism'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-03-05',
@@ -1149,7 +1184,7 @@ const entries = [
 
   {
     id: 'NPR_FactCheck',
-    categories: ['Resist', 'Project 2025'],
+    categories: ['Resist', 'Fascism'],
     color: 'green',
     faicon: 'hammer',
     date: '2025-03-04',
@@ -1166,7 +1201,7 @@ const entries = [
 
   {
     id: 'Al_Green_Removed',
-    categories: ['Resist', 'Project 2025'],
+    categories: ['Resist', 'Fascism'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-03-04',
@@ -1188,7 +1223,7 @@ const entries = [
 
   {
     id: 'Trump_Speech',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'Fascism'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-04',
@@ -1247,7 +1282,7 @@ const entries = [
 
   {
     id: 'Red_States_Hit',
-    categories: ['Project 2025', 'FAFO'],
+    categories: ['Project 2025', 'FAFO', 'DOGE'],
     color: 'red',
     faicon: 'poo',
     date: '2025-03-04',
@@ -1263,7 +1298,7 @@ const entries = [
 
   {
     id: 'Tariffs_Go',
-    categories: ['Project 2025', 'Global'],
+    categories: ['Project 2025', 'Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-04',
@@ -1435,7 +1470,7 @@ const entries = [
 
   {
     id: 'DOGE_Login',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-02',
@@ -1585,7 +1620,7 @@ const entries = [
 
   {
     id: 'Who_DOGE',
-    categories: ['Project 2025', 'Resist'],
+    categories: ['Project 2025', 'Resist', 'DOGE'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-02-28',
@@ -1645,7 +1680,7 @@ const entries = [
 
   {
     id: 'Power_Grab',
-    categories: ['Project 2025', 'Courts'],
+    categories: ['Fascism', 'Courts'],
     color: 'red',
     faicon: 'landmark',
     date: '2025-02-27',
@@ -1661,7 +1696,7 @@ const entries = [
 
   {
     id: 'Revolution_Podcast',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'Fascism'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-27',
@@ -1677,7 +1712,7 @@ const entries = [
 
   {
     id: 'Musk_Verison',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-27',
@@ -1693,7 +1728,7 @@ const entries = [
 
   {
     id: 'Unemployment_Increase',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-27',
@@ -1709,7 +1744,7 @@ const entries = [
 
   {
     id: 'Tariffs_Increase',
-    categories: ['Project 2025', 'Global'],
+    categories: ['Project 2025', 'Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-27',
@@ -1741,7 +1776,7 @@ const entries = [
 
   {
     id: 'Cut_USAID',
-    categories: ['Project 2025', 'Courts', 'Global'],
+    categories: ['Project 2025', 'Global', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-27',
@@ -1773,7 +1808,7 @@ const entries = [
 
   {
     id: 'Mass_Layoffs',
-    categories: ['Project 2025'],
+    categories: ['DOGE', 'Fascism'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-27',
@@ -1789,7 +1824,7 @@ const entries = [
 
   {
     id: 'Trans_Military',
-    categories: ['Project 2025', 'LGBTQ'],
+    categories: ['Project 2025', 'LGBTQ', 'Discrimination'],
     color: 'red',
     faicon: 'rainbow',
     date: '2025-02-27',
@@ -1805,7 +1840,7 @@ const entries = [
 
   {
     id: 'EU_Military',
-    categories: ['Project 2025', 'Global'],
+    categories: ['Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-27',
@@ -1821,9 +1856,9 @@ const entries = [
 
   {
     id: 'SCOTUS_Pauses',
-    categories: ['Project 2025', 'Courts'],
+    categories: ['Project 2025', 'Courts', 'Global'],
     color: 'red',
-    faicon: 'hammer',
+    faicon: 'landmark',
     date: '2025-02-26',
     title: 'Supreme Court temporarily pauses judge\'s order on releasing frozen foreign aid funding',
     body: 'The Supreme Court on Wednesday night temporarily paused a lower court order that required the Trump administration to release frozen foreign aid funding by midnight.',
@@ -1837,7 +1872,7 @@ const entries = [
 
   {
     id: 'Gold_Card',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'Immigration'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-26',
@@ -1853,7 +1888,7 @@ const entries = [
 
   {
     id: 'First_Cabinet',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-26',
@@ -1869,7 +1904,7 @@ const entries = [
 
   {
     id: 'Budget_Cuts',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'Immigration'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-25',
@@ -1949,7 +1984,7 @@ const entries = [
 
   {
     id: 'Judge_Make_Trump_Pay',
-    categories: ['Project 2025', 'Courts', 'Resist'],
+    categories: ['Project 2025', 'Courts', 'Resist', 'Global'],
     color: 'green',
     faicon: 'landmark',
     date: '2025-02-25',
@@ -1965,7 +2000,7 @@ const entries = [
 
   {
     id: 'Can_Mex_Tariffs',
-    categories: ['Project 2025', 'Global'],
+    categories: ['Project 2025', 'Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-25',
@@ -1981,7 +2016,7 @@ const entries = [
 
   {
     id: 'Seattle_Judge_Blocks',
-    categories: ['Project 2025', 'Courts', 'Resist'],
+    categories: ['Project 2025', 'Courts', 'Resist', 'Immigration'],
     color: 'green',
     faicon: 'landmark',
     date: '2025-02-25',
@@ -1997,7 +2032,7 @@ const entries = [
 
   {
     id: 'DOGE_40',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-25',
@@ -2013,7 +2048,7 @@ const entries = [
 
   {
     id: 'DOGE_Quits',
-    categories: ['Project 2025', 'Resist'],
+    categories: ['Project 2025', 'Resist', 'DOGE'],
     color: 'green',
     faicon: 'hammer',
     date: '2025-02-25',
@@ -2034,7 +2069,7 @@ const entries = [
 
   {
     id: 'IED_Mexico',
-    categories: ['Global'],
+    categories: ['Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-25',
@@ -2066,7 +2101,7 @@ const entries = [
 
   {
     id: 'US_Votes_Russia',
-    categories: ['Project 2025', 'Global'],
+    categories: ['Project 2025', 'Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-24',
@@ -2088,7 +2123,7 @@ const entries = [
 
   {
     id: 'Judge_Blocks-OPM',
-    categories: ['Project 2025', 'Courts'],
+    categories: ['Project 2025', 'Courts', 'Education', 'DOGE'],
     color: 'green',
     faicon: 'landmark',
     date: '2025-02-24',
@@ -2104,7 +2139,7 @@ const entries = [
 
   {
     id: 'Viral_Misinformation',
-    categories: ['Project 2025', 'Fascism'],
+    categories: ['Fascism'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-24',
@@ -2120,7 +2155,7 @@ const entries = [
 
   {
     id: 'AfD_Win-Block',
-    categories: ['Project 2025', 'Global', 'Fascism'],
+    categories: ['Global', 'Fascism'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-24',
@@ -2136,7 +2171,7 @@ const entries = [
 
   {
     id: 'Patel_ATF',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'Fascism'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-24',
@@ -2168,7 +2203,7 @@ const entries = [
 
   {
     id: 'Musk_Justify-Sue',
-    categories: ['Project 2025', 'Resist'],
+    categories: ['Project 2025', 'Resist', 'DOGE'],
     color: 'green',
     faicon: 'hammer',
     date: '2025-02-24',
@@ -2183,30 +2218,8 @@ const entries = [
   }, 
 
   {
-    id: 'Musk_Justify-Resist',
-    categories: ['Project 2025', 'Resist'],
-    color: 'green',
-    faicon: 'hammer',
-    date: '2025-02-24',
-    title: 'Elon Musk said all federal workers must explain last week\’s work. Key federal agencies are refusing to comply.',
-    body: 'Trump\'s cost-cutting chief said Saturday that failure to respond to the demand would be taken as a resignation. Agencies like the FBI and Pentagon told workers not to comply.',
-    links: [
-      {
-        href: 'https://whyy.org/articles/elon-musk-donald-trump-federal-workers-48-hours-explain-work/',
-        linkText: 'Whyy PBS',
-      },
-
-      {
-        href: 'https://www.cnn.com/2025/02/23/politics/opm-federal-agencies-pushback-doge-musk/index.html',
-        linkText: 'CNN',
-      },
-
-    ],
-  }, 
-
-  {
     id: 'USAID_Leave',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'DOGE', 'Global'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-23',
@@ -2238,7 +2251,7 @@ const entries = [
 
   {
     id: 'Shutoff_Starlink-Ukraine',
-    categories: ['Project 2025', 'Global'],
+    categories: ['Project 2025', 'DOGE', 'Global'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-22',
@@ -2254,7 +2267,7 @@ const entries = [
 
   {
     id: 'Musk_Justify-Job',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-22',
@@ -2265,12 +2278,21 @@ const entries = [
         href: 'https://www.forbes.com/sites/conormurray/2025/02/22/elon-musk-says-federal-employees-must-explain-their-work-or-be-fired',
         linkText: 'Forbes',
       },
+      {
+        href: 'https://whyy.org/articles/elon-musk-donald-trump-federal-workers-48-hours-explain-work/',
+        linkText: 'Whyy PBS',
+      },
+
+      {
+        href: 'https://www.cnn.com/2025/02/23/politics/opm-federal-agencies-pushback-doge-musk/index.html',
+        linkText: 'CNN',
+      },
     ],
   }, 
 
   {
     id: 'Town_Hall_Pushback',
-    categories: ['Project 2025', 'FAFO', 'Resist'],
+    categories: ['Project 2025', 'FAFO', 'Resist', 'DOGE'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-02-21',
@@ -2286,7 +2308,7 @@ const entries = [
 
   {
     id: 'FAFO_IRS-Layoffs',
-    categories: ['Project 2025', 'FAFO'],
+    categories: ['Project 2025', 'DOGE', 'FAFO'],
     color: 'red',
     faicon: 'poo',
     date: '2025-02-21',
@@ -2302,7 +2324,7 @@ const entries = [
 
   {
     id: 'CDC_Layoffs_Flu',
-    categories: ['Project 2025', 'Health'],
+    categories: ['DOGE', 'Health'],
     color: 'red',
     faicon: 'virus',
     date: '2025-02-21',
@@ -2350,7 +2372,7 @@ const entries = [
 
   {
     id: 'End_Of_Science',
-    categories: ['Project 2025', 'Health'],
+    categories: ['DOGE', 'Health'],
     color: 'red',
     faicon: 'virus',
     date: '2025-02-21',
@@ -2366,7 +2388,7 @@ const entries = [
 
   {
     id: 'Judge_USAID',
-    categories: ['Project 2025', 'Courts'],
+    categories: ['Project 2025', 'Courts', 'Global'],
     color: 'red',
     faicon: 'landmark',
     date: '2025-02-21',
@@ -2386,7 +2408,7 @@ const entries = [
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-21',
-    title: 'RFK\'s plan to make America healthy again? Round up people with mental health conditions in camps',
+    title: 'Trump fires top US general CQ Brown in shake-up at Pentagon',
     body: 'Trump has fired the Chairman of the Joint Chiefs of Staff CQ Brown, the highest-ranking officer in the country, as part of a major shake-up of top military leadership.',
     links: [
       {
@@ -2403,7 +2425,7 @@ const entries = [
 
   {
     id: 'Military_Budget_Cuts',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-20',
@@ -2419,7 +2441,7 @@ const entries = [
 
   {
     id: 'NISD_Mass-Firings',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-20',
@@ -2435,7 +2457,7 @@ const entries = [
 
   {
     id: 'Judge_Blocks_Abortion',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'Health'],
     color: 'green',
     faicon: 'hammer',
     date: '2025-02-20',
@@ -2483,7 +2505,7 @@ const entries = [
 
   {
     id: 'Portland_Protest',
-    categories: ['Project 2025', 'Resist'],
+    categories: ['Fascism', 'Resist'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-02-20',
@@ -2499,7 +2521,7 @@ const entries = [
 
   {
     id: 'DOE_Chaos',
-    categories: ['Project 2025', 'Education'],
+    categories: ['DOGE', 'Education'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-19',
@@ -2515,7 +2537,7 @@ const entries = [
 
   {
     id: 'RFK-JR_Mental-Health-Camps',
-    categories: ['Project 2025', 'Fascism'],
+    categories: ['Health', 'Fascism'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-19',
@@ -2531,7 +2553,7 @@ const entries = [
   
   {
     id: 'IRS_Layoffs',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-19',
@@ -2632,7 +2654,7 @@ const entries = [
 
   {
     id: 'Prosecutor_Resigns',
-    categories: ['Project 2025', 'Fascism', 'Resist'],
+    categories: ['Project 2025', 'Climate', 'Resist'],
     color: 'green',
     faicon: 'hammer',
     date: '2025-02-18',
@@ -2650,9 +2672,9 @@ const entries = [
  
  {
     id: 'USDA-AvianFlu',
-    categories: ['Project 2025', 'Fascism'],
+    categories: ['DOGE', 'Health', 'Project 2025'],
     color: 'red',
-    faicon: 'hammer',
+    faicon: 'virus',
     date: '2025-02-18',
     title: 'USDA accidentally fired officials working on bird flu and is now trying to rehire them',
     body: 'The error is the latest in the Trump administration\'s attempts to rapidly shrink the size of the government by conducting mass firings of federal workers — an effort by Elon Musk and DOGE, which is heavily staffed by people who have no experience in government.',
@@ -2666,9 +2688,9 @@ const entries = [
 
   {
     id: 'Musk_Not_Employee',
-    categories: ['Project 2025', 'Fascism',],
+    categories: ['DOGE', 'Fascism'],
     color: 'red',
-    faicon: 'hammer',
+    faicon: 'fire',
     date: '2025-02-18',
     title: 'Musk is just an adviser with no power to make decisions, White House claims',
     body: 'Legal filing says billionaire Trump aide is not an employee of so-called \‘department of government efficiency\’',
@@ -2682,9 +2704,9 @@ const entries = [
 
   {
     id: 'Musk_Ally',
-    categories: ['Project 2025', 'Fascism',],
+    categories: ['DOGE', 'Fascism',],
     color: 'red',
-    faicon: 'hammer',
+    faicon: 'fire',
     date: '2025-02-18',
     title: 'Musk Ally Demands Admin Access to System That Lets Government Text the Public',
     body: 'Notify.gov contains not just the phone numbers of everyday people but also information about whether they participate in government programs such as Medicaid, which is based on a person\'s financial situation.',
@@ -2697,10 +2719,26 @@ const entries = [
   },  
 
   {
+    id: 'AOC_Sanders',
+    categories: ['Tiddlywinks', 'Fascism', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-02-18',
+    title: 'Democrats want their opposition party to get loud. Bernie and AOC are trying to help',
+    body: 'A 50-state show of force reminds Democratic leaders that their base is still angry, even if they aren’t.',
+    links: [
+      {
+        href: 'https://www.independent.co.uk/news/world/americas/bernie-aoc-democrats-opposition-protests-b2700453.html',
+        linkText: 'The Independent',
+      },
+    ],
+  },  
+
+  {
     id: 'Judge_Rejects-DOGE',
-    categories: ['Project 2025', 'Fascism', 'Courts'],
+    categories: ['DOGE', 'Courts'],
     color: 'red',
-    faicon: 'hammer',
+    faicon: 'landmark',
     date: '2025-02-18',
     title: 'Judge Chutkan rejects call from Democratic AGs for temporary restraining order blocking DOGE\’s access to federal data',
     body: 'A federal judge declined on Tuesday to temporarily block Elon Musk and his Department of Government Efficiency from accessing federal data systems at a slew of executive branch agencies.',
@@ -2730,7 +2768,7 @@ const entries = [
 
   {
     id: 'No_Kings',
-    categories: ['Resist'],
+    categories: ['Resist', 'Fascism'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-02-17',
@@ -2746,7 +2784,7 @@ const entries = [
 
   {
     id: 'DC_Protest',
-    categories: ['Resist'],
+    categories: ['Resist', 'Fascism'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-02-17',
@@ -2762,7 +2800,7 @@ const entries = [
   
 {
     id: 'Russia-Ukraine',
-    categories: ['Global'],
+    categories: ['Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-17',
@@ -2779,7 +2817,7 @@ const entries = [
 
   {
     id: 'DOGE-FtKnox',
-    categories: ['Fascism', 'Project 2025'],
+    categories: ['Fascism', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-17',
@@ -2795,7 +2833,7 @@ const entries = [
 
   {
     id: 'DOGE-IRS',
-    categories: ['Fascism', 'Project 2025', 'Resist'],
+    categories: ['DOGE', 'Project 2025', 'Resist'],
     color: 'green',
     faicon: 'hammer',
     date: '2025-02-17',
@@ -2811,7 +2849,7 @@ const entries = [
 
   {
     id: 'DOGE-IRS',
-    categories: ['Fascism', 'Project 2025'],
+    categories: ['DOGE', 'Project 2025'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-17',
@@ -2827,7 +2865,7 @@ const entries = [
 
   {
     id: 'SpaceX-FAA',
-    categories: ['Fascism', 'Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-17',
@@ -2843,7 +2881,7 @@ const entries = [
 
   {
     id: 'Trump-Fires-Nuclear-Staff-Oops',
-    categories: ['Fascism', 'Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-16',
@@ -2859,9 +2897,9 @@ const entries = [
 
   {
     id: 'Trump_Asks-SCOTUS',
-    categories: ['Fascism', 'Project 2025', 'Courts'],
+    categories: ['Project 2025', 'Courts'],
     color: 'red',
-    faicon: 'fire',
+    faicon: 'hammer',
     date: '2025-02-16',
     title: 'Trump administration asks Supreme Court to greenlight whistleblower office firing',
     body: 'The Justice Department is asking the Supreme Court to greenlight President Trump\’s firing of the head of a federal whistleblower protection office, marking the new Trump administration\’s first appeal to the high court.',
@@ -2875,9 +2913,9 @@ const entries = [
 
   {
     id: 'Trump_FDA_Fires',
-    categories: ['Fascism', 'Project 2025',],
+    categories: ['Health', 'Project 2025',],
     color: 'red',
-    faicon: 'fire',
+    faicon: 'hammer',
     date: '2025-02-16',
     title: 'Trump cuts reach FDA workers focused on food safety and medical devices',
     body: 'Positions cut also appeared to focus on agency’s centers for tobacco products, including oversight of e-cigarettes',
@@ -2907,7 +2945,7 @@ const entries = [
 
   {
     id: 'Save_Country',
-    categories: ['Fascism', 'Project 2025',],
+    categories: ['Fascism', 'Project 2025'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-16',
@@ -2923,7 +2961,7 @@ const entries = [
 
   {
     id: 'Vance-Munich',
-    categories: ['Global', 'Project 2025'],
+    categories: ['Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-15',
@@ -2955,7 +2993,7 @@ const entries = [
 
   {
     id: 'Patel-FBI',
-    categories: ['Fascism', 'Project 2025'],
+    categories: ['Project 2025', 'Fascism'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-14',
@@ -3008,7 +3046,7 @@ const entries = [
 
   {
     id: 'Layoffs-HUD',
-    categories: ['Fascism', 'Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-14',
@@ -3024,7 +3062,7 @@ const entries = [
 
   {
     id: 'Layoffs-Accelerate',
-    categories: ['Fascism', 'Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-14',
@@ -3093,7 +3131,7 @@ const entries = [
 
   {
     id: 'Trump-Fires-Nuclear-Staff',
-    categories: ['Fascism', 'Project 2025'],
+    categories: ['Project 2025'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-14',
@@ -3109,9 +3147,9 @@ const entries = [
 
   {
     id: 'Corporate-America-Sours',
-    categories: ['Fascism', 'Project 2025', 'FAFO'],
+    categories: ['Project 2025', 'FAFO'],
     color: 'red',
-    faicon: 'hammer',
+    faicon: 'poo',
     date: '2025-02-14',
     title: 'Is corporate America already souring on Trump?',
     body: 'Across the US, businesspeople are warning that this new trade war could drive up costs, disrupt supply chains and hurt profits — and make a whole range of products more expensive for American consumers.',
@@ -3125,7 +3163,7 @@ const entries = [
 
   {
     id: 'Fire-Fed-Employees',
-    categories: ['Fascism', 'Project 2025', 'Education'],
+    categories: ['Project 2025', 'Education', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-13',
@@ -3151,7 +3189,7 @@ const entries = [
 
   {
     id: 'Musk-Delete-Agencies',
-    categories: ['Fascism', 'Project 2025'],
+    categories: ['Fascism', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-13',
@@ -3172,7 +3210,7 @@ const entries = [
 
   {
     id: 'Trump-Recipricol-Tariffs',
-    categories: ['Fascism', 'Project 2025', 'Global'],
+    categories: ['Project 2025', 'Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-13',
@@ -3193,7 +3231,7 @@ const entries = [
 
   {
     id: 'Google-Deletes-Reviews',
-    categories: ['Fascism'],
+    categories: ['Fascism', 'Global'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-13',
@@ -3209,7 +3247,7 @@ const entries = [
 
   {
     id: 'Trans-Removed',
-    categories: ['LGBTQ', 'Project 2025'],
+    categories: ['LGBTQ', 'Fascism'],
     color: 'red',
     faicon: 'rainbow',
     date: '2025-02-13',
@@ -3226,7 +3264,7 @@ const entries = [
 
   {
     id: 'Judge-Blocks-Trump-Order',
-    categories: ['Courts', 'Resist'],
+    categories: ['Courts', 'Resist', 'LGBTQ'],
     color: 'green',
     faicon: 'landmark',
     date: '2025-02-13',
@@ -3258,7 +3296,7 @@ const entries = [
 
   {
     id: 'Owns-Gulf',
-    categories: ['Fascism'],
+    categories: ['Fascism', 'Global'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-12',
@@ -3274,7 +3312,7 @@ const entries = [
 
   {
     id: 'Gulf-America',
-    categories: ['Global'],
+    categories: ['Fascism', 'Global'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-12',
@@ -3333,7 +3371,7 @@ const entries = [
 
   {
     id: 'USAID-Inspector-Fired',
-    categories: ['Fascism', 'Project 2025'],
+    categories: ['Global', 'Project 2025'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-12',
@@ -3354,7 +3392,7 @@ const entries = [
 
   {
     id: 'Massive-Layoffs',
-    categories: ['Fascism', 'Project 2025'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-12',
@@ -3449,7 +3487,7 @@ const entries = [
 
   {
     id: 'FEMA-Fired',
-    categories: ['Fascism', 'Courts'],
+    categories: ['DOGE', 'Immigration'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-12',
@@ -3470,7 +3508,7 @@ const entries = [
 
   {
     id: 'P2025-Guts-Funding',
-    categories: ['Fascism', 'Project 2025', 'Health'],
+    categories: ['Project 2025', 'Health'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-11',
@@ -3502,7 +3540,7 @@ const entries = [
 
   {
     id: 'Musk_DOGE-Conflicts',
-    categories: ['Fascism', 'Courts', 'Project 2025'],
+    categories: ['DOGE', 'Project 2025'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-11',
@@ -3554,7 +3592,7 @@ const entries = [
 
   {
     id: 'DOGE-Cuts-Millions',
-    categories: ['Fascism', 'Project 2025', 'Education'],
+    categories: ['DOGE', 'Project 2025', 'Education'],
     color: 'red',
     faicon: 'scroll',
     date: '2025-02-11',
@@ -3571,7 +3609,7 @@ const entries = [
 
   {
     id: 'Judge-Restores',
-    categories: ['Fascism', 'Resist', 'Courts', 'Health'],
+    categories: ['Resist', 'Courts', 'Health'],
     color: 'green',
     faicon: 'landmark',
     date: '2025-02-11',
@@ -3661,7 +3699,7 @@ const entries = [
 
   {
     id: 'Jordan-Egypt-Threat',
-    categories: ['Global'],
+    categories: ['Global', 'Fascism'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-10',
@@ -3715,7 +3753,7 @@ const entries = [
 
   {
     id: 'Trump-Steel-Tarifs',
-    categories: ['Project 2025', 'Global'],
+    categories: ['Project 2025', 'Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-10',
@@ -3736,7 +3774,7 @@ const entries = [
 
   {
     id: 'DOGE_Exposes_Networks',
-    categories: ['Fascism', 'Project 2025'],
+    categories: ['Fascism', 'Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-09',
@@ -3752,7 +3790,7 @@ const entries = [
 
   {
     id: 'Musk-Impeach-Judge',
-    categories: ['Fascism', 'Courts', 'Project 2025'],
+    categories: ['Fascism', 'Courts', 'Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-09',
@@ -3913,7 +3951,7 @@ const entries = [
 
   {
     id: 'Trump_Attack_PBI',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'Fascism'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-03',
@@ -3929,7 +3967,7 @@ const entries = [
 
   {
     id: 'Musk-Force_Out_Workers',
-    categories: ['Fascism', 'Project 2025'],
+    categories: ['Fascism', 'Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-02',
@@ -3994,6 +4032,22 @@ const entries = [
   },
 
   {
+    id: 'AOC_Attack',
+    categories: ['Fascism', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-01-29',
+    title: 'Ocasio-Cortez embraces role as attack dog against Trump',
+    body: 'After declaring that she doesn’t support “rapists” to explain her absence, the firebrand congresswoman later directed her ire at Elon Musk for making what many Democrats perceived to be a “Nazi salute” while giving a political speech.',
+    links: [
+      {
+        href: 'https://thehill.com/homenews/house/5111319-aoc-fox-news-trump-criticism/',
+        linkText: 'The Hill',
+      },
+    ],
+  },  
+
+  {
     id: 'Constitutional-Crisis',
     categories: ['Fascism', 'Project 2025'],
     color: 'red',
@@ -4013,7 +4067,7 @@ const entries = [
 
   {
     id: 'Freeze-FederalGrants',
-    categories: ['Fascism', 'Courts', 'Resist'],
+    categories: ['Courts', 'Resist'],
     color: 'green',
     faicon: 'landmark',
     date: '2025-01-28',
@@ -4055,7 +4109,7 @@ const entries = [
 
   {
     id: 'Medicaid-Interrupted',
-    categories: ['Fascism', 'Project 2025'],
+    categories: ['Health', 'Project 2025'],
     color: 'red',
     faicon: 'virus',
     date: '2025-01-28',
@@ -4207,7 +4261,7 @@ const entries = [
 
   {
     id: 'Canada-Mexico-Tariffs',
-    categories: ['Global', 'Fascism'],
+    categories: ['Global', 'Fascism', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-01-26',
@@ -4259,7 +4313,7 @@ const entries = [
 
   {
     id: 'J6_Revisited',
-    categories: ['J6'],
+    categories: ['J6', 'Fascism'],
     color: 'red',
     faicon: 'skull',
     date: '2025-01-24',
@@ -4291,7 +4345,7 @@ const entries = [
 
   {
     id: 'Shut_School-Board',
-    categories: ['Gun Violence', 'Project 2025','Education'],
+    categories: ['Gun Violence', 'Project 2025', 'Education'],
     color: 'red',
     faicon: 'gun',
     date: '2025-01-23',
@@ -4355,7 +4409,7 @@ const entries = [
 
   {
     id: 'Judge-Blocks-Birthright',
-    categories: ['Resist', 'Fascism', 'Project 2025'],
+    categories: ['Resist', 'Fascism', 'Project 2025', 'Discrimination'],
     color: 'green',
     faicon: 'landmark',
     date: '2025-01-23',
@@ -4394,7 +4448,7 @@ const entries = [
 
   {
     id: 'Revokes-LBJ',
-    categories: ['Discrimination', 'Project 2025', 'Fascism'],
+    categories: ['Discrimination', 'Project 2025', 'Fascism', 'LGBTQ'],
     color: 'red',
     faicon: 'person',
     date: '2025-01-22',
@@ -4477,7 +4531,7 @@ const entries = [
 
   {
     id: 'Troops-Border',
-    categories: ['Immigration', 'Project 2025', 'Fascism'],
+    categories: ['Immigration', 'Project 2025', 'WW3'],
     color: 'red',
     faicon: 'plane',
     date: '2025-01-22',
@@ -4540,7 +4594,7 @@ const entries = [
 
     {
     id: 'Trump-Threatens-Russia',
-    categories: ['Global'],
+    categories: ['Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-01-22',
@@ -4561,7 +4615,7 @@ const entries = [
 
   {
     id: 'Trump-Slams-Bishop',
-    categories: ['Religion', 'Project 2025', 'Fascism'],
+    categories: ['Religion', 'Project 2025', 'Discrimination'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-01-22',
@@ -4582,7 +4636,7 @@ const entries = [
 
   {
     id: 'Spanish-WH-Website-Gone',
-    categories: ['Discrimination', 'Project 2025', 'Fascism'],
+    categories: ['Discrimination', 'Project 2025'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-01-22',
@@ -4656,7 +4710,7 @@ const entries = [
 
   {
     id: 'J6Freed',
-    categories: ['J6', 'Project 2025'],
+    categories: ['J6', 'Fascism'],
     color: 'red',
     faicon: 'skull',
     date: '2025-01-21',
@@ -4664,7 +4718,7 @@ const entries = [
     body: 'The man who "collected weapons for Jan. 6 and called for executions of politicians," said, "We are just getting started," upon his release.',
     links: [
       {
-        href: 'https://patch.com/california/sanclemente/s/j46g2/former-oc-police-chief-prominent-activist-and-jan-6-rioter-freed?utm_term=article-slot-2&utm_source=newsletter-daily&utm_medium=email&utm_campaign=newsletter&user_email=7365fa8a2d2ebabd5914fa405416324c85fd63134570ec45cbc1edadb8a0ff1f&user_email_md5=c899ca5813293dc5ba7ae6b69b42553f&lctg=51f98d901e240a9c3f2373aa',
+        href: 'https://patch.com/california/sanclemente/s/j46g2/former-oc-police-chief-prominent-activist-and-jan-6-rioter-freed?utm_term=article-slot-2&utm_source=newsletter-daily',
         linkText: 'Patch',
       },
     ],
@@ -4690,7 +4744,7 @@ const entries = [
 
   {
     id: 'Paris_Accord',
-    categories: ['Climate'],
+    categories: ['Climate', 'Global'],
     color: 'red',
     faicon: 'radiation',
     date: '2025-01-21',
@@ -4780,7 +4834,7 @@ const entries = [
 
   {
     id: 'J6-Pardoned',
-    categories: ['J6', 'Project 2025'],
+    categories: ['J6', 'Fascism'],
     color: 'red',
     faicon: 'skull',
     date: '2025-01-20',
