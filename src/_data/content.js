@@ -1298,7 +1298,7 @@ const entries = [
 
   {
     id: 'Tariffs_Go',
-    categories: ['Project 2025', 'Global', 'WW3'],
+    categories: ['Project 2025', 'Global'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-04',
@@ -1330,7 +1330,7 @@ const entries = [
 
   {
     id: 'Fentanyl_Pretext',
-    categories: ['Project 2025', 'Global', 'WW3'],
+    categories: ['Project 2025', 'Global'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-04',
@@ -2000,7 +2000,7 @@ const entries = [
 
   {
     id: 'Can_Mex_Tariffs',
-    categories: ['Project 2025', 'Global', 'WW3'],
+    categories: ['Project 2025', 'Global'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-25',
@@ -2069,7 +2069,7 @@ const entries = [
 
   {
     id: 'IED_Mexico',
-    categories: ['Global', 'WW3'],
+    categories: ['Global', 'Immigration'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-25',
@@ -3753,7 +3753,7 @@ const entries = [
 
   {
     id: 'Trump-Steel-Tarifs',
-    categories: ['Project 2025', 'Global', 'WW3'],
+    categories: ['Project 2025', 'Global'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-10',
@@ -4261,7 +4261,7 @@ const entries = [
 
   {
     id: 'Canada-Mexico-Tariffs',
-    categories: ['Global', 'Fascism', 'WW3'],
+    categories: ['Global', 'Fascism'],
     color: 'red',
     faicon: 'globe',
     date: '2025-01-26',
@@ -4531,7 +4531,7 @@ const entries = [
 
   {
     id: 'Troops-Border',
-    categories: ['Immigration', 'Project 2025', 'WW3'],
+    categories: ['Immigration', 'Project 2025'],
     color: 'red',
     faicon: 'plane',
     date: '2025-01-22',
