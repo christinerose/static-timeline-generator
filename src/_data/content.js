@@ -26,6 +26,22 @@ const entries = [
  
 
   {
+    id: 'Activist_Arrested2',
+    categories: ['Discrimination', 'Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-11',
+    title: 'Trump warns that arrest of Palestinian activist at Columbia will be ‘first of many’',
+    body: 'Trump warned Monday that the arrest and possible deportation of a Palestinian activist who helped lead protests at Columbia University will be the first “of many to come” as his administration cracks down on campus demonstrations against Israel and the war in Gaza.',
+    links: [
+      {
+        href: 'https://apnews.com/article/columbia-university-mahmoud-khalil-ice-6964107d218dba43eb995d6dbbe528b1',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
     id: 'Tesla_Boycott',
     categories: ['Project 2025', 'Fascism'],
     color: 'red',
@@ -37,6 +53,118 @@ const entries = [
       {
         href: 'https://www.cnbc.com/2025/03/11/trump-says-hes-buying-a-tesla-to-support-elon-musk-and-counter-illegal-boycott-of-ev-maker.html',
         linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'SCOTUS_USAID',
+    categories: ['Project 2025', 'Resist', 'Courts'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-10',
+    title: 'Understanding the Supreme Court\'s Decision on USAID Funding',
+    body: 'The U.S. Supreme Court has limited the scope of President Donald Trump’s authority to temporarily halt federal funding for foreign assistance.',
+    links: [
+      {
+        href: 'https://www.findlaw.com/legalblogs/federal-courts/understanding-the-supreme-courts-decision-on-usaid-funding/',
+        linkText: 'FindLaw',
+      },
+    ],
+  },
+
+  {
+    id: 'SCOTUS_Rejects_Climate',
+    categories: ['Project 2025', 'Resist', 'Courts', 'Climate'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-10',
+    title: 'Supreme Court rejects Republican-led effort to halt climate change lawsuits in Democratic-led states',
+    body: 'The justices acted on an unusual Republican effort to file suit in the Supreme Court over the Democratic states’ use of their own state courts to sue fossil fuel companies for deceiving the public about the risks of their products contributing to climate change.',
+    links: [
+      {
+        href: 'https://apnews.com/article/supreme-court-climate-change-state-lawsuits-d38a557894276083f94f47cae4127ddd',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Ontario_Resist',
+    categories: ['Project 2025', 'Resist', 'Global'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-10',
+    title: 'Ontario slaps 25% tax increase on electricity exports to US in response to Trump’s trade war',
+    body: '“I will not hesitate to increase this charge. If the United States escalates, I will not hesitate to shut the electricity off completely,” Ontario Premier Doug Ford said at a news conference in Toronto.',
+    links: [
+      {
+        href: 'https://apnews.com/article/canada-ontario-us-trump-tariffs-electricity-834dc3d9defd314923912f9bd8540e31',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Greenland_Valuable',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-10',
+    title: 'What makes Greenland a strategic prize at a time of rising tensions? And why now?',
+    body: 'Trump’s interest in Greenland, restated vigorously soon after he returned to the White House in January, comes as part of an aggressively “America First” foreign policy platform that includes demands for Ukraine to hand over mineral rights in exchange for continued military aid, threats to take control of the Panama Canal, and suggestions that Canada should become the 51st U.S. state.',
+    links: [
+      {
+        href: 'https://apnews.com/article/greenland-trump-independence-election-denmark-china-russia-c86afc33375d0fe260f065a662e04b57',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Fed-Worker_Rogue',
+    categories: ['Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-10',
+    title: 'Meet the federal worker who went rogue: ‘I hope that it lights a fire under people’',
+    body: 'To billionaire Elon Musk and his cost-cutting team at the Department of Government Efficiency, Karen Ortiz may just be one of many faceless bureaucrats. But to some of her colleagues, she is giving a voice to those who feel they can’t speak out.',
+    links: [
+      {
+        href: 'https://apnews.com/article/eeoc-pushback-karen-ortiz-transgender-6ebc3cfb90298ae06f46d0ed4898733d',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Rubio_Purge',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-10',
+    title: 'Secretary of State Rubio says purge of USAID programs complete, with 83% of agency’s programs gone',
+    body: 'Rubio thanked DOGE and “our hardworking staff who worked very long hours to achieve this overdue and historic reform” in foreign aid.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-musk-rubio-usaid-foreign-aid-bf442d62af67918a6fc5eee839074601',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Boebert_Challenged',
+    categories: ['Project 2025', 'FAFO', 'Resist'],
+    color: 'green',
+    faicon: 'poo',
+    date: '2025-03-10',
+    title: 'Lauren Boebert accused of racism and ableism over her criticism of Al Green',
+    body: 'The extremist Republican US House member Lauren Boebert has been accused of racism, ableism and hypocrisy in one fell swoop after criticizing a Black Democrat for “shaking his pimp cane” at Donald Trump during the president’s recent speech to Congress.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/10/lauren-boebert-al-green',
+        linkText: 'The Guardian',
       },
     ],
   },
@@ -58,7 +186,7 @@ const entries = [
   },
 
   {
-    id: 'Protestor_Judge-Block',
+    id: 'Activist_Judge-Block',
     categories: ['Discrimination', 'Project 2025', 'Courts'],
     color: 'green',
     faicon: 'landmark',
@@ -74,7 +202,7 @@ const entries = [
   },
  
   {
-    id: 'Protestor_Arrested',
+    id: 'Activist_Arrested',
     categories: ['Discrimination', 'Project 2025', 'Fascism'],
     color: 'red',
     faicon: 'fire',
@@ -168,9 +296,26 @@ const entries = [
       },
     ],
   },
+
+  {
+    id: 'Democrats_Misreading',
+    categories: ['Project 2025', 'Tiddlywinks'],
+    color: 'red',
+    faicon: 'democrat',
+    date: '2025-03-09',
+    title: 'The 10 Democrats who voted to censure Rep. Al Green are misreading the moment',
+    body: 'Every single day we are witnessing an unprecedented assault on our democratic order by Donald Trump and Elon Musk.',
+    links: [
+      {
+        href: 'https://www.msnbc.com/top-stories/latest/al-green-trump-resistance-democracy-rcna195314',
+        linkText: 'MSNBC',
+      },
+
+    ],
+  },
   
   {
-    id: 'Domocrats_Regret',
+    id: 'Democrats_Regret',
     categories: ['Project 2025', 'Tiddlywinks'],
     color: 'red',
     faicon: 'democrat',
@@ -219,6 +364,38 @@ const entries = [
       {
         href: 'https://archive.is/7zZA5',
         linkText: 'Business Insider (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'Autism_Vaccines',
+    categories: ['Project 2025', 'Health'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-03-08',
+    title: 'CDC to study vaccines and autism, despite several studies already finding no link',
+    body: 'The Centers for Disease Control and Prevention (CDC) will study whether vaccines cause autism, despite numerous existing studies already showing there is no link.',
+    links: [
+      {
+        href: 'https://abcnews.go.com/Health/cdc-study-vaccines-autism-despite-studies-finding-link/story?id=119584363',
+        linkText: 'ABC',
+      },
+    ],
+  },
+
+  {
+    id: 'MRNA_Attacks',
+    categories: ['Project 2025', 'Health'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-03-08',
+    title: 'MRNA vaccines now face attacks from some in the GOP',
+    body: 'Legislation aimed to ban or limit mRNA vaccines was introduced this year by GOP lawmakers in at least seven states. In some cases, the measures would hit doctors who give the injections with criminal penalties, fines, and possible revocation of their licenses.',
+    links: [
+      {
+        href: 'https://abcnews.go.com/Health/mrna-vaccines-now-face-attacks-gop/story?id=119553285',
+        linkText: 'ABC',
       },
     ],
   },
@@ -346,8 +523,10 @@ const entries = [
     ],
   },
 
+
+
   {
-    id: 'House_Censure2',
+    id: 'House_Censure4',
     categories: ['Project 2025', 'Tiddlywinks'],
     color: 'red',
     faicon: 'democrat',
@@ -363,17 +542,17 @@ const entries = [
   },
 
   {
-    id: 'House_Censure',
-    categories: ['Project 2025', 'Tiddlywinks'],
+    id: 'Litigants_Responsible',
+    categories: ['Project 2025', 'Fascism'],
     color: 'red',
-    faicon: 'democrat',
+    faicon: 'hammer',
     date: '2025-03-07',
-    title: 'The House censures Democratic Rep. Al Green for disrupting Trump’s joint address to Congress',
-    body: 'The resolution against Green was approved in a mostly party-line vote of 224-198. Ten Democrats voted for it; no Republicans voted against it.',
+    title: 'White House looks to hold litigants financially responsible for filing lawsuits against the government',
+    body: 'Trump\'s new memo tells agencies to use the Federal Rule of Civil Procedure 65(c) to ask the federal courts to hold litigants accountable for their lawsuits.',
     links: [
       {
-        href: 'https://apnews.com/article/house-censure-green-trump-joint-address-61d82026983c99a269209bbeb32b45a5?utm_source=substack&utm_medium=email',
-        linkText: 'AP',
+        href: 'https://federalnewsnetwork.com/federal-newscast/2025/03/white-house-looks-to-hold-litigants-financially-responsible-for-filing-lawsuits-against-the-government/',
+        linkText: 'Federal News Network',
       },
     ],
   },
@@ -406,6 +585,59 @@ const entries = [
       {
         href: 'https://www.politico.eu/article/donald-tusk-plan-train-poland-men-military-service-russia/',
         linkText: 'Politico',
+      },
+    ],
+  },
+
+  {
+    id: 'House_Censure3',
+    categories: ['Project 2025', 'Tiddlywinks', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-07',
+    title: '“We now live in a government that is of the plutocrats, by the plutocrats, for the plutocrats,” Congressmember Green tells Democracy Now! “We have to fight to protect those who cannot protect themselves.”',
+    links: [
+      {
+        href: 'https://www.democracynow.org/2025/3/7/impeachment_is_a_rremedy_for_a',
+        linkText: 'Democracy Now',
+      },
+    ],
+  },
+
+  {
+    id: 'House_Censure2',
+    categories: ['Project 2025', 'Tiddlywinks', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-06',
+    title: 'Screaming match breaks out in House after vote to censure Democrat Al Green',
+    body: 'Democrats began singing from the House well "We Shall Overcome."',
+    links: [
+      {
+        href: 'https://abcnews.go.com/Politics/republicans-move-censure-democrat-al-green-after-disrupted/story?id=119482259',
+        linkText: 'ABC',
+      },
+
+      {
+        href: 'https://www.bbc.co.uk/news/videos/c5y03q5wz4go',
+        linkText: 'BBC',
+      },
+
+    ],
+  },
+
+  {
+    id: 'House_Censure',
+    categories: ['Project 2025', 'Tiddlywinks'],
+    color: 'red',
+    faicon: 'democrat',
+    date: '2025-03-06',
+    title: 'The House censures Democratic Rep. Al Green for disrupting Trump’s joint address to Congress',
+    body: 'The resolution against Green was approved in a mostly party-line vote of 224-198. Ten Democrats voted for it; no Republicans voted against it.',
+    links: [
+      {
+        href: 'https://apnews.com/article/house-censure-green-trump-joint-address-61d82026983c99a269209bbeb32b45a5',
+        linkText: 'AP',
       },
     ],
   },
@@ -912,6 +1144,11 @@ const entries = [
       {
         href: 'https://www.npr.org/2025/03/04/nx-s1-5318102/trump-joint-session-al-green-protest',
         linkText: 'NPR',
+      },
+
+      {
+        href: ' https://www.bbc.co.uk/news/videos/c0q184n7qnjo',
+        linkText: 'BBC',
       },
     ],
   },
