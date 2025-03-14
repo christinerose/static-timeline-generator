@@ -21,12 +21,200 @@ const entries = [
   //Global = globe
   //Tiddlywinks = democrat
   //FAFO = poo
+  //Economy = coins
 
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
 
   //Layoffs, DOGE work, restructuring, etc. = Project 2025
   //DOGE & J6 = Fascism
  
+
+  {
+    id: 'Canada-EU_Retaliate',
+    categories: ['Economy', 'WW3', 'Global', 'Resist', 'Project 2025'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-13',
+    title: 'Canada and the EU swiftly retaliate against Trump’s steel and aluminum tariffs',
+    body: 'Major trade partners swiftly hit back at President Donald Trump’s increased tariffs on aluminum and steel imports, imposing stiff new taxes on U.S products from textiles and water heaters to beef and bourbon.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-eu-tariffs-countermeasures-806a3b9bcc9cd4e45817e672d95f0070',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Canadian_Chains',
+    categories: ['Immigration', 'WW3', 'Global', 'Project 2025'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-13',
+    title: 'Canadian woman put in chains, detained by ICE after entering San Diego border',
+    body: 'A Canadian entrepreneur detained by ICE is speaking out after she got arrested while trying to enter the San Diego border to obtain a visa last Monday.',
+    links: [
+      {
+        href: 'https://www.10news.com/news/local-news/never-seen-anything-so-inhumane-canadian-woman-put-in-chains-detained-by-ice-after-entering-san-diego-border',
+        linkText: '10 News San Diego',
+      },
+    ],
+  },
+
+  {
+    id: 'Bitcoin_Red-Flags',
+    categories: ['Project 2025', 'Economy'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-13',
+    title: 'Top Trump official’s crypto ties raise red flags as the administration touts digital assets',
+    body: 'Critics of Trump\'s plan for a bitcoin reserve say it will serve primarily as a government backstop on the price of the asset, enriching current holders.',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/03/13/business/trump-officials-crypto-bitcoin/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'EU_Retaliate',
+    categories: ['Economy', 'WW3', 'Global', 'Resist', 'Project 2025'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-12',
+    title: 'Politics Trump’s 25% tariffs on steel and aluminum imports take effect, Europe retaliates',
+    body: 'The European Union said on Wednesday it would impose counter-tariffs on 26 billion euros ($28.33 billion) worth of U.S. goods starting in April in response to the duties.',
+    links: [
+      {
+        href: 'https://www.cnbc.com/2025/03/12/trumps-25percent-tariffs-on-steel-and-aluminum-imports-take-effect.html',
+        linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Canada_Retaliate',
+    categories: ['Economy', 'WW3', 'Global', 'Resist', 'Project 2025'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-12',
+    title: 'Canada will announce more than $20 billion in tariffs in response to Trump’s metal tariffs',
+    body: 'Canada will announce Canadian $29.8 billion ($20.7 billion) in retaliatory tariffs in response to the 25% steel and aluminum tariffs that U.S. President Donald Trump has leveled',
+    links: [
+      {
+        href: 'https://apnews.com/article/canada-trump-us-tariffs-steel-2517a6a2baf0596cb1a43d3a7d1e7939',
+        linkText: 'AP',
+      },
+
+      {
+        href: 'https://www.nbcnews.com/business/economy/canada-retaliatory-tariffs-21-billion-us-goods-trump-tariffs-latest-rcna196012',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Judge_Pauses_Trial',
+    categories: ['Project 2025', 'Courts', 'LGBTQ'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-03-12',
+    title: 'Judge Forced to Pause Trial Because DOJ Lawyers Are so Unprepared',
+    body: 'Justice Department lawyers had not read any of the three reports Defense Secretary Pete Hegseth cited in his ban on transgender military service members.',
+    links: [
+      {
+        href: 'https://newrepublic.com/post/192657/judge-military-trans-ban-trial-lawyers-incompetence',
+        linkText: 'The New Republic',
+      },
+    ],
+  },
+
+  {
+    id: 'Tesla_White-House',
+    categories: ['FAFO', 'Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-03-11',
+    title: 'Trump Turns White House into Tesla Lot to Boost Struggling Stock',
+    body: 'The president appeared with Elon Musk to show off some electric vehicles, promising to buy one even though he can\'t drive',
+    links: [
+      {
+        href: 'https://archive.is/2025.03.11-215711/https://www.rollingstone.com/politics/politics-news/trump-white-house-tesla-lot-stock-1235293916/',
+        linkText: 'Rolling Stone (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'Tesla_Terrorism',
+    categories: ['Fascism', 'Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-11',
+    title: 'Vandalize a Tesla dealership? Trump says he\'ll label that domestic terrorism.',
+    body: 'President Donald Trump says he will label attacks against Tesla dealerships domestic terrorism in response to the recent spate of vandalisms against Elon Musk\'s EV company.',
+    links: [
+      {
+        href: 'https://archive.is/44VOt',
+        linkText: 'Business Insider (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'EU_Pledge',
+    categories: ['Global', 'Resist', 'WW3'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-11',
+    title: 'EU’s top diplomat pledges unified support for Ukraine and global humanitarian aid in dig at US',
+    body: 'The European Union has a message for the Trump administration: It will continue supporting Ukraine against Russia’s illegal invasion, step up humanitarian aid when others pull back, and boost global teamwork to address the world’s challenges.',
+    links: [
+      {
+        href: 'https://apnews.com/article/european-union-united-nations-trump-russia-ukraine-02dadb854440861864733211e687b9b5',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+
+  {
+    id: 'Freedom_Cities',
+    categories: ['Fascism', 'Economy'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-03-11',
+    title: 'Tech Execs Are Pushing Trump to Build ‘Freedom Cities’ Run by Corporations',
+    body: 'A new lobbying group, dubbed the Freedom Cities Coalition, wants to convince President Trump and Congress to authorize the creation of new special development zones within the U.S. These zones would allow wealthy investors to write their own laws and set up their own governance structures which would be corporately controlled and wouldn’t involve a traditional bureaucracy.',
+    links: [
+      {
+        href: 'https://gizmodo.com/tech-execs-are-pushing-trump-to-build-freedom-cities-run-by-corporations-2000574510',
+        linkText: 'Gizmodo',
+      },
+    ],
+  },
+
+  {
+    id: 'Restore_Support',
+    categories: ['WW3', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-11',
+    title: 'U.S. to Restore Military Support to Ukraine After It Agrees to Cease-Fire',
+    body: 'The 30-day truce, which is contingent on Russian acceptance, envisions the start of talks between Kyiv and Moscow on halting the war',
+    links: [
+      {
+        href: 'https://www.wsj.com/politics/national-security/marco-rubio-says-talks-in-saudi-arabia-key-to-resuming-military-support-for-ukraine-cb34b5a5?ueid=ffb28db06ced21f14e4653d5131fad10',
+        linkText: 'Washington Street Journal',
+      },
+
+      {
+        href: 'https://apnews.com/video/rubio-says-it-will-be-highly-unfortunate-if-russia-rejects-ukraine-ceasefire-proposal-79f4b7ae798e40448cfbe9c35ffa26df?utm_source=substack&utm_medium=email',
+        linkText: 'AP',
+      },
+    ],
+  },
 
   {
     id: 'Activist_Arrested2',
@@ -56,6 +244,27 @@ const entries = [
       {
         href: 'https://www.cnbc.com/2025/03/11/trump-says-hes-buying-a-tesla-to-support-elon-musk-and-counter-illegal-boycott-of-ev-maker.html',
         linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Canada_Raises_Elec',
+    categories: ['Resist', 'Global', 'Project 2025', 'Economy'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-10',
+    title: 'Ontario Raises Electricity Price by 25% for Minnesota, Michigan and New York',
+    body: 'A Canadian province that exports electricity to the US raised power prices for three states by 25% on Monday in retaliation for President Donald Trump’s tariffs.',
+    links: [
+      {
+        href: 'https://archive.is/2025.03.10-180639/https://www.bloomberg.com/news/articles/2025-03-10/ontario-raises-electricity-price-by-25-for-minnesota-michigan-and-new-york',
+        linkText: 'Bloomberg (via archive.is)',
+      },
+
+      {
+        href: 'https://apnews.com/article/canada-ontario-us-trump-tariffs-electricity-834dc3d9defd314923912f9bd8540e31',
+        linkText: 'AP',
       },
     ],
   },
@@ -158,7 +367,7 @@ const entries = [
 
   {
     id: 'Ontario_Resist',
-    categories: ['Project 2025', 'Resist', 'Global'],
+    categories: ['Project 2025', 'Resist', 'Global', 'Economy'],
     color: 'green',
     faicon: 'globe',
     date: '2025-03-10',
@@ -297,6 +506,7 @@ const entries = [
         href: 'https://www.wdio.com/front-page/world-national/more-than-brick-and-mortar-dc-begins-removing-black-lives-matter-plaza-near-the-white-house/',
         linkText: 'WDIO',
       },
+      
     ],
   },
 
@@ -318,7 +528,7 @@ const entries = [
 
   {
     id: 'Recession',
-    categories: ['Project 2025'],
+    categories: ['Project 2025', 'Economy'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-10',
@@ -350,7 +560,7 @@ const entries = [
 
   {
     id: 'Trump_Downplays',
-    categories: ['Project 2025', 'Global'],
+    categories: ['Project 2025', 'Global', 'Economy'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-10',
@@ -361,6 +571,23 @@ const entries = [
         href: 'https://apnews.com/article/trump-tariffs-recession-economy-higher-prices-7f481abbaae500bf826445236b958e61',
         linkText: 'AP',
       },
+    ],
+  },
+
+  {
+    id: 'Mineral_Deal_Plus',
+    categories: ['Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-09',
+    title: 'Trump wants to see more than just a minerals deal to restart aid and intel to Ukraine',
+    body: 'U.S. and Ukrainian officials are set to meet in Saudi Arabia this week, with Trump focused on Zelenskyy’s willingness to make concessions in negotiations.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/national-security/trump-wants-see-just-minerals-deal-restart-aid-intel-ukraine-rcna195508',
+        linkText: 'NBC',
+      },
+
     ],
   },
 
@@ -400,7 +627,7 @@ const entries = [
 
   {
     id: 'Poland_Spat_Starlink',
-    categories: ['Project 2025', 'Global', 'WW3'],
+    categories: ['Project 2025', 'Global', 'WW3', 'DOGE'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-09',
@@ -416,6 +643,23 @@ const entries = [
         href: 'https://www.france24.com/en/live-news/20250309-after-poland-spat-musk-vows-ukraine-can-keep-starlink',
         linkText: 'France 24',
       },
+    ],
+  },
+
+  {
+    id: 'BLM-2B_Removed',
+    categories: ['Discrimination', 'Project 2025'],
+    color: 'red',
+    faicon: 'person',
+    date: '2025-03-08',
+    title: 'D.C.\'s Black Lives Matter mural will be erased. Look back at the iconic street painting',
+    body: 'The decision to remove the enormous mural near the White House comes after a U.S. Rep. Andrew Clyde, R-Ga., introduced legislation earlier this week that gave D.C. an ultimatum: either paint over the slogan or risk losing federal funding. ',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/03/08/nx-s1-5321872/dc-black-lives-matter-street-mural-history',
+        linkText: 'NPR',
+      },
+      
     ],
   },
 
@@ -469,7 +713,7 @@ const entries = [
 
   {
     id: 'Not_Elon_Fault',
-    categories: ['Project 2025', 'WW3', 'Global'],
+    categories: ['Project 2025', 'WW3', 'Global', 'DOGE'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-08',
@@ -484,8 +728,72 @@ const entries = [
   },
 
   {
+    id: 'Tariff_Threat2',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-07',
+    title: 'Trump Threatens New Banking Sanctions on Russia Over Ukraine',
+    body: 'President Donald Trump said he’s “strongly considering” fresh banking sanctions and tariffs on Russia over its continued attacks on Ukraine, ramping up pressure ahead of expected negotiations to end the conflict.',
+    links: [
+      {
+        href: 'https://archive.is/2025.03.07-170945/https://www.bloomberg.com/news/articles/2025-03-07/trump-threatens-new-banking-sanctions-on-russia-over-ukraine',
+        linkText: 'Bloomberg (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'Tariff_Threat',
+    categories: ['Project 2025', 'Global', 'Economy'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-07',
+    title: 'Trump threatens new tariffs on Canada, including 250% tax on dairy',
+    body: 'A day after offering Canada a one-month reprieve on punishing, virtually across-the-board 25% tariffs, President Donald Trump has threatened new tariffs as soon as Friday on Canadian lumber and dairy products.',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/03/07/business/tariffs-trump-canada/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'Bitcoin_Trump',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-07',
+    title: 'Trump signs order to establish strategic bitcoin reserve',
+    body: 'A "Strategic Bitcoin Reserve" will be capitalized with bitcoin owned by the federal government that was seized as part of criminal or civil asset forfeiture proceedings',
+    links: [
+      {
+        href: 'https://www.reuters.com/technology/trump-signs-order-establish-strategic-bitcoin-reserve-white-house-crypto-czar-2025-03-07/',
+        linkText: 'Reuters',
+      },
+
+      {
+        href: 'https://www.cnbc.com/2025/03/06/trump-signs-executive-order-for-us-strategic-bitcoin-reserve.html',
+        linkText: 'CNBC',
+      },
+
+      {
+        href: 'https://www.bbc.co.uk/news/articles/cqx0g1py5v0o',
+        linkText: 'BBC',
+      },
+
+      {
+        href: 'https://www.theatlantic.com/technology/archive/2025/03/trump-crypto-reserve-executive-order/681977/',
+        linkText: 'The Atlantic',
+      },
+    ],
+  },
+
+
+  {
     id: 'Oregon_Tesla',
-    categories: ['Project 2025', 'Resist'],
+    categories: ['Project 2025', 'Resist', 'DOGE'],
     color: 'green',
     faicon: 'hammer',
     date: '2025-03-07',
@@ -511,7 +819,7 @@ const entries = [
 
   {
     id: 'Baltimore_Tesla',
-    categories: ['Project 2025', 'Resist'],
+    categories: ['Project 2025', 'Resist', 'DOGE'],
     color: 'green',
     faicon: 'hammer',
     date: '2025-03-07',
@@ -537,6 +845,22 @@ const entries = [
       {
         href: 'https://www.washingtonpost.com/national-security/2025/03/07/doge-emails-cyber-command-intel/',
         linkText: 'Washington Post',
+      },
+    ],
+  },
+
+  {
+    id: 'Tariff_History',
+    categories: ['Project 2025', 'Global', 'Economy'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-07',
+    title: 'The short history of Trump\'s tariff chaos — and more that happened this week',
+    body: 'After drops in the stock market, outcry from the Big Three automakers in the U.S. and a conversation with Mexico\'s president, President Trump again reversed himself and is delaying tariffs against Mexico and Canada.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/03/07/nx-s1-5320159/trump-week-tariffs-mexico-canada-doge',
+        linkText: 'NPR',
       },
     ],
   },
@@ -807,7 +1131,7 @@ const entries = [
 
   {
     id: 'NIH_Trans',
-    categories: ['Project 2025', 'LBGTQ'],
+    categories: ['Project 2025', 'LGBTQ'],
     color: 'red',
     faicon: 'rainbow',
     date: '2025-03-06',
@@ -823,7 +1147,7 @@ const entries = [
 
   {
     id: 'Layoff_Spike',
-    categories: ['Project 2025', 'DOGE'],
+    categories: ['Project 2025', 'DOGE', 'Economy' ],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-06',
@@ -871,7 +1195,7 @@ const entries = [
 
   {
     id: 'Trump_Caves',
-    categories: ['Global', 'Project 2025'],
+    categories: ['Global', 'Project 2025', 'Economy'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-06',
@@ -887,7 +1211,7 @@ const entries = [
 
   {
     id: 'Canada_Retalitory',
-    categories: ['Global', 'Project 2025', 'Resist'],
+    categories: ['Global', 'Project 2025', 'Resist', 'Economy'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-03-06',
@@ -897,6 +1221,21 @@ const entries = [
       {
         href: 'https://apnews.com/article/trudeau-trump-canada-tariffs-921138ff86144357b36610475d37801e',
         linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Tesla_Arson',
+    categories: ['FAFO', 'Project 2025', 'DOGE'],
+    faicon: 'poo',
+    date: '2025-03-05',
+    title: 'Tesla sites hit by arson amid DOGE cuts, Elon Musk backlash',
+    body: 'The attacks come as Elon Musk’s Department of Government Efficiency continues to slash jobs of thousands of federal workers',
+    links: [
+      {
+        href: 'https://www.independent.co.uk/news/world/americas/crime/tesla-cars-power-stations-elon-musk-b2709001.html',
+        linkText: 'The Independent',
       },
     ],
   },
@@ -917,10 +1256,26 @@ const entries = [
     ],
   },
 
+  {
+    id: 'Abortion_Ban_Over',
+    categories: ['Health', 'Project 2025', 'Resist', 'Women'],
+    color: 'green',
+    faicon: 'virus',
+    date: '2025-03-05',
+    title: 'Arizona’s 15-week abortion ban is now ‘permanently and forever’ struck down',
+    body: 'Doctors and women now have the final say about when an abortion should be performed, after a Maricopa County Superior Court judge struck down the state’s 15-week ban following last year’s vote to enshrine abortion rights in the Arizona Constitution. ',
+    links: [
+      {
+        href: 'https://azmirror.com/2025/03/05/arizonas-15-week-abortion-ban-is-now-permanently-and-forever-struck-down/',
+        linkText: 'AZ Mirror',
+      },
+    ],
+  },
+
 
   {
     id: 'Mexico_Retalitory',
-    categories: ['Global', 'Project 2025', 'Resist'],
+    categories: ['Global', 'Project 2025', 'Resist', 'Economy'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-03-05',
@@ -936,7 +1291,7 @@ const entries = [
 
   {
     id: 'Tariff_Pause',
-    categories: ['Global', 'Project 2025'],
+    categories: ['Global', 'Project 2025', 'Economy'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-05',
@@ -1055,7 +1410,7 @@ const entries = [
 
   {
     id: 'Tariff_War',
-    categories: ['Project 2025', 'Global', 'WW3'],
+    categories: ['Project 2025', 'Global', 'WW3', 'Economy'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-05',
@@ -1157,7 +1512,7 @@ const entries = [
 
   {
     id: 'Democrats_WalkOut',
-    categories: ['Resist', 'Facism'],
+    categories: ['Resist', 'Fascism'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-03-05',
@@ -1298,7 +1653,7 @@ const entries = [
 
   {
     id: 'Tariffs_Go',
-    categories: ['Project 2025', 'Global'],
+    categories: ['Project 2025', 'Global', 'Economy'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-04',
@@ -1314,7 +1669,7 @@ const entries = [
 
   {
     id: 'Tariffs_FAFO',
-    categories: ['FAFO'],
+    categories: ['FAFO', 'Economy'],
     color: 'red',
     faicon: 'poo',
     date: '2025-03-04',
@@ -1330,7 +1685,7 @@ const entries = [
 
   {
     id: 'Fentanyl_Pretext',
-    categories: ['Project 2025', 'Global'],
+    categories: ['Project 2025', 'Global', 'Economy'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-04',
@@ -1401,7 +1756,7 @@ const entries = [
 
   {
     id: 'Elon_Sux',
-    categories: ['Resist'],
+    categories: ['Resist', 'DOGE'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-03-03',
@@ -1744,7 +2099,7 @@ const entries = [
 
   {
     id: 'Tariffs_Increase',
-    categories: ['Project 2025', 'Global', 'WW3'],
+    categories: ['Project 2025', 'Global', 'WW3', 'Economy'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-27',
@@ -2000,7 +2355,7 @@ const entries = [
 
   {
     id: 'Can_Mex_Tariffs',
-    categories: ['Project 2025', 'Global'],
+    categories: ['Project 2025', 'Global', 'Economy'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-25',
@@ -2291,6 +2646,22 @@ const entries = [
   }, 
 
   {
+    id: 'Bannon_Salute',
+    categories: ['Fascism', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-02-21',
+    title: 'French far-right leader cancels speech, accusing Bannon of \'Nazi\' gesture',
+    body: 'Steve Bannon yelled "fight, fight, fight" before extending his right arm, fingers pointed and palm down, during his speech at the Conservative Political Action Conference (Cpac) near Washington DC on Thursday evening.',
+    links: [
+      {
+        href: 'https://www.bbc.co.uk/news/articles/cx2glydm3gmo',
+        linkText: 'BBC',
+      },
+    ],
+  },
+
+  {
     id: 'Town_Hall_Pushback',
     categories: ['Project 2025', 'FAFO', 'Resist', 'DOGE'],
     color: 'green',
@@ -2457,7 +2828,7 @@ const entries = [
 
   {
     id: 'Judge_Blocks_Abortion',
-    categories: ['Project 2025', 'Health'],
+    categories: ['Project 2025', 'Health', 'Women'],
     color: 'green',
     faicon: 'hammer',
     date: '2025-02-20',
@@ -3094,7 +3465,7 @@ const entries = [
 
   {
     id: 'RFK-Sworn-In',
-    categories: ['Health', 'Project 2025'],
+    categories: ['Health', 'Project 2025', 'Women'],
     color: 'red',
     faicon: 'virus',
     date: '2025-02-14',
@@ -3210,7 +3581,7 @@ const entries = [
 
   {
     id: 'Trump-Recipricol-Tariffs',
-    categories: ['Project 2025', 'Global', 'WW3'],
+    categories: ['Project 2025', 'Global', 'WW3', 'Economy'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-13',
@@ -3753,7 +4124,7 @@ const entries = [
 
   {
     id: 'Trump-Steel-Tarifs',
-    categories: ['Project 2025', 'Global'],
+    categories: ['Project 2025', 'Global', 'Economy'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-10',
@@ -4175,7 +4546,7 @@ const entries = [
 
   {
     id: 'Columbia-Caves',
-    categories: ['Immigration', 'Project 2025'],
+    categories: ['Immigration', 'Project 2025', 'Economy'],
     color: 'red',
     faicon: 'plane',
     date: '2025-01-27',
@@ -4261,7 +4632,7 @@ const entries = [
 
   {
     id: 'Canada-Mexico-Tariffs',
-    categories: ['Global', 'Fascism'],
+    categories: ['Global', 'Fascism', 'Economy'],
     color: 'red',
     faicon: 'globe',
     date: '2025-01-26',
