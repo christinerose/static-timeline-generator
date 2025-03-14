@@ -30,6 +30,22 @@ const entries = [
  
 
   {
+    id: 'French_Champagne',
+    categories: ['WW3', 'Global', 'Project 2025'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-13',
+    title: 'Trump threatens to put 200% tariff on French Champagne and other EU spirits',
+    body: 'The U.S. tariff comes after the European Union moved to reinstate an import tax on American whiskey.',
+    links: [
+      {
+        href: 'https://www.cnbc.com/2025/03/13/trump-threatens-to-put-200percent-tariff-on-french-champagne-and-other-eu-spirits.h',
+        linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
     id: 'Canada-EU_Retaliate',
     categories: ['Economy', 'WW3', 'Global', 'Resist', 'Project 2025'],
     color: 'green',
@@ -78,6 +94,96 @@ const entries = [
   },
 
   {
+    id: 'EPA_Unwind',
+    categories: ['Climate', 'Project 2025'],
+    color: 'red',
+    faicon: 'radiation',
+    date: '2025-03-13',
+    title: 'Trump’s EPA insists climate change isn’t a danger',
+    body: 'How a foundational climate regulation is under threat — and how environmental groups plan to fight back.',
+    links: [
+      {
+        href: 'https://archive.is/ybrgV',
+        linkText: 'Vox (via archive.is)',
+      },
+
+      {
+        href: 'https://www.epa.gov/newsreleases/epa-launches-biggest-deregulatory-action-us-history',
+        linkText: 'EPA News',
+      },
+    ],
+  },
+
+  {
+    id: 'FBI_Target_Envioronment',
+    categories: ['Climate', 'Fascism'],
+    color: 'red',
+    faicon: 'radiation',
+    date: '2025-03-12',
+    title: 'Trump\’s FBI Moves to Criminally Charge Major Climate Groups',
+    body: 'The FBI is moving to criminalize groups like Habitat for Humanity for receiving grants from the Environmental Protection Agency under the Biden administration.',
+    links: [
+      {
+        href: 'https://newrepublic.com/post/192660/trump-fbi-charge-climate-organizations',
+        linkText: 'New Republic',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Sex_Criminal',
+    categories: ['FAFO'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-03-12',
+    title: 'Robert Morris, former Texas megachurch pastor and Trump adviser, indicted for child sex crimes',
+    body: 'Morris is a former spiritual adviser to President Donald Trump, and Gateway — one of the nation’s largest megachurches — has been particularly active in Dallas-area GOP politics. (Another "religious leader" caught as a sexual predator. Surprise. Surprise.)',
+    links: [
+      {
+        href: 'https://www.texastribune.org/2025/03/12/robert-morris-texas-megachurch-indicted-sexual-abuse/',
+        linkText: 'Texas Tribune',
+      },
+    ],
+  },
+
+  {
+    id: 'Education_Layoffs',
+    categories: ['Education', 'DOGE', 'Project 2025'],
+    color: 'red',
+    faicon: 'scroll',
+    date: '2025-03-12',
+    title: 'Education Department cuts half its staff as Trump vows to wind the agency down',
+    body: 'The Education Department plans to lay off more than 1,300 of its employees as part of an effort to halve the organization’s staff -- a prelude to President Donald Trump’s plan to dismantle the agency.',
+    links: [
+      {
+        href: 'https://apnews.com/article/education-department-layoffs-job-cuts-linda-mcmahon-ce9f6a8a63972aede0d8fbdf057ab788',
+        linkText: 'AP',
+      },
+
+      {
+        href: 'https://www.vox.com/politics/403568/conservatives-decades-long-quest-to-destroy-the-department-of-education',
+        linkText: 'Vox',
+      },
+    ],
+  },
+
+  {
+    id: 'Inflation_Cooled',
+    categories: ['Economy', 'Global', 'Project 2025'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-12',
+    title: 'US inflation cooled in February, but Trump’s tariff plans and trade war loom',
+    body: 'Inflation slowed more than expected in February and cooled for the first time in five months, but that progress may be short lived as President Donald Trump ramps up his trade war, which threatens to increase prices for Americans.',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/03/12/economy/us-cpi-consumer-inflation-february/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
     id: 'EU_Retaliate',
     categories: ['Economy', 'WW3', 'Global', 'Resist', 'Project 2025'],
     color: 'green',
@@ -89,6 +195,11 @@ const entries = [
       {
         href: 'https://www.cnbc.com/2025/03/12/trumps-25percent-tariffs-on-steel-and-aluminum-imports-take-effect.html',
         linkText: 'CNBC',
+      },
+
+      {
+        href: 'https://www.nbcnews.com/business/economy/trump-tariffs-steel-aluminum-levies-imports-europe-china-uk-japan-rcna195810',
+        linkText: 'NBC',
       },
     ],
   },
@@ -131,17 +242,86 @@ const entries = [
   },
 
   {
+    id: 'Women_Harder_Vote',
+    categories: ['Women', 'Project 2025'],
+    color: 'red',
+    faicon: 'venus',
+    date: '2025-03-11',
+    title: 'NH’s new ID requirements send some would-be voters home to grab passports, birth certificates',
+    body: 'New Hampshire has made it harder for married women to vote.',
+    links: [
+      {
+        href: 'https://www.nhpr.org/nh-news/2025-03-11/nhs-new-id-requirements-send-some-would-be-voters-home-to-grab-passports-birth-certificates=',
+        linkText: 'New Hampshire NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Dems_Brank',
+    categories: ['Tiddlywinks'],
+    color: 'red',
+    faicon: 'democrat',
+    date: '2025-03-11',
+    title: 'Dems’ own polling shows massive brand problem ahead of 2026',
+    body: 'The poll found a whopping 69 percent of voters said Democrats were “too focused on being politically correct.” Another 51 percent said “elitist” described the Democratic Party well.',
+    links: [
+      {
+        href: 'https://www.politico.com/news/2025/03/11/poll-democrats-jobs-economy-00222988',
+        linkText: 'Politico',
+      },
+    ],
+  },
+
+  {
     id: 'Tesla_White-House',
     categories: ['FAFO', 'Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'poo',
     date: '2025-03-11',
     title: 'Trump Turns White House into Tesla Lot to Boost Struggling Stock',
-    body: 'The president appeared with Elon Musk to show off some electric vehicles, promising to buy one even though he can\'t drive',
+    body: 'The president appeared with Elon Musk to show off some electric vehicles, promising to buy one even though he can\'t drive. Trump bought an $80,000 Tesla and falsely claimed boycotts were illegal.',
     links: [
       {
         href: 'https://archive.is/2025.03.11-215711/https://www.rollingstone.com/politics/politics-news/trump-white-house-tesla-lot-stock-1235293916/',
         linkText: 'Rolling Stone (via archive.is)',
+      },
+
+      {
+        href: 'https://apnews.com/article/trump-musk-tesla-9a43c57a0591a4c7ed8d3f1b2c7ef8d9',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Backs_Off',
+    categories: ['Global', 'Project 2025', 'Economy'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-11',
+    title: 'Trump backs off of Canada tariff hike as Ontario lets up on electricity threat',
+    body: 'The day before steel and aluminum tariffs on all U.S. trading partners are set to go into effect, President Trump announced — and then hours later rescinded — tariffs on Canadian steel and aluminum at double the rate of the rest of the world. (Back & Forth. Back & Forth.)',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/03/11/nx-s1-5324639/trump-canada-tariffs-aluminum-steel',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Tesla_More-Protests',
+    categories: ['Fascism', 'Project 2025', 'DOGE', 'Resist'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-03-11',
+    title: 'The Tesla protests are getting bigger — and rowdier',
+    body: 'Protests escalated at Tesla showrooms across the nation. Hundreds of people gathered to boycott Elon Musk and his involvement in the Trump administration as the head of the Department of Government Efficiency (DOGE), which is overseeing a massively disruptive effort to fire thousands of federal workers to slash government spending.',
+    links: [
+      {
+        href: 'https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk',
+        linkText: 'The Verge',
       },
     ],
   },
@@ -239,11 +419,27 @@ const entries = [
     faicon: 'fire',
     date: '2025-03-11',
     title: 'Trump calls Tesla boycott ‘illegal’ and says he’s buying one to support Elon Musk',
-    body: ' Trump said “radical left lunatics” are “illegally and collusively” boycotting Tesla, which the president described as one of the best automakers in the world. This action, Trump said, was meant as an attack on Musk and what he stands for.',
+    body: 'Trump said “radical left lunatics” are “illegally and collusively” boycotting Tesla, which the president described as one of the best automakers in the world. This action, Trump said, was meant as an attack on Musk and what he stands for.',
     links: [
       {
         href: 'https://www.cnbc.com/2025/03/11/trump-says-hes-buying-a-tesla-to-support-elon-musk-and-counter-illegal-boycott-of-ev-maker.html',
         linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Judge_Orders_DOGE_Release',
+    categories: ['Courts', 'DOGE', 'Project 2025'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-10',
+    title: 'Judge orders urgent release of DOGE records, citing ‘unprecedented’ power and ‘unusual secrecy’',
+    body: 'It’s the first significant ruling in a growing legal push to pierce DOGE’s secretive veil, a decision that undercuts Musk’s repeated insistence about the operation’s transparency.',
+    links: [
+      {
+        href: 'https://www.politico.com/news/2025/03/10/judge-orders-doge-record-release-00223151',
+        linkText: 'Politico',
       },
     ],
   },
