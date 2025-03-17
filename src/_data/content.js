@@ -22,12 +22,191 @@ const entries = [
   //Tiddlywinks = democrat
   //FAFO = poo
   //Economy = coins
+  //Civil Liberties = flag
 
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
 
   //Layoffs, DOGE work, restructuring, etc. = Project 2025
   //DOGE & J6 = Fascism
  
+
+
+
+  {
+    id: 'Trump_Ignores_Judge',
+    categories: ['Immigration', 'Project 2025', 'Courts', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-17',
+    title: 'Trump administration deports hundreds of immigrants even as a judge orders their removals be stopped',
+    body: 'U.S. District Judge James E. Boasberg issued an order Saturday temporarily blocking the deportations, but lawyers told him there were already two planes with immigrants in the air — one headed for El Salvador, the other for Honduras. Boasberg verbally ordered the planes be turned around, but they apparently were not and he did not include the directive in his written order.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-venezuela-el-salvador-immigration-dd4f61999f85c4dd8bcaba7d4fc7c9af',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Detains_Doctor',
+    categories: ['Immigration', 'Project 2025', 'Women', 'Discrimination'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-17',
+    title: 'DHS detains Lebanese doctor with a work visa to teach medicine in the US',
+    body: 'Dr. Rasha Alawieh had a valid H1B visa, or work visa, that had been issued on March 11. A Lebanese citizen, she was employed by Brown University as an assistant professor of medicine.',
+    links: [
+      {
+        href: 'https://abcnews.go.com/US/dhs-detains-lebanese-doctor-work-visa-teach-medicine/story?id=119858026',
+        linkText: 'ABC',
+      },
+    ],
+  },
+
+  {
+    id: 'Macron_Ukraine',
+    categories: ['WW3', 'Global', 'Resist'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-16',
+    title: 'Macron says Russia’s permission not needed to deploy troops in Ukraine',
+    body: 'The French President said, “If Ukraine requests allied forces to be on its territory, it is not up to Russia to accept or reject them.”',
+    links: [
+      {
+        href: 'https://www.theguardian.com/world/2025/mar/16/macron-says-russias-permission-not-needed-to-deploy-troops-in-ukraine',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'UK_Starlink',
+    categories: ['DOGE', 'Global', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-16',
+    title: '‘Deeply uncomfortable’: UK Starlink users switch off over Musk’s political machinations',
+    body: 'Tesla sales have tumbled, X has had an exodus of users, and now it seems cracks are appearing among those who have turned to Elon Musk’s Starlink satellite system as a means of staying connected in remote areas.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/technology/2025/mar/16/deeply-uncomfortable-uk-starlink-users-switch-off-over-musks-political-machinations',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Revokes_Visas',
+    categories: ['Immigration', 'Fascism', 'Discrimination', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-16',
+    title: 'US vows to revoke green cards and visas of pro-Palestinian protesters',
+    body: 'US Secretary of State Marco Rubio told CBS that there will be an increase in the detention of pro-Palestinian protesters and the revocation of their green cards and visas',
+    links: [
+      {
+        href: 'https://www.middleeasteye.net/live-blog/live-blog-update/us-vows-revoke-green-cards-and-visas-pro-palestinian-protesters',
+        linkText: 'Middle East Eye',
+      },
+    ],
+  },
+
+  {
+    id: 'Revokes_Visas',
+    categories: ['Immigration', 'Fascism', 'Courts'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-16',
+    title: 'Rubio Touts Migrants Sent to El Salvador After Judge Orders Planes Return',
+    body: 'Rubio\'s praise for the deportations on Sunday morning comes shortly after a federal judge temporarily halted the Trump administration\'s efforts and ordered the planes to return to the U.S.',
+    links: [
+      {
+        href: 'https://www.newsweek.com/rubio-touts-migrants-sent-el-salvador-after-judge-orders-planes-return-2045576',
+        linkText: 'Newsweek',
+      },
+    ],
+  },
+
+  {
+    id: 'MN_LGBTQ',
+    categories: ['LGBTQ', 'Project 2025'],
+    color: 'red',
+    faicon: 'rainbow',
+    date: '2025-03-13',
+    title: 'Minnesota National Guard members receive email instructing those with gender dysphoria to voluntarily separate',
+    body: 'The email refers to President Donald Trump’s executive order that said gender dysphoria is inconsistent with “the rigorous standards necessary for military service.”',
+    links: [
+      {
+        href: 'https://www.mprnews.org/story/2025/03/13/minnesota-national-guard-receives-email-about-transgender-members',
+        linkText: 'MPR News',
+      },
+    ],
+  },
+
+  {
+    id: 'Hide_Students',
+    categories: ['Project 2025', 'Discrimination', 'Civil Liberties', 'Fascism' ],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-15',
+    title: 'The Justice Department is investigating whether Columbia University hid students sought by the US',
+    body: 'Columbia has come under immense pressure from the Trump administration in recent weeks, with the U.S. government canceling $400 million in federal grants and contracts to the school, much of it for medical research, as punishment for not cracking down harder on students and faculty who criticized Israel’s military action in Gaza during large protests last spring.',
+    links: [
+      {
+        href: 'https://apnews.com/article/columbia-university-mahmoud-khalil-ice-arrests-3a8db6e646b786a721089a6f0bc8d9fc',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'DOGE_Email',
+    categories: ['Project 2025', 'DOGE', 'Courts'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-15',
+    title: 'A DOGE staffer broke Treasury policy by emailing unencrypted personal data',
+    body: 'Court documents filed Friday in an ongoing lawsuit against the US Treasury Department reveal that a 25-year-old staffer for the Department of Government Efficiency (DOGE) violated Treasury policy by sending a spreadsheet that had personal information to two other members of the Trump administration.',
+    links: [
+      {
+        href: 'https://www.theverge.com/news/630894/doge-treasury-lawsuit-marko-elez-unencrypted-emails',
+        linkText: 'The Verge',
+      },
+    ],
+  },
+
+  {
+    id: 'Silence_Students',
+    categories: ['Fascist', 'Global', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-15',
+    title: 'After Columbia arrests, international college students fall silent',
+    body: 'International students and faculty across the U.S. say they feel afraid to voice opinions or stand out on campus for fear of getting kicked out of the country.',
+    links: [
+      {
+        href: 'https://apnews.com/article/columbia-university-trump-arrests-international-students-0551bb740eac7d5cec155a2d779a45d1',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'TSA_Sues',
+    categories: ['Courts', 'Project 2025'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-03-13',
+    title: 'TSA union sues Noem over stripping of bargaining rights',
+    body: 'The American Federation of Government Employees (AFGE) argues Noem has no power to end an already authorized seven-year contract, accusing the secretary of targeting the union after it brought a number of suits on behalf of government workers',
+    links: [
+      {
+        href: 'https://thehill.com/regulation/court-battles/5193939-union-sues-dhs-noem-tsa-contract/',
+        linkText: 'The Hill',
+      },
+    ],
+  },
 
   {
     id: 'French_Champagne',
@@ -39,7 +218,7 @@ const entries = [
     body: 'The U.S. tariff comes after the European Union moved to reinstate an import tax on American whiskey.',
     links: [
       {
-        href: 'https://www.cnbc.com/2025/03/13/trump-threatens-to-put-200percent-tariff-on-french-champagne-and-other-eu-spirits.h',
+        href: 'https://www.cnbc.com/2025/03/13/trump-threatens-to-put-200percent-tariff-on-french-champagne-and-other-eu-spirits.html',
         linkText: 'CNBC',
       },
     ],
@@ -63,7 +242,7 @@ const entries = [
 
   {
     id: 'Canadian_Chains',
-    categories: ['Immigration', 'WW3', 'Global', 'Project 2025'],
+    categories: ['Immigration', 'WW3', 'Global', 'Project 2025', 'Civil Liberties'],
     color: 'red',
     faicon: 'fire',
     date: '2025-03-13',
@@ -398,7 +577,7 @@ const entries = [
 
   {
     id: 'Activist_Arrested2',
-    categories: ['Discrimination', 'Project 2025', 'Fascism'],
+    categories: ['Discrimination', 'Project 2025', 'Fascism', 'Civil Liberties'],
     color: 'red',
     faicon: 'fire',
     date: '2025-03-11',
@@ -659,7 +838,7 @@ const entries = [
 
   {
     id: 'Activist_Judge-Block',
-    categories: ['Discrimination', 'Project 2025', 'Courts'],
+    categories: ['Discrimination', 'Project 2025', 'Courts', 'Civil Liberties'],
     color: 'green',
     faicon: 'landmark',
     date: '2025-03-10',
@@ -675,7 +854,7 @@ const entries = [
  
   {
     id: 'Activist_Arrested',
-    categories: ['Discrimination', 'Project 2025', 'Fascism'],
+    categories: ['Discrimination', 'Project 2025', 'Fascism', 'Civil Liberties'],
     color: 'red',
     faicon: 'fire',
     date: '2025-03-10',
@@ -5321,6 +5500,22 @@ const entries = [
       {
         href: 'https://www.huffingtonpost.co.uk/entry/trump-paris-climate_n_678e8350e4b099ed401ccbec',
         linkText: 'Huffington Post',
+      },
+    ],
+  },
+
+  {
+    id: 'Death_Penalty',
+    categories: ['Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-01-21',
+    title: 'Trump Issues Executive Order Restoring Federal Death Penalty',
+    body: 'Trump called for the use of capital punishment across the U.S. to be expanded, citing the false right-wing talking point that the death penalty is “an essential tool for deterring” crime, a claim that has been long debunked.',
+    links: [
+      {
+        href: 'https://truthout.org/articles/trump-issues-executive-order-restoring-federal-death-penalty/',
+        linkText: 'Truthout',
       },
     ],
   },
