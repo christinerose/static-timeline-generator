@@ -30,7 +30,53 @@ const entries = [
   //DOGE & J6 = Fascism
  
 
+  {
+    id: 'Canada_France_Meet',
+    categories: ['Health', 'Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-03-17',
+    title: 'Scientists say NIH officials told them to scrub mRNA references on grants',
+    body: 'National Institutes of Health officials have urged scientists to remove all references to mRNA vaccine technology from their grant applications, two researchers said, in a move that signaled the agency might abandon a promising field of medical research.',
+    links: [
+      {
+        href: 'https://www.msn.com/en-gb/health/medical/scientists-say-nih-officials-told-them-to-scrub-mrna-references-on-grants/ar-AA1B4uJ9',
+        linkText: 'MSN',
+      },
+    ],
+  },
 
+  {
+    id: 'Canada_France_Meet',
+    categories: ['WW3', 'Fascism', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-17',
+    title: 'Canada\'s Carney meets with European allies as Trump targets his country\'s sovereignty and economy',
+    body: '“In the current international context, we want to be able to develop our most strategic projects with our closest, more loyal partners," Macron said, adding that “we are stronger together, better able to ensure the respect of our interests, the full exercise of our sovereignty.”',
+    links: [
+      {
+        href: 'https://www.msn.com/en-us/news/world/canadas-carney-to-meet-with-european-allies-as-tensions-with-the-trump-administration-persist/ar-AA1B4yb5',
+        linkText: 'MSN',
+      },
+    ],
+  },
+
+  {
+    id: 'Removed_Black_Hero',
+    categories: ['Discrimination', 'Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-17',
+    title: 'Who Was Charles Rogers? US Defense Dept Removes Webpage On Medal Of Honor Recipient General',
+    body: 'The DOD removed a webpage honoring Black U.S. Army General Charles C. Rogers, a Medal of Honor recipient from the Vietnam War. This follows the Trump administration’s crackdown on DEI policies. The page showed a 404 error, with its URL reportedly altered(They\'re erasing black history.) ',
+    links: [
+      {
+        href: 'https://www.timesnownews.com/world/us/us-news/who-was-charles-rogers-us-defense-department-removes-webpage-on-medal-of-honor-recipient-general-article-119093340',
+        linkText: 'Times Now World',
+      },
+    ],
+  },
 
   {
     id: 'Trump_Ignores_Judge',
@@ -76,6 +122,22 @@ const entries = [
       {
         href: 'https://www.theguardian.com/world/2025/mar/16/macron-says-russias-permission-not-needed-to-deploy-troops-in-ukraine',
         linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Scientists_No-Jobs',
+    categories: ['FAFO', 'Project 2025', 'DOGE', 'Economy'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-03-16',
+    title: 'Young scientists see career pathways vanish as schools adapt to federal funding cuts',
+    body: 'Reductions to federal support for research at universities and other institutions under President Donald Trump are dimming young scientists’ prospects, cutting off pathways to career-building projects and graduate programs.',
+    links: [
+      {
+        href: 'https://apnews.com/young-scientists-see-career-pathways-vanish-as-schools-adapt-to-federal-funding-cuts-000001959e23d0e3addddf3fa7cc0000',
+        linkText: 'AP',
       },
     ],
   },
@@ -129,21 +191,22 @@ const entries = [
   },
 
   {
-    id: 'MN_LGBTQ',
-    categories: ['LGBTQ', 'Project 2025'],
+    id: 'Schumer_Dems',
+    categories: ['Tiddlywinks', 'Project 2025'],
     color: 'red',
-    faicon: 'rainbow',
-    date: '2025-03-13',
-    title: 'Minnesota National Guard members receive email instructing those with gender dysphoria to voluntarily separate',
-    body: 'The email refers to President Donald Trump’s executive order that said gender dysphoria is inconsistent with “the rigorous standards necessary for military service.”',
+    faicon: 'democrat',
+    date: '2025-03-16',
+    title: '‘Absolutely Ridiculous’: Democrats Seethe at Schumer for Backing G.O.P. Spending Bill',
+    body: 'The stream of criticism that Mr. Schumer has faced since his vote comes as the Democratic Party is divided on how best to oppose Mr. Trump’s agenda while facing dismal polling numbers.',
     links: [
       {
-        href: 'https://www.mprnews.org/story/2025/03/13/minnesota-national-guard-receives-email-about-transgender-members',
-        linkText: 'MPR News',
+        href: 'https://archive.is/h3nSs',
+        linkText: 'NYTimes (via archive.is)',
       },
     ],
   },
 
+ 
   {
     id: 'Hide_Students',
     categories: ['Project 2025', 'Discrimination', 'Civil Liberties', 'Fascism' ],
@@ -156,6 +219,22 @@ const entries = [
       {
         href: 'https://apnews.com/article/columbia-university-mahmoud-khalil-ice-arrests-3a8db6e646b786a721089a6f0bc8d9fc',
         linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Musk_Hitler',
+    categories: ['DOGE', 'Fascism', 'Global'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-15',
+    title: 'Elon Musk Shares Post Saying Hitler \'Didn\'t Murder Millions Of People',
+    body: 'The Thursday repost on Musk’s X account read: “Stalin, Mao, and Hitler didn’t murder millions of people. Their public sector employees did.”',
+    links: [
+      {
+        href: 'https://www.msn.com/en-us/politics/government/elon-musk-shares-post-saying-hitler-didn-t-murder-millions-of-people/ar-AA1AZj7q',
+        linkText: 'MSN',
       },
     ],
   },
@@ -177,6 +256,22 @@ const entries = [
   },
 
   {
+    id: 'VOA_Canceled',
+    categories: ['Project 2025', 'DOGE', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-15',
+    title: 'Voice of America channels fall silent as Trump administration guts agency and cancels contracts',
+    body: 'While Trump allies argue that the broadcasters are bloated and outdated, advocates say that by dismantling the networks, the United States is ceding the airwaves to China and other world powers, thereby harming American interests abroad.',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/03/15/media/voice-of-america-trump-cuts/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
     id: 'Silence_Students',
     categories: ['Fascist', 'Global', 'Civil Liberties'],
     color: 'red',
@@ -193,20 +288,203 @@ const entries = [
   },
 
   {
-    id: 'TSA_Sues',
-    categories: ['Courts', 'Project 2025'],
-    color: 'red',
-    faicon: 'landmark',
-    date: '2025-03-13',
-    title: 'TSA union sues Noem over stripping of bargaining rights',
-    body: 'The American Federation of Government Employees (AFGE) argues Noem has no power to end an already authorized seven-year contract, accusing the secretary of targeting the union after it brought a number of suits on behalf of government workers',
+    id: 'Cruz_Mocked',
+    categories: ['Resist', 'DOGE', 'FAFO'],
+    color: 'green',
+    faicon: 'poo',
+    date: '2025-03-14',
+    title: 'Ted Cruz Mocked After Posing for \'Pathetic\' Photo With Trump\'s Tesla: "It\'s a Car Bro"',
+    body: 'Senator Ted Cruz found himself on the receiving end of ridicule after he posted a photo of himself posing with Donald Trump\'s newly purchased Tesla, calling it "the coolest thing I\'ve ever seen."',
     links: [
       {
-        href: 'https://thehill.com/regulation/court-battles/5193939-union-sues-dhs-noem-tsa-contract/',
+        href: 'https://www.msn.com/en-us/news/politics/ted-cruz-mocked-after-posing-for-pathetic-photo-with-trump-s-tesla-it-s-a-car-bro/ar-AA1AX4Nv',
+        linkText: 'MSN',
+      },
+    ],
+  },
+
+  {
+    id: 'Greenland_Resists',
+    categories: ['Resist', 'Fascism', 'Global'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-14',
+    title: '\'Enough is enough\': Greenland flatly rejects Trump\'s calls for annexation',
+    body: 'Greenland\'s leaders expressed anger after President Donald Trump said U.S. acquisition of the Arctic territory “will happen” during comments at the Oval Office.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/news/world/greenland-rejects-trump-annexation-rcna196390',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'ICE_Columbia',
+    categories: ['Immigration', 'Fascism', 'Project 2025', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-14',
+    title: 'Department of Homeland Security raids 2 Columbia University dorm rooms after ICE arrest of Mahmoud Khalil',
+    body: 'The same day, Columbia announced the expulsions of several protesters involved in the building takeover.',
+    links: [
+      {
+        href: 'https://www.bbc.co.uk/news/articles/cr723zn40e5o',
+        linkText: 'BBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Schumer_AOC',
+    categories: ['Tiddlywinks', 'Resist', 'Project 2025'],
+    color: 'green',
+    faicon: 'democrat',
+    date: '2025-03-14',
+    title: '\'Deep sense of outrage and betrayal\': House Democrats react to Schumer announcement',
+    body: '"I think there is a deep sense of outrage and betrayal and this is not just progressive Democrats — this is across the board, the entire party," New York Rep. Alexandria Ocasio-Cortez told reporters Thursday night at a party retreat in Leesburg, Va "I think it is a huge slap in the face," she said.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/03/13/nx-s1-5327600/house-democrats-outrage-spending',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Schumer_MAGA',
+    categories: ['Tiddlywinks', 'Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'democrat',
+    date: '2025-03-14',
+    title: 'Democratic Party infighting exposes struggle to unite against Trump',
+    body: 'Chuck Schumer took criticism from within his own party for backing a Republican-crafted funding bill',
+    links: [
+      {
+        href: 'https://www.bbc.co.uk/news/articles/cr723zn40e5o',
+        linkText: 'BBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Farmers_FAFO',
+    categories: ['FAFO', 'Project 2025'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-03-14',
+    title: 'Farmers face steep losses in the middle of Trump\'s trade war and funding cuts',
+    body: 'From funding cuts to tariffs, farmers have found themselves struggling to find markets for their products and facing the risk of steep losses for the year ahead.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/economics/farmers-face-steep-losses-middle-trumps-trade-war-funding-cuts-rcna195967',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Musk_Cyberespionage',
+    categories: ['DOGE', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-14',
+    title: 'Musk visits National Security Agency after urging \'overhaul\' of U.S. cyberespionage hub',
+    body: 'The unannounced visit suggests Musk’s drive to slash the federal workforce now extends to a secretive agency known as the "puzzle palace" for its famed codebreaking abilities.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/national-security/musk-visits-national-security-agency-urging-overhaul-us-cyberespionage-rcna196025',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'DEI_Denied-Hurricane',
+    categories: ['DOGE', 'Project 2025', 'Discrimination', 'Women'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-13',
+    title: 'Trump admin makes Asheville remove ‘DEI’ language to access hurricane relief aid',
+    body: 'The Trump administration recently denied a funding request from the city of Asheville, North Carolina, to help its recovery from Hurricane Helene, telling the city it must cut a program meant to aid female and minority contractors.',
+    links: [
+      {
+        href: 'https://www.msn.com/en-us/news/politics/trump-admin-makes-asheville-remove-dei-language-to-access-hurricane-relief-aid/ar-AA1ARUqx',
+        linkText: 'MSN',
+      },
+
+    ],
+  },
+
+  {
+    id: 'DOE_Disabilities',
+    categories: ['Education', 'Project 2025', 'DOGE', 'Discrimination'],
+    color: 'red',
+    faicon: 'scroll',
+    date: '2025-03-13',
+    title: 'What dismantling the Education Department means for kids with disabilities',
+    body: 'Trump’s education policy threatens everything from speech therapy to wheelchair access.',
+    links: [
+      {
+        href: 'https://archive.is/8bH9U',
+        linkText: 'Vox (via archive.is)',
+      },
+
+      {
+        href: 'https://archive.is/s6Gm7',
+        linkText: 'Vox (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'Congress_Cuts',
+    categories: ['FAFO', 'Project 2025', 'Economy'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-03-13',
+    title: 'Congress poised to force $1B cut to local DC budget, surprising many lawmakers',
+    body: 'The mayor’s office said in a recent request to lawmakers that such a cut would deal a significant blow to its general funds budget, which it described as “solely supported” by the District’s “locally raised taxes, fees and fines.”',
+    links: [
+      {
+        href: 'https://thehill.com/business/budget/5194022-dc-budget-cut-funding-bill/',
         linkText: 'The Hill',
       },
     ],
   },
+
+  {
+    id: 'SCOTUS_Birthright',
+    categories: ['Courts', 'Fascism', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-13',
+    title: 'Trump takes his plan to end birthright citizenship to the Supreme Court',
+    body: 'The administration wants the court to limit the scope of lower court rulings against his executive order that would end automatic birthright citizenship.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/supreme-court/trump-takes-plan-end-birthright-citizenship-supreme-court-rcna196314',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'MN_LGBTQ',
+    categories: ['LGBTQ', 'Project 2025'],
+    color: 'red',
+    faicon: 'rainbow',
+    date: '2025-03-13',
+    title: 'Minnesota National Guard members receive email instructing those with gender dysphoria to voluntarily separate',
+    body: 'The email refers to President Donald Trump’s executive order that said gender dysphoria is inconsistent with “the rigorous standards necessary for military service.”',
+    links: [
+      {
+        href: 'https://www.mprnews.org/story/2025/03/13/minnesota-national-guard-receives-email-about-transgender-members',
+        linkText: 'MPR News',
+      },
+    ],
+  },
+
 
   {
     id: 'French_Champagne',
@@ -220,6 +498,22 @@ const entries = [
       {
         href: 'https://www.cnbc.com/2025/03/13/trump-threatens-to-put-200percent-tariff-on-french-champagne-and-other-eu-spirits.html',
         linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'TSA_Sues',
+    categories: ['Courts', 'Project 2025'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-03-13',
+    title: 'TSA union sues Noem over stripping of bargaining rights',
+    body: 'The American Federation of Government Employees (AFGE) argues Noem has no power to end an already authorized seven-year contract, accusing the secretary of targeting the union after it brought a number of suits on behalf of government workers',
+    links: [
+      {
+        href: 'https://thehill.com/regulation/court-battles/5193939-union-sues-dhs-noem-tsa-contract/',
+        linkText: 'The Hill',
       },
     ],
   },
@@ -5155,7 +5449,7 @@ const entries = [
 
   {
     id: 'Judge-Blocks-Birthright',
-    categories: ['Resist', 'Fascism', 'Project 2025', 'Discrimination'],
+    categories: ['Resist', 'Fascism', 'Project 2025', 'Discrimination', 'Civil Liberties'],
     color: 'green',
     faicon: 'landmark',
     date: '2025-01-23',
@@ -5399,7 +5693,7 @@ const entries = [
 
   {
     id: 'States-Sue',
-    categories: ['Immigration', 'Resist'],
+    categories: ['Immigration', 'Resist', 'Civil Liberties'],
     color: 'green',
     faicon: 'plane',
     date: '2025-01-21',
