@@ -30,6 +30,162 @@ const entries = [
   //DOGE & J6 = Fascism
  
 
+  {
+    id: 'Judge_USAID',
+    categories: ['Resist', 'Project 2025', 'DOGE'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-19',
+    title: 'Judge rules DOGE’s USAID dismantling likely violates the Constitution',
+    body: 'The order requires the Trump administration to restore email and computer access to all employees of USAID, including those put on administrative leave, though it stops short of reversing firings or fully resurrecting the agency.',
+    links: [
+      {
+        href: 'https://apnews.com/article/usaid-federal-judge-trump-administration-bdc919a5d98eda5ab72a32fdfe2f147d',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Putin_Ceasefire',
+    categories: ['WW3', 'Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-19',
+    title: 'After call with Trump, Putin agrees to pause attacks on Ukraine’s energy and infrastructure targets',
+    body: 'Russia stopped short of signing off on a broader ceasefire to end the three-year-long conflict in Ukraine.',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/03/18/politics/trump-putin-ceasefire-russia-ukraine-war/index.html',
+        linkText: 'CNN',
+      },
+      {
+        href: 'https://www.cnbc.com/2025/03/18/trump-putin-russia-ukraine-war-ceasefire-call.html',
+        linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'GOP-CallsForImpeach_Judge',
+    categories: ['Courts', 'Fascism', 'Immigration', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-18',
+    title: 'Chief justice pushes back against calls to impeach judges who rule against Trump',
+    body: 'Chief Justice John Roberts issued a rare statement Tuesday rebuking President Donald Trump and his allies for calling to impeach judges who have ruled against the administration.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/supreme-court/chief-justice-pushes-back-calls-impeach-judges-rule-trump-rcna196922',
+        linkText: 'NBC',
+      },
+      {
+        href: 'https://www.reuters.com/legal/us-chief-justice-roberts-calls-judges-impeachment-are-inappropriate-after-trump-2025-03-18',
+        linkText: 'Reuters',
+      },
+    ],
+  },
+
+  {
+    id: 'GOP-CallsForImpeach_Judge',
+    categories: ['Courts', 'Fascism', 'Immigration'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-03-18',
+    title: 'House GOP moves swiftly to impeach judge targeted by Trump',
+    body: 'GOP lawmakers have unleashed an unprecedented flood of long-shot impeachment articles aimed at federal judges who are standing in the way of the president\'s agenda.',
+    links: [
+      {
+        href: 'https://www.axios.com/2025/03/18/donald-trump-impeach-judge-house-republicans',
+        linkText: 'Axios',
+      },
+    ],
+  },
+
+  {
+    id: 'Jugde_Wants_Explanation',
+    categories: ['Courts', 'Fascism', 'Immigration', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-18',
+    title: 'Tensions mount as judge demands more answers about deportation flights',
+    body: 'A federal judge is pushing the Trump administration for more details about weekend flights that deported hundreds of alleged Venezuelan gang members, despite his order to turn the planes around.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/03/18/nx-s1-5331986/deportation-flight-tren-de-aragua-justice-department-boasberg',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Israel_Violates-Ceacefire',
+    categories: ['WW3', 'Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-18',
+    title: 'Israel strikes that shattered ceasefire ‘just the beginning’, Netanyahu says, after deadliest 24 hours in Gaza since 2023',
+    body: 'Benjamin Netanyahu says Israeli military will continue to fight until Hamas ‘no longer posed a threat. Israel warns more to come as airstrikes kill over 400 in Gaza after two months of truce’',
+    links: [
+      {
+        href: 'https://www.theguardian.com/world/live/2025/mar/18/israel-gaza-live-blog-updates-air-strikes-strip-netanyahu-hamas',
+        linkText: 'The Guardian',
+      },
+      {
+        href: 'https://www.reuters.com/world/middle-east/israeli-military-conducts-strikes-hamas-targets-gaza-army-says-2025-03-18/',
+        linkText: 'Reuters',
+      },
+    ],
+  },
+
+  {
+    id: 'Judge_Clash',
+    categories: ['Courts', 'Fascism', 'Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-17',
+    title: 'Federal Judge Clashes With DOJ Lawyers As Possible ‘Constitutional Crisis’ Looms',
+    body: '“Apparently my oral orders don’t seem to carry much weight,” D.C.’s top district judge told the Trump administration Monday as they sparred over recent deportation flights.',
+    links: [
+      {
+        href: 'https://www.huffingtonpost.co.uk/entry/trump-alien-enemies-act-salvador-deportation-flights-james-boasberg_n_67d89f8ce4b0682946100898',
+        linkText: 'Huffington Post',
+      },
+    ],
+  },
+
+  {
+    id: 'LeakedMemo-SSA',
+    categories: ['DOGE', 'Project 2025', 'Economy'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-03-17',
+    title: 'Leaked memo: DOGE plots to cut Social Security phone support',
+    body: 'These proposals risk "crippling" a system already plagued by delays and facing staffing cuts,',
+    links: [
+      {
+        href: 'https://www.axios.com/2025/03/17/social-security-trump-doge',
+        linkText: 'Axios',
+      },
+    ],
+  },
+
+  {
+    id: 'Starlink_WhiteHouse',
+    categories: ['DOGE', 'Fascism', 'Project 2025', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-17',
+    title: 'Elon Musk’s Starlink Expands Across White House Complex',
+    body: 'Trump administration officials said the company donated the internet service, saying the gift had been vetted by the lawyer overseeing ethics issues in the White House Counsel’s Office. (Also, he blocked The Dropkick Murphies for speaking out again Trump.) ',
+    links: [
+      {
+        href: 'https://archive.is/2fhYO',
+        linkText: 'NYT (via archive.is)',
+      },
+    ],
+  },
+
 
   {
     id: 'Restored_Black_Hero',
@@ -174,6 +330,24 @@ const entries = [
       },
     ],
   },
+
+  {
+    id: 'China_Agrees_VOA',
+    categories: ['Project 2025', 'DOGE', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-15',
+    title: '‘How gratifying’: Cheers in China as Trump dismantles Voice of America',
+    body: 'One nationalist influencer called it “truly gratifying.” Another said he was laughing his head off. And a state-media editorial hailed the demise of what it called the “lie factory.” (Perhaps not a great thing with China agrees!)',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/03/17/china/china-cheers-trump-cut-voice-of-america-intl-hnk/',
+        linkText: 'CNN',
+      },
+
+    ],
+  },
+
 
   {
     id: 'Removed_Black_Hero',
@@ -326,6 +500,10 @@ const entries = [
         href: 'https://www.lemonde.fr/en/politics/article/2025/03/16/french-mep-says-us-should-give-back-statue-of-liberty_6739217_5.html',
         linkText: 'Le Monde',
       },
+      {
+        href: 'https://eu.usatoday.com/story/news/politics/2025/03/17/trump-statue-of-liberty-us-france/82492828007/',
+        linkText: 'USA :: White House says \'absolutely not\'',
+      },
     ],
   },
 
@@ -470,6 +648,11 @@ const entries = [
         href: 'https://edition.cnn.com/2025/03/15/media/voice-of-america-trump-cuts/index.html',
         linkText: 'CNN',
       },
+
+      {
+        href: 'https://www.npr.org/2025/03/15/nx-s1-5329244/bloody-saturday-voiceofamerica-radio-free-asia-europe-trump-kari-lake',
+        linkText: 'AP',
+      },
     ],
   },
 
@@ -484,6 +667,43 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/columbia-university-trump-arrests-international-students-0551bb740eac7d5cec155a2d779a45d1',
+        linkText: 'AP',
+      },
+    ],
+  },
+
+  {
+    id: 'Schumer_DemocratsAngry',
+    categories: ['Tiddlywinks', 'Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'democrat',
+    date: '2025-03-15',
+    title: 'Democratic Party fractures in government shutdown fight, with anger running high',
+    body: 'Nine other members of the Democratic Caucus — a contingent of mostly swing-state and retiring senators — eventually joined Schumer in voting to advance the Republican funding proposal, providing crucial support to bring it to a final vote.',
+    links: [
+      {
+        href: 'https://apnews.com/article/democrats-congress-chuck-schumer-government-funding-shutdown-43d1acea20c34ad28d848edc08ad6375',
+        linkText: 'AP',
+      },
+
+      {
+        href: 'https://www.nbcnews.com/politics/congress/democratic-anger-schumer-surrender-shows-partys-deep-divisions-take-tr-rcna196370',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Enemies',
+    categories: ['Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-14',
+    title: 'Trump pledges to ‘expose’ his enemies in political speech at Justice Department',
+    body: 'The speech marked the latest manifestation of Trump’s unparalleled takeover of the department and came amid a brazen campaign of retribution already undertaken under his watch',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-visits-justice-department-e9091e3721adda4d3ed39bd15119a0d4',
         linkText: 'AP',
       },
     ],
