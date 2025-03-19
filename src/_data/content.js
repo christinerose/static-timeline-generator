@@ -30,6 +30,119 @@ const entries = [
   //DOGE & J6 = Fascism
  
 
+
+  {
+    id: 'Restored_Black_Hero',
+    categories: ['Discrimination', 'Fascism', 'Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'fire',
+    date: '2025-03-17',
+    title: 'Pentagon website removes, then restores, page honoring Black Medal of Honor recipient',
+    body: 'The Defense Department "has restored the Medal of Honor story about Army Maj. Gen. Charles Calvin Rogers," a spokesperson told NPR in an email, adding, "The story was removed during auto removal process." (Actually, it was restored due to public outrage. Keep speaking out!) ',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/03/17/nx-s1-5330848/defense-pentagon-black-medal-of-honor-charles-rogers',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'If_Trump_Ignores_Judges',
+    categories: ['Courts', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-17',
+    title: 'What can be done if Trump is openly defying the courts?',
+    body: 'If that happens, it will trigger a constitutional crisis. Now, that long-awaited crisis may be upon us.',
+    links: [
+      {
+        href: 'https://archive.is/Gdu42',
+        linkText: 'Vox (via archive.is)',
+      },
+    ],
+  },
+
+  {
+    id: 'Affected_World',
+    categories: ['WW3', 'Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-17',
+    title: 'From London to Lviv: how Trump’s new world order has shaken Europe',
+    body: 'At each stop on 1,000-mile trip, discombobulated Europeans are grappling with new and unsettling realities as the US reforges its alliances.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/world/2025/mar/17/from-london-to-lviv-how-trumps-new-world-order-has-shaken-europe',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'J6-Commission-Pardons',
+    categories: ['J6', 'Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'skull',
+    date: '2025-03-17',
+    title: 'Trump makes unsupported claim Biden pardons are ‘void’ as he used autopen',
+    body: 'President claims without evidence that January 6 panel members’ pre-emptive clemency was not signed personally.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/17/trump-biden-pardons-void',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Tesla_Targets',
+    categories: ['Resist', 'Project 2025', 'DOGE', 'Civil Liberties'],
+    color: 'green',
+    faicon: 'resist',
+    date: '2025-03-17',
+    title: '‘Tesla is a good target’: Elon Musk’s car business is focus of fury for political role',
+    body: 'Hundreds of people protested at Tesla dealerships across the US over the weekend, as the backlash against Elon Musk and the Trump administration continued despite a warning from the attorney general that the government would be “coming after” protesters.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/17/tesla-protests-elon-musk',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'US_Pulls-Out',
+    categories: ['WW3', 'Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-17',
+    title: 'Trump administration pulls US out of body investigating Ukraine invasion',
+    body: 'Russia and allies were target of International Centre for the Prosecution of the Crime of Aggression against Ukraine.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/17/trump-russia-ukraine',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Putin',
+    categories: ['WW3', 'Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-17',
+    title: 'Trump says he and Putin will discuss land and power plants in Ukraine ceasefire talks',
+    body: 'Trump says negotiators have already discussed ‘dividing up certain assets’ and that he will talk to Putin on Tuesday.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/world/2025/mar/17/trump-says-he-and-putin-will-discuss-land-and-powerplants-in-ukraine-ceasefire-talks',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
   {
     id: 'Canada_France_Meet',
     categories: ['Health', 'Project 2025', 'DOGE'],
@@ -111,6 +224,48 @@ const entries = [
   },
 
   {
+    id: 'ProudBoys_Back',
+    categories: ['J6', 'Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'skull',
+    date: '2025-03-16',
+    title: 'Proud Boys and their fans gather in Clackamas',
+    body: 'Amidst increasingly fascist state action, direct opposition to far-right organizing is more important than ever. We invite folks to familiarize themselves with the following local figures and take action to ensure white supremacists and far-right agitators are always deterred from showing up on our blocks. Here is a quick guide to the flag wave attendees and their violent organizing backgrounds.',
+    links: [
+      {
+        href: 'https://rosecityantifa.org/articles/clackamas-flag-wave/',
+        linkText: 'Rose City Antifa',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_18th',
+    categories: ['Immigration', 'Courts', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-16',
+    title: 'Trump invokes 18th century law to speed deportations, judge stalls it hours later',
+    body: 'A federal judge barred the Trump administration Saturday from carrying out deportations under a sweeping 18th century law that the president invoked hours earlier to speed removal of Venezuelan gang members from the United States.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-aclu-deportations-venezuelans-b2566f05b10bf1cde1caf467a3b001cc',
+        linkText: 'AP',
+      },
+
+      {
+        href: 'https://www.bbc.co.uk/news/articles/cy871w21d3vo',
+        linkText: 'BBC :: What is the 1798 law that Trump used to deport migrants?',
+      },
+
+      {
+        href: 'https://www.brennancenter.org/our-work/research-reports/alien-enemies-act-explained',
+        linkText: 'The Alien Enemies Act, Explained',
+      },
+    ],
+  },
+
+  {
     id: 'Macron_Ukraine',
     categories: ['WW3', 'Global', 'Resist'],
     color: 'green',
@@ -159,6 +314,22 @@ const entries = [
   },
 
   {
+    id: 'Macron_Ukraine',
+    categories: ['WW3', 'Global', 'Resist'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-16',
+    title: 'French MEP says US should give back Statue of Liberty',
+    body: 'France should take back the Statue of Liberty because the US no longer represents the values that led France to offer the statue,',
+    links: [
+      {
+        href: 'https://www.lemonde.fr/en/politics/article/2025/03/16/french-mep-says-us-should-give-back-statue-of-liberty_6739217_5.html',
+        linkText: 'Le Monde',
+      },
+    ],
+  },
+
+  {
     id: 'Revokes_Visas',
     categories: ['Immigration', 'Fascism', 'Discrimination', 'Civil Liberties'],
     color: 'red',
@@ -175,7 +346,7 @@ const entries = [
   },
 
   {
-    id: 'Revokes_Visas',
+    id: 'Ignore_Judge-Order',
     categories: ['Immigration', 'Fascism', 'Courts'],
     color: 'red',
     faicon: 'plane',
@@ -206,6 +377,37 @@ const entries = [
     ],
   },
 
+  {
+    id: 'Trump_Invokes-Judge-Blocks',
+    categories: ['Immigration', 'Fascism', 'Civil Liberties', 'Resist', 'Courts'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-15',
+    title: 'Judge blocks Trump from using 18th-century wartime act for deportations',
+    body: 'Trump had invoked the Alien Enemies Act of 1798 to deport five Venezuelans, but order halted by judge.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/15/trump-alien-enemies-act-deportations',
+        linkText: 'The Guardian',
+      },
+    ],
+    },
+
+  {
+    id: 'Trump_Invokes-Alien',
+    categories: ['Immigration', 'Fascism', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-15',
+    title: 'Trump invokes 18th century law to speed deportations, judge stalls it hours later',
+    body: 'Civil liberties organizations have accused Trump of invoking the 1798 act unlawfully during peacetime to accelerate mass deportations and sidestep immigration law.',
+    links: [
+      {
+        href: 'https://www.whitehouse.gov/presidential-actions/2025/03/invocation-of-the-alien-enemies-act-regarding-the-invasion-of-the-united-states-by-tren-de-aragua/',
+        linkText: 'White House',
+      },
+    ],
+    },
  
   {
     id: 'Hide_Students',
@@ -395,6 +597,22 @@ const entries = [
       {
         href: 'https://www.nbcnews.com/politics/national-security/musk-visits-national-security-agency-urging-overhaul-us-cyberespionage-rcna196025',
         linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Musk_Starve_Dogs',
+    categories: ['DOGE', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-14',
+    title: 'Elon Reportedly Orders Government to Stop Feeding the Bomb-Sniffing Dogs',
+    body: 'As Elon Musk\'s so-called Department of Government Efficiency continues to plunder the federal government, even the Transportation Security Administration\'s bomb-sniffing K9 units aren\'t safe.',
+    links: [
+      {
+        href: 'https://futurism.com/musk-tsa-dogs',
+        linkText: 'Futurism',
       },
     ],
   },
@@ -897,6 +1115,22 @@ const entries = [
       {
         href: 'https://www.cnbc.com/2025/03/11/trump-says-hes-buying-a-tesla-to-support-elon-musk-and-counter-illegal-boycott-of-ev-maker.html',
         linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Judge_Orders_DOGE_Release',
+    categories: ['Economy', 'DOGE', 'Project 2025'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-10',
+    title: 'DOGE’s $1 card freeze hits research on lifesaving military gear, while genealogy to help identify soldiers’ remains gets exception',
+    body: 'A freeze on federal purchase cards imposed by Elon Musk’s Department of Government Efficiency is reportedly freezing certain activities related to the military, too.',
+    links: [
+      {
+        href: 'https://www.aol.com/finance/doge-1-card-freeze-hits-171946485.html?guccounter=1',
+        linkText: 'AOL',
       },
     ],
   },
