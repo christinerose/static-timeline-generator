@@ -23,12 +23,62 @@ const entries = [
   //FAFO = poo
   //Economy = coins
   //Civil Liberties = flag
+  //Orwell = 
 
   //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
 
   //Layoffs, DOGE work, restructuring, etc. = Project 2025
   //DOGE & J6 = Fascism
+  //Orwell :: rewriting history, double speak, new speak, etc.
  
+
+  {
+    id: 'Segregation',
+    categories: ['Discrimination', 'Project 2025'],
+    color: 'red',
+    faicon: 'person',
+    date: '2025-03-20',
+    title: '\'Segregated facilities\' are no longer explicitly banned in federal contracts',
+    body: 'The federal government no longer explicitly prohibits contractors from having segregated restaurants, waiting rooms and drinking fountains.',
+    links: [
+      {
+        href: 'https://www.npr.org/sections/shots-health-news/2025/03/18/nx-s1-5326118/segregation-federal-contracts-far-regulation-trump',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'French_Scientist',
+    categories: ['Civil Liberties', 'Global', 'WW3', 'Project 2025'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-19',
+    title: 'French Scientist Reportedly Denied U.S. Entry Due to Trump Criticism',
+    body: 'A French scientist on his way to a conference in the United States was allegedly denied entry by Customs and Border Patrol over messages found on his phone that criticized President Trump’s science cuts.',
+    links: [
+      {
+        href: 'https://newrepublic.com/post/192946/french-scientist-denied-us-entry-trump-criticism',
+        linkText: 'New Republic',
+      },
+    ],
+  },
+
+  {
+    id: 'Purge_DEI',
+    categories: ['Discrimination', 'Women', 'Health', 'Project 2025', 'Orwell'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-19',
+    title: 'Massive purge of Pentagon websites includes content on Holocaust remembrance, sexual assault and suicide prevention',
+    body: 'Articles about the Holocaust, September 11, cancer awareness, sexual assault and suicide prevention are among the tens of thousands either removed or flagged for removal from Pentagon websites as the department has scrambled to comply with Secretary of Defense Pete Hegseth’s order to scrub “diversity” content from all its platforms.',
+    links: [
+      {
+        href: 'https://edition.cnn.com/2025/03/19/politics/pentagon-website-purge/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
 
   {
     id: 'Judge_USAID',
@@ -87,6 +137,86 @@ const entries = [
   },
 
   {
+    id: 'Radical_General',
+    categories: ['Project 2025', 'Fascism', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-18',
+    title: 'Despite Michael Flynn’s radicalism, Trump welcomes retired general back into the fold',
+    body: 'According to the Jan. 6 committee\'s investigations, the retired general reportedly raised the prospect of seizing voting machines, deploying U.S. troops, and declaring martial law as part of the anti-election scheme.',
+    links: [
+      {
+        href: 'https://www.msnbc.com/rachel-maddow-show/maddowblog/michael-flynns-radicalism-trump-welcomes-retired-general-back-fold-rcna196866',
+        linkText: 'MSNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Learn_Big_Lie',
+    categories: ['Education', 'Fascism', 'Orwell'],
+    color: 'red',
+    faicon: 'scroll',
+    date: '2025-03-18',
+    title: 'New Oklahoma School Curriculum Requires Students to Learn “The Big Lie”',
+    body: 'The Oklahoma Board of Education has passed new curriculum standards that require educators to teach that the 2020 presidential election was rife with fraud or discrepancies — despite numerous judicial rulings and audits indicating that the election was legitimate.',
+    links: [
+      {
+        href: 'https://truthout.org/articles/new-oklahoma-school-curriculum-requires-students-to-learn-the-big-lie/',
+        linkText: 'Truthout',
+      },
+    ],
+  },
+
+  {
+    id: 'DOGE_BrokeIn',
+    categories: ['DOGE', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-18',
+    title: 'US Institute of Peace says DOGE broke into its building',
+    body: 'The alleged intrusion came after the Trump administration fired most of the USIP board and sent its new leader into the Washington headquarters of the independent organization on Monday, in its latest effort targeting agencies tied to foreign assistance work.',
+    links: [
+      {
+        href: 'https://www.nbcwashington.com/news/president-trump-politics/us-institute-of-peace-doge-trump-administration/3869923/',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Family_Not_Criminals',
+    categories: ['Fascism', 'Immigration', 'Project 2025'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-18',
+    title: 'Families of migrants who believe their relatives were deported by ICE say they weren\'t gang members',
+    body: 'Trump officials invoked the Alien Enemies Act to begin deporting noncitizens.',
+    links: [
+      {
+        href: 'https://abcnews.go.com/US/families-migrants-relatives-deported-ice-gang-members/story?id=119892593',
+        linkText: 'ABC',
+      },
+    ],
+  },
+
+  {
+    id: 'Ban_Chinese',
+    categories: ['Global', 'Fascism', 'Immigration', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-18',
+    title: 'Bill to ban all Chinese nationals from receiving US student visas causes alarm',
+    body: 'The US research community has been appalled by legislation that would block all Chinese nationals from receiving student visas.',
+    links: [
+      {
+        href: 'https://www.chemistryworld.com/news/bill-to-ban-all-chinese-nationals-from-receiving-us-student-visas-causes-alarm/4021163.article',
+        linkText: 'Chemistry World',
+      },
+    ],
+  },
+
+  {
     id: 'GOP-CallsForImpeach_Judge',
     categories: ['Courts', 'Fascism', 'Immigration'],
     color: 'red',
@@ -135,6 +265,11 @@ const entries = [
         href: 'https://www.reuters.com/world/middle-east/israeli-military-conducts-strikes-hamas-targets-gaza-army-says-2025-03-18/',
         linkText: 'Reuters',
       },
+
+      {
+        href: 'https://www.aljazeera.com/news/2025/3/18/gaza-tracker',
+        linkText: 'Al Jazeera',
+      },
     ],
   },
 
@@ -181,7 +316,7 @@ const entries = [
     links: [
       {
         href: 'https://www.nytimes.com/2025/03/17/us/politics/elon-musk-starlink-white-house.html',
-        linkText: 'NYT',
+        linkText: 'New York Times',
       },
     ],
   },
@@ -550,7 +685,7 @@ const entries = [
     links: [
       {
         href: 'https://www.nytimes.com/2025/03/16/us/politics/absolutely-ridiculous-democrats-seethe-at-schumer-for-backing-gop-spending-bill.html',
-        linkText: 'NYTimes',
+        linkText: 'New York Times',
       },
     ],
   },
@@ -658,7 +793,7 @@ const entries = [
 
   {
     id: 'Silence_Students',
-    categories: ['Fascist', 'Global', 'Civil Liberties'],
+    categories: ['Fascism', 'Global', 'Civil Liberties'],
     color: 'red',
     faicon: 'fire',
     date: '2025-03-15',
@@ -1742,7 +1877,7 @@ const entries = [
     links: [
       {
         href: 'https://www.nytimes.com/2025/03/09/us/politics/trump-speech-congress-democrats.html',
-        linkText: 'NYTimes',
+        linkText: 'New York Times',
       },
 
     ],
@@ -2199,7 +2334,7 @@ const entries = [
     links: [
       {
         href: 'https://www.nytimes.com/2025/03/06/world/europe/ukraine-russia-strikes-zelensky.html',
-        linkText: 'NYTimes ',
+        linkText: 'New York Times',
       },
     ],
   },
@@ -2429,6 +2564,22 @@ const entries = [
       {
         href: 'https://www.nbcnews.com/business/economy/tariffs-limbo-mixed-messages-meet-wary-markets-rcna194856',
         linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Insurrection_Act?',
+    categories: ['Civil Liberties', 'Fascism', 'Immigration'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-05',
+    title: 'Is Trump preparing to invoke the Insurrection Act? Signs are pointing that way',
+    body: 'A joint Department of Defense and Homeland Security report will soon recommend whether or not to invoke the Insurrection Act over illegal migration',
+    links: [
+      {
+        href: 'https://www.sfchronicle.com/opinion/openforum/article/insurrection-act-president-trump-20201819.php',
+        linkText: 'San Francisco Chronicle (Opinion)',
       },
     ],
   },
@@ -3106,8 +3257,8 @@ const entries = [
     body: 'The New York Times identified 50 people within the so-called Department of Government Efficiency, a group formed by Elon Musk that in a short few weeks has radically upended federal agencies. Few members have formal Washington experience. Many are software engineers. All seem to have a clear mandate: Shrink and disrupt the federal government.',
     links: [
       {
-        href: 'https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html',
-        linkText: 'NYTime ',
+        href: 'https://www.New York Timess.com/interactive/2025/02/27/us/politics/doge-staff-list.html',
+        linkText: 'New York Times',
       },
 
       {
@@ -3643,6 +3794,22 @@ const entries = [
       {
         href: 'https://www.reuters.com/world/europe/germanys-afd-left-party-can-jointly-block-changes-constitution-2025-02-24/',
         linkText: 'Reuters',
+      },
+    ],
+  }, 
+
+  {
+    id: 'Fire_Military_Lawyers',
+    categories: ['Project 2025', 'Fascism', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-24',
+    title: 'Hegseth says he fired the top military lawyers because they weren\'t well suited for the jobs',
+    body: 'The removals — which came without any specified reasons in terms of their conduct — sent a new wave of apprehension through the Pentagon. And they added to the broader confusion over the changing parameters of Elon Musk’s demand that federal employees provide recent job accomplishments by the end of Monday or risk getting fired, even though government officials later said the edict is voluntary.',
+    links: [
+      {
+        href: 'https://www.sfchronicle.com/news/article/hegseth-says-he-fired-the-top-military-lawyers-20185743.php',
+        linkText: 'San Francisco Chronicle',
       },
     ],
   }, 
@@ -4352,7 +4519,7 @@ const entries = [
     links: [
       {
         href: 'https://www.nytimes.com/2025/02/17/us/politics/musk-irs-doge.html',
-        linkText: 'NYTimes',
+        linkText: 'New York Times',
       },
     ],
   },
@@ -4533,7 +4700,7 @@ const entries = [
     links: [
       {
         href: 'https://www.nytimes.com/interactive/2025/02/14/us/doj-resignations-trump-adams.html',
-        linkText: 'NYTimes',
+        linkText: 'New York Times',
       },
     ],
   },
@@ -4750,7 +4917,7 @@ const entries = [
     links: [
       {
         href: 'https://www.nytimes.com/2025/02/13/nyregion/stonewall-transgender-parks-service.html',
-        linkText: 'NYTimes',
+        linkText: 'New York Times',
       },
     ],
   },
@@ -4900,7 +5067,7 @@ const entries = [
 
       {
         href: 'https://www.nytimes.com/2025/02/11/us/politics/trump-musk-doge-federal-workers.html',
-        linkText: 'NYTimes',
+        linkText: 'New York Times',
       },
     ],
   },
@@ -4921,7 +5088,7 @@ const entries = [
 
       {
         href: 'https://www.nytimes.com/2025/02/11/us/politics/trump-musk-doge-federal-workers.html',
-        linkText: 'NYTimes',
+        linkText: 'New York Times',
       },
     ],
   },
@@ -5095,7 +5262,7 @@ const entries = [
     links: [
       {
         href: 'https://www.nytimes.com/2025/02/11/us/politics/musk-doge-education-data.html',
-        linkText: 'NYTimes',
+        linkText: 'New York Times',
       },
 
     ],
@@ -5202,7 +5369,7 @@ const entries = [
     links: [
       {
         href: 'https://www.nytimes.com/2025/02/10/us/politics/trump-jordan-egypt-gaza-development.html',
-        linkText: 'NYTimes',
+        linkText: 'New York Times',
       },
     ],
   },
@@ -5330,11 +5497,11 @@ const entries = [
     links: [
       {
         href: 'https://www.nytimes.com/2025/02/08/us/politics/guantanamo-bay-migrants.html',
-        linkText: 'NYTimes',
+        linkText: 'New York Times',
       },
       {
         href: 'https://www.nytimes.com/2025/02/08/us/politics/guantanamo-bay-migrants.html',
-        linkText: 'NYTimes',
+        linkText: 'New York Times',
       },
     ],
   },
@@ -5596,7 +5763,7 @@ const entries = [
 
       {
         href: 'https://www.nytimes.com/2025/01/28/us/politics/states-lawsuit-trump-federal-grants-pause.html',
-        linkText: 'NYTimes',
+        linkText: 'New York Times',
       },
     ],
   },
@@ -5613,7 +5780,7 @@ const entries = [
 
       {
         href: 'https://www.nytimes.com/2025/01/28/us/politics/medicaid-freeze.html',
-        linkText: 'NYTimes',
+        linkText: 'New York Times',
       },
     ],
   },
@@ -6337,7 +6504,7 @@ const entries = [
 
       {
         href: 'https://www.nytimes.com/2025/01/20/us/politics/trump-world-health-organization.html',
-        linkText: 'NYTimes',
+        linkText: 'New York Times',
       },
     ],
   },
