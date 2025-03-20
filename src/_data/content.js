@@ -180,8 +180,8 @@ const entries = [
     body: 'Trump administration officials said the company donated the internet service, saying the gift had been vetted by the lawyer overseeing ethics issues in the White House Counsel’s Office. (Also, he blocked The Dropkick Murphies for speaking out again Trump.) ',
     links: [
       {
-        href: 'https://archive.is/2fhYO',
-        linkText: 'NYT (via archive.is)',
+        href: 'https://www.nytimes.com/2025/03/17/us/politics/elon-musk-starlink-white-house.html',
+        linkText: 'NYT',
       },
     ],
   },
@@ -213,8 +213,8 @@ const entries = [
     body: 'If that happens, it will trigger a constitutional crisis. Now, that long-awaited crisis may be upon us.',
     links: [
       {
-        href: 'https://archive.is/Gdu42',
-        linkText: 'Vox (via archive.is)',
+        href: 'https://www.vox.com/donald-trump/404665/trump-defy-supreme-court-alawieh-deportation',
+        linkText: 'Vox',
       },
     ],
   },
@@ -549,8 +549,8 @@ const entries = [
     body: 'The stream of criticism that Mr. Schumer has faced since his vote comes as the Democratic Party is divided on how best to oppose Mr. Trump’s agenda while facing dismal polling numbers.',
     links: [
       {
-        href: 'https://archive.is/h3nSs',
-        linkText: 'NYTimes (via archive.is)',
+        href: 'https://www.nytimes.com/2025/03/16/us/politics/absolutely-ridiculous-democrats-seethe-at-schumer-for-backing-gop-spending-bill.html',
+        linkText: 'NYTimes',
       },
     ],
   },
@@ -864,13 +864,13 @@ const entries = [
     body: 'Trump’s education policy threatens everything from speech therapy to wheelchair access.',
     links: [
       {
-        href: 'https://archive.is/8bH9U',
-        linkText: 'Vox (via archive.is)',
+        href: 'https://www.vox.com/policy/403596/what-dismantling-the-education-department-means-for-kids-with-disabilities',
+        linkText: 'Vox',
       },
 
       {
-        href: 'https://archive.is/s6Gm7',
-        linkText: 'Vox (via archive.is)',
+        href: 'https://www.vox.com/policy/402336/department-of-education-trump-musk-doge-schools',
+        linkText: 'Vox',
       },
     ],
   },
@@ -1014,8 +1014,8 @@ const entries = [
     body: 'How a foundational climate regulation is under threat — and how environmental groups plan to fight back.',
     links: [
       {
-        href: 'https://archive.is/ybrgV',
-        linkText: 'Vox (via archive.is)',
+        href: 'https://www.vox.com/climate/403877/epa-climate-rollback-endangement-trump-environment',
+        linkText: 'Vox',
       },
 
       {
@@ -1194,8 +1194,8 @@ const entries = [
     body: 'The president appeared with Elon Musk to show off some electric vehicles, promising to buy one even though he can\'t drive. Trump bought an $80,000 Tesla and falsely claimed boycotts were illegal.',
     links: [
       {
-        href: 'https://archive.is/2025.03.11-215711/https://www.rollingstone.com/politics/politics-news/trump-white-house-tesla-lot-stock-1235293916/',
-        linkText: 'Rolling Stone (via archive.is)',
+        href: 'https://www.rollingstone.com/politics/politics-news/trump-white-house-tesla-lot-stock-1235293916/',
+        linkText: 'Rolling Stone',
       },
 
       {
@@ -1247,8 +1247,8 @@ const entries = [
     body: 'President Donald Trump says he will label attacks against Tesla dealerships domestic terrorism in response to the recent spate of vandalisms against Elon Musk\'s EV company.',
     links: [
       {
-        href: 'https://archive.is/44VOt',
-        linkText: 'Business Insider (via archive.is)',
+        href: 'https://www.businessinsider.com/trump-tesla-vandalism-domestic-terrorism-elon-musk-2025-3',
+        linkText: 'Business Insider',
       },
     ],
   },
@@ -1381,8 +1381,8 @@ const entries = [
     body: 'A Canadian province that exports electricity to the US raised power prices for three states by 25% on Monday in retaliation for President Donald Trump’s tariffs.',
     links: [
       {
-        href: 'https://archive.is/2025.03.10-180639/https://www.bloomberg.com/news/articles/2025-03-10/ontario-raises-electricity-price-by-25-for-minnesota-michigan-and-new-york',
-        linkText: 'Bloomberg (via archive.is)',
+        href: 'https://www.bloomberg.com/news/articles/2025-03-10/ontario-raises-electricity-price-by-25-for-minnesota-michigan-and-new-york',
+        linkText: 'Bloomberg ',
       },
 
       {
@@ -1741,8 +1741,8 @@ const entries = [
     body: 'Progressive and moderate Democrats criticized a protest by Representative Al Green as a distraction, and the party leadership tried to refocus attention on economic issues.',
     links: [
       {
-        href: 'https://archive.is/uq0av',
-        linkText: 'NYT (via archive.is)',
+        href: 'https://www.nytimes.com/2025/03/09/us/politics/trump-speech-congress-democrats.html',
+        linkText: 'NYTimes',
       },
 
     ],
@@ -1796,8 +1796,8 @@ const entries = [
     body: 'In response to a host of wide-ranging orders from President Donald Trump, Elon Musk, and the White House\'s DOGE office, they\'re displaying pride flags, flaunting their pronouns, and sending snarky emails. As one worker said, it\'s all about "malicious compliance."',
     links: [
       {
-        href: 'https://archive.is/7zZA5',
-        linkText: 'Business Insider (via archive.is)',
+        href: 'https://www.businessinsider.com/federal-workers-resist-trump-musk-doge-dei-emails-pronouns-2025-3',
+        linkText: 'Business Insider ',
       },
     ],
   },
@@ -1860,8 +1860,8 @@ const entries = [
     body: 'President Donald Trump said he’s “strongly considering” fresh banking sanctions and tariffs on Russia over its continued attacks on Ukraine, ramping up pressure ahead of expected negotiations to end the conflict.',
     links: [
       {
-        href: 'https://archive.is/2025.03.07-170945/https://www.bloomberg.com/news/articles/2025-03-07/trump-threatens-new-banking-sanctions-on-russia-over-ukraine',
-        linkText: 'Bloomberg (via archive.is)',
+        href: 'https://www.bloomberg.com/news/articles/2025-03-07/trump-threatens-new-banking-sanctions-on-russia-over-ukraine',
+        linkText: 'Bloomberg ',
       },
     ],
   },
@@ -2182,8 +2182,8 @@ const entries = [
     body: 'Secretary of State Marco Rubio is launching an AI-fueled "Catch and Revoke" effort to cancel the visas of foreign nationals who appear to support Hamas or other designated terror groups, senior State Department officials tell Axios.',
     links: [
       {
-        href: 'https://archive.is/kGvhD',
-        linkText: 'Axios (via archive.is)',
+        href: 'https://www.axios.com/2025/03/06/state-department-ai-revoke-foreign-student-visas-hamas',
+        linkText: 'Axios ',
       },
     ],
   },
@@ -2198,8 +2198,8 @@ const entries = [
     body: 'At least four people were killed in a Russian attack, Ukraine said, amid concerns about air defenses after the U.S. said it was suspending military and intelligence aid.',
     links: [
       {
-        href: 'https://archive.is/ft4qN',
-        linkText: 'NYTimes (via archive.is)',
+        href: 'https://www.nytimes.com/2025/03/06/world/europe/ukraine-russia-strikes-zelensky.html',
+        linkText: 'NYTimes ',
       },
     ],
   },
@@ -2262,8 +2262,8 @@ const entries = [
     body: 'Science has identified more than two dozen halted grants amid Trump\’s transgender crackdown, right as NIH suspends its own researchers who worked on topic',
     links: [
       {
-        href: 'https://archive.is/GEpHm',
-        linkText: 'Science Insider (via archive.is)',
+        href: 'https://www.science.org/content/article/new-nih-grant-terminations-target-transgender-studies-even-mice',
+        linkText: 'Science Insider ',
       },
     ],
   },
@@ -2326,8 +2326,8 @@ const entries = [
     body: 'Mexico will be granted a month-long reprieve on tariffs on goods that fall under an existing free-trade agreement with the United States',
     links: [
       {
-        href: 'https://archive.is/tN8oG',
-        linkText: 'Washington Post (via archive.is)',
+        href: 'https://www.washingtonpost.com/world/2025/03/06/trump-mexico-tariffs/',
+        linkText: 'Washington Post ',
       },
     ],
   },
@@ -2443,8 +2443,8 @@ const entries = [
     body: 'The move follows other actions by the Trump administration to curtail environmental monitoring and climate-related science.',
     links: [
       {
-        href: 'https://archive.is/2fasd',
-        linkText: 'Washington Post (via archive.is)',
+        href: 'https://www.washingtonpost.com/climate-environment/2025/03/04/state-department-air-pollution-embassies/',
+        linkText: 'Washington Post ',
       },
     ],
   },
@@ -3004,8 +3004,8 @@ const entries = [
     body: 'Roughly 3,000 more active-duty troops will deploy to the southern border, expanding a major military operation to curb illegal immigration — a central priority of the Trump administration.',
     links: [
       {
-        href: 'https://archive.is/23iYL',
-        linkText: 'Politico (via archive.is)',
+        href: 'https://www.politico.com/news/2025/03/01/southern-border-us-military-deployment-00002750',
+        linkText: 'Politico ',
       },
     ],
   },
@@ -3036,8 +3036,8 @@ const entries = [
     body: 'Democrats have struggled in these opening weeks of Trump’s term to unify around a rebuttal to his controversial actions.',
     links: [
       {
-        href: 'https://archive.is/5ZWCU',
-        linkText: 'Washington Post (via archive.is)',
+        href: 'https://www.washingtonpost.com/politics/2025/03/01/nancy-pelosi-trump-democrats-congress/',
+        linkText: 'Washington Post ',
       },
     ],
   },
@@ -3106,8 +3106,8 @@ const entries = [
     body: 'The New York Times identified 50 people within the so-called Department of Government Efficiency, a group formed by Elon Musk that in a short few weeks has radically upended federal agencies. Few members have formal Washington experience. Many are software engineers. All seem to have a clear mandate: Shrink and disrupt the federal government.',
     links: [
       {
-        href: 'https://archive.is/2025.03.02-144238/https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html',
-        linkText: 'NYTime (via archive.is)',
+        href: 'https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html',
+        linkText: 'NYTime ',
       },
 
       {
@@ -3145,13 +3145,13 @@ const entries = [
     body: 'U.S. Attorney Ed Martin wiped out office leadership, including prosecutors of top Trump advisers and allies, Jan. 6 seditious conspiracy and public corruption.',
     links: [
       {
-        href: 'https://archive.is/XecUI',
-        linkText: 'Reuters (via archive.is)',
+        href: 'https://www.reuters.com/world/us/trumps-top-federal-prosecutor-washington-dc-demotes-senior-leaders-sources-say-2025-02-28/',
+        linkText: 'Reuters ',
       },
 
       {
-        href: 'https://archive.is/G9NHR',
-        linkText: 'Washington Post (via archive.is)',
+        href: 'https://www.washingtonpost.com/dc-md-va/2025/02/28/7-dc-prosecutors-demoted-trump/',
+        linkText: 'Washington Post ',
       },
     ],
   },
@@ -3422,8 +3422,8 @@ const entries = [
     body: 'A group of prominent military contractors has pitched the Trump White House on a proposal to carry out mass deportations through a network of “processing camps” on military bases, a private fleet of 100 planes, and a “small army” of private citizens empowered to make arrests.',
     links: [
       {
-        href: 'https://archive.is/1ENg9',
-        linkText: 'Politico (via archive.is)',
+        href: 'https://www.politico.com/news/2025/02/25/documents-military-contractors-mass-deportations-022648',
+        linkText: 'Politico ',
       },
     ],
   }, 
@@ -3438,8 +3438,8 @@ const entries = [
     body: 'Fresh of a legal victory allowing it to ban the Associated Press from White House events, the Trump White House announced on Tuesday that the administration — not an independent group of journalists — will determine which outlets have access to the president as part of a pool allowed into the Oval Office, aboard Air Force One and into other otherwise closed meetings and events.',
     links: [
       {
-        href: 'https://archive.is/sp32E',
-        linkText: 'Politico (via archive.is)',
+        href: 'https://www.politico.com/news/2025/02/25/trump-white-house-press-pool-access-00206001',
+        linkText: 'Politico ',
       },
     ],
   }, 
@@ -3454,8 +3454,8 @@ const entries = [
     body: 'The men said they were denied calls to loved ones, subjected to humiliating searches and left in isolation for prolonged periods.',
     links: [
       {
-        href: 'https://archive.is/KV3hr',
-        linkText: 'Washingon Post (via archive.is)',
+        href: 'https://www.washingtonpost.com/immigration/2025/02/25/guantanamo-trump-migrants-deportations-venezuela/',
+        linkText: 'Washingon Post ',
       },
     ],
   }, 
@@ -3609,8 +3609,8 @@ const entries = [
     body: '“The continuing, unauthorized disclosure of plaintiffs\’ sensitive personal information to DOGE affiliates is irreparable harm that money damages cannot rectify,” U.S. District Judge Deborah Boardman',
     links: [
       {
-        href: 'https://archive.is/IJVH3',
-        linkText: 'Politico (via archive.is)',
+        href: 'https://www.politico.com/news/2025/02/24/judge-blocks-opm-education-dept-from-sharing-info-with-doge-00205699',
+        linkText: 'Politico ',
       },
     ],
   }, 
@@ -3874,8 +3874,8 @@ const entries = [
     body: 'DOGE will cut more than $4 billion from the NIH budget—which equates to 11% of its 2023 budget—impacting major research institutions nationwide.',
     links: [
       {
-        href: 'https://archive.is/ADH1F',
-        linkText: 'Fortune (via archive.is)',
+        href: 'https://fortune.com/2025/02/21/doge-national-institute-health-funding-indirect-funds-elon-musk-medical-research-science/',
+        linkText: 'Fortune ',
       },
     ],
   }, 
@@ -4206,8 +4206,8 @@ const entries = [
     body: 'Notify.gov contains not just the phone numbers of everyday people but also information about whether they participate in government programs such as Medicaid, which is based on a person\'s financial situation.',
     links: [
       {
-        href: 'https://archive.is/VUrqc',
-        linkText: '404 Media (via archive.is)',
+        href: 'https://www.404media.co/musk-ally-demands-admin-access-to-system-that-lets-government-text-the-public/',
+        linkText: '404 Media ',
       },
     ],
   },  
@@ -4351,8 +4351,8 @@ const entries = [
     body: 'The Internal Revenue Service is preparing to give a team member working with Elon Musk’s so-called Department of Government Efficiency access to sensitive taxpayer data.',
     links: [
       {
-        href: 'https://archive.is/cfVRA',
-        linkText: 'NYT (via archive.is)',
+        href: 'https://www.nytimes.com/2025/02/17/us/politics/musk-irs-doge.html',
+        linkText: 'NYTimes',
       },
     ],
   },
@@ -4447,8 +4447,8 @@ const entries = [
     body: 'Echoing France\'s Napoleon Bonaparte, U.S. President Donald Trump on Saturday took to social media to signal continued resistance to limits on his executive authority in the face of multiple legal challenges.”',
     links: [
       {
-        href: 'https://archive.is/nvW3d',
-        linkText: 'Reuters (via archive.is)',
+        href: 'https://www.reuters.com/world/us/trump-if-it-saves-country-its-not-illegal-2025-02-16/',
+        linkText: 'Reuters ',
       },
     ],
   },
@@ -4532,8 +4532,8 @@ const entries = [
     body: 'More than half a dozen government attorneys have resigned since an order by the Trump administration\’s Justice Department to drop charges against Mayor Eric Adams of New York City.',
     links: [
       {
-        href: 'https://archive.is/JnWNy',
-        linkText: 'NYT (via archive.is)',
+        href: 'https://www.nytimes.com/interactive/2025/02/14/us/doj-resignations-trump-adams.html',
+        linkText: 'NYTimes',
       },
     ],
   },
@@ -4580,8 +4580,8 @@ const entries = [
     body: 'About 1,000 farmers in Midwestern states are owed $11 million — roughly $10 million of it in Iowa.',
     links: [
       {
-        href: 'https://archive.is/2025.02.14-134450/https://www.desmoinesregister.com/story/money/agriculture/2025/02/14/donald-trump-federal-spending-freeze-iowa-farmers-owed-millions-climate-smart-agriculture/78407310007/',
-        linkText: 'Des Moins Register (via archive.is)',
+        href: 'https://www.desmoinesregister.com/story/money/agriculture/2025/02/14/donald-trump-federal-spending-freeze-iowa-farmers-owed-millions-climate-smart-agriculture/78407310007/',
+        linkText: 'Des Moins Register ',
       },
     ],
   },
@@ -4617,8 +4617,8 @@ const entries = [
     body: 'A new bill would allow for Nazi and Confederate flags to be displayed in some instances in Utah schools and government buildings, but pride flags would be banned.',
     links: [
       {
-        href: 'https://archive.is/2025.02.14-125336/https://www.sltrib.com/news/politics/2025/02/13/nazi-flags-can-fly-utah-school-not/#selection-261.0-261.162',
-        linkText: 'The Salt Lake Tribune (via archive.is)',
+        href: 'https://www.sltrib.com/news/politics/2025/02/13/nazi-flags-can-fly-utah-school-not/#selection-261.0-261.162',
+        linkText: 'The Salt Lake Tribune ',
       },
     ],
   },
@@ -4649,8 +4649,8 @@ const entries = [
     body: 'Across the US, businesspeople are warning that this new trade war could drive up costs, disrupt supply chains and hurt profits — and make a whole range of products more expensive for American consumers.',
     links: [
       {
-        href: 'https://archive.is/W0oGN',
-        linkText: 'Financial Times (via archive.is)',
+        href: 'https://www.ft.com/content/a7c9376b-4cb2-4cf2-a665-66f75b72f4c2',
+        linkText: 'Financial Times ',
       },
     ],
   },
@@ -4749,8 +4749,8 @@ const entries = [
     body: 'The “T” was removed in references to L.G.B.T.Q.+ on the official site for the Greenwich Village monument, which marks a milestone in the fight for gay rights. Later, the Q+ also disappeared.',
     links: [
       {
-        href: 'https://archive.is/4ioPz',
-        linkText: 'NYT (via archive.is)',
+        href: 'https://www.nytimes.com/2025/02/13/nyregion/stonewall-transgender-parks-service.html',
+        linkText: 'NYTimes',
       },
     ],
   },
@@ -4819,8 +4819,8 @@ const entries = [
       },
 
       {
-        href: 'https://archive.is/8phDI',
-        linkText: 'Bloomberg (via archive.is)',
+        href: 'https://www.bloomberg.com/news/articles/2025-02-11/apple-is-renaming-gulf-of-mexico-to-gulf-of-america-on-maps-app',
+        linkText: 'Bloomberg ',
       },
 
       {
@@ -4899,8 +4899,8 @@ const entries = [
       },
 
       {
-        href: 'https://archive.is/HrspM',
-        linkText: 'NYT (via archive.is)',
+        href: 'https://www.nytimes.com/2025/02/11/us/politics/trump-musk-doge-federal-workers.html',
+        linkText: 'NYTimes',
       },
     ],
   },
@@ -4920,8 +4920,8 @@ const entries = [
       },
 
       {
-        href: 'https://archive.is/HrspM',
-        linkText: 'NYT (via archive.is)',
+        href: 'https://www.nytimes.com/2025/02/11/us/politics/trump-musk-doge-federal-workers.html',
+        linkText: 'NYTimes',
       },
     ],
   },
@@ -5026,8 +5026,8 @@ const entries = [
     body: 'Trump said FEMA should be eliminated, widening his fight against the federal bureaucracy that he has denounced as a “deep state” working against his interests.',
     links: [
       {
-        href: 'https://archive.is/ir8Bo',
-        linkText: 'Bloomberg (via archive.is)',
+        href: 'https://www.bloomberg.com/news/articles/2025-02-11/trump-calls-for-abolishing-fema-expanding-battle-against-feds',
+        linkText: 'Bloomberg ',
       },
     ],
   },
@@ -5094,8 +5094,8 @@ const entries = [
     body: 'Elon Musk\’s cost-cutting effort announced a variety of cuts at the Education Department totaling over $900 million...',
     links: [
       {
-        href: 'https://archive.is/dA4Su',
-        linkText: 'NYT (via archive.is)',
+        href: 'https://www.nytimes.com/2025/02/11/us/politics/musk-doge-education-data.html',
+        linkText: 'NYTimes',
       },
 
     ],
@@ -5201,8 +5201,8 @@ const entries = [
     body: 'The president turned up the pressure on the two nations to agree to his proposal for them to house the Palestinian population of Gaza and said the Palestinians would not have the right to return to the territory.',
     links: [
       {
-        href: 'https://archive.is/0LrRR',
-        linkText: 'NYT (via archive.is)',
+        href: 'https://www.nytimes.com/2025/02/10/us/politics/trump-jordan-egypt-gaza-development.html',
+        linkText: 'NYTimes',
       },
     ],
   },
@@ -5333,8 +5333,8 @@ const entries = [
         linkText: 'NYTimes',
       },
       {
-        href: 'https://archive.is/ZuAWL',
-        linkText: 'NYT (via archive.is)',
+        href: 'https://www.nytimes.com/2025/02/08/us/politics/guantanamo-bay-migrants.html',
+        linkText: 'NYTimes',
       },
     ],
   },
@@ -5595,8 +5595,8 @@ const entries = [
       },
 
       {
-        href: 'https://archive.is/WKjGY',
-        linkText: 'NYT (via archive.is)',
+        href: 'https://www.nytimes.com/2025/01/28/us/politics/states-lawsuit-trump-federal-grants-pause.html',
+        linkText: 'NYTimes',
       },
     ],
   },
@@ -5612,8 +5612,8 @@ const entries = [
     links: [
 
       {
-        href: 'https://archive.is/gMKkx',
-        linkText: 'NYT (via archive.is)',
+        href: 'https://www.nytimes.com/2025/01/28/us/politics/medicaid-freeze.html',
+        linkText: 'NYTimes',
       },
     ],
   },
@@ -5661,8 +5661,8 @@ const entries = [
     body: 'The Justice Department fired more than a dozen officials who worked on the special counsel team that investigated Donald Trump in two separate criminal cases, citing a lack of trust in them.',
     links: [
       {
-        href: 'https://archive.is/LGtF6',
-        linkText: 'Washington Post (via archive.is)',
+        href: 'https://www.washingtonpost.com/national-security/2025/01/27/doj-firings-trump-jack-smith-officials/',
+        linkText: 'Washington Post ',
       },
     ],
   },
@@ -6196,8 +6196,8 @@ const entries = [
     body: 'A sweeping action that could chill years of efforts to combat the proliferation of false information online.',
     links: [
       {
-        href: 'https://archive.is/8QTai',
-        linkText: 'Washington Post (via archive.is)',
+        href: 'https://www.washingtonpost.com/politics/2025/01/20/trump-free-speech-executive-order-censorship/',
+        linkText: 'Washington Post ',
       },
     ],
   },
@@ -6336,8 +6336,8 @@ const entries = [
       },
 
       {
-        href: 'https://archive.is/USvx7',
-        linkText: 'NYT (via archive.is)',
+        href: 'https://www.nytimes.com/2025/01/20/us/politics/trump-world-health-organization.html',
+        linkText: 'NYTimes',
       },
     ],
   },
