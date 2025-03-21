@@ -30,7 +30,131 @@ const entries = [
   //Layoffs, DOGE work, restructuring, etc. = Project 2025
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, etc.
+
+
+
  
+  {
+    id: 'Telsa_Stock-Falls',
+    categories: ['DOGE', 'Project 2025', 'FAFO', 'Resist'],
+    color: 'green',
+    faicon: 'poo',
+    date: '2025-03-20',
+    title: 'Tesla stock falls after Trump official urges Americans to ‘invest in Elon Musk’',
+    body: 'Republicans have attacked Democrats for speaking out against Tesla. Observers have pointed out how the same Republicans have attacked companies for promoting values they do not share, celebrating financial reverses.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/20/howard-lutnick-tesla-trump-musk',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'DOGE_Blocked_SSA',
+    categories: ['DOGE', 'Project 2025', 'Resist', 'Courts'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-20',
+    title: 'DOGE blocked in court from Social Security systems with Americans’ personal information, for now',
+    body: 'A federal judge on Thursday temporarily blocked billionaire Elon Musk’s Department of Government Efficiency from Social Security systems that hold personal data on millions of Americans, calling their work there a “fishing expedition.”',
+    links: [
+      {
+        href: 'https://apnews.com/article/social-security-trump-administration-acfdd0d7a53b7e5a1b5105baa456c5d0',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Dismantles_Ed',
+    categories: ['Education', 'Project 2025'],
+    color: 'red',
+    faicon: 'scroll',
+    date: '2025-03-20',
+    title: 'Trump signs order to begin dismantling Education Department',
+    body: 'President Donald Trump is taking the first steps to fulfilling his campaign promise to dismantle the Department of Education.',
+    links: [
+      {
+        href: 'https://edition.cnn.com/politics/live-news/trump-news-03-20-25?t=1742505409764',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+
+  {
+    id: 'Elon_Blames_Trans',
+    categories: ['DOGE', 'Project 2025', 'LGBTQ'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-20',
+    title: 'Tesla’s in Trouble. Elon Blames…Trans People?',
+    body: 'Musk and his acolytes blame the massive protests on transgender people’s supposed penchant for violence',
+    links: [
+      {
+        href: 'https://www.motherjones.com/politics/2025/03/elon-musk-tesla-protests-transphobia/',
+        linkText: 'Mother Jones',
+      },
+    ],
+  },
+
+ 
+  {
+    id: 'Tesla_Jail',
+    categories: ['DOGE', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-20',
+    title: 'US attorney general threatens 20-year jail sentences for damaging Elon Musk\'s Tesla cars',
+    body: 'Cars and charging stations associated with Elon Musk\'s company have been targeted in recent weeks. Meanwhile, on Thursday, almost all Cybertrucks were recalled due to a "dangerous road hazard".',
+    links: [
+      {
+        href: 'https://news.sky.com/story/us-attorney-general-threatens-20-year-jail-sentences-for-damaging-elon-musks-tesla-cars-13332767',
+        linkText: 'Sky News',
+      },
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/20/charges-tesla-violent-destruction',
+        linkText: 'The Guardian',
+      },
+      {
+        href: 'https://www.independent.co.uk/news/world/americas/crime/tesla-arson-charges-pam-bondi-b2718922.html',
+        linkText: 'The Independent',
+      },
+    ],
+  },
+
+  {
+    id: 'Tesla_Terrorists',
+    categories: ['FAFO', 'Project 2025'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-03-20',
+    title: 'JD Vance: Tesla terrorists are wealthy Left-wingers',
+    body: 'Vice-president speculates that continuing vandalism is coordinated',
+    links: [
+      {
+        href: 'https://www.telegraph.co.uk/us/politics/2025/03/20/jd-vance-tesla-terrorists-are-wealthy-left-wingers/',
+        linkText: 'The Telegraph',
+      },
+    ],
+  },
+
+  {
+    id: 'Tesla_Terrorists',
+    categories: ['FAFO', 'Project 2025', 'DOGE', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-20',
+    title: 'Three charged in arson attacks at Tesla dealerships, charging stations',
+    body: 'Tesla has become a target of activists opposed to the political agenda of President Donald Trump and the role of his adviser Elon Musk, the electric car maker\'s CEO, in putting it in motion.',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/us/us-attorney-general-says-alleged-arsonists-targeting-tesla-face-charges-2025-03-20/',
+        linkText: 'Reuters',
+      },
+    ],
+  },
 
   {
     id: 'Segregation',
@@ -44,6 +168,108 @@ const entries = [
       {
         href: 'https://www.npr.org/sections/shots-health-news/2025/03/18/nx-s1-5326118/segregation-federal-contracts-far-regulation-trump',
         linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Dems_Backyards',
+    categories: ['FAFO', 'Resist', 'Project 2025', 'Tiddlywinks'],
+    color: 'green',
+    faicon: 'democrat',
+    date: '2025-03-19',
+    title: 'Democrats Show Up In Republicans\' Backyards To Troll Them',
+    body: 'Republicans are ghosting their constituents. Democrats are meeting with them instead.',
+    links: [
+      {
+        href: 'https://www.huffingtonpost.co.uk/entry/democrats-troll-republicans-town-halls_n_67db1b7ae4b097824b243026',
+        linkText: 'Huffington Post',
+      },
+    ],
+  },
+
+  {
+    id: 'Musk_Bribes',
+    categories: ['DOGE', 'Courts', 'Fascism', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-19',
+    title: 'Musk Donates to G.O.P. Members of Congress Who Support Impeaching Judges',
+    body: 'Amid a controversy over whether President Trump will abide by court rulings, Elon Musk gave the maximum to the campaigns of Republican incumbents who back ousting judges who impede the administration.',
+    links: [
+      {
+        href: 'https://www.nytimes.com/2025/03/19/us/politics/musk-donations-congress-judges.html',
+        linkText: 'New York Times',
+      },
+    ],
+  },
+
+
+  {
+    id: 'Trump_Pause_$$',
+    categories: ['LGBTQ', 'Courts', 'Project 2025', 'Discrimination'],
+    color: 'red',
+    faicon: 'rainbow',
+    date: '2025-03-19',
+    title: 'Trump administration pauses $175M in funding to UPenn over trans athlete policy',
+    body: 'The University of Pennsylvania made national headlines in the 2021-22 school year when Lia Thomas, a trans athlete, competed on its women\'s swim team.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-transgender-troops-military-7e1a52f94ee60dcd58d4c2086e14acc3',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Judge_Blocks_Trans-Ban',
+    categories: ['LGBTQ', 'Courts', 'Project 2025', 'Discrimination', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-19',
+    title: 'Federal judge blocks Trump administration from banning transgender people from military service',
+    body: 'A federal judge blocked enforcement of President Donald Trump’s executive order banning transgender people from military service on Tuesday, the latest in a string of legal setbacks for his sweeping agenda.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-transgender-troops-military-7e1a52f94ee60dcd58d4c2086e14acc3',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Democrat_Schumer-StepDown',
+    categories: ['Tiddlywinks', 'Resist', 'Project 2025', 'FAFO'],
+    color: 'green',
+    faicon: 'democrat',
+    date: '2025-03-19',
+    title: 'Democrat calls for Schumer’s removal over support of Republican funding bill',
+    body: 'Maryland’s Glenn Ivey is first Democratic lawmaker to publicly demand that the Senate minority leader step down',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/19/glenn-ivey-chuck-schumer-republican-funding-bill',
+        linkText: 'The Guardian',
+      },
+
+      {
+        href: 'https://eu.usatoday.com/story/news/politics/2025/03/19/democrats-schumer-government-shutdown-leadership/82544265007/',
+        linkText: 'USA Today',
+      },
+    ],
+  },
+
+  {
+    id: 'Canadian_Kidnapped',
+    categories: ['Immigration', 'Global', 'Fascism', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-19',
+    title: 'I’m the Canadian who was detained by Ice for two weeks. It felt like I had been kidnapped',
+    body: 'I was stuck in a freezing cell without explanation despite eventually having lawyers and media attention. Yet, compared with others, I was lucky',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney',
+        linkText: 'The Guardian',
       },
     ],
   },
@@ -91,7 +317,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/usaid-federal-judge-trump-administration-bdc919a5d98eda5ab72a32fdfe2f147d',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -148,6 +374,22 @@ const entries = [
       {
         href: 'https://www.msnbc.com/rachel-maddow-show/maddowblog/michael-flynns-radicalism-trump-welcomes-retired-general-back-fold-rcna196866',
         linkText: 'MSNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Another_MAGA_Pedophile',
+    categories: ['FAFO'],
+    color: 'green',
+    faicon: 'poo',
+    date: '2025-03-18',
+    title: 'Republican who introduced Trump derangement syndrome bill arrested for soliciting a minor',
+    body: 'Minnesota state senator Justin Eichorn allegedly traveled to meet a 17-year-old he thought he’d met online, but was instead a cop posing as minor',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/18/minnesota-justin-eichorn-arrested-soliciting-minor',
+        linkText: 'The Guardian',
       },
     ],
   },
@@ -301,6 +543,11 @@ const entries = [
       {
         href: 'https://www.axios.com/2025/03/17/social-security-trump-doge',
         linkText: 'Axios',
+      },
+
+      {
+        href: 'https://apnews.com/article/social-security-fraud-waste-doge-elon-musk-212e3089951f731fd3f83443e104b315',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -486,7 +733,7 @@ const entries = [
 
   {
     id: 'Removed_Black_Hero',
-    categories: ['Discrimination', 'Fascism', 'Project 2025'],
+    categories: ['Discrimination', 'Fascism', 'Project 2025', 'Orwell'],
     color: 'red',
     faicon: 'fire',
     date: '2025-03-17',
@@ -511,7 +758,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-venezuela-el-salvador-immigration-dd4f61999f85c4dd8bcaba7d4fc7c9af',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -559,7 +806,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-aclu-deportations-venezuelans-b2566f05b10bf1cde1caf467a3b001cc',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -601,7 +848,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/young-scientists-see-career-pathways-vanish-as-schools-adapt-to-federal-funding-cuts-000001959e23d0e3addddf3fa7cc0000',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -637,7 +884,7 @@ const entries = [
       },
       {
         href: 'https://eu.usatoday.com/story/news/politics/2025/03/17/trump-statue-of-liberty-us-france/82492828007/',
-        linkText: 'USA :: White House says \'absolutely not\'',
+        linkText: 'USA Today',
       },
     ],
   },
@@ -733,14 +980,14 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/columbia-university-mahmoud-khalil-ice-arrests-3a8db6e646b786a721089a6f0bc8d9fc',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
 
   {
     id: 'Musk_Hitler',
-    categories: ['DOGE', 'Fascism', 'Global'],
+    categories: ['DOGE', 'Fascism', 'Global', 'Orwell'],
     color: 'red',
     faicon: 'fire',
     date: '2025-03-15',
@@ -786,7 +1033,7 @@ const entries = [
 
       {
         href: 'https://www.npr.org/2025/03/15/nx-s1-5329244/bloody-saturday-voiceofamerica-radio-free-asia-europe-trump-kari-lake',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -802,7 +1049,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/columbia-university-trump-arrests-international-students-0551bb740eac7d5cec155a2d779a45d1',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -818,7 +1065,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/democrats-congress-chuck-schumer-government-funding-shutdown-43d1acea20c34ad28d848edc08ad6375',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -839,7 +1086,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-visits-justice-department-e9091e3721adda4d3ed39bd15119a0d4',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -1000,12 +1247,12 @@ const entries = [
     links: [
       {
         href: 'https://www.vox.com/policy/403596/what-dismantling-the-education-department-means-for-kids-with-disabilities',
-        linkText: 'Vox',
+        linkText: 'Vox 1',
       },
 
       {
         href: 'https://www.vox.com/policy/402336/department-of-education-trump-musk-doge-schools',
-        linkText: 'Vox',
+        linkText: 'Vox 2',
       },
     ],
   },
@@ -1102,7 +1349,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-eu-tariffs-countermeasures-806a3b9bcc9cd4e45817e672d95f0070',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -1203,7 +1450,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/education-department-layoffs-job-cuts-linda-mcmahon-ce9f6a8a63972aede0d8fbdf057ab788',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -1261,7 +1508,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/canada-trump-us-tariffs-steel-2517a6a2baf0596cb1a43d3a7d1e7939',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -1335,7 +1582,7 @@ const entries = [
 
       {
         href: 'https://apnews.com/article/trump-musk-tesla-9a43c57a0591a4c7ed8d3f1b2c7ef8d9',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -1399,7 +1646,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/european-union-united-nations-trump-russia-ukraine-02dadb854440861864733211e687b9b5',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -1407,7 +1654,7 @@ const entries = [
 
   {
     id: 'Freedom_Cities',
-    categories: ['Fascism', 'Economy'],
+    categories: ['Fascism', 'Economy', 'Orwell'],
     color: 'red',
     faicon: 'coins',
     date: '2025-03-11',
@@ -1437,7 +1684,7 @@ const entries = [
 
       {
         href: 'https://apnews.com/video/rubio-says-it-will-be-highly-unfortunate-if-russia-rejects-ukraine-ceasefire-proposal-79f4b7ae798e40448cfbe9c35ffa26df?utm_source=substack&utm_medium=email',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -1453,7 +1700,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/columbia-university-mahmoud-khalil-ice-6964107d218dba43eb995d6dbbe528b1',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -1522,7 +1769,7 @@ const entries = [
 
       {
         href: 'https://apnews.com/article/canada-ontario-us-trump-tariffs-electricity-834dc3d9defd314923912f9bd8540e31',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -1554,7 +1801,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/bernie-sanders-democrats-trump-c213d5ae42737c956d46f6f7f17e5abd',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -1618,7 +1865,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/supreme-court-climate-change-state-lawsuits-d38a557894276083f94f47cae4127ddd',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -1634,7 +1881,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/canada-ontario-us-trump-tariffs-electricity-834dc3d9defd314923912f9bd8540e31',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -1650,7 +1897,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/greenland-trump-independence-election-denmark-china-russia-c86afc33375d0fe260f065a662e04b57',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -1666,7 +1913,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/eeoc-pushback-karen-ortiz-transgender-6ebc3cfb90298ae06f46d0ed4898733d',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -1682,7 +1929,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-musk-rubio-usaid-foreign-aid-bf442d62af67918a6fc5eee839074601',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -1746,7 +1993,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/columbia-university-mahmoud-khalil-ice-15014bcbb921f21a9f704d5acdcae7a8',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -1779,7 +2026,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/elon-musk-donald-trump-doge-b21b74f56f30012a6450a629e7232a1a?utm_source=substack&utm_medium=email',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -1827,7 +2074,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-tariffs-recession-economy-higher-prices-7f481abbaae500bf826445236b958e61',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -2167,7 +2414,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/musk-doge-trump-blame-federal-workers-republicans-2945026366f42b0879087f2e7d4b9d71',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -2244,7 +2491,8 @@ const entries = [
     color: 'green',
     faicon: 'jedi',
     date: '2025-03-07',
-    title: '“We now live in a government that is of the plutocrats, by the plutocrats, for the plutocrats,” Congressmember Green tells Democracy Now! “We have to fight to protect those who cannot protect themselves.”',
+    title: '“Impeachment Is a Remedy for a Runaway President”: Rep. Al Green on Why He Disrupted Trump’s Address',
+    body: '“We now live in a government that is of the plutocrats, by the plutocrats, for the plutocrats,” Congressmember Green tells Democracy Now! “We have to fight to protect those who cannot protect themselves.”',
     links: [
       {
         href: 'https://www.democracynow.org/2025/3/7/impeachment_is_a_rremedy_for_a',
@@ -2286,7 +2534,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/house-censure-green-trump-joint-address-61d82026983c99a269209bbeb32b45a5',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -2382,7 +2630,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -2446,7 +2694,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/education-department-trump-ab509ad5778497dfbd6d53b9eef692b5',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -2478,7 +2726,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trudeau-trump-canada-tariffs-921138ff86144357b36610475d37801e',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -2542,7 +2790,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trade-war-mexico-trump-9cefdded035a0b35e700a7ba0bfc34b4',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -2693,7 +2941,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-tariffs-canada-mexico-china-643086a6dc7ff716d876b3c83e3255b0',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -2861,7 +3109,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-speech-congress-immigration-tariffs-guests-93f6107ede260854f90c65c4bde60de8',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -2936,7 +3184,23 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-tariffs-mexico-canada-b19e004dddb579c373b247037e04424b',
-        linkText: 'AP',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+   {
+    id: 'French_Tesla',
+    categories: ['Resist', 'DOGE'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-04',
+    title: 'Teslas set alight outside French dealership in arson attack',
+    body: 'Blaze is latest in string of anti-Tesla protests, with German activists projecting image of Musk alongside ‘heil’ and ‘boycott’ on factory',
+    links: [
+      {
+        href: 'https://www.telegraph.co.uk/world-news/2025/03/04/teslas-set-alight-outside-french-dealership-arson-attack/',
+        linkText: 'The Telegraph',
       },
     ],
   },
@@ -3006,7 +3270,7 @@ const entries = [
       },
       {
         href: 'https://apnews.com/article/trump-zelenskyy-russia-ukraine-a15a459c9a3a393d040478ebbe250a9e',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
     ],
@@ -3055,7 +3319,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-speech-congress-musk-zelenskyy-3b7c80f39606911b9f12e732131fe7d1',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -3204,7 +3468,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/democrats-trump-grassroots-constitutional-crisis-bd53cc6ec73f654816c5f4c7bce5fd88',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -3366,7 +3630,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/unemployment-benefits-jobless-claims-layoffs-labor-a4b9beab0c8a16c374ed5492f02a61f6',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   }, 
@@ -3382,7 +3646,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-tariffs-mexico-canada-71761a2894e13a050717afda4fd8131a',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   }, 
@@ -3414,7 +3678,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-usaid-foreign-aid-cuts-6292f48f8d4025bed0bf5c3e9d623c16',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   }, 
@@ -3446,7 +3710,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-elon-musk-federal-workers-layoffs-d295d4bb2cdd5023c27d9cb03754e81b',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   }, 
@@ -3510,7 +3774,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/investor-visas-trump-immigration-eb5-gold-cards-cdb943dd1633bc234bb715fa20914e05',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   }, 
@@ -3638,7 +3902,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-tariffs-macron-canada-mexicoreciprocal-49caafc1240db7e17cfb45e71520dc98',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   }, 
@@ -3654,7 +3918,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-refugee-seattle-ruling-lawsuit-eef485154e2a3f008a01d6790ce0ee06',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   }, 
@@ -3670,7 +3934,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/doge-federal-contracts-canceled-musk-trump-cuts-a65976a725412934ad686389889db0df',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   }, 
@@ -3686,7 +3950,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/doge-elon-musk-federal-government-resignations-usds-6b7e9b7022e6d89d69305e9510f2a43c',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -3744,7 +4008,7 @@ const entries = [
 
       {
         href: 'https://apnews.com/article/un-russia-ukraine-war-resolution-trump-zelenskyy-cde221e5850196776525403e788c272c',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   }, 
@@ -3768,7 +4032,7 @@ const entries = [
 
   {
     id: 'Viral_Misinformation',
-    categories: ['Fascism'],
+    categories: ['Fascism', 'Orwell'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-24',
@@ -3841,7 +4105,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/live/germany-election-updates-parliament',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   }, 
@@ -3873,7 +4137,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/usaid-trump-musk-foreign-aid-firings-a3af8ce6ef17878b718c8e2ed3bf98e4',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   }, 
@@ -4438,7 +4702,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/president-donald-trump-protest-c8796556fbf20e796f42167f61c3d942',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -4647,7 +4911,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/venezuelans-deported-immigration-crackdown-guantanamo-b12eee8c28b23e63cc35583083a79df0',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -4663,7 +4927,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-fbi-kash-patel-61610c5384536667eb112734465b0a19',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -4764,7 +5028,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/rfk-trump-health-secretary-vote-5dbefeef0537dc241e6fb33b8f2a748b',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -4859,7 +5123,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/elon-musk-doge-us-uae-6f7c0e5b43adfb4ec3c1f14a964f573c',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -4885,7 +5149,7 @@ const entries = [
 
       {
         href: 'https://apnews.com/article/trump-tariffs-reciprocal-imports-tax-trade-economy-54c0a26687dc96157d96229068894720',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -4934,7 +5198,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/judge-restraining-order-trump-transgender-health-care-8f8d935a3e757a1700dfb7363a67b07b',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -5024,7 +5288,7 @@ const entries = [
 
       {
         href: 'https://apnews.com/article/watchdogs-trump-mass-firing-inspectors-general-5b4629fb34a168322bf61170286efb76',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
     ],
@@ -5041,7 +5305,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/usaid-american-companies-layoffs-lawsuit-8c116d877c179169fbce2d3348fcd997',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -5104,7 +5368,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/pope-trump-migration-09a89091f8e7dc3270099f0947d04e90',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -5125,7 +5389,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-judges-rulings-constitutional-crisis-presidential-power-a9c593cf3f9faec23a03f4a5123fefdb',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -5162,7 +5426,7 @@ const entries = [
 
       {
         href: 'https://apnews.com/article/fema-migrant-hotels-new-york-musk-immigration-3d250d9f64b40858c0f0eda9989bea6d',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -5214,7 +5478,7 @@ const entries = [
       },
       {
         href: 'https://apnews.com/article/trump-downsizing-federal-workers-doge-00683abc4de44a151f26aaa6cb0d0f30',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -5306,7 +5570,7 @@ const entries = [
 
       {
         href: 'https://apnews.com/article/funding-freeze-trump-federal-grants-loans-judge-ec9bf2700c41ec0ba4085d375599d295',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -5423,7 +5687,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-steel-aluminum-tariffs-import-duties-74d7bfde0da59e111a45e772d199f2b2',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -5465,7 +5729,7 @@ const entries = [
 
       {
         href: 'https://apnews.com/article/trump-judiciary-musk-separation-of-powers-balance-checks-069c169ea1ddf6eea76f502d544c4c16',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -5580,7 +5844,7 @@ const entries = [
     color: 'green',
     faicon: 'rainbow',
     date: '2025-02-05',
-    title: 'Protests erupt across US at hospitals complying with Trump\'s unlowful under-19 trans ban',
+    title: 'Protests erupt across US at hospitals complying with Trump\'s unlawful under-19 trans ban',
     body: '"...hospitals should stand as a bulwark against Trump and should care for all their patients..."',
     links: [
       {
@@ -5616,7 +5880,7 @@ const entries = [
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-03',
-    title: 'Trump/’s attack on the FBI',
+    title: 'Trump’s attack on the FBI',
     body: 'The Trump administration is preparing a remarkable power grab over the federal law enforcement agency.',
     links: [
       {
@@ -5719,7 +5983,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-presidential-power-executive-congress-grants-freeze-60fa3a9fabf6328f9aa3c45ed34e2cc3',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -5737,7 +6001,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/justice-department-special-counsel-trump-046ce32dbad712e72e500c32ecc20f2f',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -5797,7 +6061,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/justice-department-special-counsel-trump-046ce32dbad712e72e500c32ecc20f2f',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -5845,7 +6109,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/colombia-immigration-deportation-flights-petro-trump-us-67870e41556c5d8791d22ec6767049fd',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -5861,7 +6125,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-deportations-chicago-immigration-arrests-cfb20a3e412443aa2ca6c6ed4d1070d4',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -6047,7 +6311,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/congress-immigration-crackdown-laken-riley-act-trump-a3e52af60b6b952f487e4ae03ebfacde',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -6079,7 +6343,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/birthright-citizenship-donald-trump-lawsuit-immigration-9ac27b234c854a68a9b9f8c0d6cd8a1c',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -6163,7 +6427,7 @@ const entries = [
     id: 'Police-Condemn-Pardons',
     categories: ['J6', 'Project 2025', 'Fascism', 'FAFO'],
     color: 'green',
-    faicon: 'skull',
+    faicon: 'poo',
     date: '2025-01-22',
     title: 'Police union that endorsed Trump condemns Jan. 6 pardons',
     body: 'Trump\'s mass pardon of Jan. 6 rioters, many of whom assaulted police officers defending the U.S. Capitol, has provoked a furious response from the Fraternal Order of Police and the International Association of Chiefs of Police (clear case of FAFO)',
@@ -6206,7 +6470,7 @@ const entries = [
 
       {
         href: 'https://apnews.com/live/trump-presidency-day-3-updates',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -6222,7 +6486,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/dei-trump-executive-order-diversity-834a241a60ee92722ef2443b62572540',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -6248,7 +6512,7 @@ const entries = [
 
       {
         href: 'https://apnews.com/article/trump-national-security-council-staffers-d167985d61c96dd278b0e58a402ff865',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -6290,7 +6554,7 @@ const entries = [
 
       {
         href: 'https://apnews.com/article/trump-inaugural-prayer-service-washington-national-cathedral-interfaith-a95b36f962be93c8647cc5144266da11',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -6306,7 +6570,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/trump-white-house-spanish-language-website-62224890c5b05c8ce0878358ba4a5266',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
     ],
@@ -6323,7 +6587,7 @@ const entries = [
     links: [
       {
         href: 'https://apnews.com/article/birthright-citizenship-trump-executive-order-immigrants-fc7dd75ba1fb0a10f56b2a85b92dbe53',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
@@ -6348,7 +6612,7 @@ const entries = [
       },
       {
         href: 'https://apnews.com/article/justice-department-immigration-enforcement-f0e3fc616da9746796378d1cd6385b1b',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -6525,7 +6789,7 @@ const entries = [
 
       {
         href: 'https://apnews.com/article/capitol-jan-6-pardons-trump-justice-department-8ce8b2a8f8cb602d5eaf85ac7b969606',
-        linkText: 'AP',
+        linkText: 'Associated Press',
       },
 
       {
