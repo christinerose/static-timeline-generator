@@ -637,7 +637,7 @@ const entries = [
     id: 'Tesla_Targets',
     categories: ['Resist', 'Project 2025', 'DOGE', 'Civil Liberties'],
     color: 'green',
-    faicon: 'resist',
+    faicon: 'jedi',
     date: '2025-03-17',
     title: '‘Tesla is a good target’: Elon Musk’s car business is focus of fury for political role',
     body: 'Hundreds of people protested at Tesla dealerships across the US over the weekend, as the backlash against Elon Musk and the Trump administration continued despite a warning from the attorney general that the government would be “coming after” protesters.',
