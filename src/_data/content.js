@@ -33,6 +33,101 @@ const entries = [
 
 
 
+  {
+    id: 'Without_Warrant',
+    categories: ['Immigration', 'Project 2025', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-22',
+    title: 'Trump White House could let federal agents search homes without warrants under Alien Enemies Act',
+    body: 'AJustice Department official says ‘terrorists don’t get to hide behind closed doors’ as legal experts sound alarm.',
+    links: [
+      {
+        href: 'https://www.independent.co.uk/news/world/americas/us-politics/trump-search-warrant-fourth-amendment-b2719701.html',
+        linkText: 'The Independent',
+      },
+    ],
+  },
+
+  {
+    id: 'Tesla_TradeIns',
+    categories: ['FAFO', 'DOGE', 'Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'poo',
+    date: '2025-03-21',
+    title: 'Tesla Trade-Ins Are At An All-Time High',
+    body: 'JPMorgan analysts said this week they struggled to think of another time “a [car] brand has lost so much value so quickly."',
+    links: [
+      {
+        href: 'https://www.huffingtonpost.co.uk/entry/tesla-trade-in-all-time-high-stock-not_n_67dd7f05e4b09b090813ece6',
+        linkText: 'Huffington Post',
+      },
+    ],
+  },
+
+  {
+    id: 'PDX_Resist',
+    categories: ['Immigration', 'Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-21',
+    title: 'Portland is building a model for migrant solidarity under Trump',
+    body: 'As ICE raids ramp up across the country, Portland\'s Asylum Seeker Solidarity Collective is building trust and community through mutual aid.',
+    links: [
+      {
+        href: 'https://wagingnonviolence.org/2025/03/migrant-solidarity-portland-trump/',
+        linkText: 'Waging Nonviolence',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Feds_Tariffs',
+    categories: ['Economy', 'Project 2025'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-03-20',
+    title: 'Trump says the Fed should cut rates to ease the economy’s transition to his tariffs',
+    body: 'After largely staying out of the Federal Reserve’s business during his first two months in office, President Donald Trump is pushing the central bank to cut interest rates as a backstop for his tariff plans.',
+    links: [
+      {
+        href: 'https://www.cnbc.com/2025/03/20/trump-says-the-fed-should-cut-rates-to-ease-the-economys-transition-to-his-tariffs.html',
+        linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'UK_Travel-Warning',
+    categories: ['Global', 'FAFO', 'Resist'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-20',
+    title: 'Britain Issues Travel Warning for US',
+    body: 'The United Kingdom has updated its travel advice for British citizens planning to visit the United States, warning of potential arrest or detention if travelers fail to comply with entry requirements.',
+    links: [
+      {
+        href: 'https://www.newsweek.com/britain-issues-travel-warning-us-deportations-2047878',
+        linkText: 'Newsweek',
+      },
+    ],
+  },
+
+  {
+    id: 'Musk_Daughter',
+    categories: ['DOGE', 'Fascism', 'FAFO', 'Resist'],
+    color: 'green',
+    faicon: 'fire',
+    date: '2025-03-20',
+    title: 'Elon Musk’s daughter says father’s rally gesture was ‘definitely a Nazi salute’',
+    body: 'Vivian Jenna Wilson tells Teen Vogue she feels obliged to take stand for trans rights as Trump attacks community.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/20/elon-musk-daughter-vivian-jenna-wilson-salute',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
  
   {
     id: 'Telsa_Stock-Falls',
@@ -141,7 +236,7 @@ const entries = [
   },
 
   {
-    id: 'Tesla_Terrorists',
+    id: 'Tesla_Attacks',
     categories: ['FAFO', 'Project 2025', 'DOGE', 'Resist'],
     color: 'green',
     faicon: 'jedi',
@@ -152,6 +247,54 @@ const entries = [
       {
         href: 'https://www.reuters.com/world/us/us-attorney-general-says-alleged-arsonists-targeting-tesla-face-charges-2025-03-20/',
         linkText: 'Reuters',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Ignores_Judge',
+    categories: ['Fascism', 'Immigration', 'Courts'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-20',
+    title: 'Trump administration response on Venezuela deportations \'woefully insufficient,\' judge says',
+    body: 'The judge said the administration had "evaded its responsibilities" in responses submitted on Thursday to questions he asked about the timing of the flights.',
+    links: [
+      {
+        href: 'https://www.reuters.com/legal/trump-administration-due-respond-deportations-judge-weighs-possible-violations-2025-03-20/',
+        linkText: 'Reuters',
+      },
+    ],
+  },
+
+  {
+    id: 'Judge_Stop_Georgetown',
+    categories: ['Courts', 'Project 2025', 'Civil Liberties', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-20',
+    title: 'US government cannot deport Georgetown scholar until court rules, judge orders',
+    body: 'U.S. District Judge Patricia Tolliver Giles in Alexandria, Virginia, ordered that Indian national Badar Khan Suri “shall not be removed from the United States unless and until the Court issues a contrary order.”',
+    links: [
+      {
+        href: 'https://apnews.com/article/georgetown-trump-deportation-immigration-homeland-security-21fc205cebbbbba2ed260050df04702a',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Police_Aid_DOGE',
+    categories: ['DOGE', 'Project 2025', 'ACAB'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-20',
+    title: 'Law experts raise alarms over police action in DOGE Institute of Peace dispute',
+    body: 'U.S. District Judge Beryl Howell denied a request Wednesday by the institute to stop the takeover. D.C.\'s local police force escorted [IOP Leaders] away from the building Monday afternoon — and allowed a new regime [DOGE] to take over.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/03/20/nx-s1-5332193/why-d-c-police-sided-with-doge-institute-of-peace-standoff',
+        linkText: 'NPR',
       },
     ],
   },
@@ -173,6 +316,38 @@ const entries = [
   },
 
   {
+    id: 'DOJ_Drop_Lawsuit',
+    categories: ['Immigration', 'Courts', 'Project 2025'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-19',
+    title: 'Justice Department moves to drop lawsuit that would allow Texas police to arrest migrants',
+    body: 'The Trump administration has moved to dismiss a lawsuit against Texas over a law that would allow local police to arrest migrants who enter the country illegally.',
+    links: [
+      {
+        href: 'https://www.independent.co.uk/news/iowa-biden-texas-justice-department-austin-b2718227.html',
+        linkText: 'The Independent',
+      },
+    ],
+  },
+
+  {
+    id: 'Resistance_Alive',
+    categories: ['FAFO', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-19',
+    title: 'Resistance is alive and well in the United States',
+    body: 'Protests of Trump may not look like the mass marches of 2017, but research shows they are far more numerous and frequent — while also shifting to more powerful forms of resistance.',
+    links: [
+      {
+        href: 'https://wagingnonviolence.org/2025/03/resistance-alive-well-us/',
+        linkText: 'Waging Nonviolence',
+      },
+    ],
+  },
+
+  {
     id: 'Dems_Backyards',
     categories: ['FAFO', 'Resist', 'Project 2025', 'Tiddlywinks'],
     color: 'green',
@@ -184,6 +359,22 @@ const entries = [
       {
         href: 'https://www.huffingtonpost.co.uk/entry/democrats-troll-republicans-town-halls_n_67db1b7ae4b097824b243026',
         linkText: 'Huffington Post',
+      },
+    ],
+  },
+
+  {
+    id: 'German_Travel-Warning',
+    categories: ['Global', 'FAFO', 'Resist'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-19',
+    title: 'Germany updates US travel advice after citizens detained',
+    body: 'Germany updated its travel advisory for the United States to emphasise that a visa or entry waiver does not guarantee entry for its citizens after several Germans were detained at the border recently.',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/europe/germany-updates-us-travel-advice-after-citizens-detained-2025-03-19/',
+        linkText: 'Reuters',
       },
     ],
   },
@@ -275,6 +466,22 @@ const entries = [
   },
 
   {
+    id: 'No_Criminal_Record',
+    categories: ['Immigration', 'Global', 'Project 2025'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-19',
+    title: 'Trump administration says ‘many’ Venezuelans deported to El Salvador prison have no criminal record',
+    body: '"But a lack of a criminal record “does not indicate they pose a limited threat,” according to a sworn statement from an Immigration and Customs Enforcement official submitted in court filings.',
+    links: [
+      {
+        href: 'https://www.msn.com/en-gb/news/uknews/trump-administration-says-many-venezuelans-deported-to-el-salvador-prison-have-no-criminal-record/ar-AA1BbQ45',
+        linkText: 'MSNBC',
+      },
+    ],
+  },
+
+  {
     id: 'French_Scientist',
     categories: ['Civil Liberties', 'Global', 'WW3', 'Project 2025'],
     color: 'red',
@@ -302,6 +509,22 @@ const entries = [
       {
         href: 'https://edition.cnn.com/2025/03/19/politics/pentagon-website-purge/index.html',
         linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'Judge_Tarrio',
+    categories: ['Courts', 'Project 2025', 'J6'],
+    color: 'red',
+    faicon: 'skull',
+    date: '2025-03-19',
+    title: 'Prosecutors decline to charge Enrique Tarrio after arrest outside Capitol',
+    body: 'Capitol Police said they arrested former Proud Boys chairman Henry “Enrique” Tarrio outside the Capitol last month following an altercation with a protester.',
+    links: [
+      {
+        href: 'https://www.washingtonpost.com/dc-md-va/2025/03/19/enrique-tarrio-proud-boys-arrested-dc-capitol-police/',
+        linkText: 'Washington Press',
       },
     ],
   },
@@ -358,6 +581,62 @@ const entries = [
       {
         href: 'https://www.reuters.com/legal/us-chief-justice-roberts-calls-judges-impeachment-are-inappropriate-after-trump-2025-03-18',
         linkText: 'Reuters',
+      },
+    ],
+  },
+
+  {
+    id: 'CO_Resist',
+    categories: ['Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-18',
+    title: 'Colorado leaders give some hope of meaningful resistance',
+    body: 'In Utah, the U.S. government offered protections from state policies. Now, in Colorado, the state protects against U.S. government policies.',
+    links: [
+      {
+        href: 'https://coloradonewsline.com/2025/03/18/colorado-leaders-give-some-hope-of-meaningful-resistance/',
+        linkText: 'Colorado News Online',
+      },
+
+    ],
+  },
+
+  {
+    id: 'PB_Problems',
+    categories: ['J6', 'FAFO'],
+    color: 'green',
+    faicon: 'poo',
+    date: '2025-03-18',
+    title: 'A former Proud Boys leader was freed from a 17-year prison sentence by Trump. Then his problems began',
+    body: '“I’m extremely disappointed in him,” Biggs, a former leader of the far-Right Proud Boys who received one of the highest sentences of the January 6 attackers, says of Trump.',
+    links: [
+      {
+        href: 'https://www.independent.co.uk/news/world/americas/us-politics/capital-joe-biggs-proud-boys-b2710493.html',
+        linkText: 'The Independent',
+      },
+
+    ],
+  },
+
+
+  {
+    id: 'AG_Drops_J6',
+    categories: ['Project 2025', 'J6', 'Courts'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-03-18',
+    title: 'DC attorney general drops Jan. 6 lawsuit against Oath Keepers, Proud Boys',
+    body: 'In all, the lawsuit included more than three-dozen people, members of the Proud Boys and Oath Keepers, as well as the groups themselves.',
+    links: [
+      {
+        href: 'https://wtop.com/dc/2025/03/dc-drops-jan-6-lawsuit-against-oath-keepers-proud-boys/',
+        linkText: 'WTOP News',
+      },
+
+      {
+        href: 'https://www.washingtonpost.com/dc-md-va/2025/03/17/dc-drops-lawsuit-proud-boys-oath-keepers/',
+        linkText: 'Washington Post',
       },
     ],
   },
@@ -2732,8 +3011,41 @@ const entries = [
   },
 
   {
+    id: 'Fragmented_Resistence',
+    categories: ['Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-05',
+    title: 'The 2025 \'resistance\' against Trump is a fragmented phenomenon',
+    body: 'Just about every day, protests are taking place against the brutality of the Trump administration\'s executive orders, a movement born on the fringes of the Democratic Party, or even at odds with its establishment.',
+    links: [
+      {
+        href: 'https://www.lemonde.fr/en/opinion/article/2025/03/05/the-2025-resistance-against-trump-is-a-fragmented-phenomenon_6738839_23.html',
+        linkText: 'Le Monde',
+      },
+    ],
+  },
+
+  {
+    id: 'Sabotage_Manual',
+    categories: ['Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-05',
+    title: 'Trump resistance? A 1940s US sabotage manual goes viral',
+    body: 'Tens of thousands of people have downloaded the Simple Sabotage Field Manual,” a guide written by a US intelligence agent in 1944 to help the allied resistance during World War II. Its newfound popularity comes amid an emerging grassroots opposition to waves of executive orders from the new president.',
+    links: [
+      {
+        href: 'https://www.france24.com/en/americas/20250205-trump-resistance-a-1940s-us-sabotage-manual-goes-viral',
+        linkText: 'France 24',
+      },
+    ],
+  },
+
+  {
     id: 'Tesla_Arson',
     categories: ['FAFO', 'Project 2025', 'DOGE'],
+    color: 'green',
     faicon: 'poo',
     date: '2025-03-05',
     title: 'Tesla sites hit by arson amid DOGE cuts, Elon Musk backlash',
@@ -4143,6 +4455,38 @@ const entries = [
   }, 
 
   {
+    id: 'Tarrio_Bomb',
+    categories: ['J6'],
+    color: 'red',
+    faicon: 'skull',
+    date: '2025-02-21',
+    title: 'Bomb threat sent to anti-Trump conference singles out officer who tangled with ex-Proud Boys leader',
+    body: '“We have received a credible bomb threat from an account claiming to be ‘Enrique T.’ ‘To honor the J6 hostages.’"',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/feb/23/principles-first-enrique-tarrio-bomb-threat',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'PB_Sue',
+    categories: ['Courts', 'J6'],
+    color: 'red',
+    faicon: 'skull',
+    date: '2025-02-21',
+    title: 'Freed by Trump, Proud Boys and Oath Keepers plan to sue DOJ',
+    body: 'More than four years after the violent insurrection at the U.S. Capitol, the two men federal prosecutors charged as the principal leaders of the riot were back to announce they’re suing the Justice Department.',
+    links: [
+      {
+        href: 'https://eu.usatoday.com/story/news/politics/2025/02/21/proud-boys-oath-keepers-sue-doj/79433208007/',
+        linkText: 'USA Today',
+      },
+    ],
+  },
+
+  {
     id: 'NIH-Funding-Freeze',
     categories: ['Project 2025', 'Health'],
     color: 'red',
@@ -4198,6 +4542,27 @@ const entries = [
       },
     ],
   }, 
+
+  {
+    id: 'Tarrio_Arrested',
+    categories: ['Courts', 'J6', 'FAFO'],
+    color: 'green',
+    faicon: 'skull',
+    date: '2025-02-21',
+    title: 'Ex-Proud Boys leader arrested outside US Capitol',
+    body: 'Enrique Tarrio, who was pardoned by President Donald Trump for his role in the 6 January 2021 riot at the US Capitol, was arrested not long after holding a news conference on Friday.',
+    links: [
+      {
+        href: 'https://www.bbc.co.uk/news/articles/c5y93jgdvqjo',
+        linkText: 'BBC',
+      },
+
+      {
+        href: 'https://www.politico.com/news/2025/02/21/proud-boys-leader-enrique-tarrio-arrested-00205513',
+        linkText: 'Politico',
+      },
+    ],
+  },
 
   {
     id: 'Bannon_Salute',
@@ -5171,6 +5536,22 @@ const entries = [
   },
 
   {
+    id: 'Resistance_Fightback',
+    categories: ['Resist', 'Project 2025', 'Tiddlywinks'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-02-13',
+    title: 'The #Resistance is no more. But a quieter fightback to Trump 2.0 is growing',
+    body: 'There’s no sign of the mass protests of his first term – but Democrats are building a less flashy politics of opposition. The opposition to Trump also appears rudderless. The institutional Democratic party...lacks towering political talents.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/commentisfree/2025/feb/13/donald-trump-resistance-protest-democrats',
+        linkText: 'The Guardian (Opinion)',
+      },
+    ],
+  },
+
+  {
     id: 'Trans-Removed',
     categories: ['LGBTQ', 'Fascism'],
     color: 'red',
@@ -5839,6 +6220,22 @@ const entries = [
   },
 
   {
+    id: 'Resistence_Dead',
+    categories: ['Resist'],
+    color: 'red',
+    faicon: 'jedi',
+    date: '2025-02-05',
+    title: 'What Happened to the Trump Resistance?',
+    body: 'If Trump’s first Presidency was characterized by widespread revolt, his second term has so far been defined by the lack of dissidence.',
+    links: [
+      {
+        href: 'https://www.newyorker.com/news/the-lede/what-happened-to-the-trump-resistance',
+        linkText: 'The New Yorker',
+      },
+    ],
+  },
+
+  {
     id: 'Protests-Trans-Ban',
     categories: ['LGBTQ', 'Resist'],
     color: 'green',
@@ -6216,6 +6613,22 @@ const entries = [
       {
         href: 'https://www.npr.org/2025/01/26/g-s1-44831/trump-jordan-egypt-accept-more-refugees-just-clean-out-gaza',
         linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'OathKeeper-DC',
+    categories: ['Resist', 'J6', 'Courts'],
+    color: 'green',
+    faicon: 'skull',
+    date: '2025-01-24',
+    title: 'Ex-leader of Oath Keepers forbidden from entering Washington DC by judge',
+    body: 'Stewart Rhodes, whose 18-year Capitol attack sentence was commuted by Trump, was released from prison on Tuesday.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/jan/24/stewart-rhodes-oath-keepers',
+        linkText: 'The Guardian',
       },
     ],
   },
