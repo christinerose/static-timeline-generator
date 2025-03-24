@@ -31,6 +31,134 @@ const entries = [
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, etc.
 
+  {
+    id: 'Judge_Blocks_DOGE',
+    categories: ['DOGE', 'Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-24',
+    title: 'Judge blocks 3 agencies from disclosing troves of sensitive personal data to DOGE',
+    body: 'A federal judge on Monday indefinitely blocked the Department of Government Efficiency’s (DOGE) access to troves of sensitive personal data from three federal agencies, the latest roadblock to its efforts to slim down the federal bureaucracy.',
+    links: [
+      {
+        href: 'https://thehill.com/regulation/court-battles/5210446-federal-judge-doge-personal-data/',
+        linkText: 'The Hill',
+      },
+    ],
+  },
+
+  {
+    id: 'ICE_Detention_Hell',
+    categories: ['Immigration', 'Project 2025', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-23',
+    title: 'Immigrant women describe \'hell on earth\' in ICE detention',
+    body: 'Immigrant women say they were held "like animals" in ICE detention and subjected to conditions so extreme they feared for their lives.',
+    links: [
+      {
+        href: 'https://www.usatoday.com/story/news/nation/2025/03/23/immigrant-women-hell-on-earth-trump-ice-detention/82029368007/',
+        linkText: 'USA Today',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Demands_Apology',
+    categories: ['LGBTQ', 'Project 2025', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'rainbow',
+    date: '2025-03-23',
+    title: 'Trump demands Maine governor apologize — or the state will face consequences',
+    body: 'The Trump administration has sparred with Maine and singled out its governor in recent weeks over his order banning trans athletes from playing in women’s sports.',
+    links: [
+      {
+        href: 'https://www.politico.com/news/2025/03/22/donald-trump-trans-athletes-maine-00003871',
+        linkText: 'Politico',
+      },
+
+      {
+        href: 'https://www.pressherald.com/2025/03/22/trump-demands-full-throated-apology-from-gov-mills-over-maines-transgender-athlete-policy/',
+        linkText: 'Portland Press Herald',
+      },
+    ],
+  },
+
+  {
+    id: 'IRS_ICE',
+    categories: ['Immigration', 'Project 2025'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-22',
+    title: 'IRS close to finalizing data-sharing agreement with ICE, sources say',
+    body: 'After weeks of negotiations, administration officials are close to reaching an agreement that would enable ICE officials to submit names and addresses of suspected immigrants lacking legal status for the IRS to check against its confidential databases.',
+    links: [
+      {
+        href: 'https://abcnews.go.com/Politics/irs-close-finalizing-data-sharing-agreement-ice-sources/story?id=120063278',
+        linkText: 'ABC',
+      },
+    ],
+  },
+
+  {
+    id: 'Courts_Veterans',
+    categories: ['Courts', 'Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-22',
+    title: 'In rare move, all 50 states’ top lawyers, including Oregon AG Dan Rayfield, band together to seek legal justice for veterans',
+    body: '“It’s rare, but when something as important as this comes up, it’s no surprise that all 50 states have joined forces,” Oregon Attorney General Dan Rayfield',
+    links: [
+      {
+        href: 'https://www.oregonlive.com/politics/2025/03/in-rare-move-all-50-states-top-lawyers-including-oregon-ag-dan-rayfield-band-together-to-seek-legal-justice-for-veterans.html',
+        linkText: 'Oregon Live',
+      },
+    ],
+  },
+
+  {
+    id: 'Bernie_AOC-30k',
+    categories: ['Tiddlywinks', 'Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-22',
+    title: 'Over 30,000 turn out for Bernie Sanders, AOC rally in Denver amid push for progressive change',
+    body: 'The tour is part of an effort by Sanders and Ocasio-Cortez to push back against President Trump and the influence that they say billionaires have over American politics.',
+    links: [
+      {
+        href: 'https://www.cbsnews.com/colorado/news/thousands-attend-bernie-sanders-aoc-rally-denver-push-progressive-change/',
+        linkText: 'CBS',
+      },
+
+      {
+        href: 'https://www.denverpost.com/2025/03/21/bernie-sanders-alexandria-ocasio-cortez-aoc-denver-civic-center-trump/',
+        linkText: 'Denver Post',
+      },
+
+      {
+        href: 'https://www.usatoday.com/story/news/politics/2025/03/22/aoc-bernie-sanders-fight-oligarchy/82611427007/',
+        linkText: 'USA Today',
+      },
+    ],
+  },
+
+  {
+    id: 'Hate_Us',
+    categories: ['Tiddlywinks', 'Project 2025', 'FAFO'],
+    color: 'red',
+    faicon: 'democrat',
+    date: '2025-03-22',
+    title: '‘They hate us’: Democrats now fear midterms could result in their ouster as voters want candidates to take on Trump',
+    body: 'Democrat voters are frustrated with the results of the 2024 election and growing angry with Democrat leaders for rolling over to Republicans. (More Democratic leaders need to follow AOC & Bernie\'s lead! See above!)',
+    links: [
+      {
+        href: 'https://www.independent.co.uk/news/world/americas/us-politics/democrat-candidates-trump-midterm-anger-b2719871.html',
+        linkText: 'The Independent',
+      },
+    ],
+  },
+
+ 
 
 
   {
@@ -40,7 +168,7 @@ const entries = [
     faicon: 'hammer',
     date: '2025-03-22',
     title: 'Trump White House could let federal agents search homes without warrants under Alien Enemies Act',
-    body: 'AJustice Department official says ‘terrorists don’t get to hide behind closed doors’ as legal experts sound alarm.',
+    body: 'A Justice Department official says ‘terrorists don’t get to hide behind closed doors’ as legal experts sound alarm.',
     links: [
       {
         href: 'https://www.independent.co.uk/news/world/americas/us-politics/trump-search-warrant-fourth-amendment-b2719701.html',
@@ -49,21 +177,24 @@ const entries = [
     ],
   },
 
+ 
+  
   {
-    id: 'Tesla_TradeIns',
-    categories: ['FAFO', 'DOGE', 'Project 2025', 'Resist'],
-    color: 'green',
-    faicon: 'poo',
+    id: 'Democrats_Stop',
+    categories: ['Tiddlywinks', 'Project 2025'],
+    color: 'red',
+    faicon: 'democrat',
     date: '2025-03-21',
-    title: 'Tesla Trade-Ins Are At An All-Time High',
-    body: 'JPMorgan analysts said this week they struggled to think of another time “a [car] brand has lost so much value so quickly."',
+    title: 'There Is a Way for Democrats to Stop Trump and Save America',
+    body: 'A growing number of Democrats are right about the need for a populism focused on corruption: Mr. Trump and his billionaire cabal are redistributing wealth and power in ways that will harm most Americans.',
     links: [
       {
-        href: 'https://www.huffingtonpost.co.uk/entry/tesla-trade-in-all-time-high-stock-not_n_67dd7f05e4b09b090813ece6',
-        linkText: 'Huffington Post',
+        href: 'https://www.nytimes.com/2025/03/21/opinion/democrats-trump-resistance.html',
+        linkText: 'New York Times (Opinion)',
       },
     ],
   },
+
 
   {
     id: 'PDX_Resist',
@@ -295,6 +426,22 @@ const entries = [
       {
         href: 'https://www.npr.org/2025/03/20/nx-s1-5332193/why-d-c-police-sided-with-doge-institute-of-peace-standoff',
         linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Haircuts',
+    categories: ['Discrimination', 'Project 2025', 'LGBTQ', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'rainbow',
+    date: '2025-03-20',
+    title: 'Arkansas Bill Targets \'Gender Nonconforming\' Haircuts for Kids',
+    body: 'Republican lawmakers in Arkansas have introduced a bill that would allow lawsuits against anyone who facilitates a minor\'s social transition — including hairdressers and barbers who give gender-nonconforming haircuts, teachers who use a student\'s chosen name that is different from their birth name and nonprofit organizations that offer support.',
+    links: [
+      {
+        href: 'https://www.newsweek.com/arkansas-bill-targets-gender-nonconforming-haircuts-kids-2048152',
+        linkText: 'Newsweek',
       },
     ],
   },
@@ -1128,6 +1275,22 @@ const entries = [
       {
         href: 'https://apnews.com/young-scientists-see-career-pathways-vanish-as-schools-adapt-to-federal-funding-cuts-000001959e23d0e3addddf3fa7cc0000',
         linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Democrats_Low',
+    categories: ['FAFO', 'Tiddlywinks', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-16',
+    title: 'Democratic Party hits new polling low, while its voters want to fight Trump harder',
+    body: 'Democratic voters say 2-to-1 they want party leaders to fight rather than compromise, even at the risk of not getting things done.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/politics-news/democratic-party-hits-new-polling-low-voters-want-fight-trump-harder-rcna196161',
+        linkText: 'NBC',
       },
     ],
   },
