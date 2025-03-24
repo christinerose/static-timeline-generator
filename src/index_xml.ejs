@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title><%- content.head.title %></title>
+<link>https://americaisgoinggreat.com</link>
+<language>en-us</language>
+<description><%- content.head.description %></description>
+
+<% content.entries.forEach(function(entry){ %>
+
+<item>
+    <title><%= entry.title %></title>
+    <description><![CDATA[<%- entry.body %> 
+
+    <% if (entry.links) { %>
+        <ul>
+          <% entry.links.forEach(function (link) { %>
+              <li>
+                  <a href="<%= link.href %>" target="_blank"><%- link.linkText %></a><%-
+                      link.extraText %>
+                  (<a href="https://web.archive.org/web/*/<%= link.href %>" target="_blank">Wayback</a>)
+                  (<a href="https://archive.is/<%= link.href %>" target="_blank">Archive.is</a>)
+              </li>
+            <% }) %>
+        </ul>
+    <% } %>
+]]></description>
+    <link>https://americaisgoinggreat.com/#<%- entry.id %></link>
+    <pubDate><%- utilities.humanizeDate(entry.datetime, entry.date) %></pubDate>
+    <guid>https://americaisgoinggreat.com/<%- entry.id %></guid>
+</item>
+<% }); %>
+
+</channel>
+</rss>
