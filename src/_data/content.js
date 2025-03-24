@@ -413,7 +413,7 @@ const entries = [
   },
 
   {
-    id: 'Trump_Ignores_Judge',
+    id: 'Trump_Ignores_Judge2',
     categories: ['Fascism', 'Immigration', 'Courts'],
     color: 'red',
     faicon: 'fire',
@@ -707,7 +707,7 @@ const entries = [
   },
 
   {
-    id: 'Judge_USAID',
+    id: 'Judge_USAID2',
     categories: ['Resist', 'Project 2025', 'DOGE'],
     color: 'green',
     faicon: 'globe',
@@ -1278,7 +1278,7 @@ const entries = [
   },
 
   {
-    id: 'Macron_Ukraine',
+    id: 'Macron_Ukraine2',
     categories: ['WW3', 'Global', 'Resist'],
     color: 'green',
     faicon: 'globe',
@@ -2194,7 +2194,7 @@ const entries = [
   },
 
   {
-    id: 'Judge_Orders_DOGE_Release',
+    id: 'Judge_Orders_DOGE_Release2',
     categories: ['Economy', 'DOGE', 'Project 2025'],
     color: 'green',
     faicon: 'landmark',
@@ -2689,7 +2689,7 @@ const entries = [
   },
 
   {
-    id: 'Not_Elon_Fault',
+    id: 'Not_Elon_Fault2',
     categories: ['Project 2025', 'WW3', 'Global', 'DOGE'],
     color: 'red',
     faicon: 'globe',
@@ -4886,7 +4886,7 @@ const entries = [
   },  
 
   {
-    id: 'Trump_Fires_General',
+    id: 'Trump_Fires_General2',
     categories: ['Project 2025', 'Fascism'],
     color: 'red',
     faicon: 'hammer',
@@ -5315,7 +5315,7 @@ const entries = [
   },
 
   {
-    id: 'DOGE-IRS',
+    id: 'DOGE-IRS2',
     categories: ['DOGE', 'Project 2025', 'Resist'],
     color: 'green',
     faicon: 'hammer',
