@@ -1138,7 +1138,7 @@ const entries = [
   },
 
   {
-    id: 'Canada_France_Meet',
+    id: 'MRNA_Scrub',
     categories: ['Health', 'Project 2025', 'DOGE'],
     color: 'red',
     faicon: 'virus',
