@@ -34,5 +34,6 @@ const isWrappedInParagraphTags = function (html) {
 module.exports = {
   sentenceCase,
   humanizeDate,
+  rssDate,
   isWrappedInParagraphTags,
 };
