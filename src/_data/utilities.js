@@ -16,6 +16,14 @@ const humanizeDate = function (datetime, date) {
   return m.format('LL');
 };
 
+const rssDate = function (datetime, date) {
+  const m = moment(datetime || date);
+  if (datetime) {
+    return m.format('ddd, DD MMM YYYY HH:mm:ss ZZ')
+  }
+  return m.format('ddd, DD MMM YYYY') + ' 00:00:00 GMT';
+};
+
 const isWrappedInParagraphTags = function (html) {
   if (typeof html !== 'string') {
     return false;
