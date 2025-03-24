@@ -32,6 +32,22 @@ const entries = [
   //Orwell :: rewriting history, double speak, new speak, etc.
 
   {
+    id: 'Man_Arrested_Tesla',
+    categories: ['Project 2025', 'FAFO', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-24',
+    title: 'Florida man who drove towards anti-Musk protesters at Tesla dealership charged with assault',
+    body: 'A man was arrested and charged with assault for driving his car towards a crowd of people protesting outside a Florida Tesla dealership and narrowly avoiding them.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/news/us-news/man-charged-assault-tesla-dealership-driving-car-protesters-rcna197746',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
     id: 'Judge_Blocks_DOGE',
     categories: ['DOGE', 'Project 2025', 'Resist'],
     color: 'green',
@@ -177,7 +193,21 @@ const entries = [
     ],
   },
 
- 
+  {
+    id: 'Hegseth_BS',
+    categories: ['Courts', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-21',
+    title: 'Hegseth suggests judge who blocked trans troops ban abused her power',
+    body: 'US defense secretary joins mounting criticism of federal judges by Donald Trump and others in administration',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/22/hegseth-mocks-judge-trans-troops',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
   
   {
     id: 'Democrats_Stop',
