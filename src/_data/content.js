@@ -31,6 +31,120 @@ const entries = [
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, etc.
 
+
+  {
+    id: 'Investigate_Leak',
+    categories: ['Project 2025', 'WW3', 'Global', 'Resist'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-03-25',
+    title: 'Lawmakers demand investigation into group chat on Trump administration\'s war plans',
+    body: 'A number of lawmakers expressed outrage Monday after the editor of The Atlantic reported that he was accidentally included in a group chat involving top Trump administration officials about the United States\' highly sensitive war plans in Yemen.',
+    links: [
+      {
+        href: 'https://www.cbsnews.com/news/group-chat-trump-war-plans-yemen-lawmakers-react/',
+        linkText: 'CBS',
+      },
+    ],
+  },
+
+  {
+    id: 'Doxx_Tesla',
+    categories: ['Project 2025', 'DOGE', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-24',
+    title: 'Tesla Owner Doxing Site ‘Dogequest’ Relaunches on Dark Web',
+    body: 'Last week 404 Media reported a website called ‘Dogequest’ was doxing Tesla owners. The site administrators appear to have launched a clone of the interactive map on the dark web too.',
+    links: [
+      {
+        href: 'https://www.404media.co/tesla-owner-doxing-site-dogequest-relaunches-on-dark-web-2/',
+        linkText: '404 Media',
+      },
+    ],
+  },
+
+  {
+    id: 'Leaked_Plans2',
+    categories: ['Project 2025', 'WW3', 'Global', 'Resist'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-24',
+    title: 'Outrage after White House accidentally texts journalist war plans: ‘Huge screw-up’',
+    body: 'Security leak triggers bipartisan anger after Atlantic reveals officials inadvertently broadcast highly sensitive military plans',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/24/journalist-trump-yemen-war-chat-reaction',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Leaked_Plans',
+    categories: ['Project 2025', 'WW3', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-24',
+    title: 'White House inadvertently texted top-secret Yemen war plans to journalist',
+    body: 'In extraordinary blunder top Trump cabinet members added Atlantic editor to chat discussing strikes on Houthis.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/24/journalist-trump-yemen-war-chat',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Travel_Anxiety',
+    categories: ['Project 2025', 'Immigration', 'Fascism'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-24',
+    title: '‘Anxiety is palpable’: detention of researchers at US border spurs travel worries',
+    body: 'An immigration crackdown in the United States is rattling the global research community, with high-profile detentions and deportations of academics stoking fears even for travellers with valid entry documents.',
+    links: [
+      {
+        href: 'https://www.nature.com/articles/d41586-025-00859-w',
+        linkText: 'Nature',
+      },
+    ],
+  },
+
+
+  {
+    id: 'Leaked_Video',
+    categories: ['Project 2025', 'Immigration', 'Fascism'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-24',
+    title: 'Leaked Video of What it’s like in ICE Detention Centers',
+    body: 'Man talks about conditions and treatment at Florida detention center.',
+    links: [
+      {
+        href: 'https://www.reddit.com/r/50501/comments/1jiq1ke/leaked_video_of_what_its_like_in_ice_detention/',
+        linkText: 'Reddit',
+      },
+    ],
+  },
+
+  {
+    id: 'IRS_Deal_ICE',
+    categories: ['Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-24',
+    title: 'Deportation concerns grow as IRS nears deal with ICE for immigration data',
+    body: '"This creates a chilling effect, naturally with people that were otherwise going to file their tax return, being afraid or nervous about doing so," Newcomb said.',
+    links: [
+      {
+        href: 'https://www.nbcbayarea.com/news/local/irs-ice-itin-deportation-immigration/3826882/',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
   {
     id: 'Man_Arrested_Tesla',
     categories: ['Project 2025', 'FAFO', 'Resist'],
@@ -194,6 +308,38 @@ const entries = [
   },
 
   {
+    id: 'Fight_Dems',
+    categories: ['Tiddlywinks', 'Resist'],
+    color: 'green',
+    faicon: 'democrat',
+    date: '2025-03-21',
+    title: '‘Try actually fighting’: Democrats face voters’ fury at town halls',
+    body: 'Democratic lawmakers have faced eruptions of anger at town hall meetings across the country this week, as constituents have coupled their fury over President Donald Trump’s actions with deep frustration over what they see as a feckless Democratic response.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/03/21/politics/town-halls-democrats-republicans/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'Students_NoReturn',
+    categories: ['Immigration', 'Project 2025', 'Discrimination'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-21',
+    title: 'UC Berkeley tells foreign students leaving for spring break they may not be able to return',
+    body: 'A time-honored college tradition has become a source of anxiety for international students who might consider traveling abroad.',
+    links: [
+      {
+        href: 'https://sfstandard.com/2025/03/21/international-students-spring-break-travel/',
+        linkText: 'San Francisco Standard',
+      },
+    ],
+  },
+
+  {
     id: 'Hegseth_BS',
     categories: ['Courts', 'Project 2025'],
     color: 'red',
@@ -238,6 +384,22 @@ const entries = [
       {
         href: 'https://wagingnonviolence.org/2025/03/migrant-solidarity-portland-trump/',
         linkText: 'Waging Nonviolence',
+      },
+    ],
+  },
+
+  {
+    id: 'Dem_Not_Silenced',
+    categories: ['Resist', 'Tiddlywinks', 'Civil Liberties', 'DOGE'],
+    color: 'green',
+    faicon: 'democrat',
+    date: '2025-03-20',
+    title: 'House Democrat says DC’s top federal prosecutor is trying to silence critics of Elon Musk',
+    body: 'Democratic Rep. Robert Garcia vowed Thursday that he would not be “silenced” after receiving a letter from the Department of Justice demanding he explain remarks critical of Elon Musk.',
+    links: [
+      {
+        href: 'https://www.politico.com/news/2025/02/20/robert-garcia-elon-musk-martin-letter-threats-00205354',
+        linkText: 'Politico',
       },
     ],
   },
@@ -2716,6 +2878,22 @@ const entries = [
       {
         href: 'https://www.bloomberg.com/news/articles/2025-03-07/trump-threatens-new-banking-sanctions-on-russia-over-ukraine',
         linkText: 'Bloomberg ',
+      },
+    ],
+  },
+
+  {
+    id: 'Disappearing_Words',
+    categories: ['Project 2025', 'Orwell', 'Discrimination'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-07',
+    title: 'These Words Are Disappearing in the New Trump Administration',
+    body: 'As President Trump seeks to purge the federal government of “woke” initiatives, agencies have flagged hundreds of words to limit or avoid, according to a compilation of government documents.',
+    links: [
+      {
+        href: 'https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html',
+        linkText: 'New York Times',
       },
     ],
   },
