@@ -33,6 +33,135 @@ const entries = [
 
 
   {
+    id: 'Atlantic_Signal-Info',
+    categories: ['WW3', 'Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-26',
+    title: 'Here Are the Attack Plans That Trump’s Advisers Shared on Signal',
+    body: 'The administration has downplayed the importance of the text messages inadvertently sent to The Atlantic’s editor in chief. (Screenshots of actual texts included in article.)',
+    links: [
+      {
+        href: 'https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/',
+        linkText: 'The Atlantic',
+      },
+    ],
+  },
+
+  {
+    id: 'Judge_Signalgate',
+    categories: ['FAFO', 'Project 2025', 'Courts', 'Global', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-26',
+    title: 'Judge targeted by Trump is assigned to Signalgate lawsuit',
+    body: 'Judge James Boasberg will preside over a case alleging that Trump administration officials violated federal record-keeping laws when they used Signal to discuss military plans.',
+    links: [
+      {
+        href: 'https://www.politico.com/news/2025/03/26/signal-lawsuit-trump-judge-boasberg-00250606',
+        linkText: 'Politico',
+      },
+    ],
+  },
+
+  {
+    id: 'Bernie_Oligarchy',
+    categories: ['Resist', 'Tiddlywinks', 'Project 2025'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-25',
+    title: 'Bernie Sanders Has Been Warning About Oligarchy for Years. People Are Finally Listening.',
+    body: 'The Vermont senator’s Fighting Oligarchy tour offers a lifeline to flailing Democrats—and a warning to their leaders.',
+    links: [
+      {
+        href: 'https://www.motherjones.com/politics/2025/03/bernie-sanders-alexandria-ocasio-cortez-fight-oligarchy-tour/',
+        linkText: 'Mother Jones',
+      },
+    ],
+  },
+
+  {
+    id: 'Book_Congress',
+    categories: ['Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-25',
+    title: '\'Mad House\' exposes Congressional dysfunction, from petty feuds to physical threats',
+    body: 'It\'s no secret that Capitol Hill is often mired in partisan politics and infighting, but a new book highlights additional chaos that public doesn\'t see.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/03/25/nx-s1-5338729/mad-house-congress-maga-annie-karni-luke-broadwater',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Scary_Threat',
+    categories: ['Fascism', 'Courts', 'WW3'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-25',
+    title: 'Mike Johnson Has Terrifying Threat for Courts That Rule Against Trump',
+    body: 'Johnson threatened Tuesday to outright eliminate district courts where judges rule against Donald Trump.',
+    links: [
+      {
+        href: 'https://newrepublic.com/post/193164/mike-johnson-donald-trump-threat-courts-funding',
+        linkText: 'New Republic',
+      },
+    ],
+  },
+
+  {
+    id: 'SignalGate',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-25',
+    title: 'As top Trump aides sent texts on Signal, flight data show a member of the group chat was in Russia',
+    body: 'Trump\'s Ukraine and Middle East envoy Steve Witkoff was in Moscow, where he met with Russian President Vladimir Putin, when he was included in a group chat with more than a dozen other top administration officials — and inadvertently, one journalist — on the messaging app Signal.',
+    links: [
+      {
+        href: 'https://www.cbsnews.com/news/trump-envoy-steve-witkoff-signal-text-group-chat-russia-putin/',
+        linkText: 'CBS',
+      },
+    ],
+  },
+
+  {
+    id: 'Suspend_GreenCard',
+    categories: ['Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-25',
+    title: 'DHS suspends green card processing for refugees, asylees',
+    body: 'The directive from U.S. Citizenship and Immigration Services (USCIS) would impact refugees already approved to come to the United States, as well as those who were granted asylum after petitioning for the protection in immigration court.',
+    links: [
+      {
+        href: 'https://thehill.com/homenews/5213453-us-green-card-application-pause/',
+        linkText: 'The Hill',
+      },
+    ],
+  },
+
+  {
+    id: 'Frivolous_Lawsuit',
+    categories: ['Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-25',
+    title: 'Immigration lawyers fear backlash after memo warning of sanctions',
+    body: 'Immigration lawyers and legal advocacy groups are expressing outrage and fear after President Donald Trump issued a memo warning against “frivolous” lawsuits against the U.S. government.',
+    links: [
+      {
+        href: 'https://www.informnny.com/border-report-tour/immigration-lawyers-fear-backlash-after-memo-warning-of-sanctions/',
+        linkText: 'Informnny',
+      },
+    ],
+  },
+
+
+  {
     id: 'Investigate_Leak',
     categories: ['Project 2025', 'WW3', 'Global', 'Resist'],
     color: 'green',
@@ -60,6 +189,22 @@ const entries = [
       {
         href: 'https://www.404media.co/tesla-owner-doxing-site-dogequest-relaunches-on-dark-web-2/',
         linkText: '404 Media',
+      },
+    ],
+  },
+
+  {
+    id: 'Atlantic_Signal',
+    categories: ['WW3', 'Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-24',
+    title: 'The Trump Administration Accidentally Texted Me Its War Plans',
+    body: 'U.S. national-security leaders included me in a group chat about upcoming military strikes in Yemen. I didn’t think it could be real. Then the bombs started falling.',
+    links: [
+      {
+        href: 'https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/',
+        linkText: 'The Atlantic',
       },
     ],
   },
@@ -108,6 +253,22 @@ const entries = [
       {
         href: 'https://www.nature.com/articles/d41586-025-00859-w',
         linkText: 'Nature',
+      },
+    ],
+  },
+
+  {
+    id: 'ICE_Detained_LabTech',
+    categories: ['Project 2025', 'Immigration', 'Fascism'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-24',
+    title: 'UW lab tech, permanent U.S. resident in ICE custody',
+    body: 'Lewelyn Dixon has been detained in the Northwest ICE Processing Center since end of February, and will remain there until her next hearing in July.',
+    links: [
+      {
+        href: 'https://www.king5.com/article/news/community/facing-race/uw-lab-tech-us-resident-ice-custody/281-f404d578-6d65-4402-9292-586b65f7010b',
+        linkText: 'King 5 News',
       },
     ],
   },
@@ -210,6 +371,22 @@ const entries = [
       {
         href: 'https://www.pressherald.com/2025/03/22/trump-demands-full-throated-apology-from-gov-mills-over-maines-transgender-athlete-policy/',
         linkText: 'Portland Press Herald',
+      },
+    ],
+  },
+
+  {
+    id: 'DHS_Revoke',
+    categories: ['Immigration', 'Project 2025'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-22',
+    title: 'DHS to revoke legal status of 532,000 ‘humanitarian parole’ migrants',
+    body: 'More than half a million migrants from Cuba, Haiti, Nicaragua and Venezuela living in the U.S. legally are at risk of deportation after DHS announced plans to rescind a Biden-era humanitarian parole program.',
+    links: [
+      {
+        href: 'https://san.com/cc/dhs-to-revoke-legal-status-of-532000-humanitarian-parole-migrants/',
+        linkText: 'Straight Arrow News',
       },
     ],
   },
@@ -416,6 +593,22 @@ const entries = [
       {
         href: 'https://www.cnbc.com/2025/03/20/trump-says-the-fed-should-cut-rates-to-ease-the-economys-transition-to-his-tariffs.html',
         linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'BLM_Significant',
+    categories: ['Discrimination', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-20',
+    title: 'Black Lives Matter movement had a significant and decisive impact on US politics, study finds',
+    body: 'New academic research provides the first causal evidence that the Black Lives Matter (BLM) protests following George Floyd\'s death had a significant impact on the 2020 US presidential election.',
+    links: [
+      {
+        href: 'https://www.kcl.ac.uk/news/black-lives-matter-movement-had-a-significant-and-decisive-impact-on-us-politics-study-finds',
+        linkText: 'King\'s College London',
       },
     ],
   },
