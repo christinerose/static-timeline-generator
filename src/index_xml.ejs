@@ -13,6 +13,10 @@
     <title><%= entry.title %></title>
     <description><![CDATA[<%- entry.body %> 
 
+    <!-- Matomo Image Tracker-->
+    <img referrerpolicy="no-referrer-when-downgrade" src="https://stats.netninja.com/matomo/matomo.php?idsite=6&amp;rec=1" style="border:0" alt="" />
+    <!-- End Matomo -->
+
     <% if (entry.links) { %>
         <ul>
           <% entry.links.forEach(function (link) { %>
