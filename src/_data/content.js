@@ -305,6 +305,70 @@ const entries = [
   },
 
   {
+    id: 'SignalGate5',
+    categories: ['Project 2025', 'Global', 'WW3', 'FAFO', 'Resist'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-25',
+    title: '‘Nobody is above the law’: Trump officials who criticized Clinton’s emails now under scrutiny for leaked war plans',
+    body: 'The mistake amounts to an unprecedented breach of security by some of President Donald Trump’s most senior national security officials and raises questions about whether they violated the Espionage Act, which makes it illegal to mishandle national defense information.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/03/25/politics/kfile-trump-national-security-officials-signal-chat-criticized-clinton-classified-documents/',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'SignalGate4',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-25',
+    title: 'Trump intel officials testify on threat from drug cartels as Dems press them on leak of attack plans',
+    body: 'The Trump administration’s top intelligence officials stressed to Congress the threat they said was posed by international criminal gangs, drug cartels and human smuggling, testifying in a hearing Tuesday that unfolded against the backdrop of a security breach involving the mistaken leak of attack plans to a journalist.',
+    links: [
+      {
+        href: 'https://apnews.com/article/fbi-cia-senate-national-security-threats-fe773ac76f8f01eba1d3a26409816396',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'SignalGate3',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-25',
+    title: 'Intelligence leaders: We didn\'t share classified information in Signal chat group',
+    body: 'In a contentious hearing on Capitol Hill, the nation\'s top intelligence officials testified that they did not share classified information in a messaging group chat that discussed the U.S. bombing campaign in Yemen.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/03/25/nx-s1-5339484/signal-war-plans-congress',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'SignalGate2',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-25',
+    title: 'Trump defends advisor Mike Waltz for Signal texts to reporter about Houthi strike',
+    body: 'Trump blamed a lower-level staffer when asked how The Atlantic’s editor in chief, Jeffrey Goldberg, came to be included in a text thread that included Vice President JD Vance and Defense Secretary Pete Hegseth.',
+    links: [
+      {
+        href: 'https://www.cnbc.com/2025/03/25/trump-signal-war-plans-texts-waltz.html',
+        linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
     id: 'SignalGate',
     categories: ['Project 2025', 'Global', 'WW3'],
     color: 'red',
