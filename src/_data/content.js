@@ -32,6 +32,48 @@ const entries = [
   //Orwell :: rewriting history, double speak, new speak, etc.
 
   {
+    id: 'Liberation_Day_Tomorrow',
+    categories: ['Economy', 'Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-03-31',
+    title: 'Wall Street swings again as the approach of Trump’s ‘Liberation Day’ wallops stock markets worldwide',
+    body: 'Such neck-twisting turns have become routine for the U.S. stock market recently because of uncertainty about what Trump will do with tariffs — and by how much they will worsen inflation and grind down growth for economies.',
+    links: [
+      {
+        href: 'https://apnews.com/article/stocks-markets-rates-tariffs-9bbb04d6b66ccbda4f5856a179df20e3',
+        linkText: 'Associated Press',
+      },
+
+      {
+        href: 'https://www.cnn.com/2025/03/31/investing/us-stocks-trump-tariff-uncertainty/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Angry_Putin',
+    categories: ['WW3', 'Project 2023', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-30',
+    title: 'Trump criticizes Putin and threatens adversaries with new tariffs as he barrels toward April 2 deadline',
+    body: 'Trump said in an early-morning phone call that if he believes Russia is at fault for a ceasefire\'s not being reached with Ukraine, he may impose secondary tariffs on Russian oil.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/03/30/politics/trump-criticizes-putin-and-threatens-adversaries-with-new-tariffs/index.html',
+        linkText: 'CNN',
+      },
+
+      {
+        href: 'https://www.nbcnews.com/politics/donald-trump/trump-angry-putin-zelenskyy-iran-sanctions-rcna198729',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
     id: 'Trump_3rd',
     categories: ['Orwell', 'Fascism'],
     color: 'red',
@@ -44,8 +86,46 @@ const entries = [
         href: 'https://apnews.com/article/trump-third-term-constitution-22nd-amendment-efba31be02ee96b0ef68b17fe89b7578',
         linkText: 'Associated Press',
       },
+
+      {
+        href: 'https://www.theatlantic.com/politics/archive/2025/03/trump-third-term/682243/',
+        linkText: 'The Atlantic',
+      },
     ],
   },
+
+  {
+    id: 'Auto_Raise',
+    categories: ['Economy', 'Project 2025'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-03-29',
+    title: 'Trump says he ‘couldn’t care less’ if foreign automakers raise prices due to tariffs',
+    body: 'Asked what his recent message was to motor industry CEOs, and whether he had warned them against raising prices, Trump said, “The message is congratulations, if you make your car in the United States, you’re going to make a lot of money.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/donald-trump/trump-says-couldnt-care-less-automakers-raise-prices-tariffs-rcna198731',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Core_Inflation',
+    categories: ['Economy', 'Project 2025'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-03-28',
+    title: 'Core inflation in February hits 2.8%, higher than expected; spending increases 0.4%',
+    body: 'Core inflation excludes volatile food and energy prices and is generally considered a better indicator of long-term inflation trends.',
+    links: [
+      {
+        href: 'https://www.cnbc.com/2025/03/28/pce-inflation-february-2025-.html',
+        linkText: 'CNBC',
+      },
+    ],
+  },
+
 
   {
     id: 'HHS_Jobs',
