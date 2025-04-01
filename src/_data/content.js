@@ -31,8 +31,6 @@ const entries = [
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, etc.
 
-  //Testing
-
 
   {
     id: 'MAGA_Fired_FAFO',
