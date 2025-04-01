@@ -161,6 +161,54 @@ const entries = [
   },
 
   {
+    id: 'DOGE_Gift_Bulting',
+    categories: ['Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-31',
+    title: 'DOGE Is Trying to Gift Itself a $500 Million Building',
+    body: 'Documents reveal a DOGE affiliate is attempting to transfer the headquarters of an independent think tank, the United States Institute of Peace, to the government at no cost.',
+    links: [
+      {
+        href: 'https://www.wired.com/story/doge-takes-control-usip-office-building/',
+        linkText: 'Wired',
+      },
+    ],
+  },
+
+  {
+    id: 'Repopulate_FarRight',
+    categories: ['Project 2025', 'Discrimination', 'Fascism', 'Orwell'],
+    color: 'red',
+    faicon: 'person',
+    date: '2025-03-31',
+    title: 'Far-Right Influencers Are Hosting a $10K-per-Person Matchmaking Weekend to Repopulate the Earth',
+    body: 'A pronatalist conference with far-right ties in Austin, Texas, this weekend have set up matchmaking events for attendees that include the option of getting married onsite as part of their greater effort to repopulate the world.',
+    links: [
+      {
+        href: 'https://www.wired.com/story/natal-conference-matchmaking/',
+        linkText: 'Wired',
+      },
+    ],
+  },
+
+  {
+    id: 'DOGE_Access',
+    categories: ['Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-31',
+    title: 'DOGE staffer who shared Treasury data now has more access to government systems',
+    body: 'The DOGE staffer who resigned from his post over old racist tweets — and who broke data-sharing rules, an audit found — has been rehired to work with sensitive data at several federal agencies.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/03/31/nx-s1-5345708/doge-data-access-labor-cfpb-hhs',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
     id: 'Liberation_Day_Tomorrow',
     categories: ['Economy', 'Project 2025', 'Global'],
     color: 'red',
@@ -224,6 +272,22 @@ const entries = [
   },
 
   {
+    id: 'CompSci_Incommunicado',
+    categories: ['Orwell', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-30',
+    title: 'FBI raids home of prominent computer scientist who has gone incommunicado',
+    body: 'A prominent computer scientist who has spent 20 years publishing academic papers on cryptography, privacy, and cybersecurity has gone incommunicado, had his professor profile, email account, and phone number removed by his employer, Indiana University, and had his homes raided by the FBI. No one knows why.',
+    links: [
+      {
+        href: 'https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/',
+        linkText: 'Arts Technica',
+      },
+    ],
+  },
+
+  {
     id: 'Trump_3rd',
     categories: ['Orwell', 'Fascism'],
     color: 'red',
@@ -240,6 +304,11 @@ const entries = [
       {
         href: 'https://www.theatlantic.com/politics/archive/2025/03/trump-third-term/682243/',
         linkText: 'The Atlantic',
+      },
+
+      {
+        href: 'https://www.npr.org/2025/03/30/g-s1-57231/trump-third-term',
+        linkText: 'NPR',
       },
     ],
   },
@@ -277,6 +346,54 @@ const entries = [
   },
 
   {
+    id: 'Physicists_Burner',
+    categories: ['Global', 'Orwell', 'Fascism', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-29',
+    title: 'When the physicists need burner phones, that’s when you know America’s changed',
+    body: 'US academics, fearing persecution by their own government, are becoming ideological refugees. Europe, and Britain, must offer them sanctuary.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/29/when-the-physicists-need-burner-phones-thats-when-you-know-americas-changed',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Cybertruck_Day',
+    categories: ['FAFO', 'Project 2025', 'DOGE', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-03-29',
+    title: 'My Day Inside America’s Most Hated Car',
+    body: 'People have targeted the car—and Tesla as a whole—to protest Elon Musk’s role in Donald Trump’s administration. But out of sheer masochism, or stupidity, I still went ahead and spent a day driving one.',
+    links: [
+      {
+        href: 'https://www.theatlantic.com/technology/archive/2025/03/cybertruck-washington-dc/682232/',
+        linkText: 'The Atlantic',
+      },
+    ],
+  },
+
+  {
+    id: 'LGBTQ_Flag_Ban',
+    categories: ['LGBTQ', 'Fascism', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'rainbow',
+    date: '2025-03-28',
+    title: 'Utah becomes first state to ban LGBTQ+ pride flags in government buildings and schools',
+    body: 'The new law could stoke conflict between the state and its largest city. City buildings in liberal Salt Lake City typically honor Pride Month each June by displaying flags that celebrate its large LGBTQ+ population.',
+    links: [
+      {
+        href: 'https://apnews.com/article/lgbtq-pride-flag-ban-utah-school-republican-ced0db22bd0ce8d37e010e9a65fec220',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
     id: 'Core_Inflation',
     categories: ['Economy', 'Project 2025'],
     color: 'red',
@@ -288,6 +405,22 @@ const entries = [
       {
         href: 'https://www.cnbc.com/2025/03/28/pce-inflation-february-2025-.html',
         linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Manginone_Bill',
+    categories: ['Health', 'Resist', 'Project 2025'],
+    color: 'green',
+    faicon: 'virus',
+    date: '2025-03-28',
+    title: 'Proposed California ballot initiative ‘Luigi Mangione Act’ would make it harder for insurers to deny medical care',
+    body: 'The initiative would make it illegal for an insurance company to “delay, deny or modify any medical procedure or medication” suggested by a licensed physician in the Golden State.',
+    links: [
+      {
+        href: 'https://ktla.com/news/california/proposed-california-ballot-initiative-luigi-mangione-act-would-make-it-harder-for-insurers-to-deny-medical-care/',
+        linkText: 'KTLA',
       },
     ],
   },
@@ -395,6 +528,22 @@ const entries = [
   },
 
   {
+    id: 'Detained_HealthCare',
+    categories: ['Civil Liberties', 'Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-27',
+    title: 'DC schools: DHS agents tried to ‘detain’ healthcare contractor at elementary school',
+    body: 'the attempt by DHS was made inside the campus’ fenced-in parking lot as students and employees arrived at the school Wednesday morning.',
+    links: [
+      {
+        href: 'https://wtop.com/dc/2025/03/dc-schools-dhs-agents-tried-to-detain-healthcare-contractor-at-elementary-school/',
+        linkText: 'WTOP',
+      },
+    ],
+  },
+
+  {
     id: 'Greenland_Go-Far',
     categories: ['WW3', 'Project 2025', 'Global'],
     color: 'red',
@@ -422,6 +571,22 @@ const entries = [
       {
         href: 'https://www.washingtonpost.com/politics/2025/03/27/federal-worker-layoffs-government-agencies/',
         linkText: 'Washington Post',
+      },
+    ],
+  },
+
+  {
+    id: 'Scientists_Leaving',
+    categories: ['Project 2025', 'Global', 'Orwell', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-27',
+    title: '75% of US scientists who answered Nature poll consider leaving',
+    body: 'More than 1,600 readers answered our poll; many said they were looking for jobs in Europe and Canada.',
+    links: [
+      {
+        href: 'https://www.nature.com/articles/d41586-025-00938-y',
+        linkText: 'Nature',
       },
     ],
   },
