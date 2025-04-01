@@ -31,6 +31,21 @@ const entries = [
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, etc.
 
+  {
+    id: 'HHS_Jobs',
+    categories: ['Economy', 'Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-28',
+    title: 'Health and Human Services will lay off 10,000 workers and close agencies in a major restructuring',
+    body: '“Public health experts, doctors, current and former HHS workers and congressional Democrats quickly panned Kennedy’s plans, warning they could have untold consequences for millions of people.',
+    links: [
+      {
+        href: 'https://apnews.com/article/health-human-services-layoffs-restructuring-rfk-jr-fa4e89285e668a3939e20b6cf4c26fd4',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
 
   {
     id: 'MAGA_Fired_FAFO',
@@ -129,6 +144,38 @@ const entries = [
   },
 
   {
+    id: 'More_Jobs',
+    categories: ['Economy', 'Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-27',
+    title: 'Internal White House document details layoff plans across U.S. agencies',
+    body: 'Federal officials are preparing for agencies to cut between 8 and 50 percent of their employees as part of a Trump administration push to shrink the federal government',
+    links: [
+      {
+        href: 'https://www.washingtonpost.com/politics/2025/03/27/federal-worker-layoffs-government-agencies/',
+        linkText: 'Washington Post',
+      },
+    ],
+  },
+
+  {
+    id: 'SignalGate6',
+    categories: ['Project 2025', 'Global', 'WW3', 'Courts', 'Orwell'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-03-27',
+    title: 'Bondi signals criminal probe into Signal chat is unlikely, despite long history of similar inquiries',
+    body: 'She repeated Trump administration talking points that the highly sensitive information in the chat was not classified, though current and former U.S. officials have said the posting of the exact launch times of aircraft and times that bombs would be released before those pilots were even in the air would have been classified.',
+    links: [
+      {
+        href: 'https://apnews.com/article/fbi-pentagon-attack-plans-petraeus-clinton-comey-3ab3773b2642abaf024d3a5f3eb66f4b',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
     id: 'We_Will_Kill_You',
     categories: ['WW3', 'Project 2025', 'Global'],
     color: 'red',
@@ -177,6 +224,39 @@ const entries = [
   },
 
   {
+    id: 'US_Cars_Tariff',
+    categories: ['Project 2025', 'Economy', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-26',
+    title: 'Trump announces 25% tariffs on all cars ‘not made in the United States’',
+    body: 'Trump White House aide Will Scharf said the new tariffs apply to “foreign-made cars and light trucks.” He clarified that they come in addition to duties that are already in place.',
+    links: [
+      {
+        href: 'https://www.cnbc.com/2025/03/26/trump-could-sign-new-auto-tariffs-as-soon-as-wednesday-white-house-says.html',
+        linkText: 'CNBC',
+      },
+
+    ],
+  },
+
+  {
+    id: 'Flordia_Flip',
+    categories: ['FAFO', 'Project 2025', 'Tiddlywinks', 'Resist'],
+    color: 'green',
+    faicon: 'democrat',
+    date: '2025-03-26',
+    title: 'Republicans Grow Anxious About Florida Special Election',
+    body: 'Polling, fundraising numbers put spotlight on House contest to succeed former Rep. Mike Waltz',
+    links: [
+      {
+        href: 'https://www.wsj.com/politics/elections/florida-special-election-house-district-f541ce08',
+        linkText: 'Wall Street Journal',
+      },
+    ],
+  },
+
+  {
     id: 'PA_Win',
     categories: ['FAFO', 'Project 2025', 'Tiddlywinks', 'Resist'],
     color: 'green',
@@ -209,6 +289,22 @@ const entries = [
   },
 
   {
+    id: 'SCOTUS_Ghost_Guns',
+    categories: ['Gun Violence', 'Project 2025', 'Courts', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-03-26',
+    title: 'Supreme Court upholds Biden rule requiring serial numbers and background checks for ghost guns',
+    body: 'Ghost guns are any privately made firearms without the serial numbers that allow police to trace weapons used in crime. ',
+    links: [
+      {
+        href: 'https://apnews.com/article/supreme-court-ghost-guns-bf404db1d4ece56203c8748b2544dc02',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
     id: 'Judge_Signalgate',
     categories: ['FAFO', 'Project 2025', 'Courts', 'Global', 'Resist'],
     color: 'green',
@@ -225,6 +321,38 @@ const entries = [
   },
 
   {
+    id: 'Flordia_PAC',
+    categories: ['DOGE', 'Fascism'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-26',
+    title: 'Musk\'s super PAC jumps into Florida\'s special elections',
+    body: 'America PAC is spending on “texting services” to boost the GOP candidates ahead of next week’s special House elections for two deeply Republican seats. ',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/elections/musks-super-pac-jumps-floridas-special-elections-rcna198106',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Voter_Registration',
+    categories: ['Immigration', 'Project 2025'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-25',
+    title: 'Trump signs executive order that will upend US voter registration processes',
+    body: 'Millions of citizens could become disenfranchised in ‘farthest reaching’ executive action targeting immigration',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/25/trump-executive-order-voter-registration-immigration',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
     id: 'Bernie_Oligarchy',
     categories: ['Resist', 'Tiddlywinks', 'Project 2025'],
     color: 'green',
@@ -236,6 +364,27 @@ const entries = [
       {
         href: 'https://www.motherjones.com/politics/2025/03/bernie-sanders-alexandria-ocasio-cortez-fight-oligarchy-tour/',
         linkText: 'Mother Jones',
+      },
+    ],
+  },
+
+  {
+    id: 'Greenlanders_Unite',
+    categories: ['Resist', 'Global', 'Project 2025'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-25',
+    title: 'Greenlanders unite to fend off the US as Trump seeks control of the Arctic island',
+    body: 'Greenlanders are increasingly worried that their homeland, a self-governing region of Denmark, has become a pawn in the competition between the U.S., Russia and China as global warming opens up access to the Arctic.',
+    links: [
+      {
+        href: 'https://apnews.com/article/greenland-future-trump-arctic-independence-denmark-minerals-4711a83c4490de99638db32029b668c9',
+        linkText: 'Associated Press',
+      },
+
+      {
+        href: 'https://www.npr.org/2025/03/25/nx-s1-5338849/usha-vances-planned-trip-to-greenland-causes-a-stir',
+        linkText: 'NPR',
       },
     ],
   },
