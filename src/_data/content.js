@@ -32,6 +32,22 @@ const entries = [
   //Orwell :: rewriting history, double speak, new speak, etc.
 
   {
+    id: 'Trump_3rd',
+    categories: ['Orwell', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-30',
+    title: 'Trump says he’s considering ways to serve a third term as president',
+    body: 'President Donald Trump said Sunday that “I’m not joking” about trying to serve a third term, the clearest indication he is considering ways to breach a constitutional barrier against continuing to lead the country after his second term ends at the beginning of 2029.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-third-term-constitution-22nd-amendment-efba31be02ee96b0ef68b17fe89b7578',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
     id: 'HHS_Jobs',
     categories: ['Economy', 'Project 2025', 'DOGE'],
     color: 'red',
@@ -171,6 +187,22 @@ const entries = [
       {
         href: 'https://apnews.com/article/fbi-pentagon-attack-plans-petraeus-clinton-comey-3ab3773b2642abaf024d3a5f3eb66f4b',
         linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Tariff_TikTok',
+    categories: ['Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-26',
+    title: 'Trump Floats Chinese Tariff Cuts in Exchange for TikTok Deal',
+    body: 'The social media app could shut down on April 5 unless it is sold to a new non-Chinese owner.',
+    links: [
+      {
+        href: 'https://www.nytimes.com/2025/03/26/business/trump-tariffs-tiktok-china.html',
+        linkText: 'New York Times',
       },
     ],
   },
