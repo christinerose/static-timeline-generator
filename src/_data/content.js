@@ -370,6 +370,54 @@ const entries = [
   },
 
   {
+    id: 'LGBTQ_Grants',
+    categories: ['DOGE', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-24',
+    title: 'FBI launches Tesla threats task force: ‘This is domestic terrorism’',
+    body: 'The announcement of the task force came hours after multiple incendiary devices were found at a Tesla showroom in Austin, Texas, the city where the company’s headquarters is located.',
+    links: [
+      {
+        href: 'https://www.cnbc.com/2025/03/24/fbi-tesla-elon-musk-task-force-threats-trump-doge.html',
+        linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'LGBTQ_Grants',
+    categories: ['LGBTQ', 'Project 2025'],
+    color: 'red',
+    faicon: 'rainbow',
+    date: '2025-03-24',
+    title: 'Trump administration cancels at least 68 grants focused on LGBTQ health questions',
+    body: 'A surge of grant cancellations hit researchers focused on the health of gay, lesbian and transgender people last week, as the Trump administration continues to target what it describes as ideologically driven science.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/03/24/health/lgbtq-grants-canceled/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'GA_Cancel_Voters',
+    categories: ['Fascism', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'flag',
+    date: '2025-03-24',
+    title: 'Georgia is planning one of the largest cancellations of voter registrations in U.S. history',
+    body: 'Georgia election officials plan to cancel about 455,000 inactive voter registrations this summer, one of the largest registration removals in U.S. history.',
+    links: [
+      {
+        href: 'https://www.ajc.com/politics/sweeping-cancellation-of-455k-voter-registrations-planned-in-georgia/4KTEZHQTANH4NFNKXI4I3U4NEU/',
+        linkText: 'AJC',
+      },
+    ],
+  },
+
+  {
     id: 'Venezuelan_Oil',
     categories: ['Project 2025', 'Economy', 'WW3'],
     color: 'red',
@@ -599,6 +647,22 @@ const entries = [
       {
         href: 'https://thehill.com/regulation/court-battles/5210446-federal-judge-doge-personal-data/',
         linkText: 'The Hill',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Demands_Apology_Resist',
+    categories: ['LGBTQ', 'Project 2025', 'Civil Liberties', 'Resist'],
+    color: 'green',
+    faicon: 'rainbow',
+    date: '2025-03-24',
+    title: 'Maine Gov. Janet Mills fires back at Trump after president demands apology',
+    body: '"My issue is about the rule of law, pure and simple. It\'s not about transgender sports. It\'s about who makes the laws and who enforces the laws," Mills said. "I read the Constitution. The Constitution says that the president, the chief executive, shall take care that the laws be faithfully executed."',
+    links: [
+      {
+        href: 'https://www.wmtw.com/article/maine-governor-janet-mills-donald-trump-apology/64275404',
+        linkText: 'WMTW',
       },
     ],
   },
