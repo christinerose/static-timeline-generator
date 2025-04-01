@@ -31,6 +31,135 @@ const entries = [
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, etc.
 
+
+  {
+    id: 'DOGE_Misogynist',
+    categories: ['Project 2025', 'Health', 'Economy'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-04-01',
+    title: 'Thousands of US health agency workers laid off in overhaul led by RFK Jr',
+    body: 'Trump administration begins reducing Health and Human Services workforce as Kennedy plans up to 10,000 job cuts',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/01/trump-health-agency-layoffs-cuts',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'DOGE_Misogynist',
+    categories: ['Project 2025', 'DOGE', 'Women'],
+    color: 'red',
+    faicon: 'venus',
+    date: '2025-04-01',
+    title: 'Doge employee allegedly has history of misogyny, racism and violent outbursts',
+    body: 'Rolling Stone interviews with 10 people reveal claims that Jeremy Lewin threatened a girl with a knife and openly shared racist views.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/01/doge-employee-misogyny-racism-violence',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'EU_Strong_Plan',
+    categories: ['Global', 'Project 2025', 'Economy', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-01',
+    title: 'EU has a ‘strong plan’ to retaliate on Trump tariffs',
+    body: 'Head of European Commission says bloc would prefer to negotiate but all countermeasures are on the table.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/business/2025/apr/01/eu-has-a-strong-plan-to-retaliate-on-trump-tariffs-says-von-der-leyen',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Liberation_Day_Expect',
+    categories: ['Global', 'Project 2025', 'Economy', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-01',
+    title: 'Trump’s ‘liberation day’ tariffs: what to expect and will the UK be spared?',
+    body: 'EU and UK leaders are concerned about the possibility of sectoral tariffs, as well as permanent levies he may impose to counter Europe’s VAT rates, which he considers a de facto tax.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/01/trumps-liberation-day-tariffs-what-to-expect-and-will-the-uk-be-spared',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'GOP_Join_Dems',
+    categories: ['Resist', 'Project 2025', 'FAFO', 'Economy'],
+    color: 'green',
+    faicon: 'coins',
+    date: '2025-04-01',
+    title: 'Senate Republicans consider joining Democrats to oppose Trump over tariffs',
+    body: 'Republican defections would amount to rare public rebuke as concerns mount over impact of president’s plans',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/01/senate-republicans-trump-tariffs',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Booker_20-HR_Speech',
+    categories: ['Resist', 'Project 2025', 'Tiddlywinks'],
+    color: 'green',
+    faicon: 'democrat',
+    date: '2025-04-01',
+    title: 'Cory Booker holds marathon Senate speech to warn of Trump’s ‘harmful’ policies',
+    body: 'Democratic New Jersey senator’s address saying ‘our nation is in crisis’ passed the 20-hour mark on Tuesday afternoon',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/01/cory-booker-senate-speech-trump',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Musk_Fire_USAID',
+    categories: ['Economy', 'Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-04-01',
+    title: 'Musk’s Doge to fire all local workers and US diplomats from USAID',
+    body: 'Unofficial Trump adviser’s cost-cutting team to finalize shuttering the foreign aid agency on which millions depend',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/01/musk-doge-usaid-firings',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Eggs_Expensive',
+    categories: ['Economy', 'Project 2025', 'FAFO'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-01',
+    title: 'About a third of Americans stop buying eggs due to rising costs, study shows',
+    body: 'Data says 34% of those in US stopped purchasing breakfast staple and won’t buy again until costs lower to $5 a carton',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/01/buying-eggs-cost',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
   {
     id: 'Liberation_Day_Tomorrow',
     categories: ['Economy', 'Project 2025', 'Global'],
@@ -48,6 +177,27 @@ const entries = [
       {
         href: 'https://www.cnn.com/2025/03/31/investing/us-stocks-trump-tariff-uncertainty/index.html',
         linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Threatens_Iran',
+    categories: ['WW3', 'Project 2023', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-30',
+    title: 'Trump threatens bombing if Iran does not make nuclear deal',
+    body: 'Since Trump’s election and the resumption of his “maximum pressure” campaign on Tehran, Iran’s rial currency has gone into a freefall.',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/trump-says-there-will-be-bombing-if-iran-does-not-make-nuclear-deal-2025-03-30/',
+        linkText: 'Reuters',
+      },
+
+      {
+        href: 'https://apnews.com/article/iran-rejects-direct-negotiations-trump-letter-us-c414743a567c574b6f48f64a2e889f31',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -90,6 +240,22 @@ const entries = [
       {
         href: 'https://www.theatlantic.com/politics/archive/2025/03/trump-third-term/682243/',
         linkText: 'The Atlantic',
+      },
+    ],
+  },
+
+  {
+    id: 'Italy_Tariffs_Reasoned',
+    categories: ['Economy', 'Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-29',
+    title: 'Italian PM calls for ‘reasoned’ approach to escalating tariff war between EU and US',
+    body: 'Giorgia Meloni says it is her responsibility to defend transatlantic unity in face of looming US levies',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/29/italian-pm-calls-for-reasoned-approach-to-escalating-tariff-war-between-eu-and-us',
+        linkText: 'The Guardian',
       },
     ],
   },
@@ -219,6 +385,11 @@ const entries = [
       {
         href: 'https://www.theguardian.com/world/live/2025/mar/28/greenland-jd-vance-europe-ukraine-russia-latest-news-updates',
         linkText: 'The Guardian',
+      },
+
+      {
+        href: 'https://www.nytimes.com/2025/03/28/us/politics/vance-greenland-visit-waltz.html',
+        linkText: 'New York Times',
       },
     ],
   },
