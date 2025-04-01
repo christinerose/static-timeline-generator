@@ -33,6 +33,166 @@ const entries = [
 
 
   {
+    id: 'MAGA_Fired_FAFO',
+    categories: ['Economy', 'Project 2025', 'FAFO'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-28',
+    title: '‘MAGA Junkie’ Fired in DOGE Cuts Now Regrets Voting for Trump: ‘I Expected Better’',
+    body: '“I was a MAGA junkie, a MAGA junkie who thought her government job would be safe with Donald Trump in office,” says West Virginia woman fired from the Bureau of Fiscal Service.',
+    links: [
+      {
+        href: 'https://www.thedailybeast.com/maga-junkie-fired-in-doge-cuts-now-regrets-voting-for-trump-i-expected-better/',
+        linkText: 'The Daily Beast',
+      },
+    ],
+  },
+
+  {
+    id: 'VaccineOfficial_Forced_Out',
+    categories: ['Health', 'Project 2025'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-03-28',
+    title: 'The top FDA vaccine official is forced out, cites RFK Jr.\'s \'misinformation and lies\'',
+    body: 'The abrupt departure comes as concern has been mounting among many public health experts about moves involving vaccines under Kennedy, who has questioned vaccine safety and effectiveness.',
+    links: [
+      {
+        href: 'https://www.npr.org/sections/shots-health-news/2025/03/28/nx-s1-5344010/fda-peter-marks-rfk-jr',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Smithsonian_Anti-American',
+    categories: ['Orwell', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-28',
+    title: 'Trump signs executive order accusing Smithsonian Institution of spreading \'anti-American ideology\'',
+    body: 'The order directed JD Vance - a member of the Smithsonian Board of Regents - to eliminate "improper, divisive, or anti-American ideology" from Smithsonian museums, education and research centers and the National Zoo.',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/us/trump-signs-order-aiming-eliminate-anti-american-ideology-smithsonian-2025-03-27/',
+        linkText: 'Reuters',
+      },
+    ],
+  },
+
+  {
+    id: 'Greenland_Door2Door',
+    categories: ['Resist', 'Project 2025', 'Global', 'FAFO'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-28',
+    title: 'U.S. officials went door-to-door in Greenland to find anyone who wanted to be visited by the Vances. They found no one',
+    body: 'A local travel company in Greenland’s capital also cancelled a planned visit by Usha Vance',
+    links: [
+      {
+        href: 'https://www.independent.co.uk/news/world/americas/us-politics/greenland-usha-vance-visit-trump-b2722857.html',
+        linkText: 'The Independent',
+      },
+    ],
+  },
+
+  {
+    id: 'Greenland_Denmark',
+    categories: ['WW3', 'Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-28',
+    title: 'JD Vance says Denmark ‘has not done a good job by the people of Greenland’',
+    body: 'US vice-president JD Vance said Denmark “has not done a good job at keeping Greenland safe,” accusing it of “underinvesting in the people of Greenland and … in the security architecture” of the island',
+    links: [
+      {
+        href: 'https://www.theguardian.com/world/live/2025/mar/28/greenland-jd-vance-europe-ukraine-russia-latest-news-updates',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Greenland_Go-Far',
+    categories: ['WW3', 'Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-27',
+    title: 'Trump says US will \'go as far as we have to\' to get control of Greenland',
+    body: 'The president suggested that "the world needs us to have Greenland."',
+    links: [
+      {
+        href: 'https://abcnews.go.com/International/trump-us-control-greenland/story?id=120208823',
+        linkText: 'ABC',
+      },
+    ],
+  },
+
+  {
+    id: 'We_Will_Kill_You',
+    categories: ['WW3', 'Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-26',
+    title: 'Simply put: WE WILL FIND YOU—AND WE WILL KILL YOU.',
+    body: 'We continue to mop up the mess left by Biden. For years, terrorists killed Americans with impunity. Now, they are the prey—and we are the hunters.',
+    links: [
+      {
+        href: 'https://x.com/WhiteHouse/status/1904932866632384819',
+        linkText: 'White House Twitter (X)',
+      },
+    ],
+  },
+
+  {
+    id: 'Boston_Home',
+    categories: ['Project 2025', 'Immigration', 'Resist'],
+    color: 'green',
+    faicon: 'plane',
+    date: '2025-03-26',
+    title: '\'Home For Everyone\': Boston Mayor Michelle Wu Fires Back At Border Czar After ICE Raids',
+    body: 'Boston Mayor Michelle Wu repeated that Boston is the "safest city in the country" in an ongoing war of words with the Trump Administration.',
+    links: [
+      {
+        href: 'https://patch.com/massachusetts/boston/home-everyone-boston-mayor-fires-back-border-czar-ice-raids',
+        linkText: 'Patch',
+      },
+    ],
+  },
+
+  {
+    id: 'Netherlands_Travel-Warning',
+    categories: ['Global', 'FAFO', 'Resist'],
+    color: 'green',
+    faicon: 'globe',
+    date: '2025-03-26',
+    title: 'Netherlands Issues US Travel Warning, Belgium Set To Follow',
+    body: 'The announcements come after several other European countries and Canada updated their travel guidance for the U.S. in recent days, citing transgender rights and difficulties at the border.',
+    links: [
+      {
+        href: 'https://www.newsweek.com/netherlands-issues-us-travel-warning-belgium-set-follow-2050630',
+        linkText: 'Newsweek',
+      },
+    ],
+  },
+
+  {
+    id: 'PA_Win',
+    categories: ['FAFO', 'Project 2025', 'Tiddlywinks', 'Resist'],
+    color: 'green',
+    faicon: 'democrat',
+    date: '2025-03-26',
+    title: 'Democrats take hope from upset win in a GOP-leaning Pennsylvania state Senate district',
+    body: 'Democrat James Andrew Malone narrowly won a special election for a Pennsylvania state Senate seat in Republican-leaning suburbs and farming communities, scoring an upset for a party roiled by infighting since President Donald Trump’s victory.',
+    links: [
+      {
+        href: 'https://apnews.com/article/pennsylvania-democratic-party-donald-trump-election-094e907bd9af0d55a3ac76bb5e22d17c',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
     id: 'Atlantic_Signal-Info',
     categories: ['WW3', 'Project 2025', 'Global'],
     color: 'red',
@@ -92,6 +252,38 @@ const entries = [
       {
         href: 'https://www.npr.org/2025/03/25/nx-s1-5338729/mad-house-congress-maga-annie-karni-luke-broadwater',
         linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Child_Mental_Health',
+    categories: ['Project 2025', 'Health', 'LGBTQ'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-03-25',
+    title: 'Mental health service to minors without parental consent banned under Ohio bill',
+    body: 'House Bill 172 was introduced by Rep. Johnathan Newman (R-Troy) and would ban a mental health professional from treating a minor who “presents for the diagnosis or treatment of a gender-related condition” without first obtaining consent from a least one parent or guardian.',
+    links: [
+      {
+        href: 'https://www.nbc4i.com/news/local-news/columbus/mental-health-service-to-minors-without-parental-consent-banned-under-ohio-bill/',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Child_Labor',
+    categories: ['Project 2025', 'Immigration', 'Economy'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-03-25',
+    title: 'Florida debates lifting some child labor laws to fill jobs vacated by undocumented immigrants',
+    body: 'Florida has been working for years to crack down on employers that hire undocumented immigrants. But that presented a problem for businesses in the state that are desperate for workers to fill low-wage and often undesirable jobs. Florida’s Republican Gov. Ron DeSantis and the state legislature have a potential solution: children.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/03/25/business/florida-child-labor-laws/index.html',
+        linkText: 'CNN',
       },
     ],
   },
@@ -173,6 +365,59 @@ const entries = [
       {
         href: 'https://www.cbsnews.com/news/group-chat-trump-war-plans-yemen-lawmakers-react/',
         linkText: 'CBS',
+      },
+    ],
+  },
+
+  {
+    id: 'Venezuelan_Oil',
+    categories: ['Project 2025', 'Economy', 'WW3'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-03-24',
+    title: 'Trump says any country buying Venezuelan oil will face a 25% tariff',
+    body: 'Trump claimed, without evidence, Venezuela has “purposefully and deceitfully” sent criminals, including violent individuals and members of gangs like Tren de Aragua, to the US.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/03/24/business/trump-venezuela-oil-tariffs/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'Liberation_Day',
+    categories: ['Project 2025', 'Economy'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-03-24',
+    title: 'Trump pledges auto, pharma tariffs in ‘near future,’ sowing more trade confusion',
+    body: 'Trump will soon announce tariffs targeting automobiles, pharmaceuticals and other industries, signaling his plans to pile more sweeping duties on top of his forthcoming “reciprocal tariffs.”',
+    links: [
+      {
+        href: 'https://www.cnbc.com/2025/03/24/trump-tariffs-autos-pharmaceuticals-sectoral-reciprocal.html',
+        linkText: 'CNBC',
+      },
+
+      {
+        href: 'https://www.nbcnews.com/business/economy/trump-tariffs-april-2-liberation-day-what-to-expect-rcna197822',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Rehire_Halt',
+    categories: ['Project 2025', 'Courts', 'Economy'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-03-24',
+    title: 'Trump administration asks Supreme Court to halt judge’s order to rehire probationary federal workers',
+    body: 'The emergency appeal argues that the judge can’t force the executive branch to rehire more than 16,000 probationary employees.',
+    links: [
+      {
+        href: 'https://apnews.com/article/mass-firings-trump-administration-supreme-court-bfe86f68e9877bf58c64bbc3b01db9c6',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -273,6 +518,26 @@ const entries = [
     ],
   },
 
+  {
+    id: 'Judge_Rejects_AEA',
+    categories: ['Immigration', 'Project 2025', 'Courts', 'Resist'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-03-22',
+    title: 'Judge contends Nazis got more due process than Trump deportees did',
+    body: 'The Trump administration received pointed questions from a judge over how it\'s implementing a rarely used wartime law to deport Venezuelans suspected of being Tren de Aragua gang members.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/03/24/nx-s1-5338794/appeals-alien-enemies-act-trump',
+        linkText: 'NPR',
+      },
+      {
+        href: 'https://www.nbcnews.com/politics/trump-administration/judge-alien-enemies-act-case-defends-ruling-ahead-key-appeals-court-he-rcna197804',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
 
   {
     id: 'Leaked_Video',
@@ -355,6 +620,22 @@ const entries = [
   },
 
   {
+    id: 'Tread_Carefully',
+    categories: ['DOGE', 'Project 2025', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-23',
+    title: 'Pam Bondi warns Jasmine Crockett to ‘tread very carefully’ in what she says about Elon Musk',
+    body: 'Ahead of expected protests at Tesla locations, the Democratic representative said her calls to action against Musk were nonviolent.',
+    links: [
+      {
+        href: 'https://www.politico.com/news/2025/03/23/bondi-jasmine-crockett-musk-tesla-protests-00244256',
+        linkText: 'Politico',
+      },
+    ],
+  },
+
+  {
     id: 'Trump_Demands_Apology',
     categories: ['LGBTQ', 'Project 2025', 'Civil Liberties'],
     color: 'red',
@@ -387,6 +668,11 @@ const entries = [
       {
         href: 'https://san.com/cc/dhs-to-revoke-legal-status-of-532000-humanitarian-parole-migrants/',
         linkText: 'Straight Arrow News',
+      },
+
+      {
+        href: 'https://www.npr.org/2025/03/22/nx-s1-5337214/dhs-revokes-humanitarian-parole-cubans-haitians-nicaraguans-venezuelans',
+        linkText: 'NPR',
       },
     ],
   },
@@ -512,6 +798,22 @@ const entries = [
       {
         href: 'https://sfstandard.com/2025/03/21/international-students-spring-break-travel/',
         linkText: 'San Francisco Standard',
+      },
+    ],
+  },
+
+  {
+    id: 'Musk_China',
+    categories: ['WW3', 'Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-21',
+    title: 'Trump denies Musk to be briefed on top-secret plan for potential war with China',
+    body: 'Access to the closely guarded military plan would mark an sharp expansion of Musk\'s role as a Trump adviser who has spearheaded efforts to cut U.S. government spending.',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/us/pentagon-brief-musk-top-secret-plan-potential-war-with-china-nyt-reports-2025-03-21/',
+        linkText: 'Reuters',
       },
     ],
   },
@@ -6913,6 +7215,22 @@ const entries = [
       {
         href: 'https://thehill.com/homenews/5131164-trump-guantanamo-migrant-directive/',
         linkText: 'The Hill',
+      },
+    ],
+  },
+
+  {
+    id: 'Iowa_Flip',
+    categories: ['Fascism', 'Resist', 'Tiddlywinks'],
+    color: 'green',
+    faicon: 'democrat',
+    date: '2025-01-29',
+    title: 'Democrats Shock Republicans, Flip Deep Red Iowa Senate Seat in Pro-Trump District',
+    body: 'Democrats have pulled off a stunning upset in Iowa, flipping a deep-red state Senate seat in a district where Donald Trump won by 21 points in 2024.',
+    links: [
+      {
+        href: 'https://www.latintimes.com/democrats-shock-republicans-flip-deep-red-iowa-senate-seat-pro-trump-district-573857',
+        linkText: 'Latin Times',
       },
     ],
   },
