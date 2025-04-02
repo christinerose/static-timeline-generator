@@ -31,6 +31,21 @@ const entries = [
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, etc.
 
+  {
+    id: 'Booker_25-HR_Speech',
+    categories: ['Resist', 'Project 2025', 'Tiddlywinks'],
+    color: 'green',
+    faicon: 'democrat',
+    date: '2025-04-01',
+    title: 'Sen. Cory Booker breaks Senate record with marathon 24-hour speech protesting Trump and Musk',
+    body: 'Booker\'s speech, which began Monday evening, continued for a total of 25 hours and 4 minutes. He said, ""This is our moral moment. This is when the most precious ideas of our country are being tested."',
+    links: [
+      {
+        href: 'https://abcnews.go.com/Politics/booker-stages-senate-filibuster-protest-crisis-trump-musk/story?id=120365354',
+        linkText: 'ABC',
+      },
+    ],
+  },
 
   {
     id: 'DOGE_Misogynist',
@@ -156,6 +171,22 @@ const entries = [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/01/buying-eggs-cost',
         linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Social_Media_Green_Card',
+    categories: ['Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-31',
+    title: 'More than a background check? US may scan social media for green card vetting',
+    body: 'The proposal follows an executive order from former President Donald Trump aimed at enhancing national security and vetting standards.',
+    links: [
+      {
+        href: 'https://economictimes.indiatimes.com/nri/latest-updates/us-immigration-officials-look-to-collect-social-media-handles-from-those-seeking-benefits-is-this-new/articleshow/119753216.cms?from=mdr',
+        linkText: 'Economic Times',
       },
     ],
   },
