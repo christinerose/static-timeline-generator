@@ -32,6 +32,22 @@ const entries = [
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
   {
+    id: 'Trans_Military_Health',
+    categories: ['Project 2025', 'LGBTQ', 'Health'],
+    color: 'red',
+    faicon: 'rainbow',
+    date: '2025-04-02',
+    title: 'Trans soldiers served their country. Now the US is rolling back their healthcare',
+    body: 'Blake is one of about 134,000 transgender veterans living in the US. It’s an alarming time to be someone like her.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/02/trans-soldiers-veterans-healthcare',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+  
+  {
     id: 'Johnson_Fails',
     categories: ['Project 2025', 'FAFO', 'Resist'],
     color: 'green',
@@ -105,13 +121,18 @@ const entries = [
     color: 'red',
     faicon: 'hammer',
     date: '2025-04-01',
-    title: 'Report: Waltz used Gmail for official work',
-    body: 'National Security Adviser Michael Waltz and other senior officials used their personal Gmail account for government business.',
+    title: 'National security adviser Michael Waltz reportedly conducted business via Gmail',
+    body: 'Latest security flap again focuses scrutiny on Waltz after he earlier added journalist to Yemen war-planning chat',
     links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/02/michael-waltz-gmail-signal-national-security',
+        linkText: 'The Guardian',
+      },
       {
         href: 'https://www.axios.com/2025/04/01/mike-waltz-signal-gmail-security',
         linkText: 'Axios',
       },
+
     ],
   },
 
