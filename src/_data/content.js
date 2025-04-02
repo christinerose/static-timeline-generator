@@ -12,7 +12,7 @@ const entries = [
   //Women = venus
   //Project_2025 = hammer
   //J6 = skull
-  //Gun violence = gun
+  //Gun Violence = gun
   //Fascism = fire
   //Education = scroll
   //Resist = jedi
@@ -29,7 +29,43 @@ const entries = [
 
   //Layoffs, DOGE work, restructuring, etc. = Project 2025
   //DOGE & J6 = Fascism
-  //Orwell :: rewriting history, double speak, new speak, etc.
+  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
+
+  {
+    id: 'Johnson_Fails',
+    categories: ['Project 2025', 'FAFO', 'Resist'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-04-02',
+    title: 'Johnson Fails to Kill Bipartisan Measure to Allow Proxy Voting for New Parents',
+    body: 'The speaker tried to use an unprecedented parliamentary maneuver to deny a bipartisan majority the chance to hold a vote on their proposal to allow new parents to vote remotely in the House.',
+    links: [
+      {
+        href: 'https://www.nytimes.com/2025/04/01/us/politics/house-proxy-voting-parents-mike-johnson.html',
+        linkText: 'New York Times',
+      },
+      {
+        href: 'https://www.nbcnews.com/politics/congress/gop-lawmakers-speaker-mike-johnson-proxy-voting-fight-rcna199087',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Increase_Weapon_Export',
+    categories: ['Project 2025', 'WW3'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-04-02',
+    title: 'Trump preparing executive order to increase weapons exports',
+    body: 'Trump\'s administration is planning an executive order that would ease rules governing exports of military equipment.',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/us/trump-preparing-executive-order-increase-weapons-exports-sources-say-2025-04-01/',
+        linkText: 'Reuters',
+      },
+    ],
+  },
 
   {
     id: 'Wisconsin_Democrat',
@@ -59,6 +95,22 @@ const entries = [
       {
         href: 'https://apnews.com/article/wisconsin-supreme-court-elon-musk-trump-8fe006c7f8fa40b663eccd6751bada98',
         linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Security_Breach_Email',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-04-01',
+    title: 'Report: Waltz used Gmail for official work',
+    body: 'National Security Adviser Michael Waltz and other senior officials used their personal Gmail account for government business.',
+    links: [
+      {
+        href: 'https://www.axios.com/2025/04/01/mike-waltz-signal-gmail-security',
+        linkText: 'Axios',
       },
     ],
   },
@@ -273,6 +325,22 @@ const entries = [
   },
 
   {
+    id: 'Women_Lose_Contraception',
+    categories: ['Health', 'Project 2025', 'Women', 'Global'],
+    color: 'red',
+    faicon: 'venus',
+    date: '2025-04-01',
+    title: 'Millions of Women Will Lose Access to Contraception as a Result of Trump Aid Cuts',
+    body: 'The United States was a key supplier of contraceptives in many developing countries. The Trump administration has ended that support.',
+    links: [
+      {
+        href: 'https://www.nytimes.com/2025/04/01/health/usaid-contraception-cuts.html',
+        linkText: 'New York Times',
+      },
+    ],
+  },
+
+  {
     id: 'Eggs_Expensive',
     categories: ['Economy', 'Project 2025', 'FAFO'],
     color: 'red',
@@ -285,6 +353,22 @@ const entries = [
         href: 'https://www.theguardian.com/us-news/2025/apr/01/buying-eggs-cost',
         linkText: 'The Guardian',
       },
+    ],
+  },
+
+  {
+    id: 'Alabama_Cant_Prosecute',
+    categories: ['Fascism', 'Women', 'Courts', 'Civil Liberties', 'Resist'],
+    color: 'green',
+    faicon: 'venus',
+    date: '2025-03-31',
+    title: 'Alabama can’t prosecute groups who help women travel to get an abortion',
+    body: 'U.S. District Judge Myron Thompson sided with an abortion fund and medical providers who sued Alabama Attorney General Steve Marshall after he suggested they could face prosecution under anti-conspiracy laws. Thompson’s ruling declared that such prosecutions would violate both the First Amendment and a person’s right to travel.',
+    links: [
+      {
+        href: 'https://apnews.com/article/alabama-abortion-travel-ruling-96ac1af6618ee8005862df2699e757d5',
+        linkText: 'Associated Press',
+      },,
     ],
   },
 
