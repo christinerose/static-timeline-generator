@@ -32,6 +32,119 @@ const entries = [
   //Orwell :: rewriting history, double speak, new speak, etc.
 
   {
+    id: 'Wisconsin_Democrat',
+    categories: ['Resist', 'Project 2025', 'Tiddlywinks', 'FAFO', 'DOGE'],
+    color: 'green',
+    faicon: 'democrat',
+    date: '2025-04-02',
+    title: 'Democratic-backed Susan Crawford wins Wisconsin Supreme Court seat, cementing liberal majority',
+    body: 'Musk and groups he backed had spent more than $21 million in an effort to defeat Crawford. Musk even traveled to Wisconsin two days before the election to personally hand over $1 million checks to two voters.',
+    links: [
+      {
+        href: 'https://apnews.com/article/wisconsin-supreme-court-elon-musk-trump-8fe006c7f8fa40b663eccd6751bada98',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Wisconsin_Florida',
+    categories: ['Resist', 'Project 2025', 'Tiddlywinks', 'FAFO', 'DOGE'],
+    color: 'green',
+    faicon: 'democrat',
+    date: '2025-04-01',
+    title: 'What to watch as Wisconsin and Florida host the first major elections of Trump\'s second term',
+    body: 'Elon Musk has become a major player in the Wisconsin Supreme Court race, while Republicans will be put to the test in Trump territory in Florida.',
+    links: [
+      {
+        href: 'https://apnews.com/article/wisconsin-supreme-court-elon-musk-trump-8fe006c7f8fa40b663eccd6751bada98',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'TN_Civil_Liberties',
+    categories: ['Immigration', 'Project 2025', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-04-01',
+    title: 'Bill to abolish Tennessee Human Rights Commission advances',
+    body: 'Bill would transfer civil rights enforcement power to the Attorney General, whose embrace of conservative causes has been criticized by Democrats as politically motivated',
+    links: [
+      {
+        href: 'https://tennesseelookout.com/2025/04/01/bill-to-abolish-tennessee-human-rights-commission-advances/',
+        linkText: 'Tennessee Lookout',
+      },
+    ],
+  },
+
+
+  {
+    id: 'TN_Proof_Citizenship',
+    categories: ['Immigration', 'Project 2025', 'Education'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-01',
+    title: 'Bill that allows TN schools to require students to show citizenship status passes Senate committee',
+    body: 'The bill passed a Senate committee Tuesday with seven \'ayes\' and four \'nays.\'',
+    links: [
+      {
+        href: 'https://www.wbir.com/article/news/education/k-12-students-required-to-show-citizenship-to-enroll-in-tennessee-schools/51-42baa4eb-31d9-40ca-a41d-b414dc786a91',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Idaho_Block_Services',
+    categories: ['Immigration', 'Project 2025', 'Health'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-01',
+    title: 'Idaho Legislature passes bill blocking unauthorized immigrants from public services',
+    body: 'Bill would cut few publicly funded services unauthorized immigrants can receive.',
+    links: [
+      {
+        href: 'https://idahocapitalsun.com/2025/04/01/idaho-legislature-passes-bill-blocking-unauthorized-immigrants-from-public-services/',
+        linkText: 'Idaho Capital Sun',
+      },
+    ],
+  },
+
+  {
+    id: 'Massive_Health_Layoffs',
+    categories: ['Economy', 'Project 2025', 'Health'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-04-01',
+    title: 'Mass layoffs are underway at the nation’s public health agencies',
+    body: 'The cuts include researchers, scientists, doctors, support staff and senior leaders, leaving the federal government without many of the key experts who have long guided U.S. decisions on medical research, drug approvals and other issues.',
+    links: [
+      {
+        href: 'https://apnews.com/article/health-human-services-layoffs-restructuring-rfk-jr-ec4d7731695e4204970c7eab953b2289',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'States_Sue_Trump',
+    categories: ['Resist', 'Project 2025', 'Health', 'Courts', 'FAFO'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-04-01',
+    title: 'States sue Trump administration for rescinding billions in health funding',
+    body: 'The lawsuit argues the cuts are illegal, and that the federal government did not provide “rational basis” or facts to support the cuts.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-covid-federal-money-lawsuit-e2fcacccfda994500ce92be94d1ada7d',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
     id: 'Booker_25-HR_Speech',
     categories: ['Resist', 'Project 2025', 'Tiddlywinks'],
     color: 'green',
@@ -171,6 +284,53 @@ const entries = [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/01/buying-eggs-cost',
         linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Musk_Bribes_$1m',
+    categories: ['Fascism', 'DOGE', 'Courts'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-03-31',
+    title: 'Musk hands out $1M checks after efforts to block the giveaways in court are rejected',
+    body: 'A lawsuit aimed to stop Elon Musk and America PAC giving millions away Sunday.',
+    links: [
+      {
+        href: 'https://abcnews.go.com/US/wisconsin-supreme-court-rejects-effort-block-musks-1m/story?id=120319945',
+        linkText: 'ABC',
+      },
+      {
+        href: 'https://www.npr.org/2025/03/31/nx-s1-5338901/wisconsin-judge-election-musk-trump-abortion',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+
+  {
+    id: 'Legal_Deported_Prison',
+    categories: ['Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-31',
+    title: 'An ‘Administrative Error’ Sends a Maryland Father to a Salvadoran Prison',
+    body: 'The Trump administration says that it mistakenly deported an immigrant with protected status but that courts are powerless to order his return.',
+    links: [
+      {
+        href: 'https://www.theatlantic.com/politics/archive/2025/03/an-administrative-error-sends-a-man-to-a-salvadoran-prison/682254/',
+        linkText: 'The Atlantic',
+      },
+
+      {
+        href: 'https://www.cnn.com/2025/04/01/politics/maryland-father-mistakenly-deported-el-salvador-prison/index.html',
+        linkText: 'CNN',
+      },
+
+      {
+        href: 'https://apnews.com/article/el-salvador-deportation-maryland-man-trump-error-818a0fa1218de714448edcb5be1f7347',
+        linkText: 'Associated Press',
       },
     ],
   },
