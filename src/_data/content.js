@@ -34,7 +34,7 @@ const entries = [
   {
     id: 'CA_Tariff',
     categories: ['Project 2025', 'Global', 'Resist', 'Tariff War', 'Economy'],
-    color: 'greed',
+    color: 'green',
     faicon: 'jedi',
     date: '2025-04-04',
     title: 'California to Negotiate Trade With Other Countries to Bypass Trump Tariffs',
