@@ -32,6 +32,38 @@ const entries = [
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
   {
+    id: 'Stocks_Boom',
+    categories: ['Project 2025', 'Economy', 'Tariff War'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-03',
+    title: 'US markets see worst day in five years as president claims ‘stock is going to boom’',
+    body: 'The New York stock exchange closed on its worst day of trading since June 2020 – during the early months of the Covid-19 pandemic.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/live/2025/apr/03/donald-trump-tariffs-world-trade-republicans-join-democrats-block-canada-tariffs-us-politics-latest-news-updates',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'CDC_Fired_Staff',
+    categories: ['Project 2025', 'DOGE', 'Health'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-04-03',
+    title: 'Staff working on childhood lead exposure and cancer clusters fired from CDC',
+    body: 'The entire permanent staff of the Division of Environmental Health Science and Practice was cut, according to one person who was among the approximately 200 fired from the division.',
+    links: [
+      {
+        href: 'https://thehill.com/policy/energy-environment/5230504-staff-working-on-childhood-lead-exposure-and-cancer-clusters-fired-from-cdc/',
+        linkText: 'The Hill',
+      },
+    ],
+  },
+
+  {
     id: 'Trans_Military_Health',
     categories: ['Project 2025', 'LGBTQ', 'Health'],
     color: 'red',
@@ -267,7 +299,7 @@ const entries = [
 
   {
     id: 'EU_Strong_Plan',
-    categories: ['Global', 'Project 2025', 'Economy', 'WW3'],
+    categories: ['Global', 'Project 2025', 'Economy', 'WW3', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-04-01',
@@ -283,7 +315,7 @@ const entries = [
 
   {
     id: 'Liberation_Day_Expect',
-    categories: ['Global', 'Project 2025', 'Economy', 'WW3'],
+    categories: ['Global', 'Project 2025', 'Economy', 'WW3', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-04-01',
@@ -299,7 +331,7 @@ const entries = [
 
   {
     id: 'GOP_Join_Dems',
-    categories: ['Resist', 'Project 2025', 'FAFO', 'Economy'],
+    categories: ['Resist', 'Project 2025', 'FAFO', 'Economy', 'Tariff War'],
     color: 'green',
     faicon: 'coins',
     date: '2025-04-01',
@@ -506,7 +538,7 @@ const entries = [
 
   {
     id: 'Liberation_Day_Tomorrow',
-    categories: ['Economy', 'Project 2025', 'Global'],
+    categories: ['Economy', 'Project 2025', 'Global', 'Tariff War'],
     color: 'red',
     faicon: 'coins',
     date: '2025-03-31',
@@ -548,7 +580,7 @@ const entries = [
 
   {
     id: 'Trump_Angry_Putin',
-    categories: ['WW3', 'Project 2025', 'Global'],
+    categories: ['WW3', 'Project 2025', 'Global', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-30',
@@ -611,7 +643,7 @@ const entries = [
 
   {
     id: 'Italy_Tariffs_Reasoned',
-    categories: ['Economy', 'Project 2025', 'Global', 'WW3'],
+    categories: ['Economy', 'Project 2025', 'Global', 'WW3', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-29',
@@ -627,7 +659,7 @@ const entries = [
 
   {
     id: 'Auto_Raise',
-    categories: ['Economy', 'Project 2025'],
+    categories: ['Economy', 'Project 2025', 'Tariff War'],
     color: 'red',
     faicon: 'coins',
     date: '2025-03-29',
@@ -905,7 +937,7 @@ const entries = [
 
   {
     id: 'Tariff_TikTok',
-    categories: ['Project 2025', 'Global'],
+    categories: ['Project 2025', 'Global', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-26',
@@ -969,7 +1001,7 @@ const entries = [
 
   {
     id: 'US_Cars_Tariff',
-    categories: ['Project 2025', 'Economy', 'Global', 'WW3'],
+    categories: ['Project 2025', 'Economy', 'Global', 'WW3', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-26',
@@ -1376,7 +1408,7 @@ const entries = [
 
   {
     id: 'Venezuelan_Oil',
-    categories: ['Project 2025', 'Economy', 'WW3'],
+    categories: ['Project 2025', 'Economy', 'WW3', 'Tariff War'],
     color: 'red',
     faicon: 'coins',
     date: '2025-03-24',
@@ -1392,7 +1424,7 @@ const entries = [
 
   {
     id: 'Liberation_Day',
-    categories: ['Project 2025', 'Economy'],
+    categories: ['Project 2025', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'coins',
     date: '2025-03-24',
@@ -1906,7 +1938,7 @@ const entries = [
 
   {
     id: 'Trump_Feds_Tariffs',
-    categories: ['Economy', 'Project 2025'],
+    categories: ['Economy', 'Project 2025' , 'Tariff War'],
     color: 'red',
     faicon: 'coins',
     date: '2025-03-20',
@@ -3323,7 +3355,7 @@ const entries = [
 
   {
     id: 'Farmers_FAFO',
-    categories: ['FAFO', 'Project 2025'],
+    categories: ['FAFO', 'Project 2025', 'Tariff War'],
     color: 'red',
     faicon: 'poo',
     date: '2025-03-14',
@@ -3458,7 +3490,7 @@ const entries = [
 
   {
     id: 'French_Champagne',
-    categories: ['WW3', 'Global', 'Project 2025'],
+    categories: ['WW3', 'Global', 'Project 2025', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-13',
@@ -3490,7 +3522,7 @@ const entries = [
 
   {
     id: 'Canada-EU_Retaliate',
-    categories: ['Economy', 'WW3', 'Global', 'Resist', 'Project 2025'],
+    categories: ['Economy', 'WW3', 'Global', 'Resist', 'Project 2025', 'Tariff War'],
     color: 'green',
     faicon: 'globe',
     date: '2025-03-13',
@@ -3612,7 +3644,7 @@ const entries = [
 
   {
     id: 'Inflation_Cooled',
-    categories: ['Economy', 'Global', 'Project 2025'],
+    categories: ['Economy', 'Global', 'Project 2025', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-12',
@@ -3628,7 +3660,7 @@ const entries = [
 
   {
     id: 'EU_Retaliate',
-    categories: ['Economy', 'WW3', 'Global', 'Resist', 'Project 2025'],
+    categories: ['Economy', 'WW3', 'Global', 'Resist', 'Project 2025', 'Tariff War'],
     color: 'green',
     faicon: 'globe',
     date: '2025-03-12',
@@ -3649,7 +3681,7 @@ const entries = [
 
   {
     id: 'Canada_Retaliate',
-    categories: ['Economy', 'WW3', 'Global', 'Resist', 'Project 2025'],
+    categories: ['Economy', 'WW3', 'Global', 'Resist', 'Project 2025', 'Tariff War'],
     color: 'green',
     faicon: 'globe',
     date: '2025-03-12',
@@ -3739,7 +3771,7 @@ const entries = [
 
   {
     id: 'Trump_Backs_Off',
-    categories: ['Global', 'Project 2025', 'Economy'],
+    categories: ['Global', 'Project 2025', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-11',
@@ -3905,7 +3937,7 @@ const entries = [
 
   {
     id: 'Canada_Raises_Elec',
-    categories: ['Resist', 'Global', 'Project 2025', 'Economy'],
+    categories: ['Resist', 'Global', 'Project 2025', 'Economy', 'Tariff War'],
     color: 'green',
     faicon: 'globe',
     date: '2025-03-10',
@@ -4022,7 +4054,7 @@ const entries = [
 
   {
     id: 'Ontario_Resist',
-    categories: ['Project 2025', 'Resist', 'Global', 'Economy'],
+    categories: ['Project 2025', 'Resist', 'Global', 'Economy', 'Tariff War'],
     color: 'green',
     faicon: 'globe',
     date: '2025-03-10',
@@ -4215,7 +4247,7 @@ const entries = [
 
   {
     id: 'Trump_Downplays',
-    categories: ['Project 2025', 'Global', 'Economy'],
+    categories: ['Project 2025', 'Global', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-10',
@@ -4384,7 +4416,7 @@ const entries = [
 
   {
     id: 'Tariff_Threat2',
-    categories: ['Project 2025', 'Global', 'WW3'],
+    categories: ['Project 2025', 'Global', 'WW3', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-07',
@@ -4416,7 +4448,7 @@ const entries = [
 
   {
     id: 'Tariff_Threat',
-    categories: ['Project 2025', 'Global', 'Economy'],
+    categories: ['Project 2025', 'Global', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-07',
@@ -4522,7 +4554,7 @@ const entries = [
 
   {
     id: 'Tariff_History',
-    categories: ['Project 2025', 'Global', 'Economy'],
+    categories: ['Project 2025', 'Global', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-07',
@@ -4867,7 +4899,7 @@ const entries = [
 
   {
     id: 'Trump_Caves',
-    categories: ['Global', 'Project 2025', 'Economy'],
+    categories: ['Global', 'Project 2025', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-06',
@@ -4883,7 +4915,7 @@ const entries = [
 
   {
     id: 'Canada_Retalitory',
-    categories: ['Global', 'Project 2025', 'Resist', 'Economy'],
+    categories: ['Global', 'Project 2025', 'Resist', 'Economy', 'Tariff War'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-03-06',
@@ -4947,7 +4979,7 @@ const entries = [
 
   {
     id: 'China_War',
-    categories: ['Global', 'Project 2025', 'WW3'],
+    categories: ['Global', 'Project 2025', 'WW3', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-05',
@@ -4980,7 +5012,7 @@ const entries = [
 
   {
     id: 'Mexico_Retalitory',
-    categories: ['Global', 'Project 2025', 'Resist', 'Economy'],
+    categories: ['Global', 'Project 2025', 'Resist', 'Economy', 'Tariff War'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-03-05',
@@ -4996,7 +5028,7 @@ const entries = [
 
   {
     id: 'Tariff_Pause',
-    categories: ['Global', 'Project 2025', 'Economy'],
+    categories: ['Global', 'Project 2025', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-05',
@@ -5131,7 +5163,7 @@ const entries = [
 
   {
     id: 'Tariff_War',
-    categories: ['Project 2025', 'Global', 'WW3', 'Economy'],
+    categories: ['Project 2025', 'Global', 'WW3', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-05',
@@ -5299,7 +5331,7 @@ const entries = [
 
   {
     id: 'Trump_Speech',
-    categories: ['Project 2025', 'Fascism'],
+    categories: ['Project 2025', 'Fascism', 'Tariff War'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-03-04',
@@ -5374,7 +5406,7 @@ const entries = [
 
   {
     id: 'Tariffs_Go',
-    categories: ['Project 2025', 'Global', 'Economy'],
+    categories: ['Project 2025', 'Global', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-04',
@@ -5406,7 +5438,7 @@ const entries = [
 
   {
     id: 'Tariffs_FAFO',
-    categories: ['FAFO', 'Economy'],
+    categories: ['FAFO', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'poo',
     date: '2025-03-04',
@@ -5422,7 +5454,7 @@ const entries = [
 
   {
     id: 'Fentanyl_Pretext',
-    categories: ['Project 2025', 'Global', 'Economy'],
+    categories: ['Project 2025', 'Global', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-04',
@@ -5836,7 +5868,7 @@ const entries = [
 
   {
     id: 'Tariffs_Increase',
-    categories: ['Project 2025', 'Global', 'WW3', 'Economy'],
+    categories: ['Project 2025', 'Global', 'WW3', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-27',
@@ -6092,7 +6124,7 @@ const entries = [
 
   {
     id: 'Can_Mex_Tariffs',
-    categories: ['Project 2025', 'Global', 'Economy'],
+    categories: ['Project 2025', 'Global', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-25',
@@ -7387,7 +7419,7 @@ const entries = [
 
   {
     id: 'Trump-Recipricol-Tariffs',
-    categories: ['Project 2025', 'Global', 'WW3', 'Economy'],
+    categories: ['Project 2025', 'Global', 'WW3', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-13',
@@ -7946,7 +7978,7 @@ const entries = [
 
   {
     id: 'Trump-Steel-Tarifs',
-    categories: ['Project 2025', 'Global', 'Economy'],
+    categories: ['Project 2025', 'Global', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-10',
@@ -8400,7 +8432,7 @@ const entries = [
 
   {
     id: 'Columbia-Caves',
-    categories: ['Immigration', 'Project 2025', 'Economy'],
+    categories: ['Immigration', 'Project 2025', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'plane',
     date: '2025-01-27',
@@ -8486,7 +8518,7 @@ const entries = [
 
   {
     id: 'Canada-Mexico-Tariffs',
-    categories: ['Global', 'Fascism', 'Economy'],
+    categories: ['Global', 'Fascism', 'Economy', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-01-26',
@@ -8835,7 +8867,7 @@ const entries = [
 
     {
     id: 'Trump-Threatens-Russia',
-    categories: ['Global', 'WW3'],
+    categories: ['Global', 'WW3', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-01-22',
