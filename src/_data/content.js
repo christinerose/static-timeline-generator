@@ -31,9 +31,74 @@ const entries = [
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
+ 
   {
-    id: 'Stocks_Boom',
-    categories: ['Project 2025', 'Economy', 'Tariff War'],
+    id: 'Tariffs_Calculated',
+    categories: ['Project 2025', 'Global', 'Tariff War', 'Economy'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-03',
+    title: 'How Are Trump’s Tariff Rates Calculated?',
+    body: 'The answer appears to begin with the total trade deficit America runs with its trading partners.',
+    links: [
+      {
+        href: 'https://www.nytimes.com/2025/04/02/business/economy/trump-tariff-rates-calculation.html',
+        linkText: 'New York Times',
+      },
+    ],
+  },
+ 
+  {
+    id: 'No_Where_Safe',
+    categories: ['Project 2025', 'Global', 'Tariff War', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-03',
+    title: '‘Nowhere on Earth is safe’: Trump imposes tariffs on uninhabited islands near Antarctica',
+    body: 'Australian prime minister surprised after external territories – including tiny Norfolk Island and remote islands home to penguins – targeted by US president',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/03/donald-trump-tariffs-antarctica-uninhabited-heard-mcdonald-islands',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Putin_Investment_Tsar',
+    categories: ['Project 2025', 'Global', 'Tariff War', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-03',
+    title: 'No Trump tariff on Russia as his officials host Putin investment tsar',
+    body: 'Vladimir Putin’s investment envoy Kirill Dmitriev met with US officials in Washington on Wednesday',
+    links: [
+      {
+        href: 'https://www.theguardian.com/world/2025/apr/03/ukraine-war-briefing-deadly-ballistic-missile-strike-on-zelenskyy-home-town',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Asian_Disaster_Tariffs',
+    categories: ['Project 2025', 'Global', 'Tariff War'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-03',
+    title: 'Asian countries riven by war and disaster face some of steepest Trump tariffs',
+    body: 'Myanmar, Cambodia and Laos hit with rates over 40% as experts say the real target is China',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/03/donald-trump-tariffs-us-administration-countries-biggest-rates-china-myanmar-mandalay',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Stocks_Not_Boom',
+    categories: ['Project 2025', 'Economy', 'Tariff War', 'Global'],
     color: 'red',
     faicon: 'coins',
     date: '2025-04-03',
@@ -59,6 +124,54 @@ const entries = [
       {
         href: 'https://thehill.com/policy/energy-environment/5230504-staff-working-on-childhood-lead-exposure-and-cancer-clusters-fired-from-cdc/',
         linkText: 'The Hill',
+      },
+    ],
+  },
+
+  {
+    id: 'Gameshow_Host',
+    categories: ['Project 2025', 'Economy', 'Tariff War', 'Global'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-02',
+    title: 'Trump goes full gameshow host to push his tariff plan – and nobody’s a winner',
+    body: 'There were charts and scores, as if The Price Is Right had come to Washington. The big prize? A global trade war',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/02/donald-trump-builds-a-wall-made-of-tariffs-enclosing-the-whole-us',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'UK_Tariffs',
+    categories: ['Project 2025', 'Economy', 'Tariff War', 'Global'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-02',
+    title: 'Trump hits UK with 10% tariffs as he ignites global trade war',
+    body: 'Britain gets off comparatively lightly but US president’s action could still cost billions in lost growth',
+    links: [
+      {
+        href: 'https://www.theguardian.com/politics/2025/apr/02/trump-hits-uk-with-10-tariffs-as-he-ignites-global-trade-war',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Economic_Scramble',
+    categories: ['Project 2025', 'Economy', 'Tariff War'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-02',
+    title: 'Trump’s wall of tariffs is likely to raise prices and cause chaos for business',
+    body: 'President promised liberation yet may have plunged the US into recession and the world into an economic scramble',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/02/donald-trump-builds-a-wall-made-of-tariffs-enclosing-the-whole-us?CMP=Share_iOSApp_Other',
+        linkText: 'The Guardian',
       },
     ],
   },
@@ -130,6 +243,70 @@ const entries = [
       },
     ],
   },
+
+  {
+    id: 'Turkish_Student',
+    categories: ['Immigration', 'Fascism', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-02',
+    title: 'Turkish student detained by ICE moved to Vermont before judge’s order',
+    body: 'Rumeysa Ozturk, 30, was taken by immigration officials as she walked along a street in the Boston suburb of Somerville on March 25.',
+    links: [
+      {
+        href: 'https://apnews.com/article/rumeysa-ozturk-deportation-tufts-massachusetts-student-1dd330bef8fb44b05f9818c0020728a0',
+        linkText: 'Associated Press',
+      },
+    ],
+    },
+
+  {
+    id: '40_People_Gangs',
+    categories: ['Immigration', 'Fascism', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-02',
+    title: 'More than 40 people arrested near Dripping Springs over alleged connection to Venezuelan gang',
+    body: 'The Trump administration designated Tren de Aragua as a foreign terrorist organization on Inauguration Day and deported hundreds of people believed to be involved in the gang in March.',
+    links: [
+      {
+        href: 'https://www.kut.org/crime-justice/2025-04-02/hays-county-texas-tren-de-aragua-gang-ice',
+        linkText: 'KUT News, Austin',
+      },
+    ],
+    },
+
+  {
+    id: 'ICE_Quotas',
+    categories: ['Immigration', 'Fascism', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-02',
+    title: 'ICE Is Using Pure Bullshit To Turn People Into Venezuelan Gang Members To Keep Hitting Its Daily Arrest Quota',
+    body: 'The Trump Administration is now just disappearing people for exercising their First Amendment rights.',
+    links: [
+      {
+        href: 'https://www.techdirt.com/2025/04/02/ice-is-using-pure-bullshit-to-turn-people-into-venezuelan-gang-members-to-keep-hitting-its-daily-arrest-quota/',
+        linkText: 'TechDirt',
+      },
+    ],
+    },
+
+    {
+      id: 'Tren_De_Aragua',
+      categories: ['Immigration', 'Fascism', 'Civil Liberties'],
+      color: 'red',
+      faicon: 'plane',
+      date: '2025-04-01',
+      title: 'Trump deported 238 Venezuelans to El Salvador. Dozens have active asylum cases',
+      body: 'The U.S. government has provided scant information about the deportees, beyond alleging that they are members of Tren de Aragua, a transnational criminal group from Venezuela that the Trump administration has designated a foreign terrorist organization.',
+      links: [
+        {
+          href: 'https://www.reuters.com/world/americas/trump-deported-238-venezuelans-el-salvador-dozens-have-active-asylum-cases-2025-04-01/',
+          linkText: 'Reuters',
+        },
+      ],
+      },
 
   {
     id: 'Wisconsin_Florida',
@@ -214,6 +391,23 @@ const entries = [
         href: 'https://idahocapitalsun.com/2025/04/01/idaho-legislature-passes-bill-blocking-unauthorized-immigrants-from-public-services/',
         linkText: 'Idaho Capital Sun',
       },
+    ],
+  },
+
+  {
+    id: 'Pardons_Corporation',
+    categories: ['Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-04-01',
+    title: 'Trump makes history by pardoning a corporation',
+    body: 'Trump issued full and unconditional pardons to four individuals and a related cryptocurrency exchange, BitMEX.',
+    links: [
+      {
+        href: 'https://thehill.com/opinion/criminal-justice/5224229-trump-makes-history-by-pardoning-a-corporation/',
+        linkText: 'The Hill',
+      },
+
     ],
   },
 
@@ -408,6 +602,22 @@ const entries = [
       },
     ],
   },
+
+  {
+    id: 'Tattoos_ElSalvador',
+    categories: ['Immigration', 'Fascism', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-31',
+    title: 'How the Trump administration is using tattoos to lock up immigrants in El Salvador',
+    body: 'Venezuelan men in streetwear with Michael Jordan and autism awareness tattoos could add up enough ‘points’ for their removal from the United States.',
+    links: [
+      {
+        href: 'https://www.independent.co.uk/news/world/americas/us-politics/trump-tattoos-migrants-el-salvador-b2724820.html',
+        linkText: 'The Independent',
+      },
+    ],
+    },
 
   {
     id: 'Alabama_Cant_Prosecute',
@@ -642,6 +852,22 @@ const entries = [
   },
 
   {
+    id: 'Detention_Alley',
+    categories: ['Immigration', 'Fascism', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-29',
+    title: '‘Detention Alley’: inside the Ice centres in the US south where foreign students and undocumented migrants languish',
+    body: 'Foreign nationals caught up in Trump’s immigration dragnet are transported sometimes thousands of miles away to an isolated network of lockups and courts.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/mar/29/ice-detention-centers-immigration-asylum',
+        linkText: 'The Guardian',
+      },
+    ],
+    },
+
+  {
     id: 'Italy_Tariffs_Reasoned',
     categories: ['Economy', 'Project 2025', 'Global', 'WW3', 'Tariff War'],
     color: 'red',
@@ -704,6 +930,22 @@ const entries = [
       },
     ],
   },
+
+  {
+    id: 'SCOTUS_Alien_Enemies',
+    categories: ['Immigration', 'Fascism', 'Civil Liberties', 'Courts'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-03-28',
+    title: 'Trumps calls on Supreme Court to let him deport Venezuelans under Alien Enemies Act',
+    body: 'Administration wants court to resume summary removals after deporting dozens of immigrants to El Salvador prison.',
+    links: [
+      {
+        href: 'https://www.independent.co.uk/news/world/americas/us-politics/trump-deportation-ice-venezuela-supreme-court-b2723431.html',
+        linkText: 'The Independent',
+      },
+    ],
+    },
 
   {
     id: 'LGBTQ_Flag_Ban',
@@ -854,6 +1096,22 @@ const entries = [
       },
     ],
   },
+
+  {
+    id: 'Tattoos_Autism',
+    categories: ['Immigration', 'Fascism', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-27',
+    title: 'Man Detained By ICE for Autism Awareness Tattoo Still Sent to Prison After Officers Declared Him \'Clean\'',
+    body: 'The Venezuelan man\'s family only learned of his whereabout after CBS News published a list of inmates at El Salvador\'s Terrorism Confinement Center',
+    links: [
+      {
+        href: 'https://www.latintimes.com/man-detained-ice-autism-awareness-tattoo-still-sent-prison-after-officers-declared-him-clean-579373',
+        linkText: 'Los Angeles Times',
+      },
+    ],
+    },
 
   {
     id: 'Detained_HealthCare',
