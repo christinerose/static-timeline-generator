@@ -2156,7 +2156,7 @@ const entries = [
 
   {
     id: 'Police_Aid_DOGE',
-    categories: ['DOGE', 'Project 2025', 'ACAB'],
+    categories: ['DOGE', 'Project 2025'],
     color: 'red',
     faicon: 'fire',
     date: '2025-03-20',
