@@ -31,7 +31,118 @@ const entries = [
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
+  {
+    id: 'Test_Russia',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-04',
+    title: 'US ‘testing’ if Russia is serious about peace in Ukraine',
+    body: 'Secretary of State says Putin ‘will have to make a decision’ as US officials appear to be growing impatient.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/world/2025/apr/04/us-russia-peace-in-ukraine-marco-rubio-nato',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Doge_Mistakes',
+    categories: ['Project 2025', 'DOGE', 'Economy', 'Health'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-04-04',
+    title: 'RFK Jr says 20% of Doge’s health agency job cuts were mistakes',
+    body: 'Health secretary says roles will need to be reinstated amid Trump administration’s push to slash federal workforce.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/04/rfk-jr-doge-cuts',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Oil_Exempt',
+    categories: ['Fascism', 'Global', 'Tariff War', 'Economy'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-04',
+    title: '‘Oligarchy’: Trump exempts big oil donors from tariffs package',
+    body: 'Trump’s new 10% universal tariffs will not apply to many fossil fuel products in sign of his fealty.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/04/trump-exempts-big-oil-donors-from-tariffs',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Wont_Back_Down',
+    categories: ['Project 2025', 'Tariff War', 'Economy', 'Global'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-04',
+    title: 'Trump insists he won’t back down from global trade war as markets slump',
+    body: 'Donald Trump doubled down on his decision to launch a global trade war, declaring that he would “never” back off from sweeping tariffs on US trading partners.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/04/trump-tariffs-truth-social',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Higher_Inflation',
+    categories: ['Project 2025', 'Tariff War', 'Economy'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-04',
+    title: 'Trump’s tariffs will likely mean ‘higher inflation and slower growth’',
+    body: 'While the US economy remains robust, Jerome Powell cautions there is high uncertainty over its direction.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/04/trump-tariffs-higher-inflation-slower-growth-fed-chair',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Open_Negotiation',
+    categories: ['Project 2025', 'Global', 'Tariff War', 'Economy'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-03',
+    title: 'Trump open to tariff negotiations, contradicting White House aides',
+    body: 'Investors and global leaders have been trying to understand the purpose of sprawling new import duties.',
+    links: [
+      {
+        href: 'https://www.washingtonpost.com/business/2025/04/03/tariffs-trump-global-trade-talks/',
+        linkText: 'Washington Post',
+      },
+    ],
+  },
  
+  {
+    id: 'Elon_Leave',
+    categories: ['Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-04-03',
+    title: 'Trump says Musk will probably leave in ‘a few months’',
+    body: 'Musk has spearheaded the Department of Government Efficiency, which is playing a leading role in downsizing and overhauling the federal government. Trump said that work would continue within various agencies.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-musk-doge-tesla-government-cuts-c47211544c5382a6207779ee95c6060b',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
   {
     id: 'Tariffs_Calculated',
     categories: ['Project 2025', 'Global', 'Tariff War', 'Economy'],
@@ -109,6 +220,14 @@ const entries = [
         href: 'https://www.theguardian.com/us-news/live/2025/apr/03/donald-trump-tariffs-world-trade-republicans-join-democrats-block-canada-tariffs-us-politics-latest-news-updates',
         linkText: 'The Guardian',
       },
+      {
+        href: 'https://apnews.com/article/stocks-markets-rates-tariffs-52dbb020a4c41122e31669c2da236d67',
+        linkText: 'Associated Press',
+      },
+      {
+        href: 'https://abcnews.go.com/Politics/trust-president-trump-white-house-defending-tariffs-amid/story?id=120449641',
+        linkText: 'ABC',
+      },
     ],
   },
 
@@ -129,13 +248,37 @@ const entries = [
   },
 
   {
+    id: 'Amazon_TikTok',
+    categories: ['Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-02',
+    title: 'Amazon’s last-minute bid for TikTok comes as a US ban on the platform is set to take effect Saturday',
+    body: 'The existence of an Amazon bid surfaced as Trump was scheduled on Wednesday to meet with senior officials to discuss the coming deadline for a TikTok sale.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-tiktok-amazon-bytedance-china-us-ban-19f62e2dba637a0d1a0b41102a2f351f',
+        linkText: 'Associated Press',
+      },
+      {
+        href: 'https://www.nytimes.com/2025/04/02/business/media/amazon-tiktok-bid.html',
+        linkText: 'New York Times',
+      },
+      {
+        href: 'https://www.cnn.com/2025/04/02/politics/trump-to-weigh-options-for-potential-tiktok-deal/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
     id: 'Gameshow_Host',
     categories: ['Project 2025', 'Economy', 'Tariff War', 'Global'],
     color: 'red',
     faicon: 'coins',
     date: '2025-04-02',
     title: 'Trump goes full gameshow host to push his tariff plan – and nobody’s a winner',
-    body: 'There were charts and scores, as if The Price Is Right had come to Washington. The big prize? A global trade war',
+    body: 'There were charts and scores, as if The Price Is Right had come to Washington. The big prize? A global trade war.',
     links: [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/02/donald-trump-builds-a-wall-made-of-tariffs-enclosing-the-whole-us',
@@ -147,11 +290,27 @@ const entries = [
   {
     id: 'UK_Tariffs',
     categories: ['Project 2025', 'Economy', 'Tariff War', 'Global'],
+    color: 'green',
+    faicon: 'coins',
+    date: '2025-04-02',
+    title: 'Senate rebukes Trump’s tariffs as some Republicans vote to halt taxes on Canadian imports',
+    body: 'The Senate passed a resolution Wednesday night that would thwart President Donald Trump’s ability to impose tariffs on Canada, delivering a rare rebuke to the president just hours after he unveiled sweeping plans to clamp down on international trade.',
+    links: [
+      {
+        href: 'https://apnews.com/article/congress-tariffs-trump-republicans-a45b4d4da013e4ce1ce434b81337e3ec',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'UK_Tariffs',
+    categories: ['Project 2025', 'Economy', 'Tariff War', 'Global'],
     color: 'red',
     faicon: 'coins',
     date: '2025-04-02',
     title: 'Trump hits UK with 10% tariffs as he ignites global trade war',
-    body: 'Britain gets off comparatively lightly but US president’s action could still cost billions in lost growth',
+    body: 'Britain gets off comparatively lightly but US president’s action could still cost billions in lost growth.',
     links: [
       {
         href: 'https://www.theguardian.com/politics/2025/apr/02/trump-hits-uk-with-10-tariffs-as-he-ignites-global-trade-war',
