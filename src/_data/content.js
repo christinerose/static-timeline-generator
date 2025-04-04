@@ -3109,7 +3109,7 @@ const entries = [
     color: 'red',
     faicon: 'fire',
     date: '2025-03-15',
-    title: 'Trump invokes 18th century law to speed deportations, judge stalls it hours later',
+    title: 'Invocation of the Alien Enemies Act Regarding the Invasion of The United States',
     body: 'Civil liberties organizations have accused Trump of invoking the 1798 act unlawfully during peacetime to accelerate mass deportations and sidestep immigration law.',
     links: [
       {
