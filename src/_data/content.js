@@ -32,6 +32,22 @@ const entries = [
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
   {
+    id: 'CA_Tariff',
+    categories: ['Project 2025', 'Global', 'Resist', 'Tariff War', 'Economy'],
+    color: 'greed',
+    faicon: 'jedi',
+    date: '2025-04-04',
+    title: 'California to Negotiate Trade With Other Countries to Bypass Trump Tariffs',
+    body: 'California, the world\'s fifth-largest economy, plays a crucial role in driving U.S. economic growth. As the largest importer and second-largest exporter among U.S. states, with over $675 billion in two-way trade, it holds significant economic influence.',
+    links: [
+      {
+        href: 'https://www.newsweek.com/california-newsom-trade-trump-tariffs-2055414',
+        linkText: 'Newsweek',
+      },
+    ],
+  },
+
+  {
     id: 'Test_Russia',
     categories: ['Project 2025', 'Global', 'WW3'],
     color: 'red',
