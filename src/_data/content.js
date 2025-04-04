@@ -527,7 +527,7 @@ const entries = [
 
   {
     id: 'Trump_Threatens_Iran',
-    categories: ['WW3', 'Project 2023', 'Global'],
+    categories: ['WW3', 'Project 2025', 'Global'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-30',
@@ -548,7 +548,7 @@ const entries = [
 
   {
     id: 'Trump_Angry_Putin',
-    categories: ['WW3', 'Project 2023', 'Global'],
+    categories: ['WW3', 'Project 2025', 'Global'],
     color: 'red',
     faicon: 'globe',
     date: '2025-03-30',
