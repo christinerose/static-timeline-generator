@@ -112,6 +112,58 @@ const entries = [
   },
 
   {
+    id: 'Tariffs_ChatGPT',
+    categories: ['Project 2025', 'Global', 'Tariff War', 'Economy', 'Resist', 'FAFO'],
+    color: 'green',
+    faicon: 'poo',
+    date: '2025-04-03',
+    title: 'Critics suspect Trump’s weird tariff math came from chatbots',
+    body: 'Trump accused of consulting chatbots after critics mock tariffs on islands of penguins.',
+    links: [
+      {
+        href: 'https://arstechnica.com/tech-policy/2025/04/critics-suspect-trumps-weird-tariff-math-came-from-chatbots/',
+        linkText: 'Arts Technica',
+      },
+      {
+        href: 'https://www.theverge.com/news/642620/trump-tariffs-formula-ai-chatgpt-gemini-claude-grok',
+        linkText: 'The Verge',
+      },
+    ],
+  },
+
+  {
+    id: 'Exclude_Russia_Iran',
+    categories: ['Project 2025', 'Global', 'Tariff War', 'Economy'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-03',
+    title: 'Trump\'s targets for \'reciprocal\' tariffs include uninhabited islands but exclude Russia and Iran',
+    body: 'Trump\'s sweeping new set of tariffs impact friend and foe alike, but also on the list are uninhabited islands while some glaring omissions include Russia and Iran.',
+    links: [
+      {
+        href: 'https://abcnews.go.com/Politics/trumps-targets-reciprocal-tariffs-include-uninhabited-islands-exclude/story?id=120445283',
+        linkText: 'ABC',
+      },
+    ],
+  },
+
+  {
+    id: 'Unlikely_Targets',
+    categories: ['Project 2025', 'Global', 'Tariff War', 'Economy', 'Resist', 'FAFO'],
+    color: 'green',
+    faicon: 'poo',
+    date: '2025-04-03',
+    title: 'An uninhabited island, a military base and a ‘desolate’ former whaling station. Trump’s tariffs include unlikely targets',
+    body: 'The sweeping tariffs announced by US President Donald Trump on Wednesday target not only economic superpowers but also financial minnows. In fact, a White House list notes some territories with no economy, and no people, at all.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/04/03/business/trump-tariffs-uninhabited-islands-intl-hnk/',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
     id: 'Open_Negotiation',
     categories: ['Project 2025', 'Global', 'Tariff War', 'Economy'],
     color: 'red',
@@ -288,7 +340,7 @@ const entries = [
   },
 
   {
-    id: 'UK_Tariffs',
+    id: 'Sentae_Rebukes',
     categories: ['Project 2025', 'Economy', 'Tariff War', 'Global'],
     color: 'green',
     faicon: 'coins',
@@ -299,6 +351,14 @@ const entries = [
       {
         href: 'https://apnews.com/article/congress-tariffs-trump-republicans-a45b4d4da013e4ce1ce434b81337e3ec',
         linkText: 'Associated Press',
+      },
+      {
+        href: 'https://www.npr.org/2025/04/02/nx-s1-5347699/senate-trump-tariffs-canada',
+        linkText: 'NPR',
+      },
+      {
+        href: 'https://www.nytimes.com/2025/04/02/us/politics/senate-democrats-canada-tariffs-trump.html',
+        linkText: 'New York Times',
       },
     ],
   },
