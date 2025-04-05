@@ -57,22 +57,6 @@ const entries = [
   },
 
   {
-    id: 'UK_Shackled',
-    categories: ['Project 2025', 'Fascism', 'Global', 'Immigration'],
-    color: 'red',
-    faicon: 'fire',
-    date: '2025-04-05',
-    title: 'I was a British tourist trying to leave America. Then I was detained, shackled and sent to an immigration detention centre',
-    body: 'Graphic artist Rebecca Burke was on the trip of a lifetime. But as she tried to leave the US she was stopped, interrogated and branded an illegal alien by ICE.',
-    links: [
-      {
-        href: 'https://www.theguardian.com/us-news/2025/apr/05/i-was-a-british-tourist-trying-to-leave-america-then-i-was-detained-shackled-and-sent-to-an-immigration-detention-centre',
-        linkText: 'The Guardian',
-      },
-    ],
-  },
-
-  {
     id: 'Hands_Off_EU',
     categories: ['Project 2025', 'Resist', 'Fascism', 'Global'],
     color: 'green',
@@ -89,6 +73,54 @@ const entries = [
       {
         href: 'https://www.france24.com/en/europe/20250405-hundreds-gather-across-europe-protest-against-trump-musk-hands-off-democrats',
         linkText: 'France 24',
+      },
+    ],
+  },
+
+  {
+    id: 'UK_Shackled',
+    categories: ['Project 2025', 'Fascism', 'Global', 'Immigration'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-04-05',
+    title: 'I was a British tourist trying to leave America. Then I was detained, shackled and sent to an immigration detention centre',
+    body: 'Graphic artist Rebecca Burke was on the trip of a lifetime. But as she tried to leave the US she was stopped, interrogated and branded an illegal alien by ICE.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/05/i-was-a-british-tourist-trying-to-leave-america-then-i-was-detained-shackled-and-sent-to-an-immigration-detention-centre',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'The_Base',
+    categories: ['Global', 'Fascism', 'Global', 'Immigration'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-04-05',
+    title: 'US neo-Nazi group with Russia-based leader calls for targeted Ukraine attacks',
+    body: 'The Base, terrorist group founded in 2018, free to export violence abroad as Trump pulls FBI from pursuing far right.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/05/the-base-neo-nazi-russia-ukraine',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Barack_Defend',
+    categories: ['Project 2025', 'Fascism', 'Resist'],
+    color: 'green',
+    faicon: 'fire',
+    date: '2025-04-05',
+    title: 'Barack Obama calls on Americans to defend democratic values in face of Trump agenda',
+    body: 'The two-term former Democratic president painted a picture of the Trump White House looking to upend the international order created after the second world war.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/05/barack-obama-trump-agenda',
+        linkText: 'The Guardian',
       },
     ],
   },
