@@ -32,6 +32,68 @@ const entries = [
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
   {
+    id: 'Hands_Off',
+    categories: ['Project 2025', 'Resist', 'Fascism'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-04-05',
+    title: '‘Hands Off!’ protests against Trump and Musk are planned across the US',
+    body: 'Opponents of President Donald Trump and billionaire Elon Musk plan to rally across the U.S. on Saturday to protest the administration’s actions on government downsizing, the economy, human rights and other issues. More that 1200 scheduled in all 50 states.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-musk-doge-protests-hands-off-472c574303260cbac315367cc808960d',
+        linkText: 'Associated Press',
+      },
+
+      {
+        href: 'https://www.nytimes.com/2025/04/05/us/politics/trump-protests-hands-off-saturday.html',
+        linkText: 'New York Times',
+      },
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/05/anti-trump-protests-hands-off',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'UK_Shackled',
+    categories: ['Project 2025', 'Fascism', 'Global', 'Immigration'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-04-05',
+    title: 'I was a British tourist trying to leave America. Then I was detained, shackled and sent to an immigration detention centre',
+    body: 'Graphic artist Rebecca Burke was on the trip of a lifetime. But as she tried to leave the US she was stopped, interrogated and branded an illegal alien by ICE.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/05/i-was-a-british-tourist-trying-to-leave-america-then-i-was-detained-shackled-and-sent-to-an-immigration-detention-centre',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Hands_Off_EU',
+    categories: ['Project 2025', 'Resist', 'Fascism', 'Global'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-04-05',
+    title: 'Hundreds of protesters turn out in European cities against Trump',
+    body: 'Hundreds of people protested in European cities on Saturday against U.S. President Donald Trump and his adviser Elon Musk, following a bruising week for financial markets after Trump unveiled sweeping global tariffs.',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/europe/hundreds-protesters-turn-out-european-cities-against-trump-2025-04-05/',
+        linkText: 'Reuters',
+      },
+
+      {
+        href: 'https://www.france24.com/en/europe/20250405-hundreds-gather-across-europe-protest-against-trump-musk-hands-off-democrats',
+        linkText: 'France 24',
+      },
+    ],
+  },
+
+  {
     id: 'CA_Tariff',
     categories: ['Project 2025', 'Global', 'Resist', 'Tariff War', 'Economy'],
     color: 'green',
