@@ -32,6 +32,38 @@ const entries = [
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
   {
+    id: 'ICE_Check-Ins_Fear',
+    categories: ['Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-06',
+    title: 'As deportations ramp up, immigrants increasingly fear Ice check-ins: ‘All bets are off’',
+    body: 'Data suggests as many as 1,400 people were arrested during or right after Ice check-ins in first four weeks of Trump’s administration.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/06/deportations-immigrants-ice-trump',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Asylum_Seeker_Arrested',
+    categories: ['Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-04-06',
+    title: 'A Nicaraguan asylum seeker checked in with Ice every week. He was arrested anyway',
+    body: 'Alberto Lovo Rojas fled violence in his home country. Now, he fears Trump-backed deportation.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/06/trump-ice-deportation-nicaragua',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
     id: 'SSA_Death_Spiral',
     categories: ['Project 2025', 'DOGE', 'Economy'],
     color: 'red',
