@@ -32,6 +32,54 @@ const entries = [
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
   {
+    id: 'SSA_Death_Spiral',
+    categories: ['Project 2025', 'DOGE', 'Economy'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-04-06',
+    title: 'Doge’s attack on social security causing ‘complete, utter chaos’, staff says',
+    body: 'Understaffed agency sent into ‘death spiral’ as employees warn Musk-led cuts will lead to structural collapse.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/06/musk-doge-social-security',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Hands_Off_Pictures',
+    categories: ['Project 2025', 'Resist', 'Fascism'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-04-05',
+    title: 'Anti-Trump protests hit cities worldwide – in pictures',
+    body: 'Thousands of ‘Hands Off’ protesters – in the US and across major European cities – took to the streets Saturday in a show of defiance. ("Thousands" in an understatement. Hundreds of thousands took to the streets across the nation, if not into the millions.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/gallery/2025/apr/05/anti-trump-hands-off-worldwide-protests',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Hands_Off_TakeOff',
+    categories: ['Project 2025', 'Resist', 'Fascism'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-04-05',
+    title: '‘Hands Off’ protests take off across US and Europe to oppose Trump agenda',
+    body: 'Protesters gather at more than a thousand events across the US and in cities abroad, such as London, Berlin and Paris.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/world/live/2025/apr/05/hands-off-protests-trump-administration',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
     id: 'Hands_Off',
     categories: ['Project 2025', 'Resist', 'Fascism'],
     color: 'green',
@@ -73,6 +121,22 @@ const entries = [
       {
         href: 'https://www.france24.com/en/europe/20250405-hundreds-gather-across-europe-protest-against-trump-musk-hands-off-democrats',
         linkText: 'France 24',
+      },
+    ],
+  },
+
+  {
+    id: 'Cruz_Bloodbath',
+    categories: ['Project 2025', 'FAFO'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-04-05',
+    title: 'Ted Cruz warns of midterm ‘bloodbath’ if Trump tariffs cause a recession',
+    body: 'Texas senator’s comments another sign of Republican unease over ‘reciprocal tariffs’ and stock market plunge.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/05/ted-cruz-midterm-trump-tariffs-recession',
+        linkText: 'The Guardian',
       },
     ],
   },
@@ -216,6 +280,22 @@ const entries = [
     links: [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/04/trump-tariffs-higher-inflation-slower-growth-fed-chair',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Charges_Dropped',
+    categories: ['Project 2025', 'Women','Courts', 'Resist'],
+    color: 'green',
+    faicon: 'venus',
+    date: '2025-04-04',
+    title: 'Charges dropped against US woman found unconscious after miscarriage',
+    body: 'Selena Maria Chandler-Scott was arrested in Georgia after emergency responders were called in to treat her.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/04/georgia-miscarriage-charges-dropped',
         linkText: 'The Guardian',
       },
     ],
@@ -405,6 +485,22 @@ const entries = [
       {
         href: 'https://thehill.com/policy/energy-environment/5230504-staff-working-on-childhood-lead-exposure-and-cancer-clusters-fired-from-cdc/',
         linkText: 'The Hill',
+      },
+    ],
+  },
+
+  {
+    id: 'Miscarriage_Prosecuted',
+    categories: ['Project 2025', 'Women','Fascism'],
+    color: 'red',
+    faicon: 'venus',
+    date: '2025-04-02',
+    title: 'These States Have Investigated Miscarriages and Stillbirths as Crimes',
+    body: 'A recent arrest in Georgia highlights the criminal suspicion that surrounds pregnancy loss in several states.',
+    links: [
+      {
+        href: 'https://www.themarshallproject.org/2025/04/02/law-pregnancy-california-ohio-georgia-alabama',
+        linkText: 'The Marshall Project',
       },
     ],
   },
@@ -1207,6 +1303,22 @@ const entries = [
     links: [
       {
         href: 'https://www.theguardian.com/us-news/2025/mar/29/italian-pm-calls-for-reasoned-approach-to-escalating-tariff-war-between-eu-and-us',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Anti-Global_Musk_Day',
+    categories: ['Resist', 'Project 2025', 'FAFO'],
+    color: 'green',
+    faicon: 'poo',
+    date: '2025-03-29',
+    title: 'Protesters picket London Tesla showroom on global anti-Musk day',
+    body: 'Alarmed by the havoc the Tesla CEO has wreaked in the US, Britons and Americans show their displeasure',
+    links: [
+      {
+        href: 'https://www.theguardian.com/technology/2025/mar/29/protesters-picket-london-tesla-showroom-anti-musk-demonstrations',
         linkText: 'The Guardian',
       },
     ],
@@ -4997,6 +5109,22 @@ const entries = [
       {
         href: 'https://www.independent.co.uk/news/world/europe/ukraine-russia-war-trump-putin-zelensky-latest-updates-news-today-b2711396.html',
         linkText: 'The Independent',
+      },
+    ],
+  },
+
+  {
+    id: 'Student_Loan_Nope',
+    categories: ['Project 2025', 'Education'],
+    color: 'red',
+    faicon: 'scroll',
+    date: '2025-03-07',
+    title: 'Trump to sign order barring student loan forgiveness for public servants engaged in ‘improper activities’',
+    body: 'Order would affect Public Service Loan Forgiveness program, while Musk reportedly squabbled with Trump cabinet secretaries over firings.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/live/2025/mar/07/donald-trump-tariffs-china-canada-mexico-us-politics-live-news',
+        linkText: 'The Guardian ',
       },
     ],
   },
