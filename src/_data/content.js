@@ -48,6 +48,30 @@ const entries = [
   },
 
   {
+    id: 'Hands_Off_PDX',
+    categories: ['Project 2025', 'Resist', 'Fascism'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-04-05',
+    title: 'Thousands gather at Portland waterfront as part of \'Hands Off\' protests against Trump administration',
+    body: 'Thousands of people gathered at Tom McCall Waterfront Park in Portland on Saturday to protest the Trump administration in tandem with similar "Hands Off!" demonstrations throughout the country. ("Thousands" in an understatement. It was at least 10k.)',
+    links: [
+      {
+        href: 'https://www.kgw.com/article/news/local/protests/hands-off-trump-musk-protest-portland-waterfront/283-74f242cc-242f-40f8-b5e1-3a1ad0ebf415',
+        linkText: 'KGW',
+      },
+      {
+        href: 'https://www.instagram.com/p/DIFPJolB_KH/?img_index=1',
+        linkText: 'Images on Insta (datguy_eddy)',
+      },
+      {
+        href: 'https://www.instagram.com/stories/highlights/18302935441210301/',
+        linkText: 'Drone Videos on Insta (datguy_eddy)',
+      },
+    ],
+  },
+
+  {
     id: 'Hands_Off_Pictures',
     categories: ['Project 2025', 'Resist', 'Fascism'],
     color: 'green',
@@ -64,6 +88,22 @@ const entries = [
   },
 
   {
+    id: 'Hands_Off_DC',
+    categories: ['Project 2025', 'Resist', 'Fascism'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-04-05',
+    title: 'Tens of thousands rally against Trump at DC ‘Hands Off’ protest',
+    body: 'Congress members Jamie Raskin, Eric Swalwell and Ilhan Omar among speakers as demonstrators denounce ‘fascism’.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/05/trump-hands-off-protest',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
     id: 'Hands_Off_TakeOff',
     categories: ['Project 2025', 'Resist', 'Fascism'],
     color: 'green',
@@ -74,7 +114,31 @@ const entries = [
     links: [
       {
         href: 'https://www.theguardian.com/world/live/2025/apr/05/hands-off-protests-trump-administration',
+        linkText: 'The Guardian, Live',
+      },
+      {
+        href: 'https://www.npr.org/2025/04/05/nx-s1-5353388/hands-off-protests-washington-dc',
+        linkText: 'NPR',
+      },
+      {
+        href: 'https://apnews.com/article/trump-musk-doge-protests-hands-off-472c574303260cbac315367cc808960d',
+        linkText: 'Associated Press',
+      },
+      {
+        href: 'https://www.nytimes.com/2025/04/05/us/politics/trump-protests-hands-off-saturday.html',
+        linkText: 'New York Times',
+      },
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/05/anti-trump-protests-hands-off',
         linkText: 'The Guardian',
+      },
+      {
+        href: 'https://www.bbc.com/news/articles/cz79ewg193ro',
+        linkText: 'BBC',
+      },
+      {
+        href: 'https://www.theatlantic.com/politics/archive/2025/04/protest-washington-hands-off/682317/',
+        linkText: 'The Atlantic',
       },
     ],
   },
@@ -91,15 +155,6 @@ const entries = [
       {
         href: 'https://apnews.com/article/trump-musk-doge-protests-hands-off-472c574303260cbac315367cc808960d',
         linkText: 'Associated Press',
-      },
-
-      {
-        href: 'https://www.nytimes.com/2025/04/05/us/politics/trump-protests-hands-off-saturday.html',
-        linkText: 'New York Times',
-      },
-      {
-        href: 'https://www.theguardian.com/us-news/2025/apr/05/anti-trump-protests-hands-off',
-        linkText: 'The Guardian',
       },
     ],
   },
@@ -490,6 +545,22 @@ const entries = [
   },
 
   {
+    id: 'GA_Lawmaker_Speaks',
+    categories: ['Project 2025', 'Women','Fascism', 'Resist'],
+    color: 'green',
+    faicon: 'venus',
+    date: '2025-04-03',
+    title: 'Lawmaker Issues Warning Over Georgia Woman Arrested After Miscarriage',
+    body: 'Georgia state senator Sally Harrell gave an impassioned speech on the floor of the state legislature on Wednesday in which she slammed "the idiocy of fetal personhood" and warned that "every woman of reproductive age in Georgia who miscarries beyond the six-week marker of Georgia\'s law can now be criminalized for a miscarriage."',
+    links: [
+      {
+        href: 'https://www.newsweek.com/georgia-lawmaker-warning-woman-miscarriage-arrest-2055008',
+        linkText: 'Newsweek',
+      },
+    ],
+  },
+
+  {
     id: 'Miscarriage_Prosecuted',
     categories: ['Project 2025', 'Women','Fascism'],
     color: 'red',
@@ -612,6 +683,22 @@ const entries = [
     links: [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/02/trans-soldiers-veterans-healthcare',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'SCOTUS_Medicaid',
+    categories: ['Project 2025', 'Health'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-04-02',
+    title: 'Justices divided over Medicaid \'right\' to choose Planned Parenthood clinics',
+    body: 'The Supreme Court on Wednesday appeared sharply divided over whether individual Medicaid beneficiaries have a right to sue a state over access to Planned Parenthood after the clinics were excluded from coverage under the government\'s healthcare program.',
+    links: [
+      {
+        href: 'https://abcnews.go.com/Politics/supreme-court-takes-bid-defund-planned-parenthood/story?id=120381909',
         linkText: 'The Guardian',
       },
     ],
