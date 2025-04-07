@@ -32,6 +32,165 @@ const entries = [
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
   {
+    id: 'Cut_Violence_Study',
+    categories: ['Project 2025', 'Gun Violence', 'Economy', 'DOGE'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-07',
+    title: 'Trump gutted key research programs studying violence. Experts say it will come at a heavy cost',
+    body: 'Advocates say cuts to federal programs will ultimately lead to an increase in gun violence and domestic attacks.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/07/trump-gun-violence-federal-programs',
+        linkText: 'The Guardian ',
+      },
+    ],
+  },
+
+  {
+    id: 'Deported_Speeding',
+    categories: ['Project 2025', 'Immigration', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-07',
+    title: 'Deported over a speeding ticket? Dozens of US students’ visas abruptly revoked',
+    body: 'Nearly 40 students report canceled visas over minor infractions as Trump intensifies crackdown on universities.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/07/trump-student-visas-deportation',
+        linkText: 'The Guardian ',
+      },
+    ],
+  },
+
+  {
+    id: 'GOP_Back_Attacks',
+    categories: ['Project 2025', 'Orwell', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-04-07',
+    title: 'US student journalists go dark fearing Trump crusade against pro-Palestinian speech',
+    body: 'Newsrooms forced to adapt as writers resign and request takedown of stories to avoid potential repercussions.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/07/student-journalists-remove-stories-trump',
+        linkText: 'The Guardian ',
+      },
+    ],
+  },
+
+  {
+    id: 'VA_Elections',
+    categories: ['Project 2025', 'FAFO', 'Resist', 'Tiddlywinks'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-04-07',
+    title: 'Virginia elections will test the backlash against Musk – and Democrats are ready with a plan',
+    body: 'Democrats in the state view themselves as on the frontlines responding to Donald Trump’s harmful policies.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/07/virginia-elections-backlash-elon-musk-trump-democrats',
+        linkText: 'The Guardian ',
+      },
+    ],
+  },
+
+  {
+    id: 'GOP_Back_Attacks',
+    categories: ['Project 2025', 'Courts'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-04-07',
+    title: 'Alarm as Republicans in Congress back Trump and Musk’s attacks on US judges',
+    body: 'Mike Johnson and Jim Jordan echo president and key ally as experts express fears for ‘bedrock constitutional principles’.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/07/republicans-trump-musk-attacks-us-judges',
+        linkText: 'The Guardian ',
+      },
+    ],
+  },
+
+  {
+    id: 'Economic_War',
+    categories: ['Project 2025', 'Tariff War', 'Economy', 'Global', 'FAFO', 'Resist'],
+    color: 'green',
+    faicon: 'poo',
+    date: '2025-04-07',
+    title: 'Bill Ackman urges Trump to pause ‘economic nuclear war on every country’',
+    body: 'Billionaire fund manager tries to persuade US president over tariffs, which have wiped $6tn off US stocks.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/07/bill-ackman-trump-tariffs',
+        linkText: 'The Guardian ',
+      },
+    ],
+  },
+
+  {
+    id: 'Recession_Likely',
+    categories: ['Project 2025', 'Tariff War', 'Economy', 'Global'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-07',
+    title: 'Trump tariffs risk higher prices and make US recession more likely',
+    body: 'The JP Morgan chief executive, Jamie Dimon, has warned that it may be “hard to reverse” the effect of Donald Trump’s tariffs, which he said would drive prices higher and make a US recession more likely.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/07/trump-tariffs-higher-prices-us-recession-jp-morgan-jamie-dimon',
+        linkText: 'The Guardian ',
+      },
+    ],
+  },
+
+  {
+    id: 'Global_Volotility',
+    categories: ['Project 2025', 'Tariff War', 'Economy', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-07',
+    title: 'Volatility grips global stock markets as Trump insists on tariff ‘medicine’',
+    body: 'Wall Street swings in and out of red as turmoil from US president’s assault on world trade enters second week.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/business/2025/apr/07/stock-market-dow-jones-sp-ftse-trump-tariffs',
+        linkText: 'The Guardian ',
+      },
+    ],
+  },
+  {
+    id: 'China_50_More',
+    categories: ['Project 2025', 'Tariff War', 'Economy', 'Global'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-07',
+    title: 'Trump threatens China with extra 50% tariffs if country fails to withdraw 34% retaliatory levies',
+    body: 'US president escalates trade war with China, saying all negotiations will be terminated and additional levies will take effect on Wednesday.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/live/2025/apr/07/donald-trump-tariffs-foreign-governments-markets-fall-netanyahu-white-house-us-politics-latest-updates-news',
+        linkText: 'The Guardian ',
+      },
+    ],
+  },
+
+  {
+    id: 'Billionaires_Lose',
+    categories: ['Project 2025', 'Tariff War', 'Economy', 'FAFO'],
+    color: 'green',
+    faicon: 'poo',
+    date: '2025-04-07',
+    title: 'Which Trump-supporting billionaires have lost the most in tariff markets turmoil?',
+    body: 'Wealth of world’s richest tycoons shrinks as US president’s trade war spooks investors',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/07/stock-market-loss-elon-musk-mark-zuckerberg-jeff-bezos',
+        linkText: 'The Guardian ',
+      },
+    ],
+  },
+
+  {
     id: 'Green_Impeach',
     categories: ['Project 2025', 'Resist', 'Fascism', 'FAFO'],
     color: 'green',
@@ -98,6 +257,23 @@ const entries = [
       },
     ],
   },
+
+  {
+    id: 'ICE_Check-Ins_Fear',
+    categories: ['Project 2025', 'Economy', 'Trade War', 'Global'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-06',
+    title: 'Americans braced for era of uncertainty as Trump doubles down on tariffs',
+    body: 'Recession fears are mounting, and anxiety is high – but the president remains unmoved by criticism of his trade plans.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/06/trump-tariffs-american-era-uncertainty',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
 
   {
     id: 'SSA_Death_Spiral',
@@ -324,6 +500,22 @@ const entries = [
       {
         href: 'https://www.newsweek.com/california-newsom-trade-trump-tariffs-2055414',
         linkText: 'Newsweek',
+      },
+    ],
+  },
+
+  {
+    id: 'America_Brexit',
+    categories: ['Project 2025', 'Global', 'Trade War', 'Economy'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-04',
+    title: 'America’s Brexit? Trump’s historic gamble on tariffs has been decades in the making',
+    body: 'Trump’s economic assault on the world stunned economists and sent stock markets into a spiral. Who will pay the price?',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/04/trump-tariffs-economy',
+        linkText: 'The Guardian',
       },
     ],
   },
@@ -9121,6 +9313,23 @@ const entries = [
   },
 
   {
+    id: 'Tariff_to_War',
+    categories: ['Project 2025', 'Tariff War', 'WW3'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-04',
+    title: 'History shows how a trade war can become a violent conflict',
+    body: 'The First Opium War, fought between China and the British Empire from 1839-1842, began as a trade imbalance.',
+    links: [
+      {
+        href: 'https://brocku.ca/brock-news/2025/02/history-shows-how-a-trade-war-can-become-a-violent-conflict-brock-expert/',
+        linkText: 'Brock University News',
+      },
+    ],
+  },
+
+
+  {
     id: 'Flight_Lands-Guantanamo',
     categories: ['Immigration', 'Fascism'],
     color: 'red',
@@ -9133,10 +9342,7 @@ const entries = [
         href: 'https://edition.cnn.com/2025/02/04/politics/guantanamo-migrant-flight/index.html',
         linkText: 'CNN',
       },
-      {
-        href: 'https://abcnews.go.com/Politics/1st-migrant-flight-heads-guantanamo-bay-carrying-worst/story?id=118456073',
-        linkText: 'ABC',
-      },
+
     ],
   },
 
@@ -9150,7 +9356,7 @@ const entries = [
     body: 'The Trump administration is preparing a remarkable power grab over the federal law enforcement agency.',
     links: [
       {
-        href: 'https://www.vox.com/politics/398025/the-logoff-donald-trumps-fbi-purge-law-doj?ueid=ffb28db06ced21f14e4653d5131fad10&utm_source=Sailthru&utm_medium=email&utm_campaign=Logoff%202/20/25&utm_term=The%20Logoff',
+        href: 'https://www.vox.com/politics/398025/the-logoff-donald-trumps-fbi-purge-law-doj',
         linkText: 'Vox',
       },
     ],
