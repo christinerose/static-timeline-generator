@@ -29,9 +29,95 @@ const entries = [
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
+
+  {
+    id: 'Trump_Talk_Iran',
+    categories: ['Project 2025', 'Global', 'WW3'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-07',
+    title: 'Trump says US engaged in \'direct talks\' with Iran over nuclear weapons ',
+    body: '"If the talks aren\'t successful with Iran, I think Iran is going to be in great danger," Trump said.',
+    links: [
+      {
+        href: 'https://abcnews.go.com/Politics/trump-us-engage-direct-talks-iran/story?id=120571653',
+        linkText: 'ABC',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Veto_Tariff_Bill',
+    categories: ['Project 2025', 'Economy', 'Tariff War'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-07',
+    title: 'Trump threatens veto of bill to curb tariff power',
+    body: 'The White House argued that the bill would “severely constrain” Trump’s tariff powers and “eliminates” Trump’s ability to have leverage over foreign countries.',
+    links: [
+      {
+        href: 'https://www.politico.com/live-updates/2025/04/07/congress/whs-veto-threat-00276349',
+        linkText: 'Politico',
+      },
+    ],
+  },
+
+  {
+    id: 'Tariff_Bipartisan',
+    categories: ['Project 2025', 'Economy', 'Resist', 'Tariff War'],
+    color: 'green',
+    faicon: 'coins',
+    date: '2025-04-07',
+    title: '7 GOP senators sign on to bill to check Trump’s trade authority',
+    body: 'The legislation would limit Trump’s ability to impose unilateral tariffs without the approval of Congress.',
+    links: [
+      {
+        href: 'https://thehill.com/homenews/senate/5236142-congress-tariff-bill-trump/',
+        linkText: 'The Hill',
+      },
+
+      {
+        href: 'https://www.politico.com/live-updates/2025/04/04/congress/don-bacon-tariff-powers-bill-00273307',
+        linkText: 'Politico',
+      },
+    ],
+  },
+
+  {
+    id: 'Volatile_Stocks',
+    categories: ['Project 2025', 'Economy', 'Tariff War'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-07',
+    title: 'U.S. stocks are volatile as selloffs sweep through global markets',
+    body: 'Trading was very volatile with indexes swinging between deep losses and gains throughout the day.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/04/06/nx-s1-5354258/global-markets-wall-street-trump-tariffs',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Plows',
+    categories: ['Project 2025', 'Economy', 'Tariff War'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-07',
+    title: 'Trump plows ahead as markets plunge',
+    body: 'Trump launched a thinly veiled attack against Republicans who were worried about his sweeping retaliatory tariffs, urging on social media for people not to be “panicans” (A new party based on weak and stupid people, according to Trump).',
+    links: [
+      {
+        href: 'https://www.politico.com/news/2025/04/07/trump-tariffs-push-back-031526',
+        linkText: 'Politico',
+      },
+    ],
+  },
+  
   {
     id: 'Orange_Monday_Bloodbath',
-    categories: ['Project 2025', 'Economy', 'FAFO'],
+    categories: ['Project 2025', 'Economy', 'FAFO', 'Tariff War'],
     color: 'red',
     faicon: 'poo',
     date: '2025-04-07',
@@ -47,7 +133,7 @@ const entries = [
 
   {
     id: 'Orange_Monday',
-    categories: ['Project 2025', 'Economy', 'FAFO'],
+    categories: ['Project 2025', 'Economy', 'FAFO', 'Tariff War'],
     color: 'red',
     faicon: 'poo',
     date: '2025-04-07',
@@ -63,7 +149,7 @@ const entries = [
 
   {
     id: 'Wall_Street_Speaks',
-    categories: ['Project 2025', 'Resist', 'Economy', 'FAFO'],
+    categories: ['Project 2025', 'Resist', 'Economy', 'FAFO', 'Tariff War'],
     color: 'green',
     faicon: 'coins',
     date: '2025-04-07',
@@ -126,7 +212,7 @@ const entries = [
   },
 
   {
-    id: 'GOP_Back_Attacks',
+    id: 'Students_Silenced',
     categories: ['Project 2025', 'Orwell', 'Civil Liberties'],
     color: 'red',
     faicon: 'hammer',
@@ -217,6 +303,10 @@ const entries = [
       {
         href: 'https://www.theguardian.com/business/2025/apr/07/stock-market-dow-jones-sp-ftse-trump-tariffs',
         linkText: 'The Guardian ',
+      },
+      {
+        href: 'https://www.cnbc.com/2025/04/06/trump-says-he-doesnt-want-stocks-to-go-down-but-sometimes-you-have-to-take-medicine.html',
+        linkText: 'CNBC ',
       },
     ],
   },
@@ -583,6 +673,22 @@ const entries = [
   },
 
   {
+    id: 'Tariff_Inflation_Slow_Growth',
+    categories: ['Project 2025', 'Global', 'Tariff War', 'Economy'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-04',
+    title: 'Federal Reserve chief says Trump tariffs likely to raise inflation and slow US economic growth',
+    body: 'Powell said that the tariffs, and their likely impacts on the economy and inflation, are “significantly larger than expected.”',
+    links: [
+      {
+        href: 'https://apnews.com/article/tariffs-inflation-economy-trump-powell-490417656971634592bbeb3b2ade3593',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
     id: 'CA_Bans_ICE_Schools',
     categories: ['Project 2025', 'Immigration', 'Resist'],
     color: 'green',
@@ -610,6 +716,39 @@ const entries = [
       {
         href: 'https://www.newsweek.com/california-newsom-trade-trump-tariffs-2055414',
         linkText: 'Newsweek',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Video_Markts',
+    categories: ['Project 2025', 'Tariff War', 'Economy'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-04',
+    title: 'Trump Shares Video About How He Is ‘Purposely Crashing the Stock Market’',
+    body: 'Several close allies of the president and ex-officials told Rolling Stone they were “at a loss for words” when asked about the video.',
+    links: [
+      {
+        href: 'https://www.rollingstone.com/politics/politics-news/trump-shares-post-purposely-crashing-stock-market-1235310745/',
+        linkText: 'Rolling Stone',
+      },
+    ],
+  },
+
+
+  {
+    id: 'Six_Trillion',
+    categories: ['Project 2025', 'Tariff War', 'Economy', 'FAFO'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-04',
+    title: '‘Only the weak will fail’: Trump tees off as $6 trillion vanishes in Market meltdown triggered by ‘Liberation Day’ tariffs',
+    body: 'The 78-year-old former President appeared unfazed by the economic turmoil triggered by his sweeping new tariffs, part of a campaign he has branded “Liberation Day.”',
+    links: [
+      {
+        href: 'https://economictimes.indiatimes.com/news/international/global-trends/only-the-weak-will-fail-trump-tees-off-as-6-trillion-vanishes-in-market-meltdown-triggered-by-liberation-day-tariffs/articleshow/119997540.cms',
+        linkText: 'Economic Times',
       },
     ],
   },
@@ -6803,6 +6942,22 @@ const entries = [
       {
         href: 'https://www.oregonlive.com/politics/2025/03/elvira-portlands-mistress-of-the-dark-sends-tesla-down-the-highway-to-hell-in-viral-video.html',
         linkText: 'Oregon Live',
+      },
+    ],
+  },
+
+  {
+    id: 'Buffett_Act_War',
+    categories: ['Project 2025', 'Global', 'WW3', 'Tariff War'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-03-03',
+    title: 'Warren Buffett: Tariffs are ‘an act of war’',
+    body: 'Tariffs disrupt trade between countries by raising taxes on imported goods, and those new costs are often passed on to consumers through higher prices. ',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/03/03/business/warren-buffett-tariffs-trump/index.html',
+        linkText: 'CNN',
       },
     ],
   },
