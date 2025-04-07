@@ -25,11 +25,27 @@ const entries = [
   //Civil Liberties = flag
   //Orwell = 
 
-  //Start with "Fork in the Road" 29 Jan WTF Happened to catch up
+  //Start with "Sheer Chaos" 6 Feb WTF Happened to catch up
 
   //Layoffs, DOGE work, restructuring, etc. = Project 2025
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
+
+  {
+    id: 'Wall_Street_Speaks',
+    categories: ['Project 2025', 'Resist', 'Economy', 'FAFO'],
+    color: 'green',
+    faicon: 'coins',
+    date: '2025-04-07',
+    title: 'Wall Street Starts to Speak Out Against Trump’s Tariffs',
+    body: 'In public and private, the big names of high finance are trying to get a message across to President Trump: stop the madness.',
+    links: [
+      {
+        href: 'https://www.wsj.com/politics/policy/wall-street-starts-to-speak-out-against-trumps-tariffs-c747f806',
+        linkText: 'Wall Street Journal ',
+      },
+    ],
+  },
 
   {
     id: 'Cut_Violence_Study',
@@ -960,6 +976,22 @@ const entries = [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/02/trans-soldiers-veterans-healthcare',
         linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Dual_State',
+    categories: ['Fascism', 'Civil Liberties', 'Orwell'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-04-02',
+    title: 'Justices divided over Medicaid \'right\' to choose Planned Parenthood clinics',
+    body: '"Today, we are witnessing the birth of a new dual state...The list of measures purpose-built to cleave off a domain in which the law does not apply grows by the day[, like] the pardons that bless and invite insurrectionary violence."',
+    links: [
+      {
+        href: 'https://www.theatlantic.com/magazine/archive/2025/05/trump-executive-order-lawlessness-constitutional-crisis/682112/?gift=wjCV2_sAFW5eOwrQkJrgjrsc1twd5XtKIO4TA7dHtyw',
+        linkText: 'The Atlantic',
       },
     ],
   },
@@ -3276,6 +3308,22 @@ const entries = [
       {
         href: 'https://www.npr.org/sections/shots-health-news/2025/03/18/nx-s1-5326118/segregation-federal-contracts-far-regulation-trump',
         linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'EPA_Fired',
+    categories: ['Project 2025', 'Climate', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-19',
+    title: 'Trump administration may fire more than 1,000 EPA scientists and scrap research office',
+    body: 'The potential layoffs listed in documents reviewed by Democrats are part of the White House’s broader push to shrink the federal government.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/environment/2025/mar/19/epa-fire-scientists-staff-environmental-protection-agency-remove-research-office',
+        linkText: 'The Guardian',
       },
     ],
   },
@@ -9213,6 +9261,74 @@ const entries = [
   },
 
   {
+    id: 'Judge_Injunction_Birthright',
+    categories: ['Project 2025', 'Immigration', 'Resist', 'Courts'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-02-05',
+    title: 'Judge issues nationwide injunction blocking Trump\'s bid to end birthright citizenship',
+    body: 'The judge heard arguments from lawyers for five pregnant undocumented women.',
+    links: [
+      {
+        href: 'https://abcnews.go.com/US/judge-future-trumps-order-blocking-birthright-citizenship/story?id=118460936',
+        linkText: 'ABC',
+      },
+    ],
+  },
+
+  {
+    id: 'CIA_Buyouts',
+    categories: ['Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-05',
+    title: 'CIA offers buyouts to staffers as new director looks to stamp Trump’s imprint on the agency',
+    body: 'A CIA spokesperson declined to say how many people received offers or whether they face any deadline to decide.',
+    links: [
+      {
+        href: 'https://apnews.com/article/cia-trump-buyouts-ratcliffe-musk-intelligence-agencies-514aaa655c9058bb2ddc171c144698a2',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'FBI_Insubordination',
+    categories: ['Project 2025', 'J6', 'Courts', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-02-05',
+    title: 'Justice Dept. official accuses FBI chief of ‘insubordination,’ tamps down talk of revenge on agents',
+    body: 'The scrutiny of career FBI agents being undertaken by the department is highly unusual given that rank-and-file agents do not select the cases they are assigned to work on and are not generally disciplined because of their participation in matters seen as politically sensitive.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-fbi-justice-department-jan-6-ff003e46ea48c4e8be710d1ba2eb2d02',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Invade_Gaza',
+    categories: ['Global', 'WW3', 'Fascism'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-02-05',
+    title: 'Trump won’t rule out deploying US troops to support rebuilding Gaza, sees ‘long-term’ US ownership',
+    body: 'Trump’s brazen proposal Tuesday appears certain to roil the next stage of talks meant to extend the tenuous ceasefire between Israel and Hamas and secure the release of the remaining hostages held in Gaza.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-netanyahu-washington-ceasefire-1c8deec4dd46177e08e07d669d595ed3',
+        linkText: 'Associated Press',
+      },
+      {
+        href: 'https://www.theguardian.com/world/2025/feb/05/donald-trump-plan-to-take-over-gaza-strip-netanyahu-visit',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
     id: 'America-Mexicana',
     categories: ['Global', 'Resist'],
     color: 'green',
@@ -9313,6 +9429,90 @@ const entries = [
   },
 
   {
+    id: 'NOAA_HQ',
+    categories: ['Project 2025',  'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-04',
+    title: 'Doge staffers enter Noaa headquarters and incite reports of cuts and threats',
+    body: 'Members reportedly sought access to IT systems at agency that Project 2025 has called ‘harmful to US prosperity’.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/feb/04/doge-noaa-headquarters',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: '20k_Take_Boyout',
+    categories: ['Project 2025',  'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-04',
+    title: '20,000 federal workers take "buyout" so far',
+    body: 'It\'s a significant number of people — about 1% of the federal workforce — but still substantially less than the White House\'s target of 5% to 10%.',
+    links: [
+      {
+        href: 'https://www.axios.com/2025/02/04/trump-buyout-federal-workers-20000',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'FBI_Turn_J6',
+    categories: ['Fascism', 'J6'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-04',
+    title: 'FBI turns over details of 5,000 employees who worked on January 6 cases to Trump Justice Department, as agents sue',
+    body: 'FBI agents who participated in investigations related to President Donald Trump have sued over Justice Department efforts to develop a list of employees involved in those inquiries that they fear could be a precursor to mass firings.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/02/04/politics/fbi-employees-tuesday',
+        linkText: 'NPR',
+      },
+      {
+        href: 'https://apnews.com/article/donald-trump-fbi-justice-department-8460829a0874f91a95bc4a9d22e36fce',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Big_Cuts_Education',
+    categories: ['Project 2025', 'Education', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-04',
+    title: 'Trump is weighing big cuts to the U.S. Education Department',
+    body: 'This looming executive action comes after the Trump administration, in recent days, placed dozens of Education Department staff members on paid administrative leave with little explanation.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/02/03/nx-s1-5282233/trump-to-make-big-cuts-to-education-department',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Musk_Not_In_Charge',
+    categories: ['Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-04',
+    title: 'Senate Republicans insist Elon Musk isn\'t in charge after whirlwind actions',
+    body: 'One Democrat said of Musk\'s efforts, "It\'s not disruptive, it is destructive.”',
+    links: [
+      {
+        href: 'https://abcnews.go.com/Politics/senate-republicans-defend-musks-moves-downplay-influence/story?id=118446645',
+        linkText: 'ABC',
+      },
+    ],
+  },
+
+  {
     id: 'Tariff_to_War',
     categories: ['Project 2025', 'Tariff War', 'WW3'],
     color: 'red',
@@ -9363,6 +9563,22 @@ const entries = [
   },
 
   {
+    id: 'Education_Leave',
+    categories: ['Project 2025', 'Education', 'Discrimination', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-03',
+    title: '\'Paid administrative hell\': Some Department of Education staff put on leave after Trump\'s DEI reversal',
+    body: 'Some said they think it\'s because they attended voluntary diversity training.',
+    links: [
+      {
+        href: 'https://abcnews.go.com/Politics/some-department-education-staff-put-on-leave-after-trump-dei-order/story?id=118398190',
+        linkText: 'ABC',
+      },
+    ],
+  },
+
+  {
     id: 'Musk-Force_Out_Workers',
     categories: ['Fascism', 'Project 2025', 'DOGE'],
     color: 'red',
@@ -9374,6 +9590,219 @@ const entries = [
       {
         href: 'https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/',
         linkText: 'Reuters',
+      },
+    ],
+  },
+
+  {
+    id: 'DOGE_Access',
+    categories: ['Global', 'Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-02',
+    title: 'Elon Musk’s Doge team granted ‘full access’ to federal payment system',
+    body: 'Trump’s treasury secretary gives the world’s richest person entry to one of the most sensitive US government databases',
+    links: [
+      {
+        href: 'https://www.theguardian.com/technology/2025/feb/02/elon-musk-doge-access-federal-payment-system',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Shut_Down_USAID',
+    categories: ['Global', 'Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-02',
+    title: 'Elon Musk says President Donald Trump has ‘agreed’ USAID should be shut down',
+    body: 'Musk\'s comments come after the administration placed two top security chiefs at USAID on leave after they refused to turn over classified material in restricted areas to Musk’s government-inspection teams.',
+    links: [
+      {
+        href: 'https://apnews.com/article/doge-musk-trump-classified-information-usaid-security-35101dee28a766e0d9705e0d47958611',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Scrub_Climate_Change',
+    categories: ['Orwell', 'Project 2025', 'Climate'],
+    color: 'red',
+    faicon: 'radiation',
+    date: '2025-02-02',
+    title: 'USDA ordered to scrub climate change from websites',
+    body: 'The directive could affect information across dozens of programs including climate-smart agriculture initiatives.',
+    links: [
+      {
+        href: 'https://www.politico.com/news/2025/01/31/usda-climate-change-websites-00201826',
+        linkText: 'Politico',
+      },
+    ],
+  },
+
+
+  {
+    id: 'Feel_Some_Pain',
+    categories: ['Global', 'Project 2025', 'Trade War'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-02-02',
+    title: 'Trump says Americans could feel ‘some pain’ from tariffs as he threatens more import taxes',
+    body: 'The trade penalties that Trump signed Saturday at his Florida resort caused a mix of panic, anger and uncertainty, and threatened to rupture a decades-old partnership on trade in North America while further straining relations with China.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-tariffs-canada-mexico-china-trade-surplus-3010e6368545e2976feb5ac6b41e528e',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Abortion_Doctor_Indicted',
+    categories: ['Women', 'Fascism', 'Health'],
+    color: 'red',
+    faicon: 'venus',
+    date: '2025-01-31',
+    title: 'Arrest warrant issued for New York doctor indicted in Louisiana for prescribing abortion pill',
+    body: 'The case appears to be the first instance of criminal charges against a doctor accused of sending abortion pills to another state, at least since the U.S. Supreme Court overturned Roe v. Wade in 2022 and opened the door for states to have strict anti-abortion laws.',
+    links: [
+      {
+        href: 'https://apnews.com/article/abortion-indictment-lousiana-new-york-doctor-63ff4d9da8a9b592a7ca4ec7ba538cd3',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Open_Dams',
+    categories: ['Climate'],
+    color: 'red',
+    faicon: 'radiation',
+    date: '2025-01-31',
+    title: 'Acting on Trump’s order, federal officials opened up two California dams',
+    body: 'The U.S. Army Corps of Engineers has dramatically increased the amount of water flowing from two dams in Tulare County, sending massive flows down river channels toward farmlands in the San Joaquin Valley.',
+    links: [
+      {
+        href: 'https://www.latimes.com/environment/story/2025-01-31/trump-california-dams-opened-up',
+        linkText: 'Los Angeles Times',
+      },
+    ],
+  },
+
+  {
+    id: 'Purge_Data',
+    categories: ['Project 2025', 'Orwell', 'Discrimination', 'LGBTQ', 'Health'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-01-31',
+    title: 'Agencies asked to scrub federal government websites to remove diversity-related content',
+    body: 'The CDC took down much of its adult immunization guidance, which referenced transgender and nonbinary people as part of carefully crafted recommendations for some vaccines passed by a panel of the agency\'s outside advisers.',
+    links: [
+      {
+        href: 'https://www.cbsnews.com/news/trump-officials-pausing-most-federal-government-websites-friday/',
+        linkText: 'CBS',
+      },
+      {
+        href: 'https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/',
+        linkText: 'The Atlantic',
+      },
+    ],
+  },
+
+  {
+    id: 'Block_J6_Jobs',
+    categories: ['Project 2025', 'J6', 'FAFO', 'Resist'],
+    color: 'green',
+    faicon: 'skull',
+    date: '2025-01-31',
+    title: 'Illinois Gov. JB Pritzker blocks Jan. 6 rioters from state jobs after Trump pardons',
+    body: 'In a written directive, the Democratic Illinois governor tells his hiring office that "no one who attempts to overthrow a government should serve in government."',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/politics-news/illinois-gov-jb-pritzker-blocks-jan-6-rioters-state-jobs-trump-pardons-rcna190101',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Judge_Blocks_FedAid',
+    categories: ['Project 2025', 'Courts', 'J6'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-01-31',
+    title: 'US judge temporarily blocks Trump from freezing federal funding',
+    body: 'Judge suspends freeze of federal grants, loans and other financial assistanc, says Trump does not have \'limitless power\' to pause all funds',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/us/us-judge-blocks-trump-freezing-federal-spending-22-states-2025-01-31/',
+        linkText: 'Reuters',
+      },
+    ],
+  },
+
+  {
+    id: 'Fire_J6_Investigators',
+    categories: ['Project 2025', 'Orwell', 'J6'],
+    color: 'red',
+    faicon: 'skull',
+    date: '2025-01-31',
+    title: 'Trump DOJ demands list of thousands of FBI agents, others who worked on Jan. 6 and Trump investigations for possible firing',
+    body: 'The Trump administration is set to expand a purge of career law enforcement officials, demanding the names of those who worked on January 6, 2021, US Capitol attack and Trump-related investigations for potential removal – a move that could affect thousands.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/01/31/politics/fbi-agents-who-investigated-january-6-fired/',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'Blame_Game',
+    categories: ['Project 2025', 'Orwell'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-01-31',
+    title: 'Trump jumps right to the blame game over DC midair collision that left dozens dead',
+    body: 'Shortly after the president declared there were “no survivors,” he pointed the finger of blame to his old political rivals, suggesting diversity initiatives led to lax aviation standards that contributed to the crash.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/01/30/politics/donald-trump-dc-plane-crash/index.html',
+        linkText: 'Reuters',
+      },
+    ],
+  },
+
+  {
+    id: 'Cut_Poor_Benefits',
+    categories: ['Project 2025', 'Economy'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-01-30',
+    title: 'To Pay for Trump Tax Cuts, House GOP Floats Plan to Slash Benefits for the Poor and Working Class',
+    body: 'In order to pay for the cuts, they have started to eye some targets to raise money. Among them: cutting benefits for single mothers and poor people who rely on government health care.',
+    links: [
+      {
+        href: 'https://www.propublica.org/article/trump-tax-cuts-congress-republicans-plan-slash-benefits',
+        linkText: 'ProPublica',
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Challenged_Plane_Crash',
+    categories: ['Project 2025', 'Discrimination'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-01-30',
+    title: 'Trump was challenged after blaming DEI for the DC plane crash. Here’s what he said',
+    body: 'His remarks quickly became a diatribe against diversity hiring and his allegation — so far without evidence — that lowered standards were to blame for the crash.',
+    links: [
+      {
+        href: 'https://apnews.com/article/plane-crash-washington-dc-trump-dei-claims-3ac5486ec594d81e919e8ebbd9733869',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -9429,6 +9858,86 @@ const entries = [
   },
 
   {
+    id: 'Deport_Students_ProPalestine',
+    categories: ['Fascism', 'Global', 'Civil Liberties', 'Plane'],
+    color: 'red',
+    faicon: 'flag',
+    date: '2025-01-29',
+    title: 'Trump Signs Order To Deport Foreign Students Who Support Palestinian Freedom',
+    body: 'Trump signed an executive order on Wednesday that would cancel visas and deport international students who have expressed support for Palestinians — the administration’s latest effort to both target immigrants and crack down on free speech, particularly on college campuses.',
+    links: [
+      {
+        href: 'https://www.huffpost.com/entry/trump-order-deport-foreign-students-visa-support-palestine-college-protests_n_679aa027e4b0bc132143abb4',
+        linkText: 'Huffington Post',
+      },
+    ],
+  },
+
+  {
+    id: 'RFK_Medicaid_Hearing',
+    categories: ['Project 2025', 'Health', 'Tiddlywinks'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-01-29',
+    title: 'Robert F. Kennedy Jr. struggles to answer questions on Medicare and Medicaid at confirmation hearing',
+    body: 'Democrats pointed to Kennedy’s writings, podcast appearances and other comments to show that Mr. Kennedy has embraced conspiracy theories and unproven alternative remedies, especially when it comes to the safety and efficacy of vaccines.',
+    links: [
+      {
+        href: 'https://apnews.com/article/rfk-jr-nomination-when-where-to-watch-dacfabb9a43efac93bab058ad6a327d9',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Strips_General',
+    categories: ['Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-01-29',
+    title: 'Trump’s Pentagon strips Mark Milley of security clearance and guard detail',
+    body: 'Pete Hegseth, US defense secretary, also seeks review of retired general’s rank in latest move by Donald Trump’s administration against his critics.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/jan/29/trumps-pentagon-strips-mark-milley-of-security-clearance-and-guard-detail',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Appeal_Conviction',
+    categories: ['Courts'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-01-29',
+    title: 'President Donald Trump appeals his New York hush money conviction',
+    body: 'President Donald Trump has appealed his hush money conviction, seeking to erase the verdict that made him the first person with a criminal record to win the office.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-hush-money-appeal-stormy-daniels-249a77a70cab97137595f000fbd49307',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Rescind_Memo',
+    categories: ['Project 2025', 'Economy', 'Resist'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-01-29',
+    title: 'White House rescinds memo on federal aid freeze that caused widespread confusion',
+    body: 'Trump’s move to pause trillions of dollars in federal grants and loans awakened on Tuesday widespread Democratic resistance to the new president’s second term in a way other moves of his first week back in office had not.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/01/29/politics/white-house-rescind-federal-funding-freeze/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
     id: 'Iowa_Flip',
     categories: ['Fascism', 'Resist', 'Tiddlywinks'],
     color: 'green',
@@ -9472,6 +9981,38 @@ const entries = [
       {
         href: 'https://apnews.com/article/trump-presidential-power-executive-congress-grants-freeze-60fa3a9fabf6328f9aa3c45ed34e2cc3',
         linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Remove_Gender_Care',
+    categories: ['Project 2025', 'LGBTQ', 'Health'],
+    color: 'red',
+    faicon: 'rainbow',
+    date: '2025-01-28',
+    title: 'Trump order aims to end federal support for gender transitions for those under 19',
+    body: 'Medicaid programs in some states cover gender-affirming care. The new order suggests that the practice could end, and targets hospitals and universities that receive federal money and provide the care.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-transgender-transition-executive-order-301e4130233b411311978f66f455f1c4',
+        linkText: 'Associated Press ',
+      },
+    ],
+  },
+
+  {
+    id: 'Drop_Criminal_Proceedings',
+    categories: ['Project 2025', 'Courts', 'Orwell'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-01-27',
+    title: 'Justice Department drops criminal proceedings against Trump co-defendants in classified records case',
+    body: 'Trump valet Walt Nauta and Mar-a-Lago property manager Carlos De Oliveira were charged with conspiring with Trump to obstruct an FBI investigation into the hoarding of classified documents that the Republican took with him when he left the White House after his first term.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-justice-department-classified-documents-c887926663beeb5a04d45c7c896609ba',
+        linkText: 'Associated Press ',
       },
     ],
   },
