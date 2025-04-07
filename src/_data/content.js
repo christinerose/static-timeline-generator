@@ -94,6 +94,22 @@ const entries = [
   },
 
   {
+    id: 'Columbia_Visas_Revoked',
+    categories: ['Project 2025', 'Immigration', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-07',
+    title: 'US revokes more visas of Columbia University students amid protests',
+    body: 'Columbia University confirmed that four international students had their visas canceled by DHS without direct communication from federal authorities.',
+    links: [
+      {
+        href: 'https://trt.global/world/article/9b8d2419a882',
+        linkText: 'TRT Global ',
+      },
+    ],
+  },
+
+  {
     id: 'Deported_Speeding',
     categories: ['Project 2025', 'Immigration', 'Civil Liberties'],
     color: 'red',
@@ -232,6 +248,38 @@ const entries = [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/07/stock-market-loss-elon-musk-mark-zuckerberg-jeff-bezos',
         linkText: 'The Guardian ',
+      },
+    ],
+  },
+
+  {
+    id: 'Airlines_ICE',
+    categories: ['Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-06',
+    title: 'Airline signs deal with ICE, seeks \'energetic, highly motivated\' flight attendants to \'support the department\'s deportation efforts',
+    body: 'Avelo Airlines signed an agreement to fly for ICE to "support the department\'s deportation efforts," the company told 12News.',
+    links: [
+      {
+        href: 'https://www.12news.com/article/news/regional/the-border/avelo-airlines-deportation-flights-mesa-gateway-airport-starting-in-may/75-b5a77f71-8678-436b-9ced-e6171a97e271',
+        linkText: 'NBC ',
+      },
+    ],
+  },
+
+  {
+    id: 'Anonymous_Speaks',
+    categories: ['Project 2025', 'Resist', 'Fascism'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-04-06',
+    title: 'Anonymous Speaks on The Protests',
+    body: 'TikTok video.',
+    links: [
+      {
+        href: 'https://www.reddit.com/r/50501/comments/1jst1uc/anonymous_speaks_on_the_protests/',
+        linkText: 'Reddit ',
       },
     ],
   },
@@ -530,6 +578,22 @@ const entries = [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/05/barack-obama-trump-agenda',
         linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'CA_Bans_ICE_Schools',
+    categories: ['Project 2025', 'Immigration', 'Resist'],
+    color: 'green',
+    faicon: 'plane',
+    date: '2025-04-04',
+    title: 'California lawmakers consider banning immigration enforcement at public schools',
+    body: 'California lawmakers are working on a bill that would restrict federal agents’ access to public schools and students while involved in immigration enforcement.',
+    links: [
+      {
+        href: 'https://www.borderreport.com/news/california-lawmakers-consider-banning-immigration-enforcement-at-public-schools/',
+        linkText: 'Border Report ',
       },
     ],
   },
