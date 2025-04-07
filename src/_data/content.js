@@ -25,11 +25,41 @@ const entries = [
   //Civil Liberties = flag
   //Orwell = 
 
-  //Start with "Sheer Chaos" 6 Feb WTF Happened to catch up
-
   //Layoffs, DOGE work, restructuring, etc. = Project 2025
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
+
+  {
+    id: 'Orange_Monday_Bloodbath',
+    categories: ['Project 2025', 'Economy', 'FAFO'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-04-07',
+    title: 'Orange Monday madness: Donald Trump’s tariff tsunami leads to bloodbath in global markets, wipes out portfolios, and shocks the economy as investors panic',
+    body: 'The global economy just got gut-punched by a wave of sweeping new tariffs unleashed by Donald Trump, and the markets reacted like they saw a ghost.',
+    links: [
+      {
+        href: 'https://economictimes.indiatimes.com/news/international/us/orange-monday-madness-donald-trumps-tariff-tsunami-leads-to-bloodbath-in-global-markets-wipes-out-portfolios-and-shocks-the-economy-as-investors-panic/articleshow/120064944.cms',
+        linkText: 'Economic Times',
+      },
+    ],
+  },
+
+  {
+    id: 'Orange_Monday',
+    categories: ['Project 2025', 'Economy', 'FAFO'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-04-07',
+    title: 'Dave Portnoy dubs stock market tumble ‘Orange Monday’',
+    body: 'Portnoy, who has spoken positively of Trump, ranted against the tariffs, which he said has personally cost him millions in the stock market.',
+    links: [
+      {
+        href: 'https://thehill.com/homenews/media/5235707-barstool-sports-owner-trump-tariffs/',
+        linkText: 'The Hill',
+      },
+    ],
+  },
 
   {
     id: 'Wall_Street_Speaks',
@@ -42,7 +72,7 @@ const entries = [
     links: [
       {
         href: 'https://www.wsj.com/politics/policy/wall-street-starts-to-speak-out-against-trumps-tariffs-c747f806',
-        linkText: 'Wall Street Journal ',
+        linkText: 'Wall Street Journal',
       },
     ],
   },
@@ -1128,6 +1158,22 @@ const entries = [
       ],
       },
 
+      {
+        id: 'Florida_GOP_Win',
+        categories: ['Project 2025'],
+        color: 'red',
+        faicon: 'hammer',
+        date: '2025-04-01',
+        title: 'GOP retains two House seats in Florida, as Democrats claim \'historic\' improvement',
+        body: 'Republicans have a substantial registration edge in both districts. But the results were far closer than those seen in November, suggesting voters may be unhappy with Republicans, President Trump and his agenda.',
+        links: [
+          {
+            href: 'https://www.npr.org/2025/04/01/nx-s1-5348089/florida-congressional-results-gop-patronis-fine',
+            linkText: 'NPR',
+          },
+        ],
+      },
+
   {
     id: 'Wisconsin_Florida',
     categories: ['Resist', 'Project 2025', 'Tiddlywinks', 'FAFO', 'DOGE'],
@@ -1529,7 +1575,7 @@ const entries = [
     links: [
       {
         href: 'https://www.wired.com/story/doge-takes-control-usip-office-building/',
-        linkText: 'Wired',
+        linkText: 'WIRED',
       },
     ],
   },
@@ -1545,7 +1591,7 @@ const entries = [
     links: [
       {
         href: 'https://www.wired.com/story/natal-conference-matchmaking/',
-        linkText: 'Wired',
+        linkText: 'WIRED',
       },
     ],
   },
@@ -7817,7 +7863,7 @@ const entries = [
     links: [
       {
         href: 'https://www.wired.com/story/the-national-institute-of-standards-and-technology-braces-for-mass-firings/',
-        linkText: 'Wired',
+        linkText: 'WIRED',
       },
     ],
   },  
@@ -9156,6 +9202,22 @@ const entries = [
   },
 
   {
+    id: 'Consumer_Protection_Halt',
+    categories: ['Fascism', 'Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-09',
+    title: 'Trump administration orders consumer protection agency to stop work, closes building',
+    body: 'The Trump administration has effectively shut down an agency that was created to protect consumers after the 2008 financial crisis and subprime mortgage-lending scandal.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-consumer-protection-cease-1b93c60a773b6b5ee629e769ae6850e9',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
     id: 'DOGE_Exposes_Networks',
     categories: ['Fascism', 'Project 2025', 'DOGE'],
     color: 'red',
@@ -9165,7 +9227,7 @@ const entries = [
     body: 'This exposure jeopardizes both U.S. national security and the privacy of millions of Americans.',
     links: [
       {
-        href: 'https://cyberintel.substack.com/p/doge-exposes-once-secret-government?utm_medium=web&triedRedirect=true',
+        href: 'https://cyberintel.substack.com/p/doge-exposes-once-secret-government',
         linkText: 'Cyberintel',
       },
     ],
@@ -9193,7 +9255,7 @@ const entries = [
   },
 
   {
-    id: 'Vance-Musk_question-judge',
+    id: 'Vance-Musk_Question-Judge',
     categories: ['Fascism', 'Courts', 'Project 2025'],
     color: 'red',
     faicon: 'fire',
@@ -9205,12 +9267,17 @@ const entries = [
         href: 'https://www.nbcnews.com/politics/white-house/legal-experts-constitutional-crisis-vance-musk-judicial-rulings-trump-rcna191387',
         linkText: 'NBC',
       },
+
+      {
+        href: 'https://apnews.com/article/trump-judiciary-musk-separation-of-powers-balance-checks-069c169ea1ddf6eea76f502d544c4c16',
+        linkText: 'Associated Press',
+      },
     ],
   },
 
   {
     id: 'TentCity_Guantanamo',
-    categories: ['Immigration', 'Fascism'],
+    categories: ['Immigration', 'Fascism', 'Civil Liberties'],
     color: 'red',
     faicon: 'plane',
     date: '2025-02-08',
@@ -9229,6 +9296,117 @@ const entries = [
   },
 
   {
+    id: 'Trump_Angry_Deport',
+    categories: ['Immigration','Project 2025'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-02-07',
+    title: 'Trump is \'angry\' that deportation numbers are not higher',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/national-security/trump-angry-deportation-numbers-are-not-higher-rcna191273',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Plastic_Straws',
+    categories: ['Climate','Project 2025'],
+    color: 'red',
+    faicon: 'radiation',
+    date: '2025-02-07',
+    title: '\'BACK TO PLASTIC!\': Trump says he will sign executive order ditching paper straws',
+    body: 'Trump and other Republicans have long made paper straws a go-to attack in their fight against Democrat-backed environmental regulations.',
+    links: [
+      {
+        href: 'https://www.usatoday.com/story/news/politics/2025/02/07/trump-plastic-straws/78330750007/',
+        linkText: 'USA Today',
+      },
+    ],
+  },
+
+  {
+    id: 'Fire_Archivist',
+    categories: ['Orwell','Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-07',
+    title: 'Trump fires archivist of the United States, official who oversees government records',
+    body: 'Mr. Trump has expressed ire toward the agency in the past, after it was a key player in the case about his mishandling of classified records.',
+    links: [
+      {
+        href: 'https://www.cbsnews.com/news/trump-fires-archivist-of-the-united-states-colleen-shogan/',
+        linkText: 'CBS',
+      },
+    ],
+  },
+
+  {
+    id: 'Judge_Temp_Block_USAID',
+    categories: ['DOGE','Project 2025', 'Resist', 'Courts', 'FAFO'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-02-07',
+    title: 'Judge blocks Trump from placing thousands of USAID workers on leave and giving them 30-day deadline',
+    body: 'U.S. District Judge Carl Nichols, a Trump appointee, also agreed to block an order that would have given the thousands of overseas USAID workers just 30 days to move families and households back to the U.S. on government expense.',
+    links: [
+      {
+        href: 'https://apnews.com/article/usaid-foreign-aid-trump-rubio-48f8460804d33bdaa18d7765c4b24f9e',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Rehire_Racist',
+    categories: ['DOGE','Project 2025', 'Discrimination'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-07',
+    title: 'Musk to rehire Treasury DOGE staffer behind racist posts after Trump endorses idea',
+    body: 'Vice President JD Vance called for the rehiring of a DOGE staffer who resigned from a sensitive Trump administration post over the exposure of tweets advocating for racism and eugenics.',
+    links: [
+      {
+        href: 'https://www.cnbc.com/2025/02/07/elon-musk-doge-racist-treasury-x-staff.html',
+        linkText: 'CNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Insider_Threat',
+    categories: ['DOGE', 'Resist', 'Project 2025', 'Economy'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-02-07',
+    title: 'A US Treasury Threat Intelligence Analysis Designates DOGE Staff as ‘Insider Threat’',
+    body: 'An internal email reviewed by WIRED calls DOGE staff’s access to federal payments systems “the single greatest insider threat risk the Bureau of the Fiscal Service has ever faced.”',
+    links: [
+      {
+        href: 'https://www.wired.com/story/treasury-bfs-doge-insider-threat/',
+        linkText: 'WIRED',
+      },
+    ],
+  },
+
+  {
+    id: 'Judge_Blocks_DOGE',
+    categories: ['DOGE', 'Resist', 'Project 2025', 'Economy'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-02-07',
+    title: 'Federal judge blocks Elon Musk’s DOGE from accessing sensitive US Treasury Department material',
+    body: 'The case, filed in federal court in New York City, alleges the Trump administration allowed Musk’s team access to the Treasury Department’s central payment system in violation of federal law.',
+    links: [
+      {
+        href: 'https://apnews.com/article/elon-musk-doge-lawsuit-attorneys-general-5733f8985e4cf7ad5b233fddefef4d01',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
     id: 'ACLU_LGBTQ',
     categories: ['LGBTQ', 'Resist', 'Project 2025', 'Fascism'],
     color: 'green',
@@ -9240,6 +9418,86 @@ const entries = [
       {
         href: 'https://www.aclu.org/press-releases/transgender-and-nonbinary-people-take-trump-to-court-over-passport-restrictions',
         linkText: 'ACLU',
+      },
+    ],
+  },
+
+  {
+    id: 'DOGE_Write_Access',
+    categories: ['Project 2025', 'Economy', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-06',
+    title: 'The US Treasury Claimed DOGE Technologist Didn’t Have ‘Write Access’ When He Actually Did',
+    body: 'DOGE had the ability to rewrite the code of the payment system through which the vast majority of federal spending flows.',
+    links: [
+      {
+        href: 'https://www.wired.com/story/treasury-department-doge-marko-elez-access/',
+        linkText: 'WIRED',
+      },
+    ],
+  },
+
+  {
+    id: 'Anti_Christian',
+    categories: ['Religion', 'Project 2025', 'Fascism', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-06',
+    title: 'After prayer breakfast, Trump creates task force to root out ‘anti-Christian bias’',
+    body: 'Trump said the task force would be directed to “immediately halt all forms of anti-Christian targeting and discrimination within the federal government, including at the DOJ, which was absolutely terrible, the IRS, the FBI — terrible — and other agencies.”',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-national-prayer-breakfast-30ff6f55a2e3c7b8643a15e7b158537d',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'ICC_Sanctions',
+    categories: ['Global', 'Project 2025', 'Fascism'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-02-06',
+    title: 'Trump signs an executive order sanctioning the International Criminal Court',
+    body: 'The order includes financial sanctions and visa restrictions against ICC officials found to have assisted in investigations of U.S. citizens or allies.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/donald-trump/trump-executive-order-sanctioning-international-criminal-court-rcna191018',
+        linkText: 'NBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Justice_Dept_Sues',
+    categories: ['Courts', 'Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-02-06',
+    title: 'Justice Department sues Chicago and Illinois over \'sanctuary\' laws',
+    body: 'The lawsuit accuses those jurisdictions of "making it more difficult for, and deliberately impeding, federal immigration officers\' ability to carry out their responsibilities."',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/02/06/nx-s1-5288871/justice-department-sues-chicago-and-illinois-over-sanctuary-laws',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Judge_Blocks_Buyout',
+    categories: ['Courts', 'Project 2025', 'Resist'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-02-06',
+    title: 'Judge temporarily blocks Trump\'s federal government employee buyout',
+    body: 'The ruling came just hours before the deadline for employees to take the offer.',
+    links: [
+      {
+        href: 'https://abcnews.go.com/US/judge-request-block-trumps-federal-government-employee-buyout/story?id=118535508',
+        linkText: 'ABC',
       },
     ],
   },
