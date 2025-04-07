@@ -32,6 +32,26 @@ const entries = [
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
   {
+    id: 'Green_Impeach',
+    categories: ['Project 2025', 'Resist', 'Fascism', 'FAFO'],
+    color: 'green',
+    faicon: 'hammer',
+    date: '2025-04-06',
+    title: '\'Hands Off!\' Rally Told New Trump Impeachment Bid Is Imminent',
+    body: 'Texas Democratic Representative Al Green has said he will bring articles of impeachment against President Donald Trump in the coming weeks, in a renewed attempt from the vocal critic of Trump to bring charges against him.',
+    links: [
+      {
+        href: 'https://www.newsweek.com/donald-trump-impeachment-al-green-hands-off-rally-washington-dc-2055978',
+        linkText: 'Newsweek ',
+      },
+      {
+        href: 'https://www.usatoday.com/story/news/politics/2025/04/06/al-green-impeachment-articles-trump-30-days/82962823007/',
+        linkText: 'USA Today ',
+      },
+    ],
+  },
+
+  {
     id: 'Vogue_Millions',
     categories: ['Project 2025', 'Resist', 'Fascism'],
     color: 'green',
@@ -9053,6 +9073,38 @@ const entries = [
   },
 
   {
+    id: 'Impeach_Trump',
+    categories: ['Resist','Fascism', 'Project 2025', 'FAFO'],
+    color: 'green',
+    faicon: 'democrat',
+    date: '2025-02-05',
+    title: 'Texas Dem says he’ll bring articles of impeachment against Trump over Gaza',
+    body: '“The movement to impeach the president has begun,” Green said on the House floor. “I rise to announce that I will bring articles of impeachment against the president for dastardly deeds proposed and dastardly deeds done.”',
+    links: [
+      {
+        href: 'https://thehill.com/homenews/house/5128061-al-green-donald-trump-impeachment-gaza/',
+        linkText: 'The Hill',
+      },
+    ],
+  },
+
+  {
+    id: 'Resistence_Dead',
+    categories: ['Tiddlywinks'],
+    color: 'red',
+    faicon: 'democrat',
+    date: '2025-02-05',
+    title: 'What Happened to the Trump Resistance?',
+    body: 'If Trump’s first Presidency was characterized by widespread revolt, his second term has so far been defined by the lack of dissidence.',
+    links: [
+      {
+        href: 'https://www.newyorker.com/news/the-lede/what-happened-to-the-trump-resistance',
+        linkText: 'The New Yorker',
+      },
+    ],
+  },
+
+  {
     id: 'Protests-Trans-Ban',
     categories: ['LGBTQ', 'Resist'],
     color: 'green',
@@ -9089,7 +9141,7 @@ const entries = [
   },
 
   {
-    id: 'Trump_Attack_PBI',
+    id: 'Trump_Attack_FBI',
     categories: ['Project 2025', 'Fascism'],
     color: 'red',
     faicon: 'hammer',
