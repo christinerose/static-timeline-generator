@@ -32,6 +32,22 @@ const entries = [
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
   {
+    id: 'Vogue_Millions',
+    categories: ['Project 2025', 'Resist', 'Fascism'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-04-06',
+    title: '‘Hands Off!’: Millions of Anti-Trump Protesters Take to US Streets',
+    body: 'Across the streets of all 50 states on Saturday, April 5, protestors called for an end to President Donald Trump’s “hostile takeover” and his “authoritarian overreach and billionaire-backed agenda” under the manner of the “Hands Off” movement.',
+    links: [
+      {
+        href: 'https://www.vogue.com/article/hands-off-anti-trump-protests',
+        linkText: 'Vogue ',
+      },
+    ],
+  },
+  
+  {
     id: 'ICE_Check-Ins_Fear',
     categories: ['Project 2025', 'Immigration'],
     color: 'red',
@@ -110,7 +126,7 @@ const entries = [
     faicon: 'jedi',
     date: '2025-04-05',
     title: 'Anti-Trump protests hit cities worldwide – in pictures',
-    body: 'Thousands of ‘Hands Off’ protesters – in the US and across major European cities – took to the streets Saturday in a show of defiance. ("Thousands" in an understatement. Hundreds of thousands took to the streets across the nation, if not into the millions.',
+    body: 'Thousands of ‘Hands Off’ protesters – in the US and across major European cities – took to the streets Saturday in a show of defiance. ("Thousands" in an understatement. Hundreds of thousands took to the streets across the nation, if not into the millions.)',
     links: [
       {
         href: 'https://www.theguardian.com/us-news/gallery/2025/apr/05/anti-trump-hands-off-worldwide-protests',
@@ -320,6 +336,22 @@ const entries = [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/04/rfk-jr-doge-cuts',
         linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Power_Long_Speeches',
+    categories: ['Resist', 'Project 2025'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-04-04',
+    title: 'The hidden power of marathon Senate speeches: What history tells us about Cory Booker’s 25-hour oration',
+    body: 'Democratic U.S. Sen. Cory Booker of New Jersey made history on April 1, 2025, when he stood on the Senate floor and spoke for 25 hours and five minutes, delivering the longest floor speech in the history of the U.S. Senate.',
+    links: [
+      {
+        href: 'https://theconversation.com/the-hidden-power-of-marathon-senate-speeches-what-history-tells-us-about-cory-bookers-25-hour-oration-253695',
+        linkText: 'The Conversation',
       },
     ],
   },
@@ -2739,6 +2771,22 @@ const entries = [
   },
 
   {
+    id: 'Bennet_Schumer',
+    categories: ['Resist', 'Tiddlywinks', 'Project 2025'],
+    color: 'green',
+    faicon: 'democrat',
+    date: '2025-03-20',
+    title: 'Sen. Bennet on Dem leaders: \'It\'s important for people to know when it\'s time to go\'',
+    body: 'Colorado Democratic Sen. Michael Bennet stopped short Wednesday of calling on Senate Minority Leader Chuck Schumer to step down from leadership, but came pretty darn close.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/03/20/g-s1-54852/colorado-senator-michael-bennet-town-hall-schumer',
+        linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
     id: 'Dem_Not_Silenced',
     categories: ['Resist', 'Tiddlywinks', 'Civil Liberties', 'DOGE'],
     color: 'green',
@@ -3390,6 +3438,22 @@ const entries = [
       {
         href: 'https://truthout.org/articles/new-oklahoma-school-curriculum-requires-students-to-learn-the-big-lie/',
         linkText: 'Truthout',
+      },
+    ],
+  },
+
+  {
+    id: 'Warren_Schumer',
+    categories: ['Resist', 'Tiddlywinks', 'Project 2025'],
+    color: 'green',
+    faicon: 'democrat',
+    date: '2025-03-20',
+    title: 'Warren says Schumer was ‘wrong’ for backing GOP budget',
+    body: 'US Senator Elizabeth Warren told a town hall audience Tuesday that Senate Minority leader Chuck Schumer was “wrong” in voting last week with Republicans for a stopgap spending bill.',
+    links: [
+      {
+        href: 'https://www.bostonglobe.com/2025/03/18/metro/elizabeth-warren-town-hall-trump/',
+        linkText: 'Boston Globe',
       },
     ],
   },
