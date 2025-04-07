@@ -7,6 +7,18 @@
 <language>en-us</language>
 <description><%- content.head.description %></description>
 
+<% 
+    var guids = []; 
+    function makeUniqueGuid(key) {
+        if (key in guids) {
+            guids[key] = guids[key] + 1;
+            return key + guids[key];
+        } else {
+            guids[key] = 1;
+            return key;
+        }
+    }
+%>
 <% content.entries.forEach(function(entry){ %>
 
 <item>
@@ -32,7 +44,7 @@
 ]]></description>
     <link>https://americaisgoinggreat.com/#<%- entry.id %></link>
     <pubDate><%- utilities.rssDate(entry.datetime, entry.date) %></pubDate>
-    <guid>https://americaisgoinggreat.com/<%- entry.id %></guid>
+    <guid>https://americaisgoinggreat.com/<%- makeUniqueGuid(entry.id) %></guid>
 </item>
 <% }); %>
 
