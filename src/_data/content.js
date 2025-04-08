@@ -31,12 +31,92 @@ const entries = [
 
 
   {
+    id: 'Musk_Pleads_Trump',
+    categories: ['Project 2025', 'FAFO', 'DOGE'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-04-08',
+    title: 'Musk reportedly made several pushes for Trump to back off global tariffs surge',
+    body: 'Musk’s unsuccessful attempts may be sign of growing rift between US president and tech billionaire',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/08/musk-trump-tariffs',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'CDC_Chaos',
+    categories: ['Project 2025', 'Health', 'DOGE'],
+    color: 'red',
+    faicon: 'virus',
+    date: '2025-04-08',
+    title: '‘No guidance and no leadership’: chaos and confusion at CDC after mass firings',
+    body: 'On 1 April, thousands of workers at HHS and agencies like the CDC were let go, leaving those left to piece together the cuts and mourn the research that can’t go forward',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/08/hhs-mass-firings',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Libertarians_Sue_Trump',
+    categories: ['Project 2025', 'Economy', 'Resist', 'FAFO'],
+    color: 'green',
+    faicon: 'poo',
+    date: '2025-04-07',
+    title: 'Rightwing group backed by Koch and Leo sues to stop Trump tariffs',
+    body: 'New Civil Liberties Alliance says president’s invocation of emergency powers to impose tariffs is unlawful',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/07/trump-tariffs-lawsuit',
+        linkText: 'KTVZ',
+      },
+    ],
+  },
+
+  {
+    id: 'Latino_Cancels',
+    categories: ['Project 2025', 'Immigration', 'Discrimination'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-07',
+    title: 'Citing heightened safety fears, Latino Community Association cancels this fall’s Central Oregon Latino Fest',
+    body: 'Just showing up at this event could endanger families because ICE officers can approach anyone in a public space.',
+    links: [
+      {
+        href: 'https://ktvz.com/news/madras/2025/04/07/citing-heightened-safety-fears-latino-community-association-cancels-this-falls-central-oregon-latino-fest/',
+        linkText: 'KTVZ',
+      },
+    ],
+  },
+
+  {
+    id: 'DOGE_OPM',
+    categories: ['Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-04-07',
+    title: 'Appeals panel clears way for DOGE access to sensitive personal data at OPM, Education Department',
+    body: 'A federal appeals panel on Monday paused an order curtailing the Department of Government Efficiency’s (DOGE) access to troves of sensitive personal data from three federal agencies, reopening the floodgates for the cost-cutting advisory board.',
+    links: [
+      {
+        href: 'https://thehill.com/regulation/court-battles/5236438-federal-appeals-panel-doge-data-access-opm-education-department/',
+        linkText: 'The Hill',
+      },
+    ],
+  },
+
+  {
     id: 'Trump_Talk_Iran',
     categories: ['Project 2025', 'Global', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-04-07',
-    title: 'Trump says US engaged in \'direct talks\' with Iran over nuclear weapons ',
+    title: 'Trump says US engaged in \'direct talks\' with Iran over nuclear weapons',
     body: '"If the talks aren\'t successful with Iran, I think Iran is going to be in great danger," Trump said.',
     links: [
       {
@@ -471,6 +551,22 @@ const entries = [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/06/musk-doge-social-security',
         linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Stanford_Visas_Revoked',
+    categories: ['Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-05',
+    title: 'Stanford students get visas revoked',
+    body: 'University says it does not know the reasons for revocations',
+    links: [
+      {
+        href: 'https://www.paloaltoonline.com/news/2025/04/05/stanford-students-get-visas-revoked/',
+        linkText: 'Palo Alto Online',
       },
     ],
   },
@@ -3915,6 +4011,22 @@ const entries = [
       {
         href: 'https://www.msnbc.com/rachel-maddow-show/maddowblog/michael-flynns-radicalism-trump-welcomes-retired-general-back-fold-rcna196866',
         linkText: 'MSNBC',
+      },
+    ],
+  },
+
+  {
+    id: 'Uncivil_War',
+    categories: ['Project 2025', 'Civil War', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-18',
+    title: 'How Donald Trump and Elon Musk are waging a deep and wide ‘uncivil war’',
+    body: 'Never mind concerns about how the United States seems on the brink of another civil war. Thanks to President Donald Trump and his consigliere, Elon Musk, it’s now sinking wide and deep into what historical patterns show is an ugly “uncivil” war.',
+    links: [
+      {
+        href: 'https://theconversation.com/how-donald-trump-and-elon-musk-are-waging-a-deep-and-wide-uncivil-war-251538',
+        linkText: 'The Conversation',
       },
     ],
   },
@@ -7445,6 +7557,22 @@ const entries = [
       {
         href: 'https://www.nbcnews.com/politics/trump-administration/trump-elon-musk-dominate-first-cabinet-meeting-rcna193836',
         linkText: 'NBC',
+      },
+    ],
+  }, 
+
+  {
+    id: '2025_History_Books',
+    categories: ['Project 2025', 'Global'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-02-25',
+    title: '2025 could be year for the history books as Trump shreds global norms',
+    body: 'Just occasionally, there are years when the world goes through some fundamental, convulsive change...2025 could be a year like that: a time when the basic assumptions about the way our world works are fed into the shredder.',
+    links: [
+      {
+        href: 'https://www.bbc.com/news/articles/cd0ng4eyr3xo',
+        linkText: 'BBC',
       },
     ],
   }, 
