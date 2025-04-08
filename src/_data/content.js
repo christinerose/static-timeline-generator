@@ -8021,7 +8021,7 @@ const entries = [
 
   {
     id: 'Tarrio_Bomb',
-    categories: ['J6'],
+    categories: ['J6', 'Civil War'],
     color: 'red',
     faicon: 'skull',
     date: '2025-02-21',
