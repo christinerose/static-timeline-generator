@@ -23,11 +23,29 @@ const entries = [
   //FAFO = poo
   //Economy = coins
   //Civil Liberties = flag
-  //Orwell = 
+  //Orwell = pig
 
   //Layoffs, DOGE work, restructuring, etc. = Project 2025
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
+
+
+  {
+    id: 'DOGE_Hackable_Records',
+    categories: ['Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-04-08',
+    title: 'Another Masterful Gambit: DOGE Moves From Secure, Reliable Tape Archives to Hackable Digital Records',
+    body: 'Tape is a lot more secure than digital storage. Hackers can’t access what’s on a magnetic tape unless they have it physically in hand; digital storage, however, can be broken into remotely or accessed if it touches cloud storage at all.',
+    links: [
+      {
+        href: 'https://www.404media.co/doge-gsa-magnetic-tape-archives-digital-storage/',
+        linkText: '404 Media'
+      },
+    ],
+  },
+
 
   {
     id: 'Citizenship_Wont_Save_You',
