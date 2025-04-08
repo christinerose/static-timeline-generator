@@ -30,13 +30,45 @@ const entries = [
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
   {
+    id: 'Citizenship_Wont_Save_You',
+    categories: ['Project 2025', 'Tariff War', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-08',
+    title: 'Trump tariffs threaten 35,000 jobs, entire towns in South Africa’s citrus sector',
+    body: 'The tariffs would likely make South African citrus fruits cost $4.25 more per carton for American consumers.',
+    links: [
+      {
+        href: 'https://apnews.com/article/south-africa-tariffs-trump-citrus-import-farmers-ca9ecce2bf5d20ef1cc9a283ecaf842a',
+        linkText: 'Associated Press'
+      },
+    ],
+  },
+
+  {
+    id: 'Citizenship_Wont_Save_You',
+    categories: ['Project 2025', 'Immigration', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-08',
+    title: '\'Citizenship won\'t save you\': Free speech advocates say student arrests should worry all',
+    body: 'Secretary of State Marco Rubio said he has revoked more than 300 visas and has defended the decisions.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/04/08/nx-s1-5349472/students-protest-trump-free-speech-arrests-deportation-gaza',
+        linkText: 'NPR'
+      },
+    ],
+  },
+
+  {
     id: 'China_Fight_Back',
     categories: ['Project 2025', 'Global', 'Tariff War'],
     color: 'red',
     faicon: 'globe',
     date: '2025-04-08',
     title: 'China vows to ‘fight to the end’ against latest Trump tariff threat',
-    body: 'Beijing accuses US of blackmail and adding a ‘mistake on top of a mistake’ as Wednesday deadline for latest levies looms',
+    body: 'Beijing accuses US of blackmail and adding a ‘mistake on top of a mistake’ as Wednesday deadline for latest levies looms.',
     links: [
       {
         href: 'https://www.theguardian.com/world/2025/apr/08/china-vows-to-fight-to-the-end-against-latest-trump-tariff-threat',
@@ -52,7 +84,7 @@ const entries = [
     faicon: 'poo',
     date: '2025-04-08',
     title: 'Musk reportedly made several pushes for Trump to back off global tariffs surge',
-    body: 'Musk’s unsuccessful attempts may be sign of growing rift between US president and tech billionaire',
+    body: 'Musk’s unsuccessful attempts may be sign of growing rift between US president and tech billionaire.',
     links: [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/08/musk-trump-tariffs',
@@ -68,11 +100,59 @@ const entries = [
     faicon: 'virus',
     date: '2025-04-08',
     title: '‘No guidance and no leadership’: chaos and confusion at CDC after mass firings',
-    body: 'On 1 April, thousands of workers at HHS and agencies like the CDC were let go, leaving those left to piece together the cuts and mourn the research that can’t go forward',
+    body: 'On 1 April, thousands of workers at HHS and agencies like the CDC were let go, leaving those left to piece together the cuts and mourn the research that can’t go forward.',
     links: [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/08/hhs-mass-firings',
         linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'SCOTUS_Backs_Trump',
+    categories: ['Project 2025', 'Courts', 'Immigration'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-04-07',
+    title: 'Supreme Court backs Trump in controversial deportations case',
+    body: 'At issue in the case was the 1798 Alien Enemies Act, a controversial law invoked only three times in U.S. history, always during wartime, which allows for the detention and deportation of foreign nationals from countries actively invading the United States.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/07/trump-tariffs-lawsuit',
+        linkText: 'KTVZ',
+      },
+    ],
+  },
+
+  {
+    id: 'Tariffs_Recession',
+    categories: ['Project 2025', 'Economy', 'Tariff War'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-07',
+    title: 'Will the tariffs lead to a recession? Here’s how to know if we’re in one',
+    body: 'Trump’s sharp tariff hikes last week have sent the stock market into a tailspin, raised alarm bells among Wall Street executives, and heightened many economists’ worries that the U.S. could tip into recession',
+    links: [
+      {
+        href: 'https://apnews.com/article/recession-tariffs-economy-inflation-5a24ff198dcd6813b53f44c662354b6a',
+        linkText: 'Associated Press',
+      },
+    ],
+  },
+
+  {
+    id: 'Great_Depression_Tariffs',
+    categories: ['Project 2025', 'Economy', 'Tariff War'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-07',
+    title: 'Trump says high tariffs may have prevented the Great Depression. History says different',
+    body: 'President Herbert Hoover signed the Smoot-Hawley Tariff Act in 1930, even as many economists warned that the levies would prompt retaliatory tariffs from other countries, which is precisely what happened.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-great-depression-smoot-hawley-tariffs-8c21caad30378a28a0798069585d5d9b',
+        linkText: 'Associated Press',
       },
     ],
   },
@@ -84,7 +164,7 @@ const entries = [
     faicon: 'poo',
     date: '2025-04-07',
     title: 'Rightwing group backed by Koch and Leo sues to stop Trump tariffs',
-    body: 'New Civil Liberties Alliance says president’s invocation of emergency powers to impose tariffs is unlawful',
+    body: 'New Civil Liberties Alliance says president’s invocation of emergency powers to impose tariffs is unlawful.',
     links: [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/07/trump-tariffs-lawsuit',
