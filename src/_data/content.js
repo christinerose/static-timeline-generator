@@ -619,7 +619,7 @@ const entries = [
 
   {
     id: 'ICE_Check-Ins_Fear',
-    categories: ['Project 2025', 'Economy', 'Trade War', 'Global'],
+    categories: ['Project 2025', 'Economy', 'Tariff War', 'Global'],
     color: 'red',
     faicon: 'plane',
     date: '2025-04-06',
@@ -946,7 +946,7 @@ const entries = [
 
   {
     id: 'America_Brexit',
-    categories: ['Project 2025', 'Global', 'Trade War', 'Economy'],
+    categories: ['Project 2025', 'Global', 'Tariff War', 'Economy'],
     color: 'red',
     faicon: 'globe',
     date: '2025-04-04',
@@ -10345,7 +10345,7 @@ const entries = [
 
   {
     id: 'Feel_Some_Pain',
-    categories: ['Global', 'Project 2025', 'Trade War'],
+    categories: ['Global', 'Project 2025', 'Tariff War'],
     color: 'red',
     faicon: 'coins',
     date: '2025-02-02',
