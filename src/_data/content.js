@@ -29,10 +29,25 @@ const entries = [
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
+  {
+    id: 'China_Fight_Back',
+    categories: ['Project 2025', 'Global', 'Tariff War'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-08',
+    title: 'China vows to ‘fight to the end’ against latest Trump tariff threat',
+    body: 'Beijing accuses US of blackmail and adding a ‘mistake on top of a mistake’ as Wednesday deadline for latest levies looms',
+    links: [
+      {
+        href: 'https://www.theguardian.com/world/2025/apr/08/china-vows-to-fight-to-the-end-against-latest-trump-tariff-threat',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
 
   {
     id: 'Musk_Pleads_Trump',
-    categories: ['Project 2025', 'FAFO', 'DOGE'],
+    categories: ['Project 2025', 'FAFO', 'DOGE', 'Tariff War'],
     color: 'red',
     faicon: 'poo',
     date: '2025-04-08',
@@ -64,7 +79,7 @@ const entries = [
 
   {
     id: 'Libertarians_Sue_Trump',
-    categories: ['Project 2025', 'Economy', 'Resist', 'FAFO'],
+    categories: ['Project 2025', 'Economy', 'Resist', 'FAFO', 'Tariff War'],
     color: 'green',
     faicon: 'poo',
     date: '2025-04-07',
