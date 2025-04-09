@@ -29,6 +29,9 @@ const entries = [
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
+
+
+  
   {
     id: 'AZ_National_Guard_ACLU',
     categories: ['Resist', 'Project 2025', 'FAFO', 'Civil Liberties', 'Fascism'],
@@ -219,6 +222,38 @@ const entries = [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/09/anti-protest-bills-trump',
         linkText: 'The Guardian'
+      },
+    ],
+  },
+
+  {
+    id: 'Pentagon_Budget',
+    categories: ['WW3', 'Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-04-08',
+    title: 'Trump Announces Record Pentagon Budget as DOGE Cuts Everything Else',
+    body: 'The president announced Monday that he wants the Department of Defense to have a $1 trillion budget, its highest ever, saying that “we have great things happening with our military.',
+    links: [
+      {
+        href: 'https://newrepublic.com/post/193726/trump-record-pentagon-military-budget',
+        linkText: 'New Republic'
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Bomb_Mx',
+    categories: ['WW3', 'Project 2025', 'Tariff War', 'Global', 'Economy'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-08',
+    title: 'Trump Weighs Bombing Mexico—Because Everything Else Is Going So Well',
+    body: 'Donald Trump is considering drone strikes on one of our closest trade partners.',
+    links: [
+      {
+        href: 'https://newrepublic.com/post/193729/trump-weighs-bombing-mexico-drone-strikes',
+        linkText: 'New Republic'
       },
     ],
   },
