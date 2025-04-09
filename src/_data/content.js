@@ -31,6 +31,107 @@ const entries = [
 
 
   {
+    id: '104%_China',
+    categories: ['Project 2025', 'Tariff War', 'WW3'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-04-08',
+    title: 'US ready to impose massive tariffs on China',
+    body: 'Trump is set to impose an astounding 104% in levies across all Chinese imports',
+    links: [
+      {
+        href: 'https://www.cnn.com/politics/live-news/trump-presidency-administration-news-tariffs-04-08-25',
+        linkText: 'CNN'
+      },
+    ],
+  },
+
+  {
+    id: 'SCOTUS_Block_Rehire',
+    categories: ['Project 2025', 'DOGE', 'Courts'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-04-08',
+    title: 'Supreme Court blocks order requiring Trump administration to reinstate thousands of federal workers',
+    body: 'The justices acted in the administration’s emergency appeal of a ruling by a federal judge in California ordering that 16,000 probationary employees at six federal agencies be reinstated while a lawsuit plays out because their firings didn’t follow federal law.',
+    links: [
+      {
+        href: 'https://apnews.com/article/supreme-court-trump-mass-firings-02e218d2b7ee59925ddcb597b6b0a4fe',
+        linkText: 'Associated Press'
+      },
+      {
+        href: 'https://www.npr.org/2025/04/08/nx-s1-5351799/scotus-probationary-workers',
+        linkText: 'NPR'
+      },
+    ],
+  },
+
+  {
+    id: 'SCOTUS_Boost',
+    categories: ['Project 2025', 'Immigration', 'Courts'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-04-08',
+    title: 'Supreme Court gives boost to Trump administration\'s deportation plans under Alien Enemies Act',
+    body: 'The ruling said a judge can\'t block Trump’s plan nationwide but made it clear that people swept up must have a chance to challenge their seizures before they can be deported.',
+    links: [
+      {
+        href: 'https://www.nbcnews.com/politics/supreme-court/supreme-court-gives-boost-trump-deportation-plans-alien-enemies-act-rcna198585',
+        linkText: 'NBC'
+      },
+    ],
+  },
+
+  {
+    id: 'Status_Revoked',
+    categories: ['Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-08',
+    title: 'Legal status revoked for 985,000 migrants who entered US under Biden-era CBP One app',
+    body: 'Roughly 985,000 people used the app to make appointments at a port of entry at the border, with those who entered often permitted to seek asylum and given temporary work authorization.',
+    links: [
+      {
+        href: 'https://thehill.com/policy/national-security/5237720-trump-immigration-crackdown-dhs-parole-protections-migrants-biden-cbp-one-app-southern-border/',
+        linkText: 'The Hill'
+      },
+    ],
+  },
+
+
+  {
+    id: 'IRS_ICE_Resign',
+    categories: ['Project 2025', 'Immigration', 'Resist'],
+    color: 'green',
+    faicon: 'plane',
+    date: '2025-04-08',
+    title: 'IRS acting commissioner is resigning after deal to share immigrants’ tax information with ICE',
+    body: 'The IRS has seen a string of resignations over Trump administration decisions to share taxpayer data.',
+    links: [
+      {
+        href: 'https://apnews.com/article/irs-ice-immigration-enforcement-trump-d2ac6f7ac0a1f60e907cd3b52d0db34d',
+        linkText: 'Associated Press'
+      },
+    ],
+  },
+
+  {
+    id: 'IRS_ICE_Share',
+    categories: ['Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-08',
+    title: 'IRS, DHS reach deal on information sharing on migrants',
+    body: 'The agreement will allow the IRS to share the current addresses of migrants who have been ordered removed from the country within the past 90 days',
+    links: [
+      {
+        href: 'https://thehill.com/homenews/administration/5238271-irs-dhs-immigration-enforcement/',
+        linkText: 'The Hill'
+      },
+    ],
+  },
+
+  {
     id: 'DOGE_Hackable_Records',
     categories: ['Project 2025', 'DOGE'],
     color: 'red',
@@ -48,7 +149,7 @@ const entries = [
 
 
   {
-    id: 'Citizenship_Wont_Save_You',
+    id: 'Tariffs_South_Africa',
     categories: ['Project 2025', 'Tariff War', 'Global'],
     color: 'red',
     faicon: 'globe',
@@ -92,6 +193,11 @@ const entries = [
         href: 'https://www.theguardian.com/world/2025/apr/08/china-vows-to-fight-to-the-end-against-latest-trump-tariff-threat',
         linkText: 'The Guardian',
       },
+
+      {
+        href: 'https://apnews.com/article/china-us-tariffs-trade-trump-b5010acb08114304d8c36267b47eda13',
+        linkText: 'Associated Press',
+      },
     ],
   },
 
@@ -107,6 +213,22 @@ const entries = [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/08/musk-trump-tariffs',
         linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
+    id: 'Navarro_Dismisses_Musk',
+    categories: ['Project 2025', 'FAFO', 'DOGE', 'Tariff War'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-04-08',
+    title: 'Trump adviser Navarro dismisses Musk as \'car assembler\' after tariff comments',
+    body: 'Peter Navarro, President Donald Trump\'s top trade adviser, on Monday dismissed tech-billionaire Elon Musk\'s push for "zero tariffs" between the United States and Europe, calling the Tesla CEO a "car assembler" reliant on parts from other countries.',
+    links: [
+      {
+        href: 'https://www.reuters.com/world/us/trump-adviser-navarro-dismisses-musk-car-assembler-after-tariff-comments-2025-04-07/',
+        linkText: 'Reuters',
       },
     ],
   },
