@@ -29,15 +29,208 @@ const entries = [
   //DOGE & J6 = Fascism
   //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
+  {
+    id: 'AZ_National_Guard_ACLU',
+    categories: ['Resist', 'Project 2025', 'FAFO', 'Civil Liberties', 'Fascism'],
+    color: 'green',
+    faicon: 'plane',
+    date: '2025-04-09',
+    title: 'ACLU Decries Governor’s Authorization of National Guard and APD Collaboration ',
+    body: 'The organization expressed serious concerns that militarizing civilian law enforcement will lead to civil rights violations and further criminalize homelessness rather than address the root causes of public safety issues.',
+    links: [
+      {
+        href: 'https://www.aclu-nm.org/en/press-releases/aclu-decries-governors-authorization-national-guard-and-apd-collaboration',
+        linkText: 'ACLU'
+      },
+    ],
+  },
 
   {
-    id: '104%_China',
+    id: 'Big_Tech_EU',
+    categories: ['FAFO', 'Project 2025', 'Tariff War', 'Global', 'Economy'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-04-09',
+    title: 'Big Tech probes non-negotiable in US trade talks, Brussels warns',
+    body: 'The European Union will not make any concessions on its digital and technology rules as part of any trade negotiations with the United State.',
+    links: [
+      {
+        href: 'https://www.euronews.com/my-europe/2025/04/08/big-tech-probes-non-negotiable-in-us-trade-talks-brussels-warns',
+        linkText: 'Euronews'
+      },
+    ],
+  },
+
+  {
+    id: 'Monitoring_Immigrants',
+    categories: ['Immigration', 'Project 2025', 'Orwell', 'Civil Liberties', 'Fascism'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-09',
+    title: 'U.S. says it is now monitoring immigrants\' social media for antisemitism',
+    body: 'The screenings will affect people applying for permanent residence status as well as foreigners affiliated with educational institutions. The policy will go into effect immediately.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/04/09/g-s1-59149/immigrants-social-media-antisemitism-dhs',
+        linkText: 'NPR'
+      },
+    ],
+  },
+
+
+  {
+    id: 'Musk_Conflict',
+    categories: ['Project 2025', 'FAFO', 'DOGE', 'Economy'],
+    color: 'green',
+    faicon: 'poo',
+    date: '2025-04-09',
+    title: 'US senator introduces conflict of interest bill aimed at Elon Musk',
+    body: 'Democrat Jeanne Shaheen of New Hampshire seeks to set limits on special government employees in response to Musk’s White House role.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/09/musk-doge-conflict-of-interest-bill-senate',
+        linkText: 'The Guardian'
+      },
+    ],
+  },
+
+  {
+    id: 'Kissing_Ass',
+    categories: ['Project 2025', 'Tariff War', 'Global', 'Economy'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-09',
+    title: 'Trump brags world leaders are ‘kissing my ass’ as tariff chaos rocks markets',
+    body: 'President boasts at National Republican Congressional Committee dinner: ‘I know what I’m doing’.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/09/trump-address-republicans-china-tariffs',
+        linkText: 'The Guardian'
+      },
+    ],
+  },
+
+  {
+    id: 'China_125',
+    categories: ['Project 2025', 'Tariff War', 'Global', 'Economy'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-09',
+    title: 'Trump raises tariffs on China to 125% but announces 90-day pause for other countries',
+    body: 'Stocks surge after US president makes the announcement on Truth Social.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/business/live/2025/apr/09/stock-share-markets-us-china-trade-trump-tariffs-business-news-live-updates',
+        linkText: 'The Guardian'
+      },
+    ],
+  },
+
+
+  {
+    id: 'Apple_Not_USA',
+    categories: ['FAFO', 'Project 2025', 'Tariff War', 'Global', 'Economy'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-09',
+    title: 'White House insists iPhones will be US-made – but Apple calls it a non-starter',
+    body: 'Experts doubt Trump line that tariffs and company’s $500bn investment will shift manufacturing from Asia.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/09/trump-apple-iphones-made-in-usa',
+        linkText: 'The Guardian'
+      },
+    ],
+  },
+
+  {
+    id: 'EU_Retalitory_25',
+    categories: ['FAFO', 'Project 2025', 'Tariff War', 'Global', 'Resist'],
+    color: 'green',
+    faicon: 'poo',
+    date: '2025-04-09',
+    title: 'EU to impose retaliatory 25% tariffs on US goods from almonds to yachts',
+    body: 'Bloc says it ‘considers US tariffs unjustified and damaging, causing economic harm to both sides’',
+    links: [
+      {
+        href: 'https://www.theguardian.com/world/2025/apr/09/eu-to-impose-retaliatory-25-tariffs-on-us-goods-from-almonds-to-yachts',
+        linkText: 'The Guardian'
+      },
+    ],
+  },
+
+  {
+    id: 'US_Unwelcome',
+    categories: ['FAFO', 'Project 2025'],
+    color: 'red',
+    faicon: 'poo',
+    date: '2025-04-09',
+    title: '‘Leave the Maga cap at home!’ Is the world really becoming hostile to American tourists?',
+    body: 'As reservations for travellers heading from the US to Europe fall, some have suggested it’s about more than Trump’s tariffs.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/travel/2025/apr/09/leave-the-maga-cap-at-home-is-the-world-really-becoming-hostile-to-american-tourists',
+        linkText: 'The Guardian'
+      },
+    ],
+  },
+
+  {
+    id: 'USAF_Reverse_Ban',
+    categories: ['LGBTQ', 'Resist', 'Project 2025'],
+    color: 'green',
+    faicon: 'rainbow',
+    date: '2025-04-09',
+    title: 'US air force reverses ban on pronouns in email signatures and websites’',
+    body: 'Department will follow rest of Trump’s anti-DEI order while adhering to 2024 defense bill barring any pronoun policy.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/09/air-force-pronouns-ban-reversed',
+        linkText: 'The Guardian'
+      },
+    ],
+  },
+
+  {
+    id: 'ICE_Amazon',
+    categories: ['Immigration', 'Project 2025'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-09',
+    title: 'Ice director says deportations should be run like ‘Amazon Prime for human beings’',
+    body: 'Todd Lyons said he wanted US immigration agency to be ‘like a business’ in its deportation process.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/09/ice-todd-lyons-deporation-amazon',
+        linkText: 'The Guardian'
+      },
+    ],
+  },
+
+  {
+    id: 'Protests_Ban',
+    categories: ['Civil Liberties', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-04-09',
+    title: 'US intensifies crackdown on peaceful protest under Trump',
+    body: 'Forty-one anti-protest bills in 22 states have been introduced since start of 2025, according to law tracker.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/2025/apr/09/anti-protest-bills-trump',
+        linkText: 'The Guardian'
+      },
+    ],
+  },
+
+  {
+    id: '104_China',
     categories: ['Project 2025', 'Tariff War', 'WW3'],
     color: 'red',
     faicon: 'landmark',
     date: '2025-04-08',
     title: 'US ready to impose massive tariffs on China',
-    body: 'Trump is set to impose an astounding 104% in levies across all Chinese imports',
+    body: 'Trump is set to impose an astounding 104% in levies across all Chinese imports.',
     links: [
       {
         href: 'https://www.cnn.com/politics/live-news/trump-presidency-administration-news-tariffs-04-08-25',
@@ -62,6 +255,22 @@ const entries = [
       {
         href: 'https://www.npr.org/2025/04/08/nx-s1-5351799/scotus-probationary-workers',
         linkText: 'NPR'
+      },
+    ],
+  },
+
+  {
+    id: 'MN_ICE',
+    categories: ['Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-04-08',
+    title: 'Minnesota sheriffs ink new agreements with ICE to identify immigrants for deportation',
+    body: 'Five Minnesota sheriff’s offices have entered cooperation agreements with U.S. Immigration and Customs Enforcement, bringing a controversial program coordinating local law enforcement and federal immigration agents to the North Star State. ',
+    links: [
+      {
+        href: 'https://www.mprnews.org/story/2025/04/08/minnesota-sheriffs-ink-new-agreements-with-ice',
+        linkText: 'MPR'
       },
     ],
   },
