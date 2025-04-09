@@ -3151,7 +3151,7 @@ const entries = [
     id: 'SignalGate5',
     categories: ['Project 2025', 'Global', 'WW3', 'FAFO', 'Resist'],
     color: 'green',
-    faicon: 'globe',
+    faicon: 'poo',
     date: '2025-03-25',
     title: '‘Nobody is above the law’: Trump officials who criticized Clinton’s emails now under scrutiny for leaked war plans',
     body: 'The mistake amounts to an unprecedented breach of security by some of President Donald Trump’s most senior national security officials and raises questions about whether they violated the Espionage Act, which makes it illegal to mishandle national defense information.',
