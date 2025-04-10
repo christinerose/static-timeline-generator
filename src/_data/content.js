@@ -27,10 +27,217 @@ const entries = [
 
   //Layoffs, DOGE work, restructuring, etc. = Project 2025
   //DOGE & J6 = Fascism
-  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
+ 
+ //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
 
+ {
+  id: '4m_Cut_Climate',
+  categories: ['Project 2025', 'Climate'],
+  color: 'red',
+  faicon: 'radiation',
+  date: '2025-04-10',
+  title: 'Trump administration cuts $4m to Princeton’s climate research funding',
+  body: 'White House claims university’s work exposed students to ‘climate anxiety’ and ‘exaggerated climate threats’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/10/trump-administration-cuts-princeton-climate-research-funding',
+      linkText: 'The Guardian'
+    },
+  ],
+},
 
+ {
+  id: 'Drain_Swamp_Act',
+  categories: ['FAFO', 'Resist'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-10',
+  title: 'Ro Khanna introduces ‘Drain the Swamp Act’ to enforce anti-corruption measures in White House',
+  body: 'Legislation, named after 2016 Trump slogan, would ban lobbyist gifts and ‘revolving door’ restrictions.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/10/ro-khanna-trump-drain-the-swamp-act',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Egg_Prices_Record',
+  categories: ['Project 2025', 'FAFO', 'Resist', 'Economy', 'Tariff War'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-10',
+  title: 'US egg prices break record high for third consecutive month even as inflation drops',
+  body: 'Breaking a record high for the third consecutive month, the average cost of a dozen large eggs hit $6.23 in March – more than double the price just 12 months earlier.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/food/2025/apr/10/egg-prices-break-record-high-consecutive-months-inflation',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Good_Shape',
+  categories: ['Project 2025', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'flag',
+  date: '2025-04-10',
+  title: 'US House passes bill requiring people to prove citizenship in order to vote',
+  body: 'Supporters say bill is aimed at preventing noncitizens from voting in US elections, but critics say it’s voter suppressDeprecationWarnings.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/10/safeguard-american-voter-act-house-bill',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Good_Shape',
+  categories: ['Project 2025', 'Economy', 'Tariff War'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-04-10',
+  title: 'Trump dismisses tariff turmoil as ‘transition problems’ and claims ‘we’re in very good shape’',
+  body: 'President claims US economy doing ‘very well’ after Janet Yellen says policies are ‘worst self-inflicted wound’ on a well-functioning economy.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/live/2025/apr/10/donald-trump-executive-order-shipping-tariffs-pause-us-politics-latest-updates-news',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Stocks_Fall_Again',
+  categories: ['Project 2025', 'Economy', 'Tariff War'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-04-10',
+  title: 'US stocks fall again after rally following Trump’s shock retreat on tariffs',
+  body: 'Sell-off comes amid anger from Democrats over retreat that rattled markets, while Republicans praise Trump’s ‘art of the deal’ in action.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/10/trump-tariffs-reaction-republicans-democrats',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Insider_Trading_Accusations',
+  categories: ['Project 2025', 'FAFO', 'Resist', 'Economy', 'Tariff War'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-10',
+  title: 'Trump ignites ‘insider trading’ accusations after global tariffs U-turn',
+  body: 'US president posted it was ‘a great time to buy’ on social media just hours before pausing tariff impositions.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/10/donald-trump-ignites-insider-trading-accusations-after-global-tariffs-u-turn',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: '600_Student_Visas',
+  categories: ['Project 2025', 'Immigration', 'Education'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-10',
+  title: 'US government has revoked more than 600 student visas',
+  body: 'Some cases were related to activism and participation in protests against Gaza war, others were for \'minor crimes\’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/10/how-many-student-visas-revoked',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+  {
+    id: 'China_Tariffs_145',
+    categories: ['Project 2025', 'Tariff War', 'Economy', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-10',
+    title: 'US tariffs on China now 145%, as Trump’s policy branded ‘worst self-inflicted wound’ by any successful economy',
+    body: 'Total combines Trump’s ‘reciprocal’ tariffs of 125% and the 20% fentanyl levy, while former US treasury chief criticises Trump’s economic policy.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/business/live/2025/apr/10/trump-tariffs-us-china-eu-trade-war-markets-latest-news-updates',
+        linkText: 'The Guardian'
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Global_Economy',
+    categories: ['Project 2025', 'Insurrection Act', 'Fascism'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-04-10',
+    title: 'Will Trump Declare Martial Law? April 19 Protests Spark National Concern',
+    body: 'As demonstrations are expected to erupt nationwide in protest of President Trump’s administration on April 19, fears are mounting over whether President Donald Trump could invoke martial law to maintain control—a move that would dramatically escalate tensions in an already volatile political environment.',
+    links: [
+      {
+        href: 'https://www.fingerlakes1.com/2025/04/10/trump-martial-law-april-19-protests/',
+        linkText: 'Finger Lakes'
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Global_Economy',
+    categories: ['Project 2025', 'Tariff War', 'Economy', 'Global'],
+    color: 'red',
+    faicon: 'globe',
+    date: '2025-04-10',
+    title: 'The week that Trump pushed the global economy to the brink with tariffs — and then pulled back',
+    body: 'The Republican president, of his own doing, had single-handedly pushed the global economy to the brink of chaos with new tariffs. The stock market cratered, businesses tore up their plans and foreign leaders prepared for a future without the world’s richest nation at the center of international trade.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-tariffs-economy-one-week-liberation-day-1aad750dc90829f07473fe17f913b8ba',
+        linkText: 'Associated Press'
+      },
+    ],
+  },
+
+  {
+    id: 'House_Limit_Injunctions',
+    categories: ['Fascism', 'Courts'],
+    color: 'red',
+    faicon: 'landmark',
+    date: '2025-04-09',
+    title: 'House passes bill to limit nationwide injunctions',
+    body: 'The House passed a bill Wednesday that would curtail the power of federal district judges to issue nationwide injunctions, the most high-profile legislative pushback from Republicans to a string of rulings that have stymied certain executive actions from the Trump administration.',
+    links: [
+      {
+        href: 'https://rollcall.com/2025/04/09/house-passes-bill-to-limit-nationwide-injunctions/',
+        linkText: 'Roll Call'
+      },
+    ],
+  },
+
+  {
+    id: 'House_Prevent_Votes',
+    categories: ['Project 2025', 'Tariff War', 'Economy'],
+    color: 'red',
+    faicon: 'coins',
+    date: '2025-04-09',
+    title: 'House GOP moves to prevent votes on rescinding Trump tariffs',
+    body: 'House Republicans are exhausting all legislative tools to prevent future votes on repealing President Donald Trump\'s tariffs',
+    links: [
+      {
+        href: 'https://abcnews.go.com/Politics/house-gop-moves-prevent-votes-rescinding-trump-tariffs/story?id=120644968',
+        linkText: 'ABC'
+      },
+    ],
+  },
   
   {
     id: 'AZ_National_Guard_ACLU',
@@ -38,7 +245,7 @@ const entries = [
     color: 'green',
     faicon: 'plane',
     date: '2025-04-09',
-    title: 'ACLU Decries Governor’s Authorization of National Guard and APD Collaboration ',
+    title: 'ACLU Decries Governor’s Authorization of National Guard and APD Collaboration',
     body: 'The organization expressed serious concerns that militarizing civilian law enforcement will lead to civil rights violations and further criminalize homelessness rather than address the root causes of public safety issues.',
     links: [
       {
@@ -222,6 +429,22 @@ const entries = [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/09/anti-protest-bills-trump',
         linkText: 'The Guardian'
+      },
+    ],
+  },
+
+  {
+    id: 'Anti-Trump_Sentiment',
+    categories: ['Project 2025', 'FAFO', 'Resist'],
+    color: 'green',
+    faicon: 'jedi',
+    date: '2025-04-08',
+    title: 'Anti-Trump sentiments mounting? Massive protests planned in 50 US states and over 11 million expected to take part',
+    body: 'A massive wave of protests is expected to sweep across the United States on April 19, 2025 as the grassroots organization 50501 prepares for another coordinated day of action against President Donald Trump’s administration.',
+    links: [
+      {
+        href: 'https://economictimes.indiatimes.com/news/international/global-trends/anti-trump-sentiments-mounting-massive-protests-april-19-planned-in-50-us-states-and-over-11-million-expected-to-take-part/articleshow/120128509.cms?from=mdr',
+        linkText: 'Economic Times'
       },
     ],
   },
@@ -3742,6 +3965,22 @@ const entries = [
   },
 
   {
+    id: 'Pass_No_Return',
+    categories: ['Fascism', 'Civil Liberties', 'Insurrection Act', 'Project 2025'],
+    color: 'red',
+    faicon: 'flag',
+    date: '2025-03-05',
+    title: 'On April 20th, 2025, the United States may Cross the Point of No Return.',
+    body: 'That’s the day Donald Trump’s advisory committee is expected to release its findings on whether he should invoke the Insurrection Act',
+    links: [
+      {
+        href: 'https://medium.com/@aletheisthenes/on-april-20th-2025-the-united-states-will-cross-the-point-of-no-return-0aecac04cfc3',
+        linkText: 'Medium',
+      },
+    ],
+  },
+
+  {
     id: 'Fight_Dems',
     categories: ['Tiddlywinks', 'Resist'],
     color: 'green',
@@ -7046,8 +7285,8 @@ const entries = [
   },
 
   {
-    id: 'Insurrection_Act?',
-    categories: ['Civil Liberties', 'Fascism', 'Immigration'],
+    id: 'Insurrection_Act_Possible',
+    categories: ['Civil Liberties', 'Fascism', 'Immigration', 'Insurrection Act', 'Project 2025'],
     color: 'red',
     faicon: 'fire',
     date: '2025-03-05',
