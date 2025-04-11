@@ -31,6 +31,216 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
 
+
+ {
+  id: 'RI_Royal_Charter',
+  categories: ['Project 2025', 'Tariff War', 'FAFO', 'Resist'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-04-11',
+  title: 'RI rep suggests using 1663 ‘royal charter’ to circumvent Trump tariffs',
+  body: 'The 1663 document, granted by King Charles II, gave the governor and “all successors” the power to oversee trade with “other colonies,” but its not clear what that would mean now.',
+  links: [
+    {
+      href: 'https://www.abc6.com/ri-rep-suggests-using-1663-royal-charter-to-circumvent-trump-tariffs/',
+      linkText: 'ABC'
+    },
+  ],
+},
+
+ {
+  id: 'Bonds_Scare_Trump',
+  categories: ['Project 2025', 'Tariff War', 'FAFO'],
+  color: 'red',
+  faicon: 'poo',
+  date: '2025-04-11',
+  title: 'What are bonds and why have they spooked Donald Trump?',
+  body: 'The reason the US president had to back down on tariffs once investors started dumping treasury bonds.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/business/2025/apr/11/what-are-bonds-and-why-have-they-spooked-donald-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+ {
+  id: 'Great_Optimism',
+  categories: ['Project 2025', 'Tariff War', 'Orwell'],
+  color: 'red',
+  faicon: 'pig',
+  date: '2025-04-11',
+  title: 'White House says there is ‘great optimism’ in the economy despite ongoing market volatility',
+  body: 'It’s a line the White House continues to repeat even as volatility in the stock market appears to have rattled investors.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/business/live/2025/apr/11/donald-trump-tariffs-trade-war-us-china-markets-latest-news-updates',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Greenland_Head_Fired',
+  categories: ['Project 2025', 'Global', 'Fascism'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-11',
+  title: 'Head of US military base in Greenland fired after JD Vance visit',
+  body: 'The head of the US military base in Greenland has been fired for criticising Washington’s agenda for the Arctic island after JD Vance visited two weeks ago.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/11/col-susannah-meyers-head-of-us-military-base-greenland-fired-after-jd-vance-visit',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: '2000_iPhone',
+  categories: ['Project 2025', 'Tariff War', 'Economy', 'FAFO'],
+  color: 'red',
+  faicon: 'poo',
+  date: '2025-04-11',
+  title: '$2,150 for an iPhone? Trump tariffs are ‘category 5 price storm’',
+  body: 'US is not set up to supply mobile phones and would cost estimated $30bn to move just 10% of chain from China.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/11/iphone-apple-trump-tariffs-tech-us-china',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Fetus_Rights_FL_KS',
+  categories: ['Project 2025', 'Health', 'Fascism', 'Women'],
+  color: 'red',
+  faicon: 'venus',
+  date: '2025-04-11',
+  title: 'States advance fetal rights measures that critics warn will pave a path for outlawing abortions',
+  body: 'A new Kansas law and a Florida bill outline policies backed by abortion opponents that critics see as moves toward giving embryos and fetuses the same rights as the women carrying them.',
+  links: [
+    {
+      href: 'https://apnews.com/article/florida-kansas-abortion-fetal-personhood-reproductive-rights-91672d650d79c596efdc8030bd975aca',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'Dems_Insider_Trading_Investigation',
+  categories: ['Project 2025', 'Tariff War', 'Economy', 'Tiddlywinks', 'Resist', 'FAFO'],
+  color: 'green',
+  faicon: 'democrat',
+  date: '2025-04-11',
+  title: 'Democrats call for insider trading investigation over Trump’s tariff pause',
+  body: 'Elizabeth Warren and other senators urge SEC to look into whether president engaged in market manipulation.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/11/trump-tariffs-insider-trading-investigation',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Tariff_War_Doing_Well',
+  categories: ['Project 2025', 'Tariff War', 'Economy', 'Orwell'],
+  color: 'red',
+  faicon: 'pig',
+  date: '2025-04-11',
+  title: 'Trump insists tariff war is ‘doing really well’ as recession fears mount',
+  body: 'Wall Street experts warn of continued economic turbulence as countries scramble to make deals with US president.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/11/trump-tariffs-china-recession',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Where_Man_ElSalvador',
+  categories: ['Project 2025', 'Immigration', 'Fascism', 'Courts'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-11',
+  title: 'Trump DoJ unable to tell court where man wrongly deported to El Salvador is',
+  body: 'US judge calls administration’s failure to comply with court order ‘extremely troubling’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/11/trump-deportation-el-salvador-kilmar-abrego-garcia',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'War_Universities',
+  categories: ['Project 2025', 'Immigration', 'Civil Liberties', 'Education'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-11',
+  title: '‘A huge cudgel’: alarm as Trump’s war on universities could target accreditors',
+  body: '‘Advocates for academic freedom are bracing for what they expect to be the next phase of the government’s effort to reshape higher education: an overhaul of the system accrediting institutions of higher learning.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/11/trump-war-on-universities',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Insider_Trading_BreakDown',
+  categories: ['Project 2025', 'Tariff War', 'FAFO', 'Resist'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-10',
+  title: 'Breaking Down the ‘Insider Trading’ Accusations Leveled at Trump After Tariffs U-Turn',
+  body: 'Rep. Alexandria Ocasio-Cortez spoke out, calling for all members of Congress to disclose any stocks they had bought in the past 24 hours.',
+  links: [
+    {
+      href: 'https://time.com/7276515/explaining-insider-trading-accusations-leveled-at-trump-tariffs-pause/',
+      linkText: 'Time'
+    },
+  ],
+},
+
+{
+  id: 'Musk_Lowers_DOGE',
+  categories: ['Project 2025', 'DOGE', 'FAFO'],
+  color: 'red',
+  faicon: 'poo',
+  date: '2025-04-10',
+  title: 'In Cabinet Meeting, Musk Seems to Drastically Lower DOGE’s Savings Goal',
+  body: 'Musk said his group was on pace to cut $150 billion.',
+  links: [
+    {
+      href: 'https://www.nytimes.com/2025/04/10/us/politics/musk-doge-drops-goal.html',
+      linkText: 'New York Times'
+    },
+  ],
+},
+
+ {
+  id: 'Mahmoud_Khalil',
+  categories: ['Project 2025', 'Immigration', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-10',
+  title: 'Mahmoud Khalil can be expelled for his beliefs alone, US government argues',
+  body: 'Marco Rubio provides two-page memo to judge who asked government for evidence against Columbia student activist.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/10/mahmoud-khalil-memo-marco-rubio-deport-beliefs',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
  {
   id: '4m_Cut_Climate',
   categories: ['Project 2025', 'Climate'],
@@ -80,7 +290,7 @@ const entries = [
 },
 
  {
-  id: 'Good_Shape',
+  id: 'Prove_Citizenship',
   categories: ['Project 2025', 'Civil Liberties'],
   color: 'red',
   faicon: 'flag',
@@ -97,9 +307,9 @@ const entries = [
 
  {
   id: 'Good_Shape',
-  categories: ['Project 2025', 'Economy', 'Tariff War'],
+  categories: ['Project 2025', 'Economy', 'Tariff War', 'Orwell'],
   color: 'red',
-  faicon: 'coins',
+  faicon: 'pig',
   date: '2025-04-10',
   title: 'Trump dismisses tariff turmoil as ‘transition problems’ and claims ‘we’re in very good shape’',
   body: 'President claims US economy doing ‘very well’ after Janet Yellen says policies are ‘worst self-inflicted wound’ on a well-functioning economy.',
@@ -176,7 +386,7 @@ const entries = [
   },
 
   {
-    id: 'Trump_Global_Economy',
+    id: 'Martial_Law_Coming',
     categories: ['Project 2025', 'Insurrection Act', 'Fascism'],
     color: 'red',
     faicon: 'fire',
@@ -482,10 +692,26 @@ const entries = [
   },
 
   {
-    id: '104_China',
-    categories: ['Project 2025', 'Tariff War', 'WW3'],
+    id: 'Scrap_Crypto',
+    categories: ['Project 2025', 'Tariff War', 'Economy'],
     color: 'red',
-    faicon: 'landmark',
+    faicon: 'hammer',
+    date: '2025-04-08',
+    title: 'Justice Department scraps crypto unit as Trump further loosens oversight of digital assets',
+    body: 'The U.S. Department of Justice notified staff on Monday evening that the agency was disbanding a unit dedicated to crypto-related investigations.',
+    links: [
+      {
+        href: 'https://fortune.com/crypto/2025/04/08/doj-ncet-disbands-memo-todd-blanche-trump/',
+        linkText: 'Fortune'
+      },
+    ],
+  },
+
+  {
+    id: '104_China',
+    categories: ['Project 2025', 'Tariff War', 'WW3', 'Global'],
+    color: 'red',
+    faicon: 'globe',
     date: '2025-04-08',
     title: 'US ready to impose massive tariffs on China',
     body: 'Trump is set to impose an astounding 104% in levies across all Chinese imports.',
@@ -792,6 +1018,11 @@ const entries = [
       {
         href: 'https://ktvz.com/news/madras/2025/04/07/citing-heightened-safety-fears-latino-community-association-cancels-this-falls-central-oregon-latino-fest/',
         linkText: 'KTVZ',
+      },
+
+      {
+        href: 'https://katu.com/news/local/portland-cinco-de-mayo-fiesta-proceed-planned-amid-safety-concerns-events-immigration-ice-trump-musk-doge-cultural-racism-customs-enforcement-rights-bias-anti-national',
+        linkText: 'KATU',
       },
     ],
   },
@@ -1515,6 +1746,11 @@ const entries = [
         href: 'https://www.newsweek.com/california-newsom-trade-trump-tariffs-2055414',
         linkText: 'Newsweek',
       },
+      {
+        href: 'https://www.usatoday.com/story/news/nation/california/2025/04/04/gavin-newsom-governor-california-urges-goods-free-from-retaliatory-tariffs-under-trump-newsom-news/82869981007/',
+        linkText: 'USA Today',
+      },
+
     ],
   },
 
