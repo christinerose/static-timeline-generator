@@ -31,6 +31,21 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
 
+ {
+  id: 'China_Raises_Duties',
+  categories: ['Project 2025', 'Tariff War', 'FAFO', 'Resist', 'Global', 'Economy'],
+  color: 'green',
+  faicon: 'globe',
+  date: '2025-04-11',
+  title: 'China raises duties on US goods to 125%, calls Trump tariff hikes a \'joke\'',
+  body: 'China hiked its levies on imports of U.S. goods to 125% on Friday, hitting back at Donald Trump\'s decision to single out the world\'s No.2 economy for higher duties, while dismissing the U.S. president\'s tariff strategy as "a joke."',
+  links: [
+    {
+      href: 'https://www.reuters.com/world/china/china-increase-tariffs-us-goods-125-up-84-finance-ministry-says-2025-04-11/',
+      linkText: 'Reuters'
+    },
+  ],
+},
 
  {
   id: 'RI_Royal_Charter',
@@ -820,6 +835,22 @@ const entries = [
       {
         href: 'https://thehill.com/homenews/administration/5238271-irs-dhs-immigration-enforcement/',
         linkText: 'The Hill'
+      },
+    ],
+  },
+
+  {
+    id: 'DOGE_Shutter_Tax',
+    categories: ['Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-04-08',
+    title: 'DOGE to Shutter DOJ Tax Division',
+    body: 'DOGE is in the process of gutting the IRS. This internal sabotage is already estimated to have cost the U.S. Treasury more than $500 billion in revenues that otherwise would have been raised by April 15th.',
+    links: [
+      {
+        href: 'https://talkingpointsmemo.com/edblog/doge-to-shutter-doj-tax-division',
+        linkText: 'Talking Points Memo'
       },
     ],
   },
@@ -4103,6 +4134,22 @@ const entries = [
       {
         href: 'https://www.npr.org/2025/03/22/nx-s1-5337214/dhs-revokes-humanitarian-parole-cubans-haitians-nicaraguans-venezuelans',
         linkText: 'NPR',
+      },
+    ],
+  },
+
+  {
+    id: 'Tax_Revenue_Drop',
+    categories: ['Project 2025', 'DOGE'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-03-22',
+    title: 'Tax revenue coult drop by 10 percent amid turmoil at IRS',
+    body: 'Staff cuts and disruptions related to the U.S. DOGE Service have officials bracing for a sharp loss of revenue.',
+    links: [
+      {
+        href: 'https://www.washingtonpost.com/business/2025/03/22/irs-tax-revenue-loss-federal-budget/',
+        linkText: 'Washington Post',
       },
     ],
   },
