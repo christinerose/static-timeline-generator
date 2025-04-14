@@ -31,6 +31,40 @@ const entries = [
  
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
+
+
+ {
+  id: 'GOP_Pressure_4Ukraine',
+  categories: ['Project 2025', 'Resist', 'Global', 'WW3'],
+  color: 'green',
+  faicon: 'globe',
+  date: '2025-04-14',
+  title: 'Republican supporters of Ukraine put pressure on Trump after missile strikes',
+  body: 'Lawmakers use Kremlin’s deadly attacks as latest evidence to convince president he must increase pressure on Putin.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/14/republicans-trump-ukraine',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+ 
+ {
+  id: 'Student_Leader_Arrested_ICE',
+  categories: ['Project 2025', 'Resist', 'Global'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-14',
+  title: 'Palestinian Student Leader was Called in for Citizenship Interview - Then Arrested by ICE',
+  body: 'A geen card holder, Columbia University protest leader Mohsen Mahdawi faced attacks from pro-Israel activists.',
+  links: [
+    {
+      href: 'https://theintercept.com/2025/04/14/ice-columbia-student-mohsen-mahdawi-citizenship-interview/',
+      linkText: 'The Intercept'
+    },
+  ],
+},
+
  {
   id: 'Golman_Sachs_Recession',
   categories: ['Project 2025', 'Trade War', 'Economy', 'Global'],
@@ -38,7 +72,7 @@ const entries = [
   faicon: 'coins',
   date: '2025-04-14',
   title: 'Goldman Sachs boss says chances of US recession have increased after Trump tariffs',
-  body: 'David Solomon warns that escalating trade war poses ‘material risks’ for US and global growth',
+  body: 'David Solomon warns that escalating trade war poses ‘material risks’ for US and global growth.',
   links: [
     {
       href: 'https://www.theguardian.com/us-news/2025/apr/14goldman-sachs-boss-says-chances-of-us-recession-has-increased-after-trumps-tariffs',
