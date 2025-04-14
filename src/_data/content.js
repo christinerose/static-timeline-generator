@@ -161,6 +161,7 @@ const entries = [
       href: 'https://www.npr.org/2025/04/14/nx-s1-5361119/the-worlds-coolest-dictator-heads-to-the-white-house',
       linkText: 'NPR'
     },
+  ],
 },
 
  {
