@@ -31,7 +31,6 @@ const entries = [
  
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
-
  {
   id: 'Golman_Sachs_Recession',
   categories: ['Project 2025', 'Trade War', 'Economy', 'Global'],
@@ -42,7 +41,7 @@ const entries = [
   body: 'David Solomon warns that escalating trade war poses ‘material risks’ for US and global growth',
   links: [
     {
-      href: 'https://www.theguardian.com/us-news/2025/apr/14/goldman-sachs-boss-says-chances-of-us-recession-has-increased-after-trumps-tariffs',
+      href: 'https://www.theguardian.com/us-news/2025/apr/14goldman-sachs-boss-says-chances-of-us-recession-has-increased-after-trumps-tariffs',
       linkText: 'The Guardian'
     },
   ],
