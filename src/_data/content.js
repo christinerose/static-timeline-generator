@@ -32,6 +32,21 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
 
+ {
+  id: 'Slash_State_Budget',
+  categories: ['Project 2025', 'Economy', 'Global'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-14',
+  title: 'Trump memo outlines plan to slash US state department budget in half',
+  body: 'Cuts would mean dramatic decreases in funding for humanitarian aid, global health and international groups.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/14/trump-white-house-state-department-budget',
+      linkText: 'The Guardian'
+    },
+  ],
+},
 
  {
   id: 'GOP_Pressure_4Ukraine',
