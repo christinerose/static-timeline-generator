@@ -24,12 +24,241 @@ const entries = [
   //Economy = coins
   //Civil Liberties = flag
   //Orwell = eye
+  //Civil War = gun
 
   //Layoffs, DOGE work, restructuring, etc. = Project 2025
   //DOGE & J6 = Fascism
  
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
+
+ {
+  id: 'Golman_Sachs_Recession',
+  categories: ['Project 2025', 'Trade War', 'Economy', 'Global'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-04-14',
+  title: 'Goldman Sachs boss says chances of US recession have increased after Trump tariffs',
+  body: 'David Solomon warns that escalating trade war poses ‘material risks’ for US and global growth',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/14/goldman-sachs-boss-says-chances-of-us-recession-has-increased-after-trumps-tariffs',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Troops_At_Border',
+  categories: ['Project 2025', 'Immigration', 'Fascism'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-14',
+  title: 'Troops arrive at the border to help with enforcement despite fewer migrant crossings',
+  body: 'The Trump administration has deployed some 10,000 active-duty soldiers (in a town with 6,000 residents) – a move that\'s part of the president\'s campaign promise to stop irregular crossings into the United States.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/04/14/nx-s1-5336226/troop-border-immigration-army-patrol-texas',
+      linkText: 'NPR'
+    },
+  ],
+},
+
+ {
+  id: 'Military_Nazis',
+  categories: ['Fascism', 'Civil War', 'Discrimination', 'J6'],
+  color: 'red',
+  faicon: 'skull',
+  date: '2025-04-14',
+  title: 'Fears over extremism in US military as soldier revealed as neo-Nazi TikTok follower',
+  body: 'US army investigates after young private follows the Base, which has vowed to recruit soldiers for so-called race war.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/14/us-military-extremism-the-base',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Threaten_Smartphones',
+  categories: ['Project 2025', 'Global', 'Trade War', 'Economy'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-04-14',
+  title: '‘The sky won’t fall’: China plays down Trump tariff risks as stock markets rally',
+  body: 'Chinese customs official says trade has diversified away from US in recent years and plays up its ‘vast domestic market.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/business/2025/apr/14/the-sky-wont-fall-china-plays-down-trump-tariff-risks',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Meta_Monopoly',
+  categories: ['Project 2025', 'FAFO', 'Courts'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-14',
+  title: 'Meta faces antitrust claims at trial over Instagram and WhatsApp ownership',
+  body: 'Facebook parent faces threats of illegal social media monopoly after spending billions to acquire two platforms.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/technology/2025/apr/14/meta-trial-instagram-whatsapp-monopoly',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'ElSalvador_No_Return',
+  categories: ['Project 2025', 'Immigration'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-14',
+  title: 'El Salvador president refuses to order return of wrongly deported US man',
+  body: 'Trump officials claim they’re not legally bound to bring Kilmar Abrego García back despite supreme court ruling. Trump aides and El Salvador president say wrongly deported man won’t return to US: ‘No version of this ends with him living here.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/14/trump-doj-return-man-wrongly-deported-el-salvador',
+      linkText: 'The Guardian'
+    },
+
+    {
+      href: 'https://www.politico.com/news/2025/04/14/el-salvador-president-return-wrongly-deported-trump-00289234',
+      linkText: 'Politico'
+    },
+  ],
+},
+
+ {
+  id: 'Threaten_Smartphones',
+  categories: ['Project 2025', 'Trade War', 'Economy'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-04-14',
+  title: 'Trump threatens new tariffs on smartphones days after exempting them',
+  body: 'Donald Trump says Chinese-made smartphones and other electronics will not be exempt from tariffs - adding they are simply moving into a different levy "bucket".',
+  links: [
+    {
+      href: 'https://www.bbc.com/news/articles/c62z54gwd22o',
+      linkText: 'BBC'
+    },
+  ],
+},
+
+{
+  id: 'Coolest_Dictator',
+  categories: ['Project 2025', 'Immigration', 'Fascism'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-14',
+  title: 'The \'world\'s coolest dictator\' heads to the White House',
+  body: 'Nayib Bukele, El Salvador\'s president and self-styled "world\'s coolest dictator," is due to visit President Trump at the White House on Monday. He\'s the first Latin American leader to get an official invite to the Oval Office since Trump took office.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/04/14/nx-s1-5361119/the-worlds-coolest-dictator-heads-to-the-white-house',
+      linkText: 'NPR'
+    },
+},
+
+ {
+  id: 'FCC_Gold_Pin',
+  categories: ['Project 2025', 'Fascism'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-13',
+  title: 'Trump\'s FCC Chairman is Sporting a Gold Trump-Head Pin, and It\'s Eerily Similar to Historical Pins From World Dictators',
+  body: 'There are some seriously dystopian things going on in the Trump administration these days.',
+  links: [
+    {
+      href: 'https://www.buzzfeed.com/michaelabramwell/trumps-fcc-chairman-wears-gold-trumphead-pin',
+      linkText: 'BuzzFeed'
+    },
+  ],
+},
+
+{
+  id: 'Zuck_Musk_Crosswalk',
+  categories: ['Project 2025', 'DOGE', 'FAFO', 'Resist'],
+  color: 'green',
+  faicon: 'coins',
+  date: '2025-04-12',
+  title: 'Silicon Valley crosswalk buttons apparently hacked to imitate Musk, Zuckerberg voices',
+  body: 'Example: In Redwood City, a voice claiming to be Zuckerberg says that “it’s normal to feel uncomfortable or even violated as we forcefully insert AI into every facet of your conscious experience. And I just want to assure you, you don’t need to worry because there’s absolutely nothing you can do to stop it.”',
+  links: [
+    {
+      href: 'https://www.paloaltoonline.com/news/2025/04/12/silicon-valley-crosswalk-buttons-apparently-hacked-to-imitate-musk-zuckerberg-voices/',
+      linkText: 'Palo Alto Online'
+    },
+  ],
+},
+
+{
+  id: 'Lawyers_Confirm_Wrong_Deportation',
+  categories: ['Project 2025', 'Immigration', 'Fascism', 'Courts'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-11',
+  title: 'Trump lawyers confirm wrongly deported Maryland man in El Salvador prison',
+  body: 'Administration fails to show they have taken any steps to facilitate the return of Kilmar Abrego García.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/12/kilmar-abrego-garcia-wrongly-deported',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'DoJ_Wont_Tell',
+  categories: ['Project 2025', 'Immigration', 'Fascism'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-11',
+  title: 'Trump DoJ unable to tell court where man wrongly deported to El Salvador is',
+  body: 'US judge calls administration’s failure to comply with court order ‘extremely troubling’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/11/trump-deportation-el-salvador-kilmar-abrego-garcia',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Immigrant_Listed_Dead',
+  categories: ['Project 2025', 'Immigration', 'Fascism'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-11',
+  title: 'Trump administration lists thousands of living immigrants as dead to prompt them to leave',
+  body: 'Trump administration is cancelling immigrants’ names and legally obtained social security numbers, effectively wiping out their ability to work',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/11/social-security-canceled-immigrants',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'US_Halts_Beef',
+  categories: ['Project 2025', 'Tariff War', 'FAFO', 'Resist', 'Global', 'Economy'],
+  color: 'green',
+  faicon: 'coins',
+  date: '2025-04-11',
+  title: 'Tariffs war halts US beef exports to China as Australia fills the gap',
+  body: 'While some US beef has trickled into China in the past few weeks, ABC Landline has been told the trade has now ground to a halt — especially after China announced retaliation tariffs.',
+  links: [
+    {
+      href: 'https://www.abc.net.au/news/2025-04-12/us-tariffs-war-with-china-australian-beef-exports-up/105166632',
+      linkText: 'ABC'
+    },
+  ],
+},
 
  {
   id: 'China_Raises_Duties',
@@ -220,6 +449,22 @@ const entries = [
     {
       href: 'https://time.com/7276515/explaining-insider-trading-accusations-leveled-at-trump-tariffs-pause/',
       linkText: 'Time'
+    },
+  ],
+},
+
+{
+  id: 'SCOTUS_Help_Return',
+  categories: ['Project 2025', 'Courts', 'Resist', 'Immigration'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-10',
+  title: 'Supreme court orders US to help return man wrongly deported to El Salvador',
+  body: 'Justices uphold judge’s order and say Trump officials must ‘facilitate’ return of Kilmar Abrego García to United States',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/10/supreme-court-order-el-salvador',
+      linkText: 'The Guardian'
     },
   ],
 },
