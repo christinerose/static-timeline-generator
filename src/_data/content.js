@@ -22,6 +22,7 @@ const entries = [
   //Tiddlywinks = democrat
   //FAFO = poo
   //Economy = coins
+  //Tariff War = coins
   //Civil Liberties = flag
   //Orwell = eye
   //Civil War = gun
@@ -31,6 +32,54 @@ const entries = [
  
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
+
+ {
+  id: 'Judge_Weighs_Tufts',
+  categories: ['Project 2025', 'Immigration', 'Courts'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-04-14',
+  title: 'Judge weighs Tufts student\'s bid for release during challenge to detention',
+  body: 'Hundreds of students studying at American universities have had their visas taken away or were stopped from reentering the United States after they were accused of publicly expressing support for Palestinians.',
+  links: [
+    {
+      href: 'https://www.cbsnews.com/news/rumeysa-ozturk-tufts-student-ice-hearing-jurisdiction/',
+      linkText: 'CBS'
+    },
+  ],
+},
+
+ {
+  id: 'Pharmaceutical_Chip_Tariffs',
+  categories: ['Project 2025', 'Tariff War', 'Economy'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-04-14',
+  title: 'Free US family planning clinics face ruin after White House freezes funds',
+  body: 'Notices show Trump administration setting stage for levies on both sectors on national security grounds.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/14/trump-pharmaceutical-chip-imports-tariffs',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Family_Planning_Freeze',
+  categories: ['Project 2025', 'Women', 'Health'],
+  color: 'red',
+  faicon: 'venus',
+  date: '2025-04-14',
+  title: 'Free US family planning clinics face ruin after White House freezes funds',
+  body: 'Title X, with services like STI tests and cancer screenings, in limbo after Trump administration pauses $66m in funds.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/14/title-x-clinics-trump-administration-grants-freeze',
+      linkText: 'The Guardian'
+    },
+  ],
+},
 
  {
   id: 'OAC_Immigration',
@@ -60,6 +109,22 @@ const entries = [
     {
       href: 'https://www.cnn.com/politics/live-news/trump-presidency-tarrifs-bukele-visit-04-14-25#cm9hwkua800053b6vjz08g43s',
       linkText: 'CNN'
+    },
+  ],
+},
+
+{
+  id: 'Home_Grown_Criminals_Illegal',
+  categories: ['Project 2025', 'Immigration', 'Fascism'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-14',
+  title: '‘Obviously illegal’: Experts pan Trump’s plan to deport ‘homegrown criminals’',
+  body: 'Trump has suggested that "homegrown" criminals who have been convicted of certain crimes should be deported, but the idea raises significant legal questions.',
+  links: [
+    {
+      href: 'https://www.nbcnews.com/politics/donald-trump/trump-floats-legally-questionable-proposal-deport-us-citizens-rcna201183',
+      linkText: 'NBC'
     },
   ],
 },
@@ -127,12 +192,28 @@ const entries = [
     },
   ],
 },
+
+{
+  id: 'Trump_Freeze_Harvard',
+  categories: ['Project 2025', 'DOGE', 'Education'],
+  color: 'red',
+  faicon: 'scroll',
+  date: '2025-04-14',
+  title: 'Trump administration freezes $2.3bn in funds after Harvard defies demands',
+  body: 'The announcement comes after the Ivy-league school has decided to fight the White House’s demands that it crack down on antisemitism and alleged civil rights violations, including shutting down diversity, equity and inclusion programs..',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/live/2025/apr/14/donald-trump-tariffs-china-smartphones-computers-semiconductors-immigration-us-politics-live-updates?CMP=share_btn_url&page=with%3Ablock-67fda3b88f0819448f7d89ab#block-67fda3b88f0819448f7d89ab',
+      linkText: 'The Guardian'
+    },
+  ],
+},
  
 {
   id: 'Harvard_No_Yield',
-  categories: ['Project 2025', 'DOGE', 'Economy'],
+  categories: ['Project 2025', 'DOGE', 'Education'],
   color: 'green',
-  faicon: 'coins',
+  faicon: 'scroll',
   date: '2025-04-14',
   title: 'Harvard says it will not ‘yield’ to Trump demands over $9bn in funding cuts',
   body: 'Harvard University said on Monday that it will not comply with a new list of demands from the Trump administration issued last week that the government says are designed to crack down on antisemitism and alleged civil rights violations at elite academic institutions.',
@@ -146,7 +227,7 @@ const entries = [
 
  {
   id: 'Student_Leader_Arrested_ICE',
-  categories: ['Project 2025', 'Immigration', 'Civil Rights'],
+  categories: ['Project 2025', 'Immigration', 'Civil Liberties'],
   color: 'red',
   faicon: 'plane',
   date: '2025-04-14',
@@ -204,6 +285,10 @@ const entries = [
     {
       href: 'https://www.npr.org/2025/04/14/nx-s1-5336226/troop-border-immigration-army-patrol-texas',
       linkText: 'NPR'
+    },
+    {
+      href: 'https://apnews.com/article/border-trump-roosevelt-military-immigration-85974188a51593351eed70ad26291888',
+      linkText: 'Associated Press'
     },
   ],
 },
@@ -309,6 +394,22 @@ const entries = [
   ],
 },
 
+{
+  id: 'Renews_Oppostion_Deported',
+  categories: ['Project 2025', 'Fascism', 'Courts'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-13',
+  title: 'U.S. Renews Opposition to Bringing Back Maryland Man Wrongly Deported to El Salvador',
+  body: 'The Justice Department’s latest legal filing asserted that courts cannot direct President Trump’s foreign policy by forcing the return of a man unlawfully sent to a Salvadoran prison.',
+  links: [
+    {
+      href: 'https://www.nytimes.com/2025/04/13/us/politics/trump-courts-deportation-el-salvador.html',
+      linkText: 'New York Times'
+    },
+  ],
+},
+
  {
   id: 'FCC_Gold_Pin',
   categories: ['Project 2025', 'Fascism'],
@@ -321,6 +422,22 @@ const entries = [
     {
       href: 'https://www.buzzfeed.com/michaelabramwell/trumps-fcc-chairman-wears-gold-trumphead-pin',
       linkText: 'BuzzFeed'
+    },
+  ],
+},
+
+{
+  id: 'Man_Still_Alive',
+  categories: ['Project 2025', 'Immigration', 'Courts', 'Fascism'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-12',
+  title: 'Trump admin tells judge man wrongly deported to El Salvador is alive, still detained',
+  body: 'A Maryland man who was wrongly deported to El Salvador is alive and still detained in the country, the Trump administration said in a filing to a federal judge on Saturday.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/04/12/nx-s1-5363234/trump-administration-judge-update-on-kilmar-armando-abrego-garcia',
+      linkText: 'NPR'
     },
   ],
 },
@@ -578,6 +695,22 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/apr/11/trump-war-on-universities',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Mahmoud_Khalil_Deported',
+  categories: ['Project 2025', 'Immigration', 'Civil Liberties', 'Courts'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-04-10',
+  title: 'Columbia University activist Mahmoud Khalil can be deported, immigration judge rules',
+  body: 'Columbia University graduate student Mahmoud Khalil can be forced out of the country as a national security risk, an immigration judge in Louisiana ruled Friday after lawyers argued the legality of deporting the activist who participated in pro-Palestinian demonstrations.',
+  links: [
+    {
+      href: 'https://apnews.com/article/mahmoud-khalil-columbia-protester-ruling-deport-fd9e80583af3109d7de0a5264e79ea61',
+      linkText: 'Associated Press'
     },
   ],
 },
