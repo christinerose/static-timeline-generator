@@ -33,6 +33,70 @@ const entries = [
 
 
  {
+  id: 'OAC_Immigration',
+  categories: ['Project 2025', 'Immigration', 'Resist'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-04-14',
+  title: 'Rep. Alexandria Ocasio-Cortez calls Trump’s immigration policy “anti-American”',
+  body: '“You know it’s bone chilling every day, there’s something new, and today, we just saw President Trump express openness to taking US citizens and sending them off without due process to foreign prisons.”',
+  links: [
+    {
+      href: 'https://www.cnn.com/politics/live-news/trump-presidency-tarrifs-bukele-visit-04-14-25#cm9hv413w00003b6vofd7h2wb',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+{
+  id: 'More_Tiddlywinks',
+  categories: ['Project 2025', 'Tiddlywinks'],
+  color: 'red',
+  faicon: 'democrat',
+  date: '2025-04-14',
+  title: 'Democratic representatives face tough questions at fiery town halls',
+  body: 'California Rep. Laura Friedman faced tough questions at a town hall on Monday as audience members expressed frustration over how Democrats are responding to the political climate.',
+  links: [
+    {
+      href: 'https://www.cnn.com/politics/live-news/trump-presidency-tarrifs-bukele-visit-04-14-25#cm9hwkua800053b6vjz08g43s',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+ {
+  id: 'Home_Grown_Criminals',
+  categories: ['Project 2025', 'Immigration', 'Fascism'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-14',
+  title: 'Trump says he\'s open to deporting "homegrown" criminals to El Salvador',
+  body: 'El Salvador agreed to house violent US criminals and receive deportees of any nationality.',
+  links: [
+    {
+      href: 'https://www.cnn.com/politics/live-news/trump-presidency-tarrifs-bukele-visit-04-14-25#cm9h9c13l00143b6oav1nr8mv',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+{
+  id: 'Step_Up_Defiance',
+  categories: ['Project 2025', 'Immigration', 'Fascism'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-14',
+  title: 'Trump officials step up defiance over man wrongly deported to El Salvador',
+  body: 'Administration advances new misrepresentations of US supreme court order in case of Kilmar Abrego García.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/14/trump-el-salvador-deportation-kilmar-abrego-garcia',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
   id: 'Slash_State_Budget',
   categories: ['Project 2025', 'Economy', 'Global'],
   color: 'red',
@@ -64,9 +128,25 @@ const entries = [
   ],
 },
  
+{
+  id: 'Harvard_No_Yield',
+  categories: ['Project 2025', 'DOGE', 'Economy'],
+  color: 'green',
+  faicon: 'coins',
+  date: '2025-04-14',
+  title: 'Harvard says it will not ‘yield’ to Trump demands over $9bn in funding cuts',
+  body: 'Harvard University said on Monday that it will not comply with a new list of demands from the Trump administration issued last week that the government says are designed to crack down on antisemitism and alleged civil rights violations at elite academic institutions.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/education/2025/apr/14/harvard-university-trump-administration',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
  {
   id: 'Student_Leader_Arrested_ICE',
-  categories: ['Project 2025', 'Resist', 'Global'],
+  categories: ['Project 2025', 'Immigration', 'Civil Rights'],
   color: 'red',
   faicon: 'plane',
   date: '2025-04-14',
@@ -76,6 +156,22 @@ const entries = [
     {
       href: 'https://theintercept.com/2025/04/14/ice-columbia-student-mohsen-mahdawi-citizenship-interview/',
       linkText: 'The Intercept'
+    },
+  ],
+},
+
+{
+  id: 'Trump_Sued_Tariffs',
+  categories: ['Project 2025', 'Trade War', 'Economy', 'Global', 'FAFO', 'Resist'],
+  color: 'green',
+  faicon: 'coins',
+  date: '2025-04-14',
+  title: 'Trump administration sued over tariffs in US international trade court',
+  body: 'Liberty Justice Center filed lawsuit on behalf of five US businesses declaring that Trump’s tariffs overstep authority.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/14goldman-sachs-boss-says-chances-of-us-recession-has-increased-after-trumps-tariffs',
+      linkText: 'The Guardian'
     },
   ],
 },
