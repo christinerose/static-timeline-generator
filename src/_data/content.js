@@ -26,6 +26,7 @@ const entries = [
   //Civil Liberties = flag
   //Orwell = eye
   //Civil War = gun
+  //Dic(tator) Move = 
 
   //Layoffs, DOGE work, restructuring, etc. = Project 2025
   //DOGE & J6 = Fascism
@@ -33,9 +34,170 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
 
+
+ {
+  id: 'Teen_Deported',
+  categories: ['Project 2025', 'FAFO', 'DOGE', 'Economy'],
+  color: 'red',
+  faicon: 'poo',
+  date: '2025-04-15',
+  title: '‘Shock to the system’: farmers hit by Trump’s tariffs and cuts say they need another bailout',
+  body: 'With extreme weather and Trump’s looming trade war, US farmers are reeling and resigned to needing more cash help.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/15/farmers-trump-tariffs-bailout-extreme-weather',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Judge_Faces_Challence',
+  categories: ['Project 2025', 'Courts', 'Fascism'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-04-15',
+  title: '‘An existential threat to democracy’: the US judge facing a challenge to her election victory',
+  body: 'Allison Riggs, a Democratic justice on the North Carolina supreme court, is battling to keep her seat after a recent court ruling paved the way to overturn her election victory.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/15/north-carolina-supreme-court-race',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Teen_Deported',
+  categories: ['Project 2025', 'Immigration', 'Fascism'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-15',
+  title: 'Ice deports Venezuelan teen despite reportedly knowing he was not a target',
+  body: 'A 19-year-old Venezuelan in New York City reportedly was apprehended by Trump administration immigration authorities and deported to El Salvador despite agents’ realizing he was not whom they meant to arrest in a targeted operation.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/15/merwil-gutierrez-venezuelan-teen-deported-el-salvador',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Yale_Obama_Harvard',
+  categories: ['Project 2025', 'DOGE', 'Resist', 'Education', 'Civil Liberties'],
+  color: 'green',
+  faicon: 'scroll',
+  date: '2025-04-15',
+  title: 'Obama and Yale faculty back Harvard as Trump cuts $2bn in federal grants',
+  body: 'Harvard faces a funding freeze as elite universities warn of growing threats to free inquiry and civil rights.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/education/2025/apr/15/obama-yale-harvard-trump-cuts',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Judge_Blocks_Bid_Migrants',
+  categories: ['Project 2025', 'Immigration', 'Resist', 'Courts'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-15',
+  title: 'Court temporarily blocks Trump bid to cancel legal status of 500,000 migrants',
+  body: 'A judge has temporarily blocked the Trump administration’s attempt to terminate a Biden-era program that granted legal status to migrants from Cuba, Nicaragua, Venezuela and Haiti.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/15/court-blocks-trump-legal-status-migrants-cuba-nicaragua-venezuela-haiti',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'US_Citizen_Ordered_2Leave',
+  categories: ['Project 2025', 'Immigration', 'Fascism', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-15',
+  title: 'Attorney general dodges question on Trump proposal to jail US citizens in El Salvador',
+  body: 'Email to Massachusetts lawyer warned her to ‘depart the US immediately’ even though removing US citizens is illegal.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/15/self-deportation-email-citizen-immigration-lawyer',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'WH_Dodges_Jail_Citizens',
+  categories: ['Project 2025', 'Immigration', 'Fascism'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-15',
+  title: 'Attorney general dodges question on Trump proposal to jail US citizens in El Salvador',
+  body: 'Trump proposed that ‘homegrown criminals’ should be deported, an idea that experts say is clearly illegal',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/15/attorney-general-trump-deport-citizens-el-salvador',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Trump_Ignores_Judge_3',
+  categories: ['Project 2025', 'Fascism', 'Global'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-04-15',
+  title: 'EU gives staff \'burner phones, laptops\' for US visits',
+  body: 'That would put America on the same level as China for espionage.',
+  links: [
+    {
+      href: 'https://www.theregister.com/2025/04/15/ec_burner_devices/',
+      linkText: 'The Register'
+    },
+  ],
+},
+
+{
+  id: 'Everyone_Pays_Price',
+  categories: ['Project 2025', 'Tariff War', 'Economy'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-04-14',
+  title: 'Trump’s tech tariffs are total chaos – and everyone’s paying the price',
+  body: 'From iPhone airlifts to Nintendo delays, Trump’s trade war has thrown the tech world into confusion.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/global/2025/apr/14/trumps-tech-tariffs-are-total-chaos-and-everyones-paying-the-price',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Trump_Ignores_Judge_3',
+  categories: ['Project 2025', 'Fascism', 'Courts', 'Civil Liberties', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-14',
+  title: 'Despite a court order, White House bars AP from Oval Office event',
+  body: 'Since mid-February, AP reporters and photographers have been blocked from attending events in the Oval Office.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-ap-press-freedom-court-gulf-caffd32aa8ec6b04a50b8c5277d7c9cb',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
  {
   id: 'Trump_ToDeport_USCitizens',
-  categories: ['Fascism', 'Civil Liberties'],
+  categories: ['Fascism', 'Civil Liberties', 'Dic(tator) Move'],
   color: 'red',
   faicon: 'fire',
   date: '2025-04-14',
@@ -179,7 +341,7 @@ const entries = [
 
 {
   id: 'Step_Up_Defiance',
-  categories: ['Project 2025', 'Immigration', 'Fascism'],
+  categories: ['Project 2025', 'Immigration', 'Fascism', 'Dic(tator) Move'],
   color: 'red',
   faicon: 'plane',
   date: '2025-04-14',
@@ -243,12 +405,12 @@ const entries = [
 
 {
   id: 'Trump_Freeze_Harvard',
-  categories: ['Project 2025', 'DOGE', 'Education'],
+  categories: ['Project 2025', 'DOGE', 'Education', 'Civil Liberties'],
   color: 'red',
   faicon: 'scroll',
   date: '2025-04-14',
   title: 'Trump administration freezes $2.3bn in funds after Harvard defies demands',
-  body: 'The announcement comes after the Ivy-league school has decided to fight the White House’s demands that it crack down on antisemitism and alleged civil rights violations, including shutting down diversity, equity and inclusion programs..',
+  body: 'The announcement comes after the Ivy-league school has decided to fight the White House’s demands that it crack down on antisemitism and alleged civil rights violations, including shutting down diversity, equity and inclusion programs.',
   links: [
     {
       href: 'https://www.theguardian.com/us-news/live/2025/apr/14/donald-trump-tariffs-china-smartphones-computers-semiconductors-immigration-us-politics-live-updates?CMP=share_btn_url&page=with%3Ablock-67fda3b88f0819448f7d89ab#block-67fda3b88f0819448f7d89ab',
@@ -263,7 +425,7 @@ const entries = [
  
 {
   id: 'Harvard_No_Yield',
-  categories: ['Project 2025', 'DOGE', 'Education'],
+  categories: ['Project 2025', 'DOGE', 'Education', 'Civil Liberties'],
   color: 'green',
   faicon: 'scroll',
   date: '2025-04-14',
@@ -411,7 +573,7 @@ const entries = [
 
  {
   id: 'ElSalvador_No_Return',
-  categories: ['Project 2025', 'Immigration'],
+  categories: ['Project 2025', 'Immigration', 'Dic(tator) Move'],
   color: 'red',
   faicon: 'plane',
   date: '2025-04-14',
@@ -640,7 +802,7 @@ const entries = [
 
  {
   id: 'RI_Royal_Charter',
-  categories: ['Project 2025', 'Tariff War', 'FAFO', 'Resist'],
+  categories: ['Project 2025', 'Tariff War', 'Resist'],
   color: 'green',
   faicon: 'jedi',
   date: '2025-04-11',
@@ -656,9 +818,9 @@ const entries = [
 
  {
   id: 'Bonds_Scare_Trump',
-  categories: ['Project 2025', 'Tariff War', 'FAFO'],
+  categories: ['Project 2025', 'Tariff War', 'Economy'],
   color: 'red',
-  faicon: 'poo',
+  faicon: 'coins',
   date: '2025-04-11',
   title: 'What are bonds and why have they spooked Donald Trump?',
   body: 'The reason the US president had to back down on tariffs once investors started dumping treasury bonds.',
@@ -705,9 +867,9 @@ const entries = [
 
  {
   id: '2000_iPhone',
-  categories: ['Project 2025', 'Tariff War', 'Economy', 'FAFO'],
+  categories: ['Project 2025', 'Tariff War', 'Economy'],
   color: 'red',
-  faicon: 'poo',
+  faicon: 'coins',
   date: '2025-04-11',
   title: '$2,150 for an iPhone? Trump tariffs are ‘category 5 price storm’',
   body: 'US is not set up to supply mobile phones and would cost estimated $30bn to move just 10% of chain from China.',
@@ -849,9 +1011,9 @@ const entries = [
 
 {
   id: 'Musk_Lowers_DOGE',
-  categories: ['Project 2025', 'DOGE', 'FAFO'],
+  categories: ['Project 2025', 'DOGE'],
   color: 'red',
-  faicon: 'poo',
+  faicon: 'coins',
   date: '2025-04-10',
   title: 'In Cabinet Meeting, Musk Seems to Drastically Lower DOGE’s Savings Goal',
   body: 'Musk said his group was on pace to cut $150 billion.',
@@ -914,7 +1076,7 @@ const entries = [
  {
   id: 'Egg_Prices_Record',
   categories: ['Project 2025', 'FAFO', 'Resist', 'Economy', 'Tariff War'],
-  color: 'green',
+  color: 'red',
   faicon: 'poo',
   date: '2025-04-10',
   title: 'US egg prices break record high for third consecutive month even as inflation drops',
@@ -1089,7 +1251,7 @@ const entries = [
   
   {
     id: 'AZ_National_Guard_ACLU',
-    categories: ['Resist', 'Project 2025', 'FAFO', 'Civil Liberties', 'Fascism'],
+    categories: ['Resist', 'Project 2025', 'Civil Liberties', 'Fascism'],
     color: 'green',
     faicon: 'plane',
     date: '2025-04-09',
@@ -1105,9 +1267,9 @@ const entries = [
 
   {
     id: 'Big_Tech_EU',
-    categories: ['FAFO', 'Project 2025', 'Tariff War', 'Global', 'Economy'],
+    categories: ['Project 2025', 'Tariff War', 'Global', 'Economy'],
     color: 'red',
-    faicon: 'poo',
+    faicon: 'coins',
     date: '2025-04-09',
     title: 'Big Tech probes non-negotiable in US trade talks, Brussels warns',
     body: 'The European Union will not make any concessions on its digital and technology rules as part of any trade negotiations with the United State.',
@@ -1187,7 +1349,7 @@ const entries = [
 
   {
     id: 'Apple_Not_USA',
-    categories: ['FAFO', 'Project 2025', 'Tariff War', 'Global', 'Economy'],
+    categories: ['Project 2025', 'Tariff War', 'Global', 'Economy'],
     color: 'red',
     faicon: 'coins',
     date: '2025-04-09',
@@ -1277,6 +1439,22 @@ const entries = [
       {
         href: 'https://www.theguardian.com/us-news/2025/apr/09/anti-protest-bills-trump',
         linkText: 'The Guardian'
+      },
+    ],
+  },
+
+  {
+    id: 'AP_Wins',
+    categories: ['Project 2025', 'Resist', 'Fascism', 'Courts'],
+    color: 'green',
+    faicon: 'landmark',
+    date: '2025-04-08',
+    title: 'AP wins reinstatement to White House events after judge rules government can’t bar its journalists',
+    body: 'A federal judge ordered the White House on Tuesday to restore The Associated Press’ full access to cover presidential events, affirming on First Amendment grounds that the government cannot punish the news organization for the content of its speech.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-ap-media-court-white-house-events-access-f346a0efe87c1dec4d6f90e6041abd09',
+        linkText: 'Associated Press'
       },
     ],
   },
@@ -1550,9 +1728,9 @@ const entries = [
 
   {
     id: 'Musk_Pleads_Trump',
-    categories: ['Project 2025', 'FAFO', 'DOGE', 'Tariff War'],
+    categories: ['Project 2025', 'Global', 'DOGE', 'Tariff War'],
     color: 'red',
-    faicon: 'poo',
+    faicon: 'globe',
     date: '2025-04-08',
     title: 'Musk reportedly made several pushes for Trump to back off global tariffs surge',
     body: 'Musk’s unsuccessful attempts may be sign of growing rift between US president and tech billionaire.',
@@ -1801,7 +1979,7 @@ const entries = [
   {
     id: 'Orange_Monday',
     categories: ['Project 2025', 'Economy', 'FAFO', 'Tariff War'],
-    color: 'red',
+    color: 'green',
     faicon: 'poo',
     date: '2025-04-07',
     title: 'Dave Portnoy dubs stock market tumble ‘Orange Monday’',
@@ -1928,9 +2106,9 @@ const entries = [
 
   {
     id: 'Economic_War',
-    categories: ['Project 2025', 'Tariff War', 'Economy', 'Global', 'FAFO', 'Resist'],
+    categories: ['Project 2025', 'Tariff War', 'Economy', 'Global', 'Resist'],
     color: 'green',
-    faicon: 'poo',
+    faicon: 'globe',
     date: '2025-04-07',
     title: 'Bill Ackman urges Trump to pause ‘economic nuclear war on every country’',
     body: 'Billionaire fund manager tries to persuade US president over tariffs, which have wiped $6tn off US stocks.',
@@ -2571,7 +2749,7 @@ const entries = [
 
   {
     id: 'Tariffs_ChatGPT',
-    categories: ['Project 2025', 'Global', 'Tariff War', 'Economy', 'Resist', 'FAFO'],
+    categories: ['Project 2025', 'Global', 'Tariff War', 'Economy', 'Resist'],
     color: 'green',
     faicon: 'poo',
     date: '2025-04-03',
@@ -2607,9 +2785,9 @@ const entries = [
 
   {
     id: 'Unlikely_Targets',
-    categories: ['Project 2025', 'Global', 'Tariff War', 'Economy', 'Resist', 'FAFO'],
+    categories: ['Project 2025', 'Global', 'Tariff War', 'Economy', 'Resist'],
     color: 'green',
-    faicon: 'poo',
+    faicon: 'globe',
     date: '2025-04-03',
     title: 'An uninhabited island, a military base and a ‘desolate’ former whaling station. Trump’s tariffs include unlikely targets',
     body: 'The sweeping tariffs announced by US President Donald Trump on Wednesday target not only economic superpowers but also financial minnows. In fact, a White House list notes some territories with no economy, and no people, at all.',
@@ -2935,7 +3113,7 @@ const entries = [
   
   {
     id: 'Johnson_Fails',
-    categories: ['Project 2025', 'FAFO', 'Resist'],
+    categories: ['Project 2025', 'Resist'],
     color: 'green',
     faicon: 'hammer',
     date: '2025-04-02',
@@ -3067,7 +3245,7 @@ const entries = [
 
   {
     id: 'Wisconsin_Florida',
-    categories: ['Resist', 'Project 2025', 'Tiddlywinks', 'FAFO', 'DOGE'],
+    categories: ['Resist', 'Project 2025', 'Tiddlywinks', 'DOGE'],
     color: 'green',
     faicon: 'democrat',
     date: '2025-04-01',
@@ -5171,9 +5349,9 @@ const entries = [
 
   {
     id: 'Tesla_Terrorists',
-    categories: ['FAFO', 'Project 2025'],
+    categories: ['DOGE', 'Project 2025'],
     color: 'red',
-    faicon: 'poo',
+    faicon: 'hammer',
     date: '2025-03-20',
     title: 'JD Vance: Tesla terrorists are wealthy Left-wingers',
     body: 'Vice-president speculates that continuing vandalism is coordinated',
@@ -5187,7 +5365,7 @@ const entries = [
 
   {
     id: 'Tesla_Attacks',
-    categories: ['FAFO', 'Project 2025', 'DOGE', 'Resist'],
+    categories: ['Project 2025', 'DOGE', 'Resist'],
     color: 'green',
     faicon: 'jedi',
     date: '2025-03-20',
@@ -5203,7 +5381,7 @@ const entries = [
 
   {
     id: 'Trump_Ignores_Judge2',
-    categories: ['Fascism', 'Immigration', 'Courts'],
+    categories: ['Fascism', 'Immigration', 'Courts', 'Dic(tator) Move'],
     color: 'red',
     faicon: 'fire',
     date: '2025-03-20',
@@ -5896,7 +6074,7 @@ const entries = [
 
   {
     id: 'If_Trump_Ignores_Judges',
-    categories: ['Courts', 'Fascism'],
+    categories: ['Courts', 'Fascism', 'Dic(tator) Move'],
     color: 'red',
     faicon: 'fire',
     date: '2025-03-17',
@@ -6058,7 +6236,7 @@ const entries = [
 
   {
     id: 'Trump_Ignores_Judge',
-    categories: ['Immigration', 'Project 2025', 'Courts', 'Fascism'],
+    categories: ['Immigration', 'Project 2025', 'Courts', 'Fascism', 'Dic(tator) Move'],
     color: 'red',
     faicon: 'fire',
     date: '2025-03-17',
@@ -6148,9 +6326,9 @@ const entries = [
 
   {
     id: 'Scientists_No-Jobs',
-    categories: ['FAFO', 'Project 2025', 'DOGE', 'Economy'],
+    categories: ['Project 2025', 'DOGE', 'Economy', 'Education'],
     color: 'red',
-    faicon: 'poo',
+    faicon: 'scroll',
     date: '2025-03-16',
     title: 'Young scientists see career pathways vanish as schools adapt to federal funding cuts',
     body: 'Reductions to federal support for research at universities and other institutions under President Donald Trump are dimming young scientists’ prospects, cutting off pathways to career-building projects and graduate programs.',
@@ -6584,9 +6762,9 @@ const entries = [
 
   {
     id: 'Congress_Cuts',
-    categories: ['FAFO', 'Project 2025', 'Economy'],
+    categories: ['Project 2025', 'Economy'],
     color: 'red',
-    faicon: 'poo',
+    faicon: 'coins',
     date: '2025-03-13',
     title: 'Congress poised to force $1B cut to local DC budget, surprising many lawmakers',
     body: 'The mayor’s office said in a recent request to lawmakers that such a cut would deal a significant blow to its general funds budget, which it described as “solely supported” by the District’s “locally raised taxes, fees and fines.”',
@@ -6893,9 +7071,9 @@ const entries = [
 
   {
     id: 'Tesla_White-House',
-    categories: ['FAFO', 'Project 2025', 'DOGE'],
+    categories: ['Project 2025', 'DOGE', 'Economy'],
     color: 'red',
-    faicon: 'poo',
+    faicon: 'coins',
     date: '2025-03-11',
     title: 'Trump Turns White House into Tesla Lot to Boost Struggling Stock',
     body: 'The president appeared with Elon Musk to show off some electric vehicles, promising to buy one even though he can\'t drive. Trump bought an $80,000 Tesla and falsely claimed boycotts were illegal.',
@@ -8597,9 +8775,9 @@ const entries = [
 
   {
     id: 'Tariffs_FAFO',
-    categories: ['FAFO', 'Economy', 'Tariff War'],
+    categories: ['Project 2025', 'Economy', 'Tariff War'],
     color: 'red',
-    faicon: 'poo',
+    faicon: 'coins',
     date: '2025-03-04',
     title: 'Here\'s how Trump\'s tariffs could cost you and your wallet',
     body: 'Every day, many people in the U.S. eat fruit grown in Mexico, use phones made in China and live in homes built from lumber from Canada.',
@@ -9756,9 +9934,9 @@ const entries = [
 
   {
     id: 'USDA-Scientists-Ripple',
-    categories: ['Project 2025', 'FAFO'],
+    categories: ['Project 2025', 'DOGE'],
     color: 'red',
-    faicon: 'poo',
+    faicon: 'hammer',
     date: '2025-02-21',
     title: 'Experts foresee negative ripple effects in termination of USDA scientists in St. Paul lab',
     body: '“This was just to make the cuts, and following the precedent that we can always rehire later if we have to, and that\’s just no what\’s going to happen here,” he said. “You\’re losing potentially huge amounts of expertise in this field that\’s just not going to come back.”',
