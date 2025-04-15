@@ -34,6 +34,22 @@ const entries = [
 
 
  {
+  id: 'Trump_ToDeport_USCitizens',
+  categories: ['Fascism', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-14',
+  title: 'Trump calls for deporting some citizens to El Salvador, testing US law',
+  body: 'Trump\'s comments marked the clearest signal yet that the U.S. president is serious about deporting naturalized and U.S.-born citizens, a proposal that has alarmed civil rights advocates and is viewed by many legal scholars as unconstitutional.',
+  links: [
+    {
+      href: 'https://www.reuters.com/world/americas/trump-wants-deport-some-us-citizens-el-salvador-2025-04-14/',
+      linkText: 'Reuters'
+    },
+  ],
+},
+
+ {
   id: 'Judge_Weighs_Tufts',
   categories: ['Project 2025', 'Immigration', 'Courts'],
   color: 'red',
@@ -77,6 +93,22 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/apr/14/title-x-clinics-trump-administration-grants-freeze',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Sanders_AOC_End_Greed',
+  categories: ['Project 2025', 'FAFO', 'Resist'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-04-14',
+  title: '\'We are gonna end their greed\': Bernie Sanders, Alexandria Ocasio-Cortez in Idaho',
+  body: 'The two did not hold back, calling out what they described as "the billionaire class that continues to exploit working Americans.”',
+  links: [
+    {
+      href: 'https://www.ktvb.com/article/news/local/we-are-gonna-end-their-greed-bernie-sanders-alexandria-ocasio-cortez-in-idaho-politics/277-cd567dc8-39fe-4e5c-ac01-18cc2373fd7f',
+      linkText: 'KTVB'
     },
   ],
 },
@@ -194,6 +226,22 @@ const entries = [
 },
 
 {
+  id: 'Blames_Ukraine_Missles',
+  categories: ['Project 2025', 'Global', 'WW3'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-04-14',
+  title: 'Trump blames Zelenskyy for \'horrible job\' after Russia ballistic missile strike kills dozens in Ukraine',
+  body: 'A Russian ballistic missile strike on the northeastern Ukrainian city of Sumy killed at least 34 people on Sunday morning, emergency services said, as many there celebrated Palm Sunday.',
+  links: [
+    {
+      href: 'https://abcnews.go.com/International/russian-missile-strike-ukraines-sumy-kills-mayor/story?id=120759230',
+      linkText: 'ABC'
+    },
+  ],
+},
+
+{
   id: 'Trump_Freeze_Harvard',
   categories: ['Project 2025', 'DOGE', 'Education'],
   color: 'red',
@@ -205,6 +253,10 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/live/2025/apr/14/donald-trump-tariffs-china-smartphones-computers-semiconductors-immigration-us-politics-live-updates?CMP=share_btn_url&page=with%3Ablock-67fda3b88f0819448f7d89ab#block-67fda3b88f0819448f7d89ab',
       linkText: 'The Guardian'
+    },
+    {
+      href: 'https://www.npr.org/2025/04/14/nx-s1-5364829/trump-administration-freezes-funds-after-harvard-rejects-dei-demands',
+      linkText: 'NPR'
     },
   ],
 },
@@ -251,8 +303,24 @@ const entries = [
   body: 'Liberty Justice Center filed lawsuit on behalf of five US businesses declaring that Trump’s tariffs overstep authority.',
   links: [
     {
-      href: 'https://www.theguardian.com/us-news/2025/apr/14goldman-sachs-boss-says-chances-of-us-recession-has-increased-after-trumps-tariffs',
+      href: 'https://www.theguardian.com/us-news/2025/apr/14/trump-administration-tariffs-lawsuit',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Amazing_Tariff_Deal',
+  categories: ['Project 2025', 'Trade War', 'Economy', 'Global', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-14',
+  title: 'Trump aide Hassett says U.S. got ‘amazing’ tariff deal offers, recession ’100% not’ happening',
+  body: 'National Economic Council Director Kevin Hassett said Monday that “more than 10” countries have made “very good, amazing” trade deal offers to the United States after President Donald Trump imposed steep tariffs on imports from many nations.',
+  links: [
+    {
+      href: 'https://www.cnbc.com/2025/04/14/trump-tariffs-recession-hassett-insider-trading.html',
+      linkText: 'CNBC'
     },
   ],
 },
@@ -395,6 +463,22 @@ const entries = [
 },
 
 {
+  id: 'China_Halts_Exports',
+  categories: ['Project 2025', 'Trade War', 'Global', 'WW3', 'Economy'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-04-13',
+  title: 'China Halts Critical Exports as Trade War Intensifies',
+  body: 'TBeijing has suspended exports of certain rare earth minerals and magnets that are crucial for the world’s car, semiconductor and aerospace industries.',
+  links: [
+    {
+      href: 'https://www.nytimes.com/2025/04/13/business/china-rare-earths-exports.html',
+      linkText: 'New York Times'
+    },
+  ],
+},
+
+{
   id: 'Renews_Oppostion_Deported',
   categories: ['Project 2025', 'Fascism', 'Courts'],
   color: 'red',
@@ -422,6 +506,22 @@ const entries = [
     {
       href: 'https://www.buzzfeed.com/michaelabramwell/trumps-fcc-chairman-wears-gold-trumphead-pin',
       linkText: 'BuzzFeed'
+    },
+  ],
+},
+
+{
+  id: 'Smart_Phones_Spared',
+  categories: ['Project 2025', 'Tariff War', 'Global', 'Economy'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-04-12',
+  title: 'Smartphones and computers are now spared from Trump\'s reciprocal tariffs',
+  body: 'The Trump administration has amended its list of imports that will be affected by sweeping global tariffs in order to exempt certain electronics, including smartphones and computers.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/04/12/nx-s1-5363025/apple-iphone-tariff-exemption-china',
+      linkText: 'NPR'
     },
   ],
 },
@@ -5704,6 +5804,22 @@ const entries = [
       {
         href: 'https://www.aljazeera.com/news/2025/3/18/gaza-tracker',
         linkText: 'Al Jazeera',
+      },
+    ],
+  },
+
+  {
+    id: 'Mega_Prison',
+    categories: ['Project 2025', 'Immigration'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-17',
+    title: 'What we know about the El Salvador ‘mega prison’ where Trump is sending alleged Venezuelan gang members',
+    body: 'Home to some of the country’s most hardened criminals, including mass murderers and gang members billed as the “worst of the worst,” is notorious for the spartan conditions in which they are kept.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/03/17/americas/el-salvador-prison-trump-deportations-gangs-intl-latam/index.html',
+        linkText: 'CNN',
       },
     ],
   },
