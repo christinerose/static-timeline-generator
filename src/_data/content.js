@@ -36,17 +36,437 @@ const entries = [
 
 
  {
-  id: 'Teen_Deported',
-  categories: ['Project 2025', 'FAFO', 'DOGE', 'Economy'],
+  id: 'Foreign_Disinformation_Dismantled',
+  categories: ['Orwell', 'Fascsim', 'Global'],
   color: 'red',
-  faicon: 'poo',
-  date: '2025-04-15',
-  title: '‘Shock to the system’: farmers hit by Trump’s tariffs and cuts say they need another bailout',
-  body: 'With extreme weather and Trump’s looming trade war, US farmers are reeling and resigned to needing more cash help.',
+  faicon: 'eye',
+  date: '2025-04-16',
+  title: 'US office that counters foreign disinformation is being eliminated',
+  body: 'Conservative critics have long accused the State Department’s Counter Foreign Information Manipulation and Interference Hub of helping to censor the American right.',
   links: [
     {
-      href: 'https://www.theguardian.com/us-news/2025/apr/15/farmers-trump-tariffs-bailout-extreme-weather',
+      href: 'https://www.technologyreview.com/2025/04/16/1115256/us-office-that-counters-foreign-disinformation-is-being-eliminated-say-officials/',
+      linkText: 'MIT Technology Review'
+    },
+  ],
+}, 
+
+ {
+  id: 'CA_Tariff_Legal_Challenge',
+  categories: ['Project 2025', 'Global', 'Resist', 'Tariff War', 'Economy'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-04-16',
+  title: 'California launches legal challenge against Trump’s ‘illegal’ tariffs',
+  body: 'Governor says import tariffs are ‘wreaking chaos’ on the state’s families, businesses and economy.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/16/california-launches-legal-challenge-against-trump-tariffs',
+      linkText: 'The Guardian',
+    },
+  ],
+},
+
+ {
+  id: 'China_Trade_War_Threat',
+  categories: ['Project 2025', 'Tariff War', 'FAFO', 'Global', 'WW3'],
+  color: 'red',
+  faicon: 'poo',
+  date: '2025-04-16',
+  title: 'China trade war poses threat to US arms firms’ rare earths supply',
+  body: 'Chinese restrictions could affect more than a dozen defence and aerospace firms and give Beijing ‘crucial advantage’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/16/china-trade-war-us-arms-firms-rare-earths-supply',
       linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+ {
+  id: 'Chinese_Prof_Fired',
+  categories: ['Education', 'Project 2025', 'Discrimination'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-16',
+  title: 'The mysterious firing of a Chinese professor has Asian students on edge: ‘Brings chills to our spines’',
+  body: 'Xiaofeng Wang was fired by Indiana University on the same day as an FBI raid – but he hasn’t been charged with anything.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/16/chinese-professor-bloomington-indiana',
+      linkText: 'The Guardian',
+    },
+  ],
+},
+
+ {
+  id: 'Trump_Sues_Maine',
+  categories: ['LGBTQ', 'Project 2025', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'rainbow',
+  date: '2025-04-16',
+  title: 'Trump sues Maine over transgender athletes in schools amid funding threats',
+  body: 'Justice department lawsuit escalates a battle over Title IX as Maine vows to fight federal funding cuts in court.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/16/trump-sues-maine-transgender-athletes-schools',
+      linkText: 'The Guardian',
+    },
+  ],
+},
+
+ {
+  id: 'UK_Sheilds_Docs',
+  categories: ['Project 2025', 'Tariff War', 'Resist', 'Global'],
+  color: 'green',
+  faicon: 'globe',
+  date: '2025-04-16',
+  title: 'UK officials label trade documents ‘secret’ to shield from US eyes amid Trump tariff war',
+  body: 'Civil servants beef up security rules for sensitive negotiating papers over fears posed by hostile US trade policy.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/politics/2025/apr/16/uk-officials-trade-documents-secret-trump-tariff-security',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+ {
+  id: 'Christian_Nationalists_KeyRoles',
+  categories: ['Fascism', 'Education', 'Orwell', 'Discrimination'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-16',
+  title: 'US army and air force libraries ordered to comb stacks for books related to DEI',
+  body: 'Move comes in preparation for removal of materials that promote DEI, gender ideology and critical race theory.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/16/army-air-force-libraries-dei-books',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+ {
+  id: 'Colbert_Dictatorial_Demands',
+  categories: ['Fascism', 'Dic(tator) Move', 'Resist', 'Civil Liberties', 'Education'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-04-16',
+  title: 'Stephen Colbert: ‘We’re not on our way to a dictatorship, we’re on the ship’',
+  body: 'Late-night hosts lamented Trump’s latest ‘insane dictatorial demands’ and showed support for his latest target: Harvard.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/culture/2025/apr/16/colbert-kimmel-trump-harvard-late-night-roundup',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+ {
+  id: 'Christian_Nationalists_KeyRoles',
+  categories: ['Project 2025', 'Religion', 'Orwell', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'cross',
+  date: '2025-04-16',
+  title: 'Trump has put Christian nationalists in key roles – say a prayer for free speech',
+  body: 'Experts warn that a specific brand of Christianity will be prioritized and lead to a ‘further dismantling’ of institutions.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/16/christian-nationalists-trump-administration',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+ {
+  id: 'IRS_Rescind_Harvard',
+  categories: ['Project 2025', 'DOGE', 'Dic(tator) Move', 'Education', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'scroll',
+  date: '2025-04-16',
+  title: 'IRS making plans to rescind Harvard’s tax-exempt status',
+  body: 'Trump in recent days raised the idea of punishing the Ivy League university for not complying with what the administration has sought to portray as a campaign to fight antisemitism.',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/04/16/politics/irs-harvard-tax-exempt-status/index.html',
+      linkText: 'CNN'
+    },
+  ],
+}, 
+
+ {
+  id: 'Willful_Disobedience',
+  categories: ['Courts', 'Immigration', 'Fascism', 'Resist'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-16',
+  title: 'Judge says \'willful disobedience\' of court orders would make mockery of US constitution',
+  body: 'Boasberg has given the federal government until 23 April to respond to try to “purge their contempt” and prove they did not violate his temporary restraining order. Should they fail to answer his questions by then, he said, he will refer the matter for potential prosecution.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/live/2025/apr/16/donald-trump-inflation-tariffs-china-trade-war-immigration-us-politics-live?CMP=share_btn_url&page=with%3Ablock-67ffe07d8f08195611b69343#block-67ffe07d8f08195611b69343',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Global_Trade_Reverse',
+  categories: ['Project 2025', 'Tariff War', 'Global'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-04-16',
+  title: 'Trump tariffs will send global trade into reverse this year',
+  body: 'World Trade Organization says trade between US and China is expected to plunge by 81% in ‘decoupling’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/16/trump-tariffs-will-send-global-trade-into-reverse-this-year-warns-wto',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Inflation_Worse_Tariffs',
+  categories: ['Project 2025', 'Tariff War', 'FAFO', 'Economy'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-04-16',
+  title: 'Fed chair says Trump tariffs could make inflation worse as US stocks slide further',
+  body: 'Value of Nvidia dropped by billions on Wednesday after president imposed new restrictions on the chip giant.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/technology/2025/apr/16/us-trade-restriction-on-nvidia-sends-markets-tumbling',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Faculties_Unite',
+  categories: ['Project 2025', 'Resist', 'Education', 'Civil Liberties'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-04-16',
+  title: 'US universities’ faculty unite to defend academic freedom after Trump’s attacks',
+  body: 'Faculty members from US universities – including public ones which do not receive endowments – are banding together in attempts to resist the Donald Trump administration’s attacks on academic freedoms.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/16/trump-universities-response',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Trump_Contempt_Deportations',
+  categories: ['Project 2025', 'Immigration', 'FAFO', 'Resist', 'Courts'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-16',
+  title: 'US judge finds probable cause to hold Trump officials in contempt over alien act deportations',
+  body: 'Judge also warned he could name independent prosecutor if White House stonewalled contempt proceedings.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/16/trump-deportation-ruling-venezuelan',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'China_Stop_Whining',
+  categories: ['Project 2025', 'Tariff War', 'WW3', 'Resist', 'Global'],
+  color: 'green',
+  faicon: 'globe',
+  date: '2025-04-16',
+  title: 'China tells US to ‘stop whining’ over tariffs as it reports GDP growth spurt',
+  body: 'The US needs to “stop whining” about being a victim after “taking a free ride on the globalisation train”, China’s official state media said.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/world/2025/apr/16/chinese-state-media-tells-trump-to-stop-whining-as-trade-war-spirals',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Kennedy_Links_Autism',
+  categories: ['Project 2025', 'Health'],
+  color: 'red',
+  faicon: 'medkit',
+  date: '2025-04-16',
+  title: 'RFK Jr contradicts experts by linking autism rise to ‘environmental toxins’',
+  body: 'US health secretary bucks expert opinion as research shows rise in diagnoses due to better tools and screening.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/16/rjk-jr-rise-autism-diagnoses',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Senator_Visit_Denied',
+  categories: ['Project 2025', 'Immigration', 'Fascism'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-16',
+  title: 'US senator says El Salvador denied request to meet Kilmar Ábrego García',
+  body: 'Chris Van Hollen condemns ‘unjust situation’ and says vice-president blocked access to wrongly deported man.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/16/kilmar-abrego-garcia-chris-van-hollen',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Senator_Visit_ElSalvador',
+  categories: ['Project 2025', 'Immigration', 'Resist'],
+  color: 'green',
+  faicon: 'plane',
+  date: '2025-04-15',
+  title: 'Democratic senator heads to El Salvador to try to visit Kilmar Ábrego García',
+  body: 'Chris Van Hollen warns of ‘constitutional crisis’ and says he hopes to report back to family on Maryland man’s condition.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/15/chris-van-hollen-el-salvador-kilmar-abrego-garcia',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Trump_Win_Pharma',
+  categories: ['Project 2025', 'Health'],
+  color: 'red',
+  faicon: 'medkit',
+  date: '2025-04-15',
+  title: 'Trump signs healthcare order that includes a win for pharma companies',
+  body: 'Order instructs health department to work with Congress on changing law that allows Medicare to negotiate drug prices.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/15/trump-healthcare-executive-order',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Grassley_Grilled_Iowa',
+  categories: ['Project 2025', 'FAFO', 'Resist', 'Immigration'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-15',
+  title: 'Senator Chuck Grassley grilled at Iowa town hall over ‘shameful’ Trump policies',
+  body: 'The Republican, 91, was confronted by attendees angered over mass deportations and executive overreach.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/15/pentagon-school-students-sue-hegseth-book-bans',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Harvard_Embolden_Pushback',
+  categories: ['Project 2025', 'FAFO', 'Resist'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-04-15',
+  title: 'How Harvard’s pushback against Trump may embolden more US resistance',
+  body: 'It may be a turning point in the White House’s attempt to gut allegedly liberal universities and punish law firms.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/15/harvard-pushback-trump-administration',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Students_Sue_Hegseth',
+  categories: ['Project 2025', 'FAFO', 'Resist', 'Orwell', 'LGBTQ'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-15',
+  title: 'Students at Pentagon schools sue Hegseth over book bans on race and gender',
+  body: 'Lawsuit argues that culling library books prevents children from learning about health, hygiene, biology and abuse.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/15/pentagon-school-students-sue-hegseth-book-bans',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Biden_Hatchet',
+  categories: ['Project 2025', 'DOGE', 'Resist'],
+  color: 'green',
+  faicon: 'hammer',
+  date: '2025-04-15',
+  title: 'Joe Biden accuses Trump and Musk of taking ‘hatchet’ to social security',
+  body: 'In first speech since leaving office, ex-president spoke of ‘destruction’ current administration has wrought.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/15/joe-biden-social-security-trump-musk',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Show_Proof_Attempts',
+  categories: ['Project 2025', 'Courts', 'Resist', 'Immigration'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-15',
+  title: 'Judge says Justice Department must provide details of attempts to return wrongly deported man',
+  body: 'The order for records and, potentially, depositions of Trump administration officials further a legal standoff in the case of Kilmar Abrego Garcia.',
+  links: [
+    {
+      href: 'https://www.washingtonpost.com/immigration/2025/04/15/kilmar-abrego-garcias-deportation-case-trump-administration/',
+      linkText: 'Washington Post'
+    },
+  ],
+},
+
+{
+  id: 'Nothing_Done',
+  categories: ['Project 2025', 'Courts', 'Resist', 'Immigration'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-15',
+  title: '‘Nothing Has Been Done’: Judge Rebukes U.S. Effort to Return Wrongly Deported Man',
+  body: 'The judge also said she planned to force Trump officials to reveal what they have done behind the scenes to seek the return of the man, Kilmar Armando Abrego Garcia.',
+  links: [
+    {
+      href: 'https://www.nytimes.com/2025/04/15/us/trump-abrego-garcia-deported-hearing.html',
+      linkText: 'New York Times'
+    },
+    {
+      href: 'https://apnews.com/article/kilmar-abrego-garcia-el-salvador-trump-deported-e537cfb69a9840046b5d3e512509e9a8',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'Trump_Tests',
+  categories: ['Fascism', 'Dic(tator) Move', 'Immigration'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-15',
+  title: 'Trump Tests the True Limits of Presidential Power',
+  body: 'Trump defied Supreme Court order.',
+  links: [
+    {
+      href: 'https://www.nationalreview.com/carnival-of-fools/trump-tests-the-true-limits-of-presidential-power/',
+      linkText: 'National Review'
     },
   ],
 },
@@ -159,6 +579,22 @@ const entries = [
     {
       href: 'https://www.theregister.com/2025/04/15/ec_burner_devices/',
       linkText: 'The Register'
+    },
+  ],
+},
+
+{
+  id: 'Constitutional_Crisis_Here',
+  categories: ['Project 2025', 'Dic(tator) Move', 'Fascism'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-14',
+  title: 'The Constitutional Crisis Is Here',
+  body: 'Trump’s administration is only pretending to comply with the Supreme Court on the matter of a Maryland man it deported erroneously.',
+  links: [
+    {
+      href: 'https://www.theatlantic.com/politics/archive/2025/04/bukele-trump-court-order/682432/',
+      linkText: 'The Atlantic'
     },
   ],
 },
@@ -457,7 +893,7 @@ const entries = [
 
 {
   id: 'Trump_Sued_Tariffs',
-  categories: ['Project 2025', 'Trade War', 'Economy', 'Global', 'FAFO', 'Resist'],
+  categories: ['Project 2025', 'Tariff War', 'Economy', 'Global', 'FAFO', 'Resist'],
   color: 'green',
   faicon: 'coins',
   date: '2025-04-14',
@@ -473,7 +909,7 @@ const entries = [
 
 {
   id: 'Amazing_Tariff_Deal',
-  categories: ['Project 2025', 'Trade War', 'Economy', 'Global', 'Orwell'],
+  categories: ['Project 2025', 'Tariff War', 'Economy', 'Global', 'Orwell'],
   color: 'red',
   faicon: 'eye',
   date: '2025-04-14',
@@ -489,7 +925,7 @@ const entries = [
 
  {
   id: 'Golman_Sachs_Recession',
-  categories: ['Project 2025', 'Trade War', 'Economy', 'Global'],
+  categories: ['Project 2025', 'Tariff War', 'Economy', 'Global'],
   color: 'red',
   faicon: 'coins',
   date: '2025-04-14',
@@ -541,7 +977,7 @@ const entries = [
 
  {
   id: 'Threaten_Smartphones',
-  categories: ['Project 2025', 'Global', 'Trade War', 'Economy'],
+  categories: ['Project 2025', 'Global', 'Tariff War', 'Economy'],
   color: 'red',
   faicon: 'globe',
   date: '2025-04-14',
@@ -594,7 +1030,7 @@ const entries = [
 
  {
   id: 'Threaten_Smartphones',
-  categories: ['Project 2025', 'Trade War', 'Economy'],
+  categories: ['Project 2025', 'Tariff War', 'Economy'],
   color: 'red',
   faicon: 'coins',
   date: '2025-04-14',
@@ -626,7 +1062,7 @@ const entries = [
 
 {
   id: 'China_Halts_Exports',
-  categories: ['Project 2025', 'Trade War', 'Global', 'WW3', 'Economy'],
+  categories: ['Project 2025', 'Tariff War', 'Global', 'WW3', 'Economy'],
   color: 'red',
   faicon: 'globe',
   date: '2025-04-13',
@@ -1075,7 +1511,7 @@ const entries = [
 
  {
   id: 'Egg_Prices_Record',
-  categories: ['Project 2025', 'FAFO', 'Resist', 'Economy', 'Tariff War'],
+  categories: ['Project 2025', 'FAFO', 'Economy', 'Tariff War'],
   color: 'red',
   faicon: 'poo',
   date: '2025-04-10',
