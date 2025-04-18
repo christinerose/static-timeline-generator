@@ -35,6 +35,38 @@ const entries = [
 
 
  {
+  id: 'Judge_Blocks_Musk_Shutter',
+  categories: ['Resist', 'Project 2025', 'Courts', 'Economy'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-18',
+  title: 'Federal judge blocks Musk team’s effort to shutter top consumer agency',
+  body: 'Order comes a day after the ‘efficiency’ team sent out orders to lay off 1,500 of the agency’s 1,700 employees.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/18/federal-judge-blocks-musk-consumer-agency',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Court_Denies_Appeal',
+  categories: ['Immigration', 'Project 2025', 'Courts', 'Discrimination'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-04-17',
+  title: 'Court denies White House appeal of \'shocking\' Abrego Garcia deportation case',
+  body: 'It comes as Abrego Garcia\'s case has become another test of how far the White House is seeking to push the bounds of law through its immigration policy.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/04/17/g-s1-61118/appeals-court-deportation-abrego-garcia,
+      linkText: 'NPR'
+    },
+  ],
+},
+
+ {
   id: 'Iron_Dome',
   categories: ['WW3', 'Global', 'Project 2025', 'DOGE'],
   color: 'red',
@@ -55,7 +87,7 @@ const entries = [
 },
 
  {
-  id: 'Student_Denied_Bail',
+  id: 'Booker_ElSalvador_Visit',
   categories: ['Resist', 'Fascism', 'Immigration', 'Tiddlywinks'],
   color: 'green',
   faicon: 'plane',
