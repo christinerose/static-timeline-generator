@@ -34,6 +34,121 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
 
+ {
+  id: 'Iron_Dome',
+  categories: ['WW3', 'Global', 'Project 2025', 'DOGE'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-17',
+  title: 'The Pentagon is working to make Trump’s vision of a U.S. \'Iron Dome\' a reality',
+  body: 'The Defense Department will soon brief the president on possible options for a planned missile defense system that could cost up to hundreds of billions.',
+  links: [
+    {
+      href: 'https://www.nbcnews.com/politics/national-security/pentagon-working-make-trumps-vision-us-iron-dome-reality-rcna201105',
+      linkText: 'NBC'
+    },
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/17/spacex-golden-dome-musk-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Student_Denied_Bail',
+  categories: ['Resist', 'Fascism', 'Immigration', 'Tiddlywinks'],
+  color: 'green',
+  faicon: 'plane',
+  date: '2025-04-17',
+  title: 'Cory Booker to visit El Salvador in effort to return wrongly deported man to US',
+  body: 'Democrats press Trump administration to follow supreme court order to bring back Kilmar Ábrego García.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/17/cory-booker-trump-garcia-deportation-el-salvador',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Student_Denied_Bail',
+  categories: ['Education', 'Fascism', 'Immigration', 'Civil Liberties', 'Orwell'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-04-17',
+  title: 'Tufts student detained for writing op-ed denied bail by US immigration judge',
+  body: 'Turkish student Rümeysa Öztürk was seized in Massachusetts by plainclothes agents and spirited to Louisiana detention center.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/17/trump-rumeysa-ozturk-tufts-detention',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Conservationists_Sue',
+  categories: ['Climate', 'Project 2025', 'Resist'],
+  color: 'green',
+  faicon: 'radiation',
+  date: '2025-04-17',
+  title: 'Conservationists sue Trump administration over rollback of green policies',
+  body: 'Lawsuit focuses on day-one executive order claiming to ‘unleash American energy’ by boosting oil industry.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/17/trump-green-policy-rollback-lawsuit',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Afraid_To_Come',
+  categories: ['Global', 'Fascism', 'Immigration', 'Discrimination'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-04-17',
+  title: 'Stephen Colbert: ‘People from overseas are frightened to come here’',
+  body: 'Late-night hosts discuss the fall in tourists to the US and a Trump interview over his ‘cruel and criminal’ deportations.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/culture/2025/apr/17/stephen-colbert-trump-immigration-tourism',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'ICE_Smash_Window',
+  categories: ['Immigration', 'Project 2025', 'Discrimination'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-17',
+  title: 'Video shows Ice agents smashing car window to detain asylum seeker',
+  body: 'Lawyer says officials were looking for someone else while taking Juan Francisco Mendez in Massachusetts on Monday.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/17/ice-detention-massachusetts-man-video',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'ICE_Snitching_App',
+  categories: ['Orwell', 'Fascism', 'Immigration', 'Discrimination'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-17',
+  title: 'This ICE-snitching app is actually promoting a meme coin',
+  body: 'ICERAID claims to pay people in crypto for reporting undocumented immigrants. There’s no indication that actually happens.',
+  links: [
+    {
+      href: 'https://www.theverge.com/tech/650015/iceraid-app-immigrant-bounty-hunting-crypto',
+      linkText: 'The Verge'
+    },
+  ],
+},
 
  {
   id: 'Foreign_Disinformation_Dismantled',
@@ -584,6 +699,22 @@ const entries = [
 },
 
 {
+  id: 'Apps_Immigrants',
+  categories: ['Immigration', 'Project 2025', 'Discrimination', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-15',
+  title: 'The Apps Helping — And Hindering — ICE\'s Mass Deportations',
+  body: 'Tnew app is enabling American citizens to earn crypto rewards for reporting criminals, including illegal immigrants — with a twist: undocumented migrants without criminal records can benefit from payouts from the app, too.',
+  links: [
+    {
+      href: 'https://www.newsweek.com/apps-tracking-ice-activity-mass-deportations-trump-administration-2059996',
+      linkText: 'Newsweek',
+    },
+  ],
+},
+
+{
   id: 'Constitutional_Crisis_Here',
   categories: ['Project 2025', 'Dic(tator) Move', 'Fascism'],
   color: 'red',
@@ -595,6 +726,22 @@ const entries = [
     {
       href: 'https://www.theatlantic.com/politics/archive/2025/04/bukele-trump-court-order/682432/',
       linkText: 'The Atlantic'
+    },
+  ],
+},
+
+{
+  id: 'Surveillance_Immigrants',
+  categories: ['Immigration', 'Project 2025', 'Discrimination', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-14',
+  title: 'This Company’s Surveillance Tech Makes Immigrants ‘Easy Pickings’ for Trump',
+  body: 'Geo Group, a private prison firm that makes digital tools to track immigrants, becomes one of the Trump administration’s big business winners as its tech is increasingly used in deportations.',
+  links: [
+    {
+      href: 'https://www.nytimes.com/2025/04/14/technology/trump-immigration-tech-geo-group.html',
+      linkText: 'New York Times',
     },
   ],
 },
@@ -1880,6 +2027,58 @@ const entries = [
   },
 
   {
+    id: 'ICE_Impersonators_Spike',
+    categories: ['Immigration', 'Project 2025', 'Discrimination'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-08',
+    title: 'ICE officer impersonations spike in wake of immigration crackdown',
+    body: 'The Trump administration is telling some migrants who entered the U.S. using the CBP One mobile app to leave immediately, as part of a broader push to revoke temporary legal status for migrants who entered during the Biden administration under a legal authority known as humanitarian parole.',
+    links: [
+      {
+        href: 'https://www.newsnationnow.com/us-news/immigration/ice-impersonations-spike-immigration-crackdown/',
+        linkText: 'News Nation Now',
+      },
+    ],
+  },
+
+  {
+    id: 'Masked_ICE',
+    categories: ['Immigration', 'Project 2025', 'Discrimination'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-08',
+    title: 'As Trump’s immigration crackdown continues, ethics questions are being raised over the use of masked federal agents',
+    body: 'Startling scenes have emerged in recent weeks of masked federal agents in plain clothes detaining international students on campus or near their homes, raising serious questions about those tactics and their authority to wear face coverings',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/04/08/us/ice-masks-federal-agents-arrest-students/index.html',
+        linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'ICE_Impersonators_Spike',
+    categories: ['Immigration', 'Project 2025', 'Discrimination'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-08',
+    title: 'Migrants who entered the U.S. via CBP One app should leave \'immediately,\' DHS says',
+    body: 'Impersonators pretending to be immigration agents are spreading fear among migrants already uncertain about their future in the country.',
+    links: [
+      {
+        href: 'https://www.npr.org/2025/04/08/g-s1-58984/cbp-one-app-migrants-dhs-border',
+        linkText: 'NPR',
+      },
+      {
+        href: 'https://www.dhs.gov/news/2025/03/10/dhs-launches-cbp-home-app-self-deport-reporting-feature',
+        linkText: 'Department of Homeland Security',
+      },
+    ],
+  },
+
+  {
     id: 'AP_Wins',
     categories: ['Project 2025', 'Resist', 'Fascism', 'Courts'],
     color: 'green',
@@ -2127,7 +2326,7 @@ const entries = [
 
   {
     id: 'Citizenship_Wont_Save_You',
-    categories: ['Project 2025', 'Immigration', 'Civil Liberties'],
+    categories: ['Fascism', 'Immigration', 'Civil Liberties', 'Dic(tator) Move'],
     color: 'red',
     faicon: 'plane',
     date: '2025-04-08',
@@ -2143,7 +2342,7 @@ const entries = [
 
   {
     id: 'China_Fight_Back',
-    categories: ['Project 2025', 'Global', 'Tariff War'],
+    categories: ['Project 2025', 'Global', 'Tariff War', 'WW3'],
     color: 'red',
     faicon: 'globe',
     date: '2025-04-08',
@@ -5512,6 +5711,32 @@ const entries = [
       {
         href: 'https://www.cnn.com/2025/03/21/politics/town-halls-democrats-republicans/index.html',
         linkText: 'CNN',
+      },
+    ],
+  },
+
+  {
+    id: 'ICE_Scammers',
+    categories: ['Immigration', 'Project 2025', 'Discrimination'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-21',
+    title: 'ICE Scammers Are On The Rise: What To Do',
+    body: 'Reports of individuals posing as federal immigration agents are increasing across the United States, prompting officials to warn immigrant communities—to be aware of their rights and take steps to protect themselves from ICE impersonators.',
+    links: [
+      {
+        href: 'https://www.newsweek.com/ice-scammers-rise-what-do-immigration-2048631',
+        linkText: 'Newsweek',
+      },
+
+      {
+        href: 'https://www.nbcdfw.com/news/national-international/how-to-identify-fake-ice-agent-impostor-scam/3774318/',
+        linkText: 'NBC',
+      },
+
+      {
+        href: 'https://www.latimes.com/california/story/2025-03-20/ice-impersonators-scams-target-immigrants-tips-to-protect-yourself',
+        linkText: 'LA Times',
       },
     ],
   },
@@ -12131,6 +12356,22 @@ const entries = [
       {
         href: 'https://abcnews.go.com/US/judge-future-trumps-order-blocking-birthright-citizenship/story?id=118460936',
         linkText: 'ABC',
+      },
+    ],
+  },
+
+  {
+    id: 'ICE_Impersonators_Arrested',
+    categories: ['Project 2025', 'Immigration', 'Discrimination'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-02-05',
+    title: 'Multiple ICE impersonation arrests made during nationwide immigration crackdown',
+    body: 'Authorities in at least three states have arrested individuals allegedly impersonating Immigration and Customs Enforcement officers at a time when real ICE agents have ramped up immigration enforcement efforts under the Trump administration, adding to existing fears of law enforcement among migrant communities.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/02/04/us/ice-impersonators-on-the-rise-arrests-made-as-authorities-issue-national-warning/index.html',
+        linkText: 'CNN',
       },
     ],
   },
