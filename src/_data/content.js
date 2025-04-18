@@ -136,6 +136,10 @@ const entries = [
       href: 'https://www.npr.org/2025/04/17/g-s1-61118/appeals-court-deportation-abrego-garcia',
       linkText: 'NPR'
     },
+    {
+      href: 'https://www.cnn.com/2025/04/17/politics/4th-circuit-wilkinson-abrego-garcia-xinis/index.html',
+      linkText: 'CNN'
+    },
   ],
 },
 
