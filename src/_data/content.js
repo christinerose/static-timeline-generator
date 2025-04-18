@@ -34,6 +34,9 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
 
+
+
+
  {
   id: 'Judge_Blocks_Musk_Shutter',
   categories: ['Resist', 'Project 2025', 'Courts', 'Economy'],
@@ -46,6 +49,76 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/apr/18/federal-judge-blocks-musk-consumer-agency',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'House_Launches_Probe',
+  categories: ['Civil Liberties', 'Project 2025', 'Education', 'DOGE', 'Economy'],
+  color: 'red',
+  faicon: 'jedi',
+  date: '2025-04-18',
+  title: 'House Panel Launches Probe of Harvard, Joining Trump Attack',
+  body: 'A House panel is launching a civil rights investigation into Harvard University, joining Trump in his camaign against the school.',
+  links: [
+    {
+      href: 'https://www.bloomberg.com/news/articles/2025-04-17/house-panel-launches-probe-into-harvard-joining-trump-s-attack?embedded-checkout=true',
+      linkText: 'Bloomberg'
+    },
+  ],
+},
+
+{
+  id: 'Afraid_Of_Trump',
+  categories: ['Orwell', 'Fascism', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-17',
+  title: '‘We are all afraid’: Murkowski says fear of retaliation from Trump administration is ‘real’',
+  body: 'Sen. Lisa Murkowski said a fear of retaliation under President Donald Trump’s administration is rising to levels she’s not seen before, acknowledging this week that it is so pervasive that even the outspoken senator is “oftentimes very anxious” to speak up out of fear of recrimination.',
+  links: [
+    {
+      href: 'https://www.politico.com/news/2025/04/17/lisa-murkowski-trump-retaliation-00295852',
+      linkText: 'Politico'
+    },
+
+    {
+      href: 'https://www.huffpost.com/entry/lisa-murkowski-donald-trump_n_6800fb8ae4b027910a15d38f',
+      linkText: 'Huffington Post'
+    },
+  ],
+},
+
+{
+  id: 'Trump_Remove_Powell',
+  categories: ['Project 2025', 'Fascism', 'Dic(tator) Move', 'Tariff War'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-17',
+  title: 'Trump suggests he can remove Fed Chair Powell and says he’s ‘not happy’ with him over interest rates',
+  body: 'President Donald Trump attacked Federal Reserve Chair Jerome Powell on Thursday for not cutting interest rates and said he could fire him if he wanted to.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-powell-federal-reserve-fed-termination-b6148c8048dda538a6ca3b5a270fd09e',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'SCOTUS_Keeps_Hold',
+  categories: ['Immigration', 'Project 2025', 'Courts', 'Discrimination'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-17',
+  title: 'Supreme Court keeps hold on Trump’s restrictions on birthright citizenship but sets May arguments',
+  body: 'Trump’s executive order to end birthright citizenship for the children of people who are in the U.S. illegally has been halted nationwide by three district courts around the country. Appeals courts have declined to disturb those rulings.',
+  links: [
+    {
+      href: 'https://apnews.com/article/supreme-court-birthright-citizenship-trump-6f0cb929c4604ec1d9bf9fea99765b61',
+      linkText: 'Associated Press'
     },
   ],
 },
@@ -210,6 +283,27 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/apr/16/california-launches-legal-challenge-against-trump-tariffs',
       linkText: 'The Guardian',
+    },
+
+    {
+      href: 'https://www.nbcnews.com/politics/politics-news/california-sues-trump-administration-presidents-sweeping-tariffs-rcna201498',
+      linkText: 'NBC',
+    },
+  ],
+},
+
+{
+  id: 'Powell_Sounds_Alarm',
+  categories: ['Project 2025', 'Economy', 'Tariff War', 'Resist'],
+  color: 'green',
+  faicon: 'coins',
+  date: '2025-04-16',
+  title: 'Fed Chair Powell sounds alarm on tariffs, sending stocks lower',
+  body: 'Federal Reserve Chair Jerome Powell said Wednesday that he expects President Donald Trump\'s tariffs policy to cause higher inflation and slower economic growth, complicating potential central bank efforts to ease the fallout.',
+  links: [
+    {
+      href: 'https://abcnews.go.com/Business/fed-chair-powell-sounds-alarm-tariffs-sending-stocks/story?id=120863770',
+      linkText: 'ABC'
     },
   ],
 },
@@ -418,6 +512,16 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/apr/16/trump-deportation-ruling-venezuelan',
       linkText: 'The Guardian'
+    },
+
+    {
+      href: 'https://apnews.com/article/trump-deportees-el-salvador-contempt-boasberg-da282511ac6f5c8dd19af620995ca440',
+      linkText: 'Associated Press'
+    },
+
+    {
+      href: 'https://www.npr.org/2025/04/16/g-s1-60696/judge-contempt-alien-enemies-act',
+      linkText: 'NPR'
     },
   ],
 },
@@ -796,7 +900,7 @@ const entries = [
 
  {
   id: 'Trump_Ignores_Judge_3',
-  categories: ['Project 2025', 'Fascism', 'Courts', 'Civil Liberties', 'Dic(tator) Move'],
+  categories: ['Project 2025', 'Fascism', 'Courts', 'Civil Liberties', 'Dic(tator) Move', 'Orwell'],
   color: 'red',
   faicon: 'fire',
   date: '2025-04-14',
@@ -806,6 +910,11 @@ const entries = [
     {
       href: 'https://apnews.com/article/trump-ap-press-freedom-court-gulf-caffd32aa8ec6b04a50b8c5277d7c9cb',
       linkText: 'Associated Press'
+    },
+
+    {
+      href: 'https://www.cbsnews.com/news/associated-press-reporters-blocked-oval-office-event-white-house/',
+      linkText: 'CBS'
     },
   ],
 },
@@ -1050,6 +1159,27 @@ const entries = [
     {
       href: 'https://www.theguardian.com/education/2025/apr/14/harvard-university-trump-administration',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: '9B_Cuts_NPR',
+  categories: ['Project 2025', 'DOGE', 'Education', 'Civil Liberties', 'Orwell'],
+  color: 'green',
+  faicon: 'scroll',
+  date: '2025-04-14',
+  title: 'White House to ask Congress to cut $9B in funds, including for NPR, PBS, USAID',
+  body: 'A White House official confirmed to The Hill that the package will be sent to Congress when lawmakers return from Easter recess on April 28. The package requests to eliminate $9.3 billion in spending.',
+  links: [
+    {
+      href: 'https://thehill.com/homenews/administration/5248448-white-house-rescission-package/',
+      linkText: 'The Hill'
+    },
+
+    {
+      href: 'https://www.npr.org/2025/04/15/nx-s1-5352827/npr-pbs-public-media-trump-rescission-funding',
+      linkText: 'NPR'
     },
   ],
 },
