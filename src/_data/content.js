@@ -60,7 +60,7 @@ const entries = [
   body: 'It comes as Abrego Garcia\'s case has become another test of how far the White House is seeking to push the bounds of law through its immigration policy.',
   links: [
     {
-      href: 'https://www.npr.org/2025/04/17/g-s1-61118/appeals-court-deportation-abrego-garcia,
+      href: 'https://www.npr.org/2025/04/17/g-s1-61118/appeals-court-deportation-abrego-garcia',
       linkText: 'NPR'
     },
   ],
