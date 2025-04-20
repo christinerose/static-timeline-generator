@@ -35,6 +35,229 @@ const entries = [
 
 
 
+ {
+  id: 'April19_Protest2',
+  categories: ['Project 2025', 'Resist', 'Fascism', 'Civil Liberties'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-04-20',
+  title: '‘50501’ protesters denounce Trump administration in nationwide rallies while supporting impacted communities',
+  body: 'A national day of action against President Donald Trump and his administration has united an outpouring of protesters across the country who are rallying in defiance of what they describe as a relentless assault on democratic institutions and civil liberties.',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/04/19/us/50501-protests-trump-administration/index.html',
+      linkText: 'CNN'
+    },
+    {
+      href: 'https://www.newsweek.com/photos-show-massive-50501-anti-ttrump-protests-across-country-2061783',
+      linkText: 'NPR'
+    },
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/19/anti-trump-rallies-protests',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'April19_Protest_Photos',
+  categories: ['Project 2025', 'Resist', 'Fascism', 'Civil Liberties'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-04-19',
+  title: 'Photos Show Massive \'50501\' Anti-Trump Protests Across the Country',
+  body: 'The nationwide demonstrations, named for "50 protests, 50 states, one day," represent the latest in a series of actions by the rapidly growing movement that previously organized "Not My Presidents Day" in February and global "Hands Off" protests earlier this month.',
+  links: [
+    {
+      href: 'https://www.newsweek.com/photos-show-massive-50501-anti-ttrump-protests-across-country-2061783',
+      linkText: '3'
+    },
+  ],
+},
+
+{
+  id: 'SCOTUS_Orders_CECOT_Freeze',
+  categories: ['Fascism', 'Resist', 'Immigration', 'Courts'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-19',
+  title: 'Supreme Court Orders Trump to Freeze Next Round of Deportations Under Alien Enemies Act',
+  body: 'The whirlwind case concerns migrants from Venezuela who are detained in Texas.',
+  links: [
+    {
+      href: 'https://www.rollingstone.com/politics/politics-news/supreme-court-trump-halt-deportations-alien-enemies-act-1235321434/',
+      linkText: 'Rolling Stone'
+    },
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/18/supreme-court-aclu-venezuela',
+      linkText: 'The Guardian'
+    },
+    {
+      href: 'https://www.cnn.com/2025/04/18/politics/boasberg-deportation-flights-alien-enemies-act/index.html',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+{
+  id: 'Philanthropists_Unite',
+  categories: ['Fascism', 'Resist', 'Project 2025'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-04-19',
+  title: 'US philanthropists warn against capitulating to Trump: ‘We need to step up’',
+  body: 'Foundation leaders say charitable organisations could be next in the firing line – but must ‘stand together’ to resist.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/19/philanthropy-foundations-trump-resistance',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Millions_Dead_Worldwide',
+  categories: ['Project 2025', 'Health', 'Global'],
+  color: 'red',
+  faicon: 'medkit',
+  date: '2025-04-19',
+  title: 'Count the Dead by the Millions',
+  body: 'A new study projects Trump cuts to global health aid would kill millions; abortions would also soar.',
+  links: [
+    {
+      href: 'https://www.rollingstone.com/politics/politics-features/trump-rubio-musk-foreign-aid-millions-dead-1235321188/',
+      linkText: 'Rolling Stone'
+    },
+  ],
+},
+
+{
+  id: 'Lab_Leak',
+  categories: ['Project 2025', 'Health', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-19',
+  title: '“Lab leak” marketing page replaces federal hub for COVID resources',
+  body: 'The site previously hosted links to resources on long COVID, vaccines, and testing.',
+  links: [
+    {
+      href: 'https://arstechnica.com/health/2025/04/covid-gov-now-redirects-to-site-promoting-unproven-lab-leak/',
+      linkText: 'Arts Technica'
+    },
+  ],
+},
+
+{
+  id: 'US_Citizen_Detained',
+  categories: ['Discrimination', 'Project 2025', 'Immigration', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-19',
+  title: 'Mid-commute traffic stop left US citizen detained under an ICE order. Then, a Florida judge verified his US birth certificate',
+  body: 'A US-born man charged this week with being an “unauthorized alien” in Florida has been released after spending the night in jail on a 48-hour hold requested by US Immigration and Customs Enforcement amid the Trump administration’s broad deportation crackdown.',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/04/17/us/lopez-gomez-citizen-detained-ice-florida/index.html',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+{
+  id: 'No_Insurrection_Act_For_Now',
+  categories: ['Fascism', 'Project 2025', 'Civil Liberties', 'Insurrection Act'],
+  color: 'green',
+  faicon: 'fire',
+  date: '2025-04-18',
+  title: 'For now, Pentagon and DHS won’t recommend that Trump invoke the Insurrection Act',
+  body: 'The Insurrection Act is a 19th century law that would allow the president to use active-duty troops within the United States to perform law enforcement functions such as arresting migrants.',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/04/18/us/us-citizen-detained-canada/index.html',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+{
+  id: 'US_Citizens_Detained',
+  categories: ['Discrimination', 'Project 2025', 'Immigration', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-18',
+  title: 'US citizen says he and his wife detained without explanation after returning from Canada',
+  body: 'A mass deportation campaign by the White House has sparked fear as it aims to slow arrivals at the border and remove undocumented immigrants.',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/04/18/us/us-citizen-detained-canada/index.html',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+{
+  id: 'US_Citizens_Detained',
+  categories: ['Gun Violence', 'Project 2025'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-18',
+  title: 'FSU Shooter Shows Radicalized White Men Are The Threats to College Campuses—Not Student Protestors',
+  body: 'the alleged gunman is a quintessentially American school shooter: a radicalized, young white male who, classmates told NBC News, espoused white supremacist rhetoric.',
+  links: [
+    {
+      href: 'https://www.teenvogue.com/story/fsu-shooter-radicalized-white-man-real-threat-oped',
+      linkText: 'Teen Vogue'
+    },
+  ],
+},
+
+{
+  id: 'Staged_Margaritas',
+  categories: ['Orwell', 'Fascism', 'Global', 'Immigration'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-18',
+  title: 'Senator Says Bukele Staged Margaritas at Abrego Garcia Meeting, Wanted It by Pool',
+  body: 'El Salvador wants to make it look like life is “lovely” for Abrego Garcia, whom Trump illegally deported there.',
+  links: [
+    {
+      href: 'https://www.rollingstone.com/politics/politics-news/chris-van-hollen-meeting-kilmar-abrego-garcia-1235321088/',
+      linkText: 'Rolling Stone'
+    },
+  ],
+},
+
+{
+  id: 'Garcia_Traumatized',
+  categories: ['Orwell', 'Fascism', 'Global', 'Immigration'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-18',
+  title: 'Kilmar Ábrego García ‘traumatized’ by threats in prison, Maryland senator says',
+  body: 'Wrongly deported Salvadorian man Kilmar Ábrego García has been held incommunicado and faced threats in prison that have left him “traumatized.”',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/18/chris-van-hollen-kilmar-abrego-garcia',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Redefine_Human_Rights',
+  categories: ['Orwell', 'Fascism', 'Global'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-18',
+  title: 'The State Department is changing its mind about what it calls human rights',
+  body: 'The Trump administration is substantially scaling back the State Department\'s annual reports on international human rights to remove longstanding critiques of abuses such as harsh prison conditions, government corruption and restrictions on participation in the political process.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/04/18/nx-s1-5357511/state-department-human-rights-report-cuts',
+      linkText: 'NPR'
+    },
+  ],
+},
 
 
  {
@@ -66,6 +289,22 @@ const entries = [
     {
       href: 'https://www.bloomberg.com/news/articles/2025-04-17/house-panel-launches-probe-into-harvard-joining-trump-s-attack?embedded-checkout=true',
       linkText: 'Bloomberg'
+    },
+  ],
+},
+
+{
+  id: 'Maybe_Insurrection_Act',
+  categories: ['Fascism', 'Project 2025', 'Civil Liberties', 'Insurrection Act'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-17',
+  title: 'Could Trump invoke Insurrection Act – and what powers would that give him?',
+  body: 'Experts debunk claims of Trump declaring martial law on April 20, citing legal boundaries and confusion with the Insurrection Act.',
+  links: [
+    {
+      href: 'https://www.aljazeera.com/news/2025/4/17/could-trump-invoke-insurrection-act-and-what-powers-would-that-give-him',
+      linkText: 'Aljazeera'
     },
   ],
 },
@@ -255,6 +494,10 @@ const entries = [
     {
       href: 'https://www.theverge.com/tech/650015/iceraid-app-immigrant-bounty-hunting-crypto',
       linkText: 'The Verge'
+    },
+    {
+      href: 'https://www.newsweek.com/apps-tracking-ice-activity-mass-deportations-trump-administration-2059996',
+      linkText: 'Newsweek',
     },
   ],
 },
@@ -796,7 +1039,7 @@ const entries = [
   color: 'red',
   faicon: 'fire',
   date: '2025-04-15',
-  title: 'Attorney general dodges question on Trump proposal to jail US citizens in El Salvador',
+  title: 'Homeland security told US-born immigration lawyer to leave country',
   body: 'Email to Massachusetts lawyer warned her to ‘depart the US immediately’ even though removing US citizens is illegal.',
   links: [
     {
@@ -834,22 +1077,6 @@ const entries = [
     {
       href: 'https://www.theregister.com/2025/04/15/ec_burner_devices/',
       linkText: 'The Register'
-    },
-  ],
-},
-
-{
-  id: 'Apps_Immigrants',
-  categories: ['Immigration', 'Project 2025', 'Discrimination', 'Orwell'],
-  color: 'red',
-  faicon: 'eye',
-  date: '2025-04-15',
-  title: 'The Apps Helping — And Hindering — ICE\'s Mass Deportations',
-  body: 'Tnew app is enabling American citizens to earn crypto rewards for reporting criminals, including illegal immigrants — with a twist: undocumented migrants without criminal records can benefit from payouts from the app, too.',
-  links: [
-    {
-      href: 'https://www.newsweek.com/apps-tracking-ice-activity-mass-deportations-trump-administration-2059996',
-      linkText: 'Newsweek',
     },
   ],
 },
@@ -1480,22 +1707,6 @@ const entries = [
   links: [
     {
       href: 'https://www.theguardian.com/us-news/2025/apr/12/kilmar-abrego-garcia-wrongly-deported',
-      linkText: 'The Guardian'
-    },
-  ],
-},
-
-{
-  id: 'DoJ_Wont_Tell',
-  categories: ['Project 2025', 'Immigration', 'Fascism'],
-  color: 'red',
-  faicon: 'plane',
-  date: '2025-04-11',
-  title: 'Trump DoJ unable to tell court where man wrongly deported to El Salvador is',
-  body: 'US judge calls administration’s failure to comply with court order ‘extremely troubling’.',
-  links: [
-    {
-      href: 'https://www.theguardian.com/us-news/2025/apr/11/trump-deportation-el-salvador-kilmar-abrego-garcia',
       linkText: 'The Guardian'
     },
   ],
@@ -4850,13 +5061,29 @@ const entries = [
   },
 
   {
+    id: 'Reporting_Immigrants',
+    categories: ['Immigration', 'Fascism', 'Civil Liberties', 'Orewell'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-03-28',
+    title: 'Private groups work to identify and report student protesters for possible deportation',
+    body: 'The push to identify masked protesters using facial recognition and turn them in is blurring the line between public law enforcement and private groups.',
+    links: [
+      {
+        href: 'https://apnews.com/article/trump-foreign-students-campus-gaza-protests-deportation-9e2d4abc1c158454da1f68c01062c9ef',
+        linkText: 'Associated Press',
+      },
+    ],
+    },
+
+  {
     id: 'Tattoos_Autism',
     categories: ['Immigration', 'Fascism', 'Civil Liberties'],
     color: 'red',
     faicon: 'plane',
     date: '2025-03-27',
     title: 'Man Detained By ICE for Autism Awareness Tattoo Still Sent to Prison After Officers Declared Him \'Clean\'',
-    body: 'The Venezuelan man\'s family only learned of his whereabout after CBS News published a list of inmates at El Salvador\'s Terrorism Confinement Center',
+    body: 'The Venezuelan man\'s family only learned of his whereabout after CBS News published a list of inmates at El Salvador\'s Terrorism Confinement Center.',
     links: [
       {
         href: 'https://www.latintimes.com/man-detained-ice-autism-awareness-tattoo-still-sent-prison-after-officers-declared-him-clean-579373',
@@ -5984,6 +6211,22 @@ const entries = [
       {
         href: 'https://wagingnonviolence.org/2025/03/migrant-solidarity-portland-trump/',
         linkText: 'Waging Nonviolence',
+      },
+    ],
+  },
+
+  {
+    id: 'SA_Badge_Honor',
+    categories: ['Women', 'Project 2025'],
+    color: 'red',
+    faicon: 'venus',
+    date: '2025-03-20',
+    title: 'Sexual assault allegations seem to be a badge of honor in Trump’s America. Was #MeToo an epic failure?',
+    body: 'The push to end sexual violence has sparked a revenge campaign setting fire to women’s rights and pushing young men to the right.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/ng-interactive/2025/mar/30/metoo-movement-backlash-womens-rights-young-men',
+        linkText: 'The Guardian',
       },
     ],
   },
