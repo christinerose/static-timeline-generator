@@ -5126,7 +5126,7 @@ const entries = [
 
   {
     id: 'Reporting_Immigrants',
-    categories: ['Immigration', 'Fascism', 'Civil Liberties', 'Orewell'],
+    categories: ['Immigration', 'Fascism', 'Civil Liberties', 'Orwell'],
     color: 'red',
     faicon: 'plane',
     date: '2025-03-28',
