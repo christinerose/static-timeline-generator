@@ -36,6 +36,175 @@ const entries = [
 
 
  {
+  id: 'Stocks_Fall_Again',
+  categories: ['Project 2025', 'Tariff War', 'FAFO', 'Economy'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-04-21',
+  title: 'US stock markets fall again as Trump calls Fed chair ‘a major loser’',
+  body: 'President amps up attacks against Jerome Powell, pushing him to lower interest rates to offset impact of tariffs.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/business/2025/apr/21/us-stock-market-trump-fed-chair-jerome-powell',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Dems_Go_ElSalvador',
+  categories: ['Project 2025', 'Immigration', 'Resist', 'Tiddlywinks', 'Civil Liberties'],
+  color: 'green',
+  faicon: 'democrat',
+  date: '2025-04-21',
+  title: 'House Democrats land in El Salvador to push for return of Kilmar Ábrego García',
+  body: 'Four representatives join effort to challenge the Trump administration’s refusal to facilitate the immigrant’s release.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/21/democrats-el-salvador-abrego-garcia',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Pentagon_Meltdown',
+  categories: ['Project 2025', 'Global', 'FAFO'],
+  color: 'red',
+  faicon: 'poo',
+  date: '2025-04-21',
+  title: '‘Full-blown meltdown’ at Pentagon after Hegseth’s second Signal chat revealed',
+  body: 'Existence of group chat including Hegseth, his wife and others prompt calls for defense secretary to step down.’',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/21/hegseth-second-signal-chat-pentagon',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+ {
+  id: 'WH_Supports_Hesgeth',
+  categories: ['Project 2025', 'Orwell', 'Global', 'WW3'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-21',
+  title: 'White House voices support for Hegseth as a new Signal chat revelation stirs fresh Pentagon turmoil',
+  body: 'US president dismisses criticism of defense secretary sharing information on strikes in Yemen to his family.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/21/trump-pete-hegseth-signal-group-chat',
+      linkText: 'The Guardian'
+    },
+    {
+      href: 'https://apnews.com/article/hegseth-signal-chat-pentagon-trump-30dc4c3d0e75a89f3fd883f38b26afff',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'China_Returns_Jet',
+  categories: ['Project 2025', 'FAFO', 'Resist', 'Global', 'Tariff War'],
+  color: 'red',
+  faicon: 'poo',
+  date: '2025-04-21',
+  title: 'China sends back new Boeing jet made more expensive by tariffs',
+  body: 'With estimated $55m price set to balloon by 125%, 737 Max returns to Seattle production hub still wearing the colours of Xiamen Airlines.’',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/21/china-returns-boeing-737-jet-us-too-expensive-tariffs',
+      linkText: 'The Guardian'
+    },
+    {
+      href: 'https://abcnews.go.com/US/2nd-signal-chat-reveals-hegseth-messaging-yemen-strikes/story?id=120997685',
+      linkText: 'ABC'
+    },
+  ],
+},
+
+{
+  id: 'Hegseth_Second_Signal',
+  categories: ['Project 2025', 'Global', 'WW3'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-20',
+  title: 'Pete Hegseth shared Yemen attack details in second Signal chat',
+  body: 'US defense secretary texted strike information to his family in group chat he created.’',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/20/pete-hegseth-signal-chat-yemen-attack',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'MN_Senator_Calls_Contempt',
+  categories: ['Project 2025', 'Courts', 'Resist', 'Tiddlywinks'],
+  color: 'green',
+  faicon: 'democrat',
+  date: '2025-04-20',
+  title: 'Amy Klobuchar calls on supreme court to hold Trump officials in contempt',
+  body: 'Senator warns of US getting ‘closer to a constitutional crisis’ as Samuel Alito’s dissent signals deference to Trump.’',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/20/amy-klobuchar-samuel-alito-trump-immigration',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'US_Citizen_Detained_AZ',
+  categories: ['Project 2025', 'Immigration', 'Discrimination', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'person',
+  date: '2025-04-20',
+  title: 'US citizen wrongfully arrested by border patrol in Arizona held for nearly 10 days',
+  body: 'Official claimed Jose Hermosillo, who was visiting Arizona, was ‘without the proper immigration documents.’',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/20/us-citizen-jose-hermosillo-border-patrol',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Reorganize_State_Dept',
+  categories: ['Project 2025', 'Global', 'Immigration', 'Discrimination', 'LGBTQ', 'Women', 'Climate', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-20',
+  title: 'Trump draft order calls for drastic restructure of state department',
+  body: 'A draft Trump administration executive order reported to be circulating among US diplomats proposes a radical restructuring of the US state department, including drastic reductions to sub-Saharan operations, envoys and bureaus relating to climate, refugees, human rights, democracy and gender equality.’',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/20/trump-administration-state-department',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Trip_Due_Process',
+  categories: ['Orwell', 'Fascism', 'Global', 'Immigration', 'Resist'],
+  color: 'green',
+  faicon: 'plane',
+  date: '2025-04-20',
+  title: 'Senator says trip to El Salvador was to support Kilmar Ábrego García’s due process',
+  body: 'Chris Van Hollen says ‘if we deny constitutional rights of this one man, it threatens constitutional rights of everyone.’',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/20/senator-chris-van-hollen-kilmar-abrego-garcia',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
   id: 'April19_Protest2',
   categories: ['Project 2025', 'Resist', 'Fascism', 'Civil Liberties'],
   color: 'green',
@@ -55,6 +224,38 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/apr/19/anti-trump-rallies-protests',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'More_Religious_USA',
+  categories: ['Project 2025', 'Religion', 'Doc(tator) Move'],
+  color: 'red',
+  faicon: 'cross',
+  date: '2025-04-20',
+  title: 'Trump vows to make the US “greater and more religious” than ever',
+  body: '“Together we will make America bigger, better, stronger, richer, healthier and more religious than ever before!” Trump wrote',
+  links: [
+    {
+      href: 'https://ukrainetoday.org/trump-vows-to-make-the-us-greater-and-more-religious-than-ever/',
+      linkText: 'Ukraine Today'
+    },
+  ],
+},
+
+{
+  id: 'SCOTUS_Scolds_Trump',
+  categories: ['Project 2025', 'Courts', 'Resist', 'FAFO'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-20',
+  title: 'The Supreme Court’s Late-Night Rebuke to Trump Is Extraordinary in More Ways Than One',
+  body: 'A majority of justices signaled that they no longer trust the administration to comply with the law, including the court’s own rulings. If that is indeed the case, we are likely careening toward a head-on conflict between the president and the court, with foundational principles of constitutional democracy hanging in the balance.’',
+  links: [
+    {
+      href: 'https://slate.com/news-and-politics/2025/04/supreme-court-blocks-deportations-donald-trump-alito-dissent.html',
+      linkText: 'Slate'
     },
   ],
 },
@@ -196,7 +397,7 @@ const entries = [
 },
 
 {
-  id: 'US_Citizens_Detained',
+  id: 'FL_Shooting',
   categories: ['Gun Violence', 'Project 2025'],
   color: 'red',
   faicon: 'plane',
@@ -445,6 +646,22 @@ const entries = [
   links: [
     {
       href: 'https://www.theguardian.com/us-news/2025/apr/17/trump-rumeysa-ozturk-tufts-detention',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Students_Sue',
+  categories: ['Education', 'Project 2025', 'Resist', 'Immigration', 'Civil Liberties'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-04-17',
+  title: 'Foreign students sue Trump officials over revoked visas as 1,000 affected',
+  body: 'Actions by state department to terminate students’ legal status place them at risk of deportation and detention.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/17/trump-international-students-visas',
       linkText: 'The Guardian'
     },
   ],
@@ -849,6 +1066,22 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/apr/16/kilmar-abrego-garcia-chris-van-hollen',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Coal_Miners_Sue',
+  categories: ['Project 2025', 'Health', 'Resist', 'FAFO', 'Courts', 'DOGE'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-15',
+  title: 'Coal Miners Sue Trump Admin After It Halts Black Lung Protections',
+  body: 'Trump\'s administration doesn’t seem to give much of a shit about the health and safety of the workers who dig it out of the ground s.',
+  links: [
+    {
+      href: 'https://gizmodo.com/coal-miners-sue-trump-admin-after-it-halts-black-lung-protections-2000589350',
+      linkText: 'Gizmodo'
     },
   ],
 },
@@ -1836,6 +2069,10 @@ const entries = [
     {
       href: 'https://www.theguardian.com/business/2025/apr/11/what-are-bonds-and-why-have-they-spooked-donald-trump',
       linkText: 'The Guardian'
+    },
+    {
+      href: 'https://apnews.com/article/treasurys-bond-market-yield-tariff-46b4818710f01b8cc93fd002081167b0',
+      linkText: 'Associated Press'
     },
   ],
 },
