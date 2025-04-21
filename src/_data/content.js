@@ -294,8 +294,24 @@ const entries = [
 },
 
 {
+  id: 'Video_ICE_Smash',
+  categories: ['Immigration', 'Project 2025', 'Civil Liberties', 'Discrimination'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-17',
+  title: 'Video shows Ice agents smashing car window to detain asylum seeker',
+  body: 'Lawyer says officials were looking for someone else while taking Juan Francisco Mendez in Massachusetts on Monday.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/17/ice-detention-massachusetts-man-video',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
   id: 'Maybe_Insurrection_Act',
-  categories: ['Fascism', 'Project 2025', 'Civil Liberties', 'Insurrection Act'],
+  categories: ['Fascism', 'Project 2025', 'Civil Liberties', 'Insurrection Act', 'Dic(tator) Move'],
   color: 'red',
   faicon: 'fire',
   date: '2025-04-17',
@@ -502,9 +518,25 @@ const entries = [
   ],
 },
 
+{
+  id: 'NSA_Election_Fraud',
+  categories: ['Orwell', 'Dic(tator) Move', 'Project 2025'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-14',
+  title: 'Trump’s National Security Emergency Investigation Into Election Fraud Is Ongoing',
+  body: 'With Tulsi Gabbard’s announcement last Friday that an ongoing intelligence agency investigation has evidence that election computers are vulnerable to cyberattack hackers, President Trump’s actions suggest he is moving quickly to declare an election fraud national security emergency.',
+  links: [
+    {
+      href: 'https://www.americanthinker.com/articles/2025/04/trump_s_national_security_emergency_investigation_into_election_fraud_is_ongoing.html',
+      linkText: 'American Thinker'
+    },
+  ],
+},
+
  {
   id: 'Foreign_Disinformation_Dismantled',
-  categories: ['Orwell', 'Fascsim', 'Global'],
+  categories: ['Orwell', 'Fascism', 'Global'],
   color: 'red',
   faicon: 'eye',
   date: '2025-04-16',
@@ -1077,6 +1109,22 @@ const entries = [
     {
       href: 'https://www.theregister.com/2025/04/15/ec_burner_devices/',
       linkText: 'The Register'
+    },
+  ],
+},
+
+{
+  id: 'Trump_Executive_Election',
+  categories: ['Orwell', 'Dic(tator) Move', 'Project 2025'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-14',
+  title: 'Trump and Republicans Are Leading an Open Assault on Free Elections',
+  body: 'Trump’s executive order on elections, Mike Johnson’s SAVE Act, and Republican-backed laws nationwide are threatening many Americans’ right to vote.',
+  links: [
+    {
+      href: 'https://www.rollingstone.com/politics/politics-features/trump-republicans-elections-voting-rights-attack-1235316895/',
+      linkText: 'Rolling Stone'
     },
   ],
 },
@@ -2173,6 +2221,22 @@ const entries = [
       {
         href: 'https://apnews.com/article/trump-tariffs-economy-one-week-liberation-day-1aad750dc90829f07473fe17f913b8ba',
         linkText: 'Associated Press'
+      },
+    ],
+  },
+
+  {
+    id: 'Trump_Dismantle_Election_Security',
+    categories: ['Orwell', 'Dic(tator) Move', 'Project 2025'],
+    color: 'red',
+    faicon: 'hammer',
+    date: '2025-04-09',
+    title: 'Trump is dismantling election security networks.',
+    body: ' State officials are alarmed.',
+    links: [
+      {
+        href: 'https://www.cnn.com/2025/04/09/politics/election-security-systems-trump-invs/index.html',
+        linkText: 'CNN'
       },
     ],
   },
