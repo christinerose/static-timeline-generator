@@ -36,6 +36,22 @@ const entries = [
 
 
  {
+  id: 'US_Authoritarianism',
+  categories: ['Fascism', 'FAFO', 'Education'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-22',
+  title: 'Hundreds of scholars say U.S. is swiftly heading toward authoritarianism',
+  body: 'A survey of more than 500 political scientists finds that the vast majority think the United States is moving swiftly from liberal democracy toward some form of authoritarianism.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/04/22/nx-s1-5340753/trump-democracy-authoritarianism-competive-survey-political-scientist',
+      linkText: 'NPR'
+    },
+  ],
+},
+
+ {
   id: 'Google_Meta_Consequences',
   categories: ['FAFO', 'Resist', 'Project 2025'],
   color: 'green',
