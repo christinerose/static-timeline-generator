@@ -34,6 +34,155 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
 
+
+ {
+  id: 'Google_Meta_Consequences',
+  categories: ['FAFO', 'Resist', 'Project 2025'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-22',
+  title: 'The US government is coming for Google and Meta – but what will happen next?',
+  body: 'Google suffered another defeat last week in its clash with the justice department, while Meta hasn’t been able to wriggle its way out of antitrust cases either.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/technology/2025/apr/22/the-us-government-is-coming-for-google-and-meta-but-what-will-happen-next',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Larry_David_Spoof',
+  categories: ['FAFO', 'Resist', 'Fascism'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-22',
+  title: '‘I must say, mein Führer, I’m so thankful I came’: Larry David spoofs Bill Maher’s fawning White House visit with Trump',
+  body: 'Essay describes a surprise invitation in 1939 to a previously vocal critic for dinner with the Nazi leader, where ‘suddenly he seemed so human’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/tv-and-radio/2025/apr/22/larry-david-spoofs-bill-maher-white-house-visit-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Gore_Nazi_Compare',
+  categories: ['Project 2025', 'FAFO', 'Resist', 'Tiddlywinks', 'Fascism'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-22',
+  title: 'Al Gore compares Trump second term with Nazi Germany in scathing speech',
+  body: 'Former VP said the administration was creating its ‘own preferred reality,’ akin to the Nazi party during the 1930s in Germany.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/22/al-gore-trump-nazi-germany',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'SCOTUS_LGBTQ_Books',
+  categories: ['Project 2025', 'Education', 'Courts', 'LGBTQ', 'Religion', 'Orwell'],
+  color: 'red',
+  faicon: 'scroll',
+  date: '2025-04-22',
+  title: 'US supreme court weighs efforts to exempt elementary schoolers from LGBTQ+ books',
+  body: 'Parents argue constitutional religious rights should allow them to opt children out when LGBTQ+ books are read.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/22/supreme-court-schools-lgbtq-books',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Negative_Shock_Tariffs',
+  categories: ['Project 2025', 'Tariff War', 'Global', 'Economy'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-04-22',
+  title: 'IMF warns of ‘major negative shock’ from Trump’s tariffs',
+  body: 'In a stark assessment of the impact of the US president’s policies, the IMF said: “We expect that the sharp increase on 2 April in both tariffs and uncertainty will lead to a significant slowdown in global growth in the near term.”',
+  links: [
+    {
+      href: 'https://www.theguardian.com/business/2025/apr/22/imf-major-negative-shock-trump-tariffs-uk',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Dems_Call_Resign',
+  categories: ['Project 2025', 'FAFO', 'Resist', 'Tiddlywinks'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-22',
+  title: 'Democrats call for Hegseth to resign as Republicans echo Trump\'s support for secretary',
+  body: 'Democratic representative Angie Craig said Hegseth should be fired for “gross negligence” which had put US service members at risk.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/live/2025/apr/22/donald-trump-pete-hegseth-signal-universities-us-politics-latest-updates-news?CMP=share_btn_url&page=with%3Ablock-68079bd78f0813d605fc57b1#block-68079bd78f0813d605fc57b1',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Reorganize_State_Announced',
+  categories: ['Project 2025', 'Global', 'Immigration', 'Discrimination', 'LGBTQ', 'Women', 'Climate', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-22',
+  title: 'US State Department unveils massive overhaul of agency with reduction of staff and bureaus',
+  body: 'Secretary of State Marco Rubio unveiled a massive overhaul of the State Department on Tuesday, with plans to reduce staff in the U.S. by 15% while closing and consolidating more than 100 bureaus worldwide as part of the Trump administration’s “America First” mandate.',
+  links: [
+    {
+      href: 'https://apnews.com/article/state-department-rubio-reorganization-trump-usaid-3fc186fefddaaa72c3040db9fb380af4',
+      linkText: 'Associated Press'
+    },
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/22/marco-rubio-state-department-overhaul',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Trump_Allies_Turn',
+  categories: ['Project 2025', 'FAFO'],
+  color: 'green',
+  faicon: 'hammer',
+  date: '2025-04-22',
+  title: 'As controversies pile up, Trump allies increasingly turn on one another',
+  body: 'The infighting and backstabbing that plagued President Donald Trump’s first term have returned as a threat to his second, with deepening fissures over trade, national security and questions of personal loyalty.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-hegseth-infighting-e68a1ceab677f6bb490bdee0a463f214',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'Hegseth_Blames_Officials',
+  categories: ['Project 2025', 'Global', 'WW3', 'Orwell'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-22',
+  title: 'Hegseth blames ousted officials for leaks in latest Signal chat scandal',
+  body: 'Trump’s defense secretary denies he was ‘texting war plans’ after reports of second chat to discuss military operations.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/22/pete-hegseth-signal-group-chat',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
  {
   id: 'Hegseth_Info_Secure_Military',
   categories: ['Project 2025', 'Global', 'WW3'],
@@ -51,14 +200,30 @@ const entries = [
 },
 
 
+{
+  id: '150_Uni_Presidents',
+  categories: ['Project 2025', 'FAFO', 'Education', 'Civil Liberties', 'Resist'],
+  color: 'green',
+  faicon: 'scroll',
+  date: '2025-04-21',
+  title: 'Over 150 US university presidents sign letter decrying Trump administration',
+  body: 'Statement signed by Harvard, Princeton and Brown leaders denounces White House’s ‘undue government intrusion’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/21/us-university-presidents-trump-administration',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
  {
-  id: 'German_Teens_Handcuffed',
+  id: 'Harvard_Sues_Trump',
   categories: ['Project 2025', 'FAFO', 'Education', 'Civil Liberties', 'Resist'],
   color: 'green',
   faicon: 'scroll',
   date: '2025-04-21',
   title: 'Harvard sues Trump administration over efforts to ‘gain control of academic decision-making’',
-  body: 'University fights back against threats to cut about $9bn in funding for school after it refused to comply with demands',
+  body: 'University fights back against threats to cut about $9bn in funding for school after it refused to comply with demands.',
   links: [
     {
       href: 'https://www.theguardian.com/education/2025/apr/21/harvard-sues-trump-administration',
@@ -1158,7 +1323,23 @@ const entries = [
   ],
 },
 
- {
+
+{
+  id: 'Dem_Groups_Targeted',
+  categories: ['Orwell', 'Fascism', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-15',
+  title: 'Core Democratic groups are preparing to be targeted by the Trump administration',
+  body: 'As President Donald Trump pushes the historical boundaries of executive power, some of the Democratic Party’s core political institutions are preparing for the possibility that the federal government may soon launch criminal investigations against them.',
+  links: [
+    {
+      href: 'https://apnews.com/article/democrats-trump-actblue-indivisible-legal-threat-fbi-42f502bcb5888b12628629710c6eb21b',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+{
   id: 'Senator_Visit_ElSalvador',
   categories: ['Project 2025', 'Immigration', 'Resist'],
   color: 'green',
