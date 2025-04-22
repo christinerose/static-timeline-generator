@@ -34,6 +34,58 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
 
+ {
+  id: 'Hegseth_Info_Secure_Military',
+  categories: ['Project 2025', 'Global', 'WW3'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-22',
+  title: 'Hegseth pulled airstrike info from secure military channel for Signal posts',
+  body: 'The information posted in the second chat was identical to the sensitive operations details shared in the first chat, which included members of President Donald Trump’s National Security Council.',
+  links: [
+    {
+      href: 'https://apnews.com/article/hegseth-leaks-signal-trump-classified-09f58fa650e44f740c9416c3e6997f5b',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+
+ {
+  id: 'German_Teens_Handcuffed',
+  categories: ['Project 2025', 'FAFO', 'Education', 'Civil Liberties', 'Resist'],
+  color: 'green',
+  faicon: 'scroll',
+  date: '2025-04-21',
+  title: 'Harvard sues Trump administration over efforts to ‘gain control of academic decision-making’',
+  body: 'University fights back against threats to cut about $9bn in funding for school after it refused to comply with demands',
+  links: [
+    {
+      href: 'https://www.theguardian.com/education/2025/apr/21/harvard-sues-trump-administration',
+      linkText: 'The Guardian'
+    },
+    {
+      href: 'https://www.nbcnews.com/news/amp/rcna202276',
+      linkText: 'NBC'
+    },
+  ],
+},
+
+ {
+  id: 'German_Teens_Handcuffed',
+  categories: ['Project 2025', 'Immigration', 'Global', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-21',
+  title: 'Teenage German tourists handcuffed and deported from Hawaii over ‘suspicious’ hotel booking',
+  body: '‘We had already noticed a little bit of what was going on in the U.S. But at the time, we didn\'t think it was happening to Germans,\’ Maria Lepère says.',
+  links: [
+    {
+      href: 'https://www.independent.co.uk/news/world/americas/us-politics/german-tourists-deported-hawaii-cbp-b2736655.html',
+      linkText: 'The Independent'
+    },
+  ],
+},
 
  {
   id: 'Stocks_Fall_Again',
@@ -230,7 +282,7 @@ const entries = [
 
 {
   id: 'More_Religious_USA',
-  categories: ['Project 2025', 'Religion', 'Doc(tator) Move'],
+  categories: ['Project 2025', 'Religion', 'Dic(tator) Move'],
   color: 'red',
   faicon: 'cross',
   date: '2025-04-20',
@@ -376,6 +428,26 @@ const entries = [
     {
       href: 'https://www.cnn.com/2025/04/18/us/us-citizen-detained-canada/index.html',
       linkText: 'CNN'
+    },
+  ],
+},
+
+{
+  id: 'Judge_Pauses_Layoffs',
+  categories: ['DOGE', 'Project 2025', 'Economy', 'Resist', 'Courts'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-18',
+  title: 'Judge pauses Trump administration’s plans for mass layoffs at Consumer Financial Protection Bureau',
+  body: 'President Donald Trump ‘s attempt to fire nearly everyone at the Consumer Financial Protection Bureau was paused on Friday by a federal judge, who said she was “deeply concerned” about the plan and issued an order warning that administration officials appeared to be “thumbing their nose” at the courts.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-consumer-financial-protection-bureau-65c7953b6d79043fc2ac58b660c3847d',
+      linkText: 'Associated Press'
+    },
+    {
+      href: 'https://www.npr.org/2025/04/17/nx-s1-5368206/cfpb-layoffs-rif',
+      linkText: 'NPR'
     },
   ],
 },
