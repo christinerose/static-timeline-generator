@@ -339,7 +339,7 @@ const entries = [
 
  {
   id: 'China_Returns_Jet',
-  categories: ['Project 2025', 'FAFO', 'Resist', 'Global', 'Tariff War'],
+  categories: ['Project 2025', 'FAFO', 'Global', 'Tariff War'],
   color: 'red',
   faicon: 'poo',
   date: '2025-04-21',
