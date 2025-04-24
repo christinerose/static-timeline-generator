@@ -34,12 +34,78 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
 
+
+ {
+  id: 'Autistic_Voice_Alarm',
+  categories: ['Fascism', 'Health', 'Orwell', 'Resist'],
+  color: 'green',
+  faicon: 'fire',
+  date: '2025-04-24',
+  title: 'Autistic people and experts voice alarm at RFK’s ‘terrible’ approach to condition',
+  body: 'Health secretary is planning wide-ranging monitoring of autistic people’s health record and cuts to disability services',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/24/rfk-jr-autism-disability-services-cuts',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+ {
+  id: 'Cut_Gun_Combat',
+  categories: ['Project 2025', 'DOGE', 'Gun Violence'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-24',
+  title: '‘Like a slap in the face’: Trump officials cut hundreds of millions to combat gun violence and opioid addiction',
+  body: 'DoJ told over 350 groups that promised funding would be cut because it ‘no longer effectuates’ department priorities.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/24/trump-administration-funding-gun-violence-opioid-addiction',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Fleeing_Americans',
+  categories: ['Fascism', 'DOGE', 'Discrimination'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-24',
+  title: 'Meet the new American refugees fleeing across state lines for safety',
+  body: 'Americans have often moved between states for opportunities. Now they’re being forced to uproot themselves to escape hostile forces under Trump.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/ng-interactive/2025/apr/24/american-refugees-escape',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Trump_Jails_Immigrants',
+  categories: ['Fascism', 'Immigration', 'Orwell', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-24',
+  title: 'Trump is jailing immigrant families again. A mother, father and teen tell of ‘anguish on a daily basis’',
+  body: 'Family incarceration has been revived after Biden – and Jade, Jason and Gabriela are speaking out about their distressing treatment in Texas.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/ng-interactive/2025/apr/24/trump-immigration-families-detained',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
  {
   id: 'Autism_Comments_Dangerous',
   categories: ['Fascism', 'Health', 'Orwell'],
   color: 'red',
   faicon: 'eye',
-  date: '2025-04-22',
+  date: '2025-04-23',
   title: '\'I am horrified\': Why autistic people say RFK Jr.\'s comments on autism are so dangerous',
   body: 'Rhetoric \'steers us closer toward supremacy and eugenics.\'',
   links: [
