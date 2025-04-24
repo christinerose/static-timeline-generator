@@ -36,6 +36,43 @@ const entries = [
 
 
  {
+  id: 'Submit_Husband',
+  categories: ['Project 2025', 'Religion', 'Women'],
+  color: 'red',
+  faicon: 'venus',
+  date: '2025-04-24',
+  title: 'Leader of Trump’s Faith Office says she ‘submits’ to husband in ‘God’s order’',
+  body: '‘God has an order,’ says Paula White-Cain, which apparently does not involve women taking the lead. (They want to create Gilead!)',
+  links: [
+    {
+      href: 'https://www.independent.co.uk/news/world/americas/us-politics/trump-paula-white-cain-faith-office-husband-b2738449.html',
+      linkText: 'The Independent'
+    },
+
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/05/paula-white-faith-office-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Gutting_Civil_Rights',
+  categories: ['Fascism', 'Civil Liberties', 'Discrimination'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-24',
+  title: 'Civil rights advocates say Trump order guts protections against discrimination',
+  body: 'Order directs federal agencies to ‘deprioritize enforcement’ of laws where policies have discriminatory effects.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/24/civil-rights-trump-order',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
   id: 'Autistic_Voice_Alarm',
   categories: ['Fascism', 'Health', 'Orwell', 'Resist'],
   color: 'green',
@@ -13635,6 +13672,11 @@ const entries = [
       {
         href: 'https://apnews.com/article/trump-national-prayer-breakfast-30ff6f55a2e3c7b8643a15e7b158537d',
         linkText: 'Associated Press',
+      },
+
+      {
+        href: 'https://www.whitehouse.gov/presidential-actions/2025/02/eradicating-anti-christian-bias/',
+        linkText: 'White House',
       },
     ],
   },
