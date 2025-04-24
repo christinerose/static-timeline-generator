@@ -34,6 +34,256 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
 
+ {
+  id: 'Autism_Comments_Dangerous',
+  categories: ['Fascism', 'Health', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-22',
+  title: '\'I am horrified\': Why autistic people say RFK Jr.\'s comments on autism are so dangerous',
+  body: 'Rhetoric \'steers us closer toward supremacy and eugenics.\'',
+  links: [
+    {
+      href: 'https://www.cbc.ca/news/world/rfk-jr-autism-1.7516252',
+      linkText: 'CBC'
+    },
+  ],
+},
+
+ {
+  id: 'Trump_Blames_Zelenskyy',
+  categories: ['Project 2025', 'WW3', 'Global'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-04-23',
+  title: 'Trump accuses Zelenskyy of jeopardising imminent peace deal',
+  body: 'US president attacks Ukrainian counterpart for complaining Kyiv is unwilling to cede Crimea to Russia.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/world/2025/apr/23/vance-says-us-will-walk-away-unless-ukraine-and-russia-accept-peace-deal',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'VA_Christian_Bias',
+  categories: ['Project 2025', 'Fascism', 'Civil Liberties', 'Orwell', 'Religion'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-23',
+  title: 'Veterans Affairs asks employees to report ‘anti-Christian bias’ for investigation by new task force',
+  body: 'The Department of Veterans Affairs is establishing a task force to investigate employee reports of alleged anti-Christian bias among their colleagues, part of a broader effort by the Trump administration to infuse its agenda with religious purpose and champion the rights of Christians.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-veterans-affairs-christian-bias-f7750d2a357f02b250516e12d3eaff0c',
+      linkText: 'Associated Press'
+    },
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/22/veterans-affairs-anti-christian-bias',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'RampUp_Christian_Bias',
+  categories: ['Project 2025', 'Fascism', 'Civil Liberties', 'Orwell', 'Religion'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-23',
+  title: 'Trump Admin Ramps Up Bid To Eliminate \'Anti-Christian Bias\'',
+  body: 'The launch of the task forces comes as part of a broader push by Donald Trump to embed a conservative Christian agenda within the federal government',
+  links: [
+    {
+      href: 'https://www.newsweek.com/trump-anti-christian-bias-taskforce-va-2062909',
+      linkText: 'Newsweek'
+    },
+  ],
+},
+
+{
+  id: 'Order_Leave_Country',
+  categories: ['Project 2025', 'Immigration', 'Discrimination'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-23',
+  title: 'Orders to leave the country — some for US citizens — sow confusion among immigrants',
+  body: 'Hubert Montoya burst out laughing when the U.S. Department of Homeland Security emailed to say he should leave the country immediately or risk consequences of being deported. He is a U.S. citizen.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-immigration-cbp-one-asylum-4a3aae0453d17b6dfc2c9b590f19497e',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'Battle_Looms_Law',
+  categories: ['Project 2025', 'Courts', 'Fascism', 'FAFO', 'Resist'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-23',
+  title: 'A battle looms over rule of law as some courts start to flex their muscles against Trump',
+  body: 'Whether federal courts can force Trump to comply with their orders is an essential question for US democracy.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/23/federal-courts-rule-of-law-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Police_Raid_Protesters',
+  categories: ['Fascism', 'Project 2025', 'Orwell', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-23',
+  title: 'Activists say southeast Michigan police raids are targeting pro-Palestinian protesters',
+  body: 'Armed federal agents and Michigan state troopers were seen breaking into a home in Ypsilanti in dramatic video posted on Instagram.',
+  links: [
+    {
+      href: 'https://www.freep.com/story/news/education/2025/04/23/police-raids-target-pro-palestinian-protesters/83230514007/',
+      linkText: 'Detroit Free Press'
+    },
+
+    {
+      href: 'https://www.theguardian.com/us-news/live/2025/apr/23/donald-trump-elon-musk-tesla-doge-immigration-jerome-powell-law-harvard-us-politics-live-updates?CMP=share_btn_url&page=with%3Ablock-680948ae8f08e65b05d1dc4c#block-680948ae8f08e65b05d1dc4c',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: '12States_Sue_Trump',
+  categories: ['Project 2025', 'Courts', 'Tariff War', 'Global'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-23',
+  title: '12 states sue Trump over his tariffs, calling president\'s use of emergency powers \'unlawful\'',
+  body: 'In a statement, Arizona’s attorney general, Kris Mayes, said: “President Trump’s insane tariff scheme is not only economically reckless – it is illegal.”',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/live/2025/apr/23/donald-trump-elon-musk-tesla-doge-immigration-jerome-powell-law-harvard-us-politics-live-updates?CMP=share_btn_url&page=with%3Ablock-680969088f08e65b05d1dd26#block-680969088f08e65b05d1dd26',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Trump_Backtracks_China',
+  categories: ['Project 2025', 'Economy', 'Tariff War', 'Global'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-04-23',
+  title: 'Stock markets rise as Trump backtracks on high China tariffs and firing Fed chair',
+  body: 'Weeks of tough talk from the US president, who now says he will be ‘very nice’ to China, had rattled investors',
+  links: [
+    {
+      href: 'https://www.theguardian.com/business/2025/apr/23/stock-markets-rise-as-trump-says-he-will-reduce-tariffs-on-china-substantially',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Judge_Bad_Faith',
+  categories: ['Project 2025', 'Courts', 'Resist', 'Immigration'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-23',
+  title: 'Federal judge accuses White House of ‘bad faith’ in Kilmar Ábrego García case',
+  body: 'US district judge Paula Xinis had given the Trump administration until 6pm ET on Wednesday to provide details to support its claims that it does not have to comply with orders to return the man to the US.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/23/pete-hegseth-pentagon-espionage',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Hegseth_Espionage_Target',
+  categories: ['Project 2025', 'WW3', 'Global'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-04-23',
+  title: 'Fears grow that Signal leaks make Pete Hegseth top espionage target',
+  body: 'Experts say Pentagon chief has endangered secrets of US defense department and given assistance to foreign spies.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/23/pete-hegseth-pentagon-espionage',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'Women_Study_Gutted',
+  categories: ['Project 2025', 'DOGE', 'Economy', 'Women', 'Health'],
+  color: 'red',
+  faicon: 'venus',
+  date: '2025-04-22',
+  title: 'NIH guts its first and largest study centered on women',
+  body: '“This was really meant as a makeup project for women, because women have been excluded from research for so many years...”',
+  links: [
+    {
+      href: 'https://www.science.org/content/article/nih-cancels-its-first-and-largest-study-centered-women',
+      linkText: 'Science'
+    },
+  ],
+},
+
+ {
+  id: 'Women_Same_Fitness',
+  categories: ['Project 2025', 'DOGE', 'Economy', 'Climate', 'Discrimination'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-22',
+  title: 'EPA starts layoffs of environmental justice employees',
+  body: '“Today, EPA notified diversity, equity, and inclusion and environmental justice employees that EPA will be conducting a Reduction in Force..."',
+  links: [
+    {
+      href: 'https://www.nbcnews.com/science/science-news/epa-starts-layoffs-environmental-justice-employees-rcna202287',
+      linkText: 'NBC'
+    },
+  ],
+},
+
+
+ {
+  id: 'Elon_Pull_Back',
+  categories: ['Project 2025', 'DOGE', 'FAFO', 'Resist'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-22',
+  title: 'Elon Musk to pull back in Doge role starting May amid 71% dip in Tesla profits',
+  body: 'CEO to pare back White House work to one to two days weekly as analysts say role has caused branding crisis.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/technology/2025/apr/22/tesla-sales-musk-white-house-exit',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Women_Same_Fitness',
+  categories: ['Project 2025', 'Women', 'Discrimination'],
+  color: 'red',
+  faicon: 'venus',
+  date: '2025-04-22',
+  title: 'US army to test enlisted men and women with same physical standards',
+  body: 'Change to requirements to serve in combat roles expected to drastically cut number of women.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/22/pete-hegseth-women-combat-army-fitness-test',
+      linkText: 'The Guardian'
+    },
+  ],
+},
 
  {
   id: 'US_Authoritarianism',
@@ -215,6 +465,54 @@ const entries = [
   ],
 },
 
+
+{
+  id: 'Autism_Register',
+  categories: ['Fascism', 'Health', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-22',
+  title: 'RFK Jr.’s autism registry idea raises all kinds of red flags',
+  body: 'The news raises a host of data security concerns, in addition to questions about how Kennedy might use the data to advance his conspiratorial and harmful health agenda.',
+  links: [
+    {
+      href: 'https://www.msnbc.com/top-stories/latest/rfk-jr-autism-registry-trump-google-ice-hegseth-rcna202393',
+      linkText: 'MSNBC'
+    },
+  ],
+},
+
+{
+  id: 'Autism_Study_Records',
+  categories: ['Project 2025', 'Health', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'medkit',
+  date: '2025-04-22',
+  title: 'RFK Jr’s autism study collecting Americans’ private medical records',
+  body: 'The National Institutes of Health claims it is fulfilling RFK’s promise to find cause of autism by September.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/22/rfk-jr-autism-nih',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'DR_Measles',
+  categories: ['Project 2025', 'FAFO', 'Health'],
+  color: 'red',
+  faicon: 'poo',
+  date: '2025-04-21',
+  title: 'Controversial doc gets measles while treating unvaccinated kids—keeps working',
+  body: 'A controversial doctor providing unproven measles treatments to unvaccinated children in West Texas recently contracted the highly infectious virus himself amid the mushrooming outbreak.',
+  links: [
+    {
+      href: 'https://arstechnica.com/health/2025/04/controversial-doc-gets-measles-while-treating-unvaccinated-kids-keeps-working/',
+      linkText: 'Arts Technica'
+    },
+  ],
+},
 
 {
   id: '150_Uni_Presidents',
@@ -1122,7 +1420,7 @@ const entries = [
 }, 
 
  {
-  id: 'Christian_Nationalists_KeyRoles',
+  id: 'Army_Libraries_DEI',
   categories: ['Fascism', 'Education', 'Orwell', 'Discrimination'],
   color: 'red',
   faicon: 'eye',
@@ -2242,6 +2540,22 @@ const entries = [
     {
       href: 'https://www.paloaltoonline.com/news/2025/04/12/silicon-valley-crosswalk-buttons-apparently-hacked-to-imitate-musk-zuckerberg-voices/',
       linkText: 'Palo Alto Online'
+    },
+  ],
+},
+
+{
+  id: 'StateDept_Anti_Christian',
+  categories: ['Religion', 'Project 2025', 'Fascism', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-02-06',
+  title: 'State department staff told to report colleagues for ‘anti-Christian bias’',
+  body: 'One example of the “bias” the department wants reported includes “mistreatment for opposing displays of flags, banners or other paraphernalia” – a thinly veiled reference to Pride flags displayed at US embassies under the previous administration.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/11/state-department-anti-christian-bias',
+      linkText: 'The Guardian',
     },
   ],
 },
