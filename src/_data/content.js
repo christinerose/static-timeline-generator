@@ -36,6 +36,152 @@ const entries = [
 
 
  {
+  id: 'Judge_Halts_Overhaul_Elections',
+  categories: ['Project 2025', 'Discrimination', 'Courts', 'Resist', 'Civil Liberties'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-24',
+  title: 'Judge halts parts of Trump’s overhaul of US elections, including proof-of-citizenship requirement',
+  body: 'The decision is a setback for President Donald Trump, who has argued the requirement is needed to restore public confidence in elections.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-elections-executive-order-citizenship-lawsuit-4b683fe2e1106316fdb05621be9b7d0e',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'Judge_Blocks_Funding_Cut_DEI',
+  categories: ['Project 2025', 'Discrimination', 'Education', 'Courts', 'Resist'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-24',
+  title: 'Judges blocks Trump push to cut funding to public schools over diversity programs',
+  body: 'The ruling came in a lawsuit brought by the National Education Association and the American Civil Liberties Union, which accused the Republican administration of giving “unconstitutionally vague” guidance and violating teachers’ First Amendment rights.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-public-schools-diversity-equality-inclusion-dei-7d7ad707d91565753263a19ebde044e0',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'Exec_Order_Education',
+  categories: ['Project 2025', 'Discrimination', 'Education'],
+  color: 'red',
+  faicon: 'scroll',
+  date: '2025-04-24',
+  title: 'Trump signs executive actions on education, including efforts to rein in DEI',
+  body: 'The collection of orders aim to cement Trump\'s conservative agenda when it comes to education in America, including rolling back the policies from the Biden administration, bolstering workforce training, improving teaching about artificial intelligence in schools, and launching a new White House initiative on historically Black colleges and universities.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/04/23/nx-s1-5374365/trump-signs-education-executive-actions',
+      linkText: 'NPR'
+    },
+  ],
+},
+
+ {
+  id: 'Trump_STOP_Putin',
+  categories: ['Project 2025', 'WW3', 'Global'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-04-24',
+  title: 'In rare rebuke of Putin, Trump urges Russia to ‘STOP!’ after deadly attack on Kyiv',
+  body: 'Trump’s frustration is growing as a U.S.-led effort to get a peace agreement between Ukraine and Russia has not made progress.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-putin-russia-ukraine-war-kyiv-fb61625d2dee8b1917bb3522e73c2166',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+
+ {
+  id: 'Airlines_Trim_Flights',
+  categories: ['Project 2025', 'FAFO', 'Tariff War'],
+  color: 'red',
+  faicon: 'poo',
+  date: '2025-04-24',
+  title: 'Trade war and leery travelers have airlines trimming flights and withdrawing financial guidance',
+  body: 'Major U.S. airlines are reducing their flight schedules and revising or withdrawing their profit outlooks for the year due to less domestic travel demand as sentiment about the national and global economies sours.',
+  links: [
+    {
+      href: 'https://apnews.com/article/tariffs-travel-airlines-southwest-american-delta-0af04fdc6ac924cb510ed2538a301769',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'Hegseth_Unsecure_Line',
+  categories: ['Project 2025', 'Resist', 'Discrimination', 'Immigration', 'Courts'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-24',
+  title: 'Rulings coming fast and furious in lawsuits over Trump’s policies on immigration, elections and DEI',
+  body: 'The Trump administration was handed a rapid-fire series of court losses Wednesday night and Thursday in lawsuits filed over its policies on immigration, elections and its crackdown on diversity, equity and inclusion programs in schools.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-lawsuit-dei-immigration-deportation-elections-525fdb67d66c76e051a17b84c8b7948c',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'Hegseth_Unsecure_Line',
+  categories: ['Project 2025', 'WW3', 'Global'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-04-24',
+  title: 'Hegseth had an unsecured internet line set up in his office to connect to Signal',
+  body: 'The existence of the unsecured internet connection is the latest revelation about Hegseth’s use of the unclassified app and raises the possibility that sensitive defense information could have been put at risk of potential hacking or surveillance.',
+  links: [
+    {
+      href: 'https://apnews.com/article/hegseth-signal-chat-dirty-internet-line-6a64707f10ca553eb905e5a70e10bd9d',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'Wrong_Turn_Deportation',
+  categories: ['Project 2025', 'Civil Liberties', 'Discrimination', 'Immigration'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-24',
+  title: 'A wrong turn onto a bridge at the US-Canada border has a Detroit woman facing deportation',
+  body: 'A woman from Guatemala says she and her two U.S.-born children were held for nearly a week by customs agents in Detroit after a phone app’s directions to the nearest Costco led them to an international bridge connecting the city to Canada.',
+  links: [
+    {
+      href: 'https://apnews.com/article/detroit-immigrant-detention-bridge-canada-border-820a956eba7d09d6f956d6a148b9bf6b',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+
+ {
+  id: 'Trump_Pardons_Politican_Plastic_Surgery',
+  categories: ['Project 2025', 'Courts'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-04-24',
+  title: 'Trump pardons Nevada politician who paid for her plastic surgery with funds to honor a slain officer',
+  body: 'Michele Fiore was found guilty of six counts of federal wire fraud and one count of conspiracy to commit wire fraud.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-pardon-michele-fiore-nevada-fraud-cf56ef8b302b8111e47cf52d5a606d19',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
   id: 'Trump_Asks_SCOTUS',
   categories: ['Project 2025', 'Courts', 'LGBTQ', 'Discrimination'],
   color: 'red',
@@ -385,6 +531,23 @@ const entries = [
       href: 'https://www.theguardian.com/us-news/2025/apr/23/pete-hegseth-pentagon-espionage',
       linkText: 'The Guardian'
     },
+  ],
+},
+
+{
+  id: 'Judge_VOA_Back',
+  categories: ['Project 2025', 'DOGE', 'Civil Liberties', 'Courts', 'Resist'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-22',
+  title: 'Federal judge blocks Trump administration from dismantling Voice of America',
+  body: 'U.S. District Judge Royce Lamberth ruled that the administration illegally required Voice of America to cease operations for the first time since its World War II-era inception.',
+  links: [
+    {
+      href: 'https://apnews.com/article/voice-of-america-trump-f30c48df0c16de622ec5fd99ee6c627c',
+      linkText: 'Associated Press',
+    },
+
   ],
 },
 
