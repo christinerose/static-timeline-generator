@@ -36,6 +36,72 @@ const entries = [
 
 
  {
+  id: 'Trump_Asks_SCOTUS',
+  categories: ['Project 2025', 'Courts', 'LGBTQ', 'Discrimination'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-04-24',
+  title: 'Trump administration asks supreme court to reinstate ban on trans troops',
+  body: 'Efforts stem from an executive order signed by Trump asserting sexual identity of trans members affects readiness.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/24/trump-supreme-court-trans-military',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Trump_2028',
+  categories: ['Fascism', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-24',
+  title: '‘Trump 2028’ hats and T-shirts for sale on US president’s online store',
+  body: 'The 22nd Amendment of the US Constitution states that “No person shall be elected to the office of the President more than twice. Trump said there are “methods” that would allow it to happen.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/25/donald-trump-2028-merchandise-online-store',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Asked_If_Jewish',
+  categories: ['Project 2025', 'Civil Liberties', 'Discrimination', 'Global'],
+  color: 'red',
+  faicon: 'flag',
+  date: '2025-04-24',
+  title: 'US federal agency texts Barnard College employees to ask if they’re Jewish',
+  body: 'Employees received text from EEOC on personal phones linking to survey asking if they are Jewish or Israeli.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/24/barnard-college-texts-jewish-faculty',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+ {
+  id: 'Exploit_Antisemitism',
+  categories: ['Project 2025', 'Civil Liberties', 'Discrimination', 'Resist', 'Tiddlywinks'],
+  color: 'green',
+  faicon: 'hammer',
+  date: '2025-04-24',
+  title: 'Jewish senators accuse Trump of exploiting antisemitism to target universities',
+  body: 'Democrats including Schumer say Trump is using antisemitism as cover to defund schools.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/news/2025/apr/24/trump-antisemitism-universities-democrats-letter',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+ {
   id: 'Submit_Husband',
   categories: ['Project 2025', 'Religion', 'Women'],
   color: 'red',
@@ -1144,6 +1210,22 @@ const entries = [
     {
       href: 'https://www.bloomberg.com/news/articles/2025-04-17/house-panel-launches-probe-into-harvard-joining-trump-s-attack?embedded-checkout=true',
       linkText: 'Bloomberg'
+    },
+  ],
+},
+
+{
+  id: 'Trump_War_Protesters',
+  categories: ['Global', 'Project 2025', 'Civil Liberties', 'Discrimination'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-04-17',
+  title: 'Trump’s War on the Palestine Movement Is Something Entirely New',
+  body: 'Never before has a government repressed its citizens’ free speech and academic freedom so brutally in order to protect an entirely different country.',
+  links: [
+    {
+      href: 'https://www.thenation.com/article/society/trump-palestine-campus-repression-analysis/',
+      linkText: 'The Nation'
     },
   ],
 },
