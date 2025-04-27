@@ -34,6 +34,182 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
 
+ {
+  id: 'Tourism_Losses',
+  categories: ['Project 2025', 'FAFO', 'Global', 'Economy'],
+  color: 'red',
+  faicon: 'poo',
+  date: '2025-04-26',
+  title: 'US to miss out on billions as Trump’s policies deter overseas tourists',
+  body: 'Number of visitors sinks 11.6% in March as deportations and tariffs make US a less appealing destination.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/26/trump-tariffs-trade-war-tourism',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'GOP_Not_Onboard',
+  categories: ['Project 2025', 'FAFO', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'poo',
+  date: '2025-04-26',
+  title: 'Republican unity to be tested in talks over Trump’s ‘big, beautiful bill’',
+  body: 'Party eyes dramatic spending cuts to turn president’s promises into reality – but not all lawmakers are on board.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/26/republicans-trump-budget-bill',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Revenge_Covid',
+  categories: ['Project 2025', 'Health'],
+  color: 'red',
+  faicon: 'virus',
+  date: '2025-04-26',
+  title: 'How ‘revenge of the Covid contrarians’ unleashed by RFK Jr puts broader vaccine advances at risk',
+  body: 'The health secretary has pledged to fight chronic illness, but experts say he risks increasing it with department cuts.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/26/rfk-jr-chronic-disease-covid',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'GOP_TipToe',
+  categories: ['Project 2025', 'Immigration', 'Discrimination', 'FAFO'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-26',
+  title: 'I3 House Republicans from Florida with Cuban roots carefully navigate Trump’s immigration policies',
+  body: 'Three House Republicans in South Florida with roots in Cuba are treading carefully in discussing Trump’s immigration offensive, which includes directly targeting some Cubans and Venezuelans, key parts of the GOP’s base in Florida.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-immigration-diaz-balart-salazar-gimenez-florida-7c936238e61b4392c1211ac57eecd151',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'Judge_Stops_Deportations_WestTX',
+  categories: ['Project 2025', 'Immigration', 'Discrimination', 'Civil Liberties', 'Fascism', 'Orwell', 'Courts'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-26',
+  title: 'Lawsuit says migrants endure isolation and intimidation at US’ Guantanamo detention center',
+  body: 'Immigration and civil rights advocates have renewed concerns that immigrants detained at Guantanamo Bay are being held in extreme isolation, cut off from meaningful access to legal counsel or candid communication with relatives.',
+  links: [
+    {
+      href: 'https://apnews.com/article/guantanamo-navy-base-immigrants-detained-1ce6ef448f50bc89a47e32a919befc45',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'Judge_Stops_Deportations_WestTX',
+  categories: ['Project 2025', 'Immigration', 'Discrimination', 'Civil Liberties', 'Resist', 'Courts'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-26',
+  title: 'US judge temporarily stops west Texas immigrant deportations under Alien Enemies Act',
+  body: 'A federal judge in west Texas joined other courts in temporarily blocking the deportations of Venezuelan immigrants under an 18th-century wartime law known as the Alien Enemies Act.',
+  links: [
+    {
+      href: 'https://apnews.com/article/immigration-trump-texas-venezuela-a2b8e109b98c4ff62ac7719614056ac3',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'Children_Deported',
+  categories: ['Project 2025', 'Immigration', 'Discrimination', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-26',
+  title: 'ICE deports immigrant mother of an infant and 3 children who are US citizens',
+  body: 'The three cases raise questions about who is being deported, and why, and come amid a battle in federal courts over whether President Donald Trump’s immigration crackdown has gone too far and too quickly at the expense of fundamental rights.',
+  links: [
+    {
+      href: 'https://apnews.com/article/immigration-mothers-deported-d8c5c0353c18e9ee0c228ea15e02d759',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'Coast_Guard_Wife',
+  categories: ['Project 2025', 'Immigration', 'Discrimination', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-26',
+  title: 'Wife of US Coast Guard member arrested over expired visa after security check for military housing',
+  body: 'The wife of an active-duty Coast Guardsman was arrested earlier this week after she was flagged in a routine security check.',
+  links: [
+    {
+      href: 'https://apnews.com/article/coast-guard-immigration-arrest-navy-ice-8c59f778f3245b470871e1da96bf90e7',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'Deport_2YO',
+  categories: ['Project 2025', 'Immigration', 'Discrimination', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-26',
+  title: 'Trump officials deport two-year-old US citizen and mother of one-year-old girl',
+  body: 'Lawyers in both cases, one in Louisiana and another in Florida, say clients arrested at routine Ice check-ins.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/26/trump-administration-child-deportation',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Dems_Decry_WI_Judge',
+  categories: ['Fascism', 'Immigration', 'Courts', 'Orwell', 'Resist', 'Tiddlywinnks'],
+  color: 'green',
+  faicon: 'democrat',
+  date: '2025-04-26',
+  title: 'Democrats decry Wisconsin judge’s arrest as Republicans call to remove her',
+  body: 'Governor Tony Evers takes aim at White House’s ‘dangerous rhetoric.’',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/26/wisconsin-judge-hannah-dugan-democrats-republicans',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+ {
+  id: 'No_Faith_Trump',
+  categories: ['Project 2025', 'Immigration', 'FAFO'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-26',
+  title: 'Americans, including Republicans, losing faith in Trump, new polls reveals’',
+  body: 'Trump scores poorly on economy and immigration as some fear he is ‘exceeding powers’ and focussed on wrong issues.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/26/americans-republicans-trump-ratings-poll',
+      linkText: 'The Guardian'
+    },
+  ],
+},
 
  {
   id: '2YO_Deporteed',
@@ -52,6 +228,38 @@ const entries = [
 },
 
 {
+  id: 'DOGE_Cut_AmeriCorps',
+  categories: ['Project 2025', 'DOGE', 'Economy'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-25',
+  title: 'DOGE orders major cut to AmeriCorps funding, imperiling agency’s work',
+  body: 'The agency was directed to terminate nearly $400 million in grants that account for about 41 percent of its total grant funding.',
+  links: [
+    {
+      href: 'https://www.washingtonpost.com/nation/2025/04/25/americorps-grant-cuts-doge/',
+      linkText: 'Washington Post'
+    },
+  ],
+},
+
+{
+  id: 'Investigate_Berkeley',
+  categories: ['Fascism', 'Orwell', 'Education'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-25',
+  title: 'Trump administration investigating California university over foreign gifts',
+  body: 'DoE investigation revives reports that UC Berkeley failed to disclose Chinese funding for a now severed partnership.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/25/trump-university-of-california-berkeley-investigation',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
   id: 'New_Senior_Pentago',
   categories: ['Project 2025', 'WW3'],
   color: 'red',
@@ -63,6 +271,70 @@ const entries = [
     {
       href: 'https://www.npr.org/2025/04/25/nx-s1-5377395/hegseth-defense-department',
       linkText: 'NPR'
+    },
+  ],
+},
+
+{
+  id: 'Disabled_Detained',
+  categories: ['Project 2025', 'Discrimination', 'Immigration', 'Civil Liberties', 'Fascism'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-25',
+  title: 'Disabled people detained by Ice sound alarm over overcrowded jails',
+  body: 'Rodney Taylor, whose legs were amputated as a toddler, just one of many people with disabilities at risk from detention.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/25/ice-immigration-detention',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'DisabledSS_Interruption_Detained',
+  categories: ['Project 2025', 'DOGE', 'Economy'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-04-25',
+  title: 'Former US social security head predicts ‘interruption of benefits’ amid Doge cuts',
+  body: 'Martin O’Malley says Elon Musk’s incursions could result in disruption to benefit payments that 70 million depend on.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/25/social-security-disruption-musk-doge',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Xi_Tariffs',
+  categories: ['Project 2025', 'Tariff War', 'Global', 'WW3'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-04-25',
+  title: 'Xi announces plan for Chinese economy to counter impact of US trade war',
+  body: 'Beijing will ‘strengthen bottom-line thinking’ as reports say it could drop tariffs on some US products.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/world/2025/apr/25/xi-announces-plan-chinese-economy-us-trade-war',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Hurt_USA_Tariffs',
+  categories: ['Project 2025', 'Tariff War', 'Global', 'WW3', 'Economy'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-04-25',
+  title: '‘Very problematic’: US apparel bosses say Trump’s tariffs will hurt Americans',
+  body: 'The president aims to boost US manufacturing, but insiders warn tariffs will increase costs and destroy businesses.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/25/china-tariffs-apparel-business-trump',
+      linkText: 'The Guardian'
     },
   ],
 },
