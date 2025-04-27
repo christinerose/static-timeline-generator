@@ -36,6 +36,71 @@ const entries = [
 
 
  {
+  id: '2YO_Deporteed',
+  categories: ['Project 2025', 'Immigration', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-26',
+  title: 'Judge says 2-year-old US citizen appears to have been deported with ‘no meaningful process’',
+  body: 'The girl was deported Friday with her mother to Honduras, despite her father’s efforts to keep her in the United States.',
+  links: [
+    {
+      href: 'https://www.politico.com/news/2025/04/25/us-citizen-deportation-donald-trump-00311631',
+      linkText: 'Politico'
+    },
+  ],
+},
+
+{
+  id: 'New_Senior_Pentago',
+  categories: ['Project 2025', 'WW3'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-25',
+  title: 'New senior staff announced as White House looks to \'right the ship\' at the Pentagon',
+  body: 'NPR reported this week that the White House is looking for possible replacements with Hegseth under fire for putting sensitive military attack plans into at least two insecure group chats.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/04/25/nx-s1-5377395/hegseth-defense-department',
+      linkText: 'NPR'
+    },
+  ],
+},
+
+{
+  id: 'FBI_WI_Judge',
+  categories: ['Fascism', 'Immigration', 'Courts', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-25',
+  title: 'FBI arrests Wisconsin judge and accuses her of obstructing immigration officials',
+  body: 'Hannah Dugan apprehended in courthouse where she works after agency says she helped man evade authorities.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/25/judge-hannah-dugan-milwaukee-arrest',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Dems_Releast_Tufts',
+  categories: ['Project 2024', 'Immigration', 'Tiddlywinks', 'Resist'],
+  color: 'green',
+  faicon: 'democrat',
+  date: '2025-04-25',
+  title: 'Democratic lawmakers call for release of Tufts student from Ice detention',
+  body: 'A group of high-profile Democratic lawmakers has called on the Donald Trump administration to immediately release the Tufts University graduate student Rümeysa Öztürk, praised her “unwavering spirit” and warned that the White House is engaging in “repression.”',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/25/trump-tufts-rumeysa-ozturk-ice',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+ {
   id: 'Judge_Halts_Overhaul_Elections',
   categories: ['Project 2025', 'Discrimination', 'Courts', 'Resist', 'Civil Liberties'],
   color: 'green',
