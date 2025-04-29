@@ -1,7 +1,7 @@
 const header = `<p>America is Going Just Great<p>
-    <p class="subHeader">A timeline of America\'s descent into a fascist hellscape.</p>
+    <p class="subHeader">A timeline of America\'s descent into a fascist hellscape</p>
     <div class="nav"><a href="/">[timeline]</a> <a href="/resources/index.html">[resources]</a> <a href="/about/index.html">[about]</a> <a href="/index.xml"><img src="/img/rss.png" class="rssIcon" />RSS Feed</a></div>`;
-const footer = 'Compiled by <a href="christineroseauthor.com">Christine Rose</a>';
+const footer = 'Compiled by <a href="https://christineroseauthor.com">Christine Rose</a>';
 const entries = [
 
   //LGBTQ+ = rainbow
@@ -35,6 +35,391 @@ const entries = [
 
 
 
+ {
+  id: '100_Days_Summary',
+  categories: ['Project 2025', 'Economy', 'Immigration', 'Global', 'Tariff War', 'DOGE'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-29',
+  title: '100 days of Trump',
+  body: 'Law-abiding migrants sent to foreign prisons. Sweeping tariffs disrupting global markets. Students detained for protest. Violent insurrectionists pardoned. Tens of thousands of federal workers fired. The supreme court ignored.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/ng-interactive/2025/apr/29/trump-100-days-president',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: '100_Days_Inept2',
+  categories: ['Project 2025', 'Economy', 'Immigration', 'Global', 'Tariff War', 'Resist', 'DOGE'],
+  color: 'green',
+  faicon: 'hammer',
+  date: '2025-04-29',
+  title: 'Trump 100 days: delusions of monarchy coupled with fundamental ineptitude',
+  body: 'Trump has wasted no time in trying to remake the US in his image – with results that are sweeping, vengeful and chaotic. In three months Trump has shoved the world’s oldest continuous democracy towards authoritarianism at a pace that tyrants overseas would envy.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/29/trump-100-days-doge-trade-wars-economy',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: '100_Days_Inept',
+  categories: ['Project 2025', 'Economy', 'Immigration', 'Global', 'Tariff War', 'Resist', 'DOGE'],
+  color: 'green',
+  faicon: 'hammer',
+  date: '2025-04-29',
+  title: 'The uniting theme of Trump’s presidency? Ineptitude',
+  body: 'From deportations to human rights to the economy, the president’s actions have resulted in mayhem.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/commentisfree/2025/apr/30/trump-presidency-100-days-ineptitude',
+      linkText: 'The Guardian (Opinion)'
+    },
+  ],
+},
+
+{
+  id: 'Canada_Liberal_Win',
+  categories: ['Project 2025', 'Global', 'FAFO', 'Resist'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-29',
+  title: 'Carney wins Canadian election, while Conservative leader loses his seat in Parliament',
+  body: 'Canadian Prime Minister Mark Carney’s Liberal Party has won the federal election, capping a stunning turnaround in fortunes fueled by U.S. President Donald Trump’s annexation threats and trade war.',
+  links: [
+    {
+      href: 'https://apnews.com/article/canada-election-trump-carney-poilievre-861f5b00794355b231ee3f218568949b',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'Citizens_Traumatized',
+  categories: ['Project 2025', 'Immigration', 'Civil Liberties', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-29',
+  title: '‘We’re citizens!’: Oklahoma City family traumatized after ICE raids home, but they weren’t suspects',
+  body: 'A woman says her family’s fresh start in Oklahoma turned into a nightmare after federal immigration agents raided their home, taking their phones, laptops, and life savings – even though they were not the suspects the agents were looking for',
+  links: [
+    {
+      href: 'https://kfor.com/news/local/were-citizens-oklahoma-city-family-traumatized-after-ice-raids-home-but-they-werent-suspects/',
+      linkText: 'KFOR'
+    },
+  ],
+},
+
+ {
+  id: 'Disappeared_Families',
+  categories: ['Project 2025', 'Immigration', 'Civil Liberties', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-29',
+  title: '‘They disappear them’: families of the detained see grim echo of Latin American dictatorships in Trump’s US',
+  body: 'Mounting stories of ‘forced disappearances’ of Venezuelans in the US have left their loved ones distraught and disbelieving.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/29/venezuelan-detained-families-el-salvador-trump-dictatorship',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'FL_Empty_Town_Hall',
+  categories: ['Project 2025', 'Economy', 'FAFO', 'Resist'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-29',
+  title: 'Angry Florida voters hold ‘empty chair’ town halls for absent Republicans',
+  body: 'Republican committee advises against holding town halls as cases of lawmakers berated over federal cuts go viral.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/29/empty-chair-town-hall-republicans-florida',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'WH_Threat_Sanctuary',
+  categories: ['Project 2025', 'Immigration', 'Civil Liberties', 'Dic(tator) Move', 'Fascism'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-28',
+  title: 'The White House threatens sanctuary cities in another EO, but courts are skeptical',
+  body: 'Trump signed an executive order on Monday aimed at identifying and potentially cutting off federal funds to sanctuary cities, part of a broader effort to target jurisdictions that limit their cooperation with immigration authorities.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/04/28/nx-s1-5379614/white-house-threatens-sanctuary-cities-again',
+      linkText: 'NPR'
+    },
+  ],
+},
+
+ {
+  id: 'ExecOrder_Pres_Pleasure',
+  categories: ['Project 2025', 'DOGE', 'Economy', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-28',
+  title: 'DOGE Was Bad. Schedule F Will Be Worse.',
+  body: 'An executive order will convert 50,000 government employees into de facto political appointees who serve only at the president’s pleasure.',
+  links: [
+    {
+      href: 'https://www.theatlantic.com/ideas/archive/2025/04/trump-civil-service-schedule-f/682609/',
+      linkText: 'The Atlantic'
+    },
+  ],
+},
+
+{
+  id: '70_Percent_Resignation',
+  categories: ['Project 2025', 'Civil Liberties', 'Economy', 'DOGE'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-28',
+  title: 'Roughly 70% of Justice Department’s Civil Rights Division expected to accept resignation offer',
+  body: 'The mass exodus comes as the division is being converted into a unit that prioritizes the Trump administration’s goals like dismantling diversity, equity and inclusion initiatives, reversing policies on transgender rights, and combating antisemitism.',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/04/28/politics/justice-department-civil-rights-division-resignations/index.html',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+ {
+  id: 'No_Safe_Seat',
+  categories: ['Project 2025', 'Tiddlywinks', 'FAFO', 'Resist'],
+  color: 'green',
+  faicon: 'democrat',
+  date: '2025-04-28',
+  title: '‘No safe seat’: could Democrats make Florida a swing state again?',
+  body: 'Democratic candidates cutting in to GOP leads in local elections and protests against Trump provide faint path.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/28/florida-swing-state-democrats',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Jewish_Mob_Chase_Woman',
+  categories: ['Project 2025', 'Religion', 'WW3', 'Women'],
+  color: 'red',
+  faicon: 'synagogue',
+  date: '2025-04-28',
+  title: 'Mob of Orthodox Jewish men chases woman after protest at Brooklyn synagogues',
+  body: '“They were shouting at me, threatening to rape me, chanting ‘death to Arabs’. I thought the police would protect me from the mob, but they did nothing to intervene."',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/28/mob-orthodox-jewish-men-chases-woman',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'DOJ_No_Violation',
+  categories: ['Project 2025', 'Immigration', 'Civil Liberties', 'Courts'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-04-28',
+  title: 'DOJ argues deportations to El Salvador didn\'t violate court order against 3rd country removals',
+  body: 'Attorneys for the Department of Justice argued at a hearing Monday that the deportation last month of four alleged Venezuelan gang members to El Salvador did not violate a court order.',
+  links: [
+    {
+      href: 'https://abcnews.go.com/US/doj-argues-deportations-el-salvador-violate-court-order/story?id=121249971',
+      linkText: 'ABC'
+    },
+  ],
+},
+
+ {
+  id: 'Irish_Woman_Detained',
+  categories: ['Project 2025', 'Immigration', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-28',
+  title: 'Irish woman living in US for decades detained by immigration officials',
+  body: 'An Irish woman who has lived legally in the US for four decades has been detained by immigration officials for the last week because of a criminal record dating back almost 20 years.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/28/irish-woman-cliona-ward-us-detained-immigration',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'First_100_Days_Crackdown',
+  categories: ['Project 2025', 'Immigration'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-28',
+  title: 'White House focuses on border crackdown as it marks 100 days for Trump’s second term',
+  body: 'Trump told The Atlantic he feels more powerful in his second turn in the White House. His administration is stocked with loyalists, and he’s become even more confrontational with a judicial system that at times serves as a check on his agenda.',
+  links: [
+    {
+      href: 'https://apnews.com/article/donald-trump-100-days-border-interviews-5d6f98289bbd6a24e7ad193c9a513ee0',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'First_100_Days_Frenetic',
+  categories: ['Project 2025', 'Global', 'Fascism', 'Immigration', 'Tariff War'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-28',
+  title: 'Trump made big promises and moved at frenetic speed. 100 days in, here’s what he’s done and not done',
+  body: 'With a compliant Republican-controlled Congress, Trump has had a free hand to begin overhauling the federal government and upending foreign policy.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-100-days-promises-inflation-tariffs-deportations-970c837dada26ad5f6baaa6019131cf5',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'ICE_Children_Alone',
+  categories: ['Project 2025', 'Immigration', 'Discrimination', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-28',
+  title: 'Ice seeking out unaccompanied immigrant children to deport or prosecute',
+  body: 'Moves sparking fears of a crackdown on such children and prompting alarm about ‘backdoor family separation.’',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/28/ice-unaccompanied-immigrant-children',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Disability_Heated_SCOTUS',
+  categories: ['Project 2025', 'Resist', 'Health', 'Courts'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-28',
+  title: 'Disability-rights arguments grow heated at Supreme Court, though sweeping ruling appears unlikely',
+  body: 'The appeal comes from a teenage girl with a rare form of epilepsy whose family says some courts have made it too hard to sue public schools that fail to make sure students get what they need to learn.',
+  links: [
+    {
+      href: 'https://apnews.com/article/supreme-court-disability-rights-students-education-dde200f99883cfe1106ae5d35bba60b6',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: '100_Immigrants_Nightclub',
+  categories: ['Project 2025', 'Immigration', 'Discrimination', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-28',
+  title: 'More than 100 immigrants detained at an illegal after-hours nightclub in Colorado',
+  body: 'Videos showed dozens of people fleeing the building through its entrance after federal agents smashed a window.',
+  links: [
+    {
+      href: 'https://apnews.com/article/colorado-nightclub-raid-immigration-c0e46855c2a8b18d532560f12158e394',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'Pentagon_Cuts_Prevention',
+  categories: ['Project 2025', 'Women', 'Health', 'Economy'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-28',
+  title: 'Job cuts delay Pentagon plans to expand work to prevent sex assaults and suicides',
+  body: 'Personnel cuts across the Defense Department will delay plans to hire at least 1,000 more civilians to help prevent sexual assault, suicides and behavior problems within the military.',
+  links: [
+    {
+      href: 'https://apnews.com/article/pentagon-staff-cuts-sex-assault-suicide-prevention-3d06410658a6cfe45128165e40fb7b1f',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'World_Split',
+  categories: ['Project 2025', 'WW3', 'Global', 'Tariff War'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-04-28',
+  title: 'With China and the US at intense economic odds, other nations are being forced to choose sides',
+  body: 'As Trump’s trade war locks the world’s two largest economies on a collision course, America’s unnerved allies and partners are cozying up with China to hedge their bets.',
+  links: [
+    {
+      href: 'https://apnews.com/article/china-us-tariffs-trump-dce0557297c1a367cac9353d270a3c2e',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'Judge_Skeptical',
+  categories: ['Project 2025', 'Resist', 'Courts'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-28',
+  title: 'Another federal judge expresses skepticism over Trump law firm executive orders',
+  body: '“This order is designed to do one thing: it’s designed to punish a law firm because of the cases it take and because of its affiliation with a critic of the president.”',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-law-firm-mueller-executive-order-5873a7876a87940bc19d0ee9f995f069',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'Stock_Since_Nixon',
+  categories: ['Project 2025', 'FAFO', 'Economy'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-04-28',
+  title: 'Trump’s first 100 days are the worst for the stock market since Nixon',
+  body: 'Trump used his early days in office to push forth other campaign promises that investors had taken less seriously, particularly an aggressive approach to trade that many worry will raise inflation and push the U.S. into a recession.',
+  links: [
+    {
+      href: 'https://www.cnbc.com/2025/04/28/trumps-first-100-days-are-the-worst-for-the-stock-market-since-nixon.html',
+      linkText: 'CNBC'
+    },
+  ],
+},
+
+ {
+  id: 'Trump_Melts_Down',
+  categories: ['Project 2025', 'Fascism', 'Resist', 'FAFO'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-28',
+  title: 'Trump Melts Down Over Plummeting Popularity, Says Pollsters Are ‘Criminals’',
+  body: 'Multiple recent polls have the president\'s job approval rating sitting in the thirties just three months into his second term.',
+  links: [
+    {
+      href: 'https://www.rollingstone.com/politics/politics-news/trump-melts-down-poll-numbers-investigations-1235326327/',
+      linkText: 'Rolling Stone'
+    },
+  ],
+},
 
  {
   id: 'Pritzker_Speech',
@@ -128,6 +513,38 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/apr/28/trump-doj-voting-rights',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'First_100_Days_Low_Approval',
+  categories: ['Project 2025', 'Global', 'Fascism', 'Immigration', 'Tariff War', 'FAFO', 'Resist'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-27',
+  title: 'Trump’s approval at 100 days lower than any president in at least seven decades',
+  body: 'The poll finds the president underwater and sinking across nearly all major issues he’s sought to address during his time in office, with the public’s confidence in his ability to handle those issues also on the decline.',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/04/27/politics/approval-rating-trump-100-days/index.html',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+{
+  id: 'ICE_Prosecute_Protesters',
+  categories: ['Project 2025', 'Immigration', 'Discrimination', 'Civil Liberties', 'Orwell'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-27',
+  title: 'ICE promises bystanders who challenged Charlottesville raid will be prosecuted',
+  body: 'After ICE raided a downtown Charlottesville courthouse and arrested two men, the federal agency is promising to prosecute the bystanders who challenged their authority.',
+  links: [
+    {
+      href: 'https://dailyprogress.com/news/local/crime-courts/article_e6ce6e4a-4161-476f-8d28-94150a891092.html',
+      linkText: 'Daily Progress'
     },
   ],
 },
@@ -433,7 +850,7 @@ const entries = [
 
  {
   id: 'Dems_Decry_WI_Judge',
-  categories: ['Fascism', 'Immigration', 'Courts', 'Orwell', 'Resist', 'Tiddlywinnks'],
+  categories: ['Fascism', 'Immigration', 'Courts', 'Orwell', 'Resist', 'Tiddlywinks'],
   color: 'green',
   faicon: 'democrat',
   date: '2025-04-26',
@@ -481,6 +898,26 @@ const entries = [
 },
 
 {
+  id: 'DOJ_Seize_Journalists',
+  categories: ['Fascism', 'Orwell', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-25',
+  title: 'Justice Department rescinds policy against seizing journalists\' records in leak investigations',
+  body: 'Attorney General Pam Bondi indicated that reporters\' records could be subpoenaed for reasons broader than unauthorized disclosures of classified information...Bondi said the reversal was necessary for "safeguarding classified, privileged, and other sensitive information." The memo also decried leaks that "undermine" President Trump\'s agenda.',
+  links: [
+    {
+      href: 'https://www.cbsnews.com/news/justice-department-pam-bondi-subpoena-journalists-records-leaks/',
+      linkText: 'CBS'
+    },
+    {
+      href: 'https://www.npr.org/2025/04/25/nx-s1-5377624/pam-bondi-reporters-subpoena-leaks',
+      linkText: 'NPR'
+    },
+  ],
+},
+
+{
   id: 'DOGE_Cut_AmeriCorps',
   categories: ['Project 2025', 'DOGE', 'Economy'],
   color: 'red',
@@ -513,7 +950,7 @@ const entries = [
 },
 
 {
-  id: 'New_Senior_Pentago',
+  id: 'New_Senior_Pentagon',
   categories: ['Project 2025', 'WW3'],
   color: 'red',
   faicon: 'hammer',
@@ -545,7 +982,7 @@ const entries = [
 },
 
 {
-  id: 'DisabledSS_Interruption_Detained',
+  id: 'SS_Interruption',
   categories: ['Project 2025', 'DOGE', 'Economy'],
   color: 'red',
   faicon: 'coins',
@@ -1759,7 +2196,7 @@ const entries = [
   links: [
     {
       href: 'https://www.newsweek.com/photos-show-massive-50501-anti-ttrump-protests-across-country-2061783',
-      linkText: '3'
+      linkText: 'Newsweek'
     },
   ],
 },
@@ -3112,6 +3549,10 @@ const entries = [
       href: 'https://www.cnn.com/politics/live-news/trump-presidency-tarrifs-bukele-visit-04-14-25#cm9h9c13l00143b6oav1nr8mv',
       linkText: 'CNN'
     },
+    {
+      href: 'https://www.npr.org/2025/04/16/nx-s1-5366178/trump-deport-jail-u-s-citizens-homegrowns-el-salvador',
+      linkText: 'NPR'
+    },
   ],
 },
 
@@ -4272,6 +4713,22 @@ const entries = [
       {
         href: 'https://www.newsnationnow.com/us-news/immigration/ice-impersonations-spike-immigration-crackdown/',
         linkText: 'News Nation Now',
+      },
+    ],
+  },
+
+  {
+    id: 'Conditions_ElSalvador',
+    categories: ['Project 2025', 'Immigration', 'Fascism', 'Civil Liberties'],
+    color: 'red',
+    faicon: 'plane',
+    date: '2025-04-08',
+    title: 'The conditions inside the infamous El Salvador prison where deported migrants are held',
+    body: 'They leave the lights on 24 hours a day. They restrict the time of like about an hour a day, apparently, that prisoners can leave their cells. The overcrowding is excessive to international standards and the access to toilets and other hygiene clearly seem to be limited.',
+    links: [
+      {
+        href: 'https://www.pbs.org/newshour/show/the-conditions-inside-the-infamous-el-salvador-prison-where-deported-migrants-are-held',
+        linkText: 'PBS',
       },
     ],
   },
@@ -6086,12 +6543,16 @@ const entries = [
       color: 'red',
       faicon: 'plane',
       date: '2025-04-01',
-      title: 'Trump deported 238 Venezuelans to El Salvador. Dozens have active asylum cases',
+      title: 'Trump deported 238 Venezuelans to El Salvador. Dozens have active asylum cases. Most have no apparent criminal records.',
       body: 'The U.S. government has provided scant information about the deportees, beyond alleging that they are members of Tren de Aragua, a transnational criminal group from Venezuela that the Trump administration has designated a foreign terrorist organization.',
       links: [
         {
           href: 'https://www.reuters.com/world/americas/trump-deported-238-venezuelans-el-salvador-dozens-have-active-asylum-cases-2025-04-01/',
           linkText: 'Reuters',
+        },
+        {
+          href: 'https://www.cbsnews.com/news/what-records-show-about-migrants-sent-to-salvadoran-prison-60-minutes-transcript/',
+          linkText: 'CBS',
         },
       ],
       },
