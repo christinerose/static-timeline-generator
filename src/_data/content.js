@@ -34,6 +34,142 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
 
 
+
+ {
+  id: 'First_100_Days',
+  categories: ['Project 2025', 'Global', 'Fascism', 'Immigration', 'Tariff War'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-27',
+  title: 'Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars',
+  body: 'In his first 100 days, President Donald Trump exerted his power in a sweep and scale that has no easy historical comparison.',
+  links: [
+    {
+      href: 'https://apnews.com/politics/trumps-first-100-days-steamrolling-government-strong-arming-allies-igniting-trade-wars-000001965daeda12a1b77fee99900000',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'Canada_Elections',
+  categories: ['Project 2025', 'Global', 'Resist', 'WW3'],
+  color: 'green',
+  faicon: 'globe',
+  date: '2025-04-27',
+  title: 'Canadians head to polls in election upturned by Trump',
+  body: 'Canadians head to the polls in a federal election overshadowed by fury at Donald Trump’s threats to the country’s sovereignty and fears over his escalating trade war.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/world/2025/apr/28/canada-federal-election',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Bye_Bye_Musk',
+  categories: ['Project 2025', 'DOGE', 'FAFO', 'Economy'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-27',
+  title: 'Chaos unleashed by Musk’s Doge is starting to wane – what does that mean?',
+  body: 'Tech billionaire plans to hang up the chainsaw as he steps away from ‘efficiency’ role amid Tesla sales slump.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/27/elon-musk-doge-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+ {
+  id: 'Uni_Backbones',
+  categories: ['Project 2025', 'Resist', 'Education'],
+  color: 'green',
+  faicon: 'scroll',
+  date: '2025-04-27',
+  title: 'Hope as US universities find ‘backbone’ against Trump’s assault on education',
+  body: 'Even as universities reposition themselves, many stepping up their measures to suppress pro-Palestinian discourse.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/27/universities-oppose-trump-education',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Tidal_Wave_Protests',
+  categories: ['Project 2025', 'Resist'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-04-27',
+  title: '‘A trickle to a tidal wave’: behind the Trump protest movement that launched on Reddit',
+  body: 'From humble beginnings, the 50501 community is one of many coming together to resist the president and his policies.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/27/trump-protest-movement-50501',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Bleach_Cancer',
+  categories: ['Project 2025', 'Health'],
+  color: 'red',
+  faicon: 'virus',
+  date: '2025-04-27',
+  title: 'Trump golf club to host speaker who claims bleach can cure cancer and Covid',
+  body: 'Andreas Kalcker, prominent peddler of chlorine dioxide remedy, to appear at ‘Truth Seekers Conference’ in Miami.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/27/trump-golf-club-speaker-bleach',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+
+{
+  id: 'ICE_Warrentless',
+  categories: ['Project 2025', 'Immigration', 'Fascism', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-26',
+  title: 'DOJ Memo Shows Trump Admin Ordered ICE to Conduct Warrantless Home Invasions',
+  body: 'The U.S. Department of Justice dubiously invoked a centuries-old law in directing immigration agents to carry out home invasion searches without warrants, an internal memo revealed.',
+  links: [
+    {
+      href: 'https://www.commondreams.org/news/ice-warrantless-search',
+      linkText: 'Common Dreams'
+    },
+    {
+      href: 'https://www.usatoday.com/story/news/politics/2025/04/25/trump-venezuelan-gang-deportations-alien-enemies-act/83253074007',
+      linkText: 'USA Today'
+    },
+  ],
+},
+
+ {
+  id: 'Boycott_MAGA',
+  categories: ['Project 2025', 'FAFO', 'Resist', 'Economy'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-26',
+  title: 'Website For MAGA-Friendly Businesses Backfires As People Use It For Boycotts',
+  body: 'Social media posts about PublicSquare have gone viral as Trump critics use it to find companies not to support – the opposite of what the site was set up for.',
+  links: [
+    {
+      href: 'https://www.huffpost.com/entry/publicsquare-trump-critics-boycott-businesses_n_680900d2e4b00850c6839b0b',
+      linkText: 'Huffington Post'
+    },
+  ],
+},
+
  {
   id: 'Tourism_Losses',
   categories: ['Project 2025', 'FAFO', 'Global', 'Economy'],
@@ -324,6 +460,26 @@ const entries = [
 },
 
 {
+  id: 'Reverse_Visa_Terminations',
+  categories: ['Project 2025', 'Immigration', 'Discrimination', 'Civil Liberties', 'Resist', 'Courts'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-04-25',
+  title: 'Trump administration reverses termination of foreign students\' visas',
+  body: 'A federal judge in west Texas joined other courts in temporarily blocking the deportations of Venezuelan immigrants under an 18th-century wartime law known as the Alien Enemies Act.',
+  links: [
+    {
+      href: 'https://www.bbc.com/news/articles/cgm8ekk173zo',
+      linkText: 'BBC'
+    },
+    {
+      href: 'https://www.politico.com/news/2025/04/25/trump-admin-reverses-termination-foreign-student-visa-registrations-00309407',
+      linkText: 'Politico'
+    },
+  ],
+},
+
+{
   id: 'Hurt_USA_Tariffs',
   categories: ['Project 2025', 'Tariff War', 'Global', 'WW3', 'Economy'],
   color: 'red',
@@ -371,6 +527,21 @@ const entries = [
   ],
 },
 
+{
+  id: 'Smothsonian_Purge',
+  categories: ['Project 2025', 'Discrimination', 'Orwell'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-24',
+  title: 'The Smithsonian PURGE: Trump Team Removes Artifacts of Black Resistance',
+  body: 'Critics warn: it’s not just history being erased—it’s identity.',
+  links: [
+    {
+      href: 'https://blackpressusa.com/the-smithsonian-purge-trump-team-removes-artifacts-of-black-resistance/',
+      linkText: 'Black Press USA'
+    },
+  ],
+},
 
  {
   id: 'Judge_Halts_Overhaul_Elections',
@@ -1875,7 +2046,7 @@ const entries = [
   id: 'Student_Denied_Bail',
   categories: ['Education', 'Fascism', 'Immigration', 'Civil Liberties', 'Orwell'],
   color: 'red',
-  faicon: 'globe',
+  faicon: 'scroll',
   date: '2025-04-17',
   title: 'Tufts student detained for writing op-ed denied bail by US immigration judge',
   body: 'Turkish student Rümeysa Öztürk was seized in Massachusetts by plainclothes agents and spirited to Louisiana detention center.',
