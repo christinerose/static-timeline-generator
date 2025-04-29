@@ -151,6 +151,10 @@ const entries = [
       href: 'https://www.usatoday.com/story/news/politics/2025/04/25/trump-venezuelan-gang-deportations-alien-enemies-act/83253074007',
       linkText: 'USA Today'
     },
+    {
+      href: 'https://dailyboulder.com/ice-can-now-enter-your-home-without-a-warrant-to-find-migrants-doj-memo-says/',
+      linkText: 'Daily Boulder'
+    },
   ],
 },
 
