@@ -35,6 +35,103 @@ const entries = [
 
 
 
+
+ {
+  id: 'Pritzker_Speech',
+  categories: ['Tiddlywinks', 'Fascism', 'Resist', 'FAFO'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-28',
+  title: 'JB Pritzker’s fiery speech calling for mass protests sparks talk of 2028 run',
+  body: 'Democratic governor of Illinois declares Republicans ‘cannot know a moment of peace’ in New Hampshire speech.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/28/jb-pritzker-speech',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Nazi_Boys',
+  categories: ['Orwell', 'Fascism'],
+  color: 'red',
+  faicon: 'poo',
+  date: '2025-04-28',
+  title: 'Far-right fight groups endorse ‘youth clubs’ targeting US young men and boys',
+  body: 'Using fitness and sports as entry points into neo-Nazi ideologies, ‘youth club’ chapters are proliferating across US.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/28/active-youth-clubs-neo-nazi-groups',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Trump_Roils_Police',
+  categories: ['Project 2025', 'Fascism', 'FAFO', 'Discrimination'],
+  color: 'red',
+  faicon: 'poo',
+  date: '2025-04-28',
+  title: 'How Trump’s war on DEI is roiling US police: ‘it doesn’t mean work will stop’',
+  body: 'As Trump administration fights diversity, some officers fear for future of policing as they observe culture shifts.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/28/trump-dei-war-police',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Three_New_ExecOrders',
+  categories: ['Project 2025', 'Fascism', 'Discrimination', 'Immigration'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-28',
+  title: 'Trump signs orders stepping up immigration crackdown and ‘unleashing America’s law enforcement’',
+  body: 'Executive orders target sanctuary cities, give legal help for police accused of misconduct and require truck drivers to speak English.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/live/2025/apr/28/donald-trump-tariffs-china-xi-jinping-immigration-sanctuary-cities-us-politics-live-updates',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Tariff_Slump_Shipments',
+  categories: ['Project 2025', 'Tariff War', 'Economy'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-04-28',
+  title: 'Trump tariffs prompt slump in shipments to US ports',
+  body: 'Number of vessels scheduled to arrive at Port of Los Angeles next week is down by almost a third year on year.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/business/2025/apr/28/trump-tariffs-shipments-us-ports',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'DOJ_Remove_Voting',
+  categories: ['Project 2025', 'Fascism', 'Civil Liberties', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-28',
+  title: 'Trump’s justice department appointees remove leadership of voting unit',
+  body: 'Section is responsible for enforcing laws designed to prevent voter discrimination, raised alarm about voting rights enforcement.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/28/trump-doj-voting-rights',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
  {
   id: 'First_100_Days',
   categories: ['Project 2025', 'Global', 'Fascism', 'Immigration', 'Tariff War'],
@@ -170,6 +267,22 @@ const entries = [
     {
       href: 'https://www.huffpost.com/entry/publicsquare-trump-critics-boycott-businesses_n_680900d2e4b00850c6839b0b',
       linkText: 'Huffington Post'
+    },
+  ],
+},
+
+{
+  id: 'Homeless_Mentally_Ill',
+  categories: ['Project 2025', 'Discrimination', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-26',
+  title: 'Justice Dept. examines homeless encampments, options for the mentally ill',
+  body: 'Officials who oversee grants were asked for ideas on clearing homeless encampments and increasing involuntary hospitalization of the mentally ill.',
+  links: [
+    {
+      href: 'https://www.washingtonpost.com/national-security/2025/04/26/homelessness-justice-department-trump/',
+      linkText: 'Washington Post'
     },
   ],
 },
@@ -517,7 +630,7 @@ const entries = [
 
 {
   id: 'Dems_Releast_Tufts',
-  categories: ['Project 2024', 'Immigration', 'Tiddlywinks', 'Resist'],
+  categories: ['Project 2025', 'Immigration', 'Tiddlywinks', 'Resist'],
   color: 'green',
   faicon: 'democrat',
   date: '2025-04-25',
