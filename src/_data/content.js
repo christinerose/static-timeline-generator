@@ -35,6 +35,38 @@ const entries = [
 
 
  {
+  id: 'Trump_Losing',
+  categories: ['Project 2025', 'Fascism', 'Courts', 'Dic(tator) Move', 'Resist'],
+  color: 'green',
+  faicon: 'fire',
+  date: '2025-04-30',
+  title: 'Trump is losing his war on democracy',
+  body: 'The failure of Trump’s assault on democracy is not inevitable. Its current troubles are a result, in large part, of American society’s willingness to fight: its sense that resistance is not only feasible but necessary.',
+  links: [
+    {
+      href: 'https://www.vox.com/politics/410966/trump-democracy-100-days-losing',
+      linkText: 'Vox'
+    },
+  ],
+},
+
+ {
+  id: 'Democracy_Dictatorship',
+  categories: ['Project 2025', 'Fascism', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-30',
+  title: 'US ex-ambassadors warn of slide into authoritarianism amid ‘climate of fear’',
+  body: 'Four ex-heads of US embassies in nations that swung from democracies to dictatorships say landscape eerily familiar.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/30/former-us-ambassadors-warn-authoritarianism',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
   id: 'Cecot_Inside',
   categories: ['Project 2025', 'Fascism', 'Immigration', 'Global', 'Orwell'],
   color: 'red',
@@ -45,6 +77,22 @@ const entries = [
   links: [
     {
       href: 'https://www.theguardian.com/world/2025/apr/30/el-salvador-cecot-mega-prison-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Police_Immigration_Enforcement',
+  categories: ['Project 2025', 'Fascism', 'Immigration', 'Civil Liberties', 'Orwell'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-30',
+  title: 'Trump officials increasingly recruit local police for immigration enforcement despite ‘red flags’',
+  body: 'Agreements with agencies in 38 states resurrect aggressive tactics shelved more than a decade ago amid alarm about civil rights abuses.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/ng-interactive/2025/apr/30/trump-local-police-immigration',
       linkText: 'The Guardian'
     },
   ],
@@ -110,6 +158,22 @@ const entries = [
     {
       href: 'https://www.theguardian.com/commentisfree/2025/apr/30/trump-presidency-100-days-ineptitude',
       linkText: 'The Guardian (Opinion)'
+    },
+  ],
+},
+
+{
+  id: 'DOGE_Failed',
+  categories: ['Project 2025', 'Economy', 'Resist', 'DOGE', 'FAFO'],
+  color: 'green',
+  faicon: 'hammer',
+  date: '2025-04-29',
+  title: 'The real reason DOGE failed isn’t what you think',
+  body: 'Musk tried to act as the CEO for the federal workforce. His effort fell apart — due to some surprising resistance.',
+  links: [
+    {
+      href: 'https://www.vox.com/politics/410893/elon-musk-doge-failed-cabinet-spending',
+      linkText: 'Vox'
     },
   ],
 },
@@ -8190,6 +8254,22 @@ const entries = [
   },
 
   {
+    id: 'Descend_Authoritarianism',
+    categories: ['Courts', 'Fascism', 'Dic(tator) Move'],
+    color: 'redn',
+    faicon: 'fire',
+    date: '2025-03-22',
+    title: 'The Trump administration is descending into authoritarianism',
+    body: 'From media to culture and the arts to the refusal to abide by court orders, we’re nearing ‘Defcon 1 for our democracy’, experts say.',
+    links: [
+      {
+        href: 'https://www.theguardian.com/us-news/ng-interactive/2025/mar/22/trump-administration-authoritarianism',
+        linkText: 'The Guardian',
+      },
+    ],
+  },
+
+  {
     id: 'Judge_Rejects_AEA',
     categories: ['Immigration', 'Project 2025', 'Courts', 'Resist'],
     color: 'green',
@@ -14682,6 +14762,22 @@ const entries = [
         linkText: 'NPR',
       },
 
+    ],
+  },
+
+  {
+    id: 'New_Authoritarianism',
+    categories: ['Courts', 'Fascism', 'Dic(tator) Move'],
+    color: 'red',
+    faicon: 'fire',
+    date: '2025-02-10',
+    title: 'The New Authoritarianism',
+    body: 'With the leader of a failed coup back in the White House and pursuing an unprecedented assault on the constitutional order, many Americans are starting to wrap their mind around what authoritarianism could look like in America. I',
+    links: [
+      {
+        href: 'https://www.theatlantic.com/ideas/archive/2025/02/trump-competitive-authoritarian/681609/',
+        linkText: 'The Atlantic',
+      },
     ],
   },
 
