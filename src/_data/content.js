@@ -36,6 +36,22 @@ const entries = [
 
 
  {
+  id: 'Cecot_Inside',
+  categories: ['Project 2025', 'Fascism', 'Immigration', 'Global', 'Orwell'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-30',
+  title: 'The El Salvador mega-prison at the dark heart of Trump immigration crackdown',
+  body: 'Cecot, a secretive 40,000-capacity facility (aka Concentration Camp) built to house alleged gang members, ‘is meant for permanent exile, permanent punishment.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/world/2025/apr/30/el-salvador-cecot-mega-prison-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
   id: '100_Days_Summary',
   categories: ['Project 2025', 'Economy', 'Immigration', 'Global', 'Tariff War', 'DOGE'],
   color: 'red',
@@ -47,6 +63,22 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/ng-interactive/2025/apr/29/trump-100-days-president',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: '100_Days_100_Years',
+  categories: ['Project 2025', 'Economy', 'Immigration', 'Global', 'Tariff War', 'DOGE'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-29',
+  title: 'It has taken 100 days for Trump to undo 100 years of progress',
+  body: 'The American century is over and we’re heading toward something new...the precise moment that will go down in history as changing the nation’s story forever and whether Trump will be remembered as America’s first ‘king’.',
+  links: [
+    {
+      href: 'https://www.independent.co.uk/news/world/americas/us-politics/trump-first-100-days-president-analysis-b2741398.html',
+      linkText: 'The Independent'
     },
   ],
 },
@@ -100,13 +132,29 @@ const entries = [
 },
 
 {
+  id: 'Military_Domestic',
+  categories: ['Fascism', 'Orwell', 'Civil Liberties', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-04-29',
+  title: 'Bondi and Hegseth ordered to look at how military can be used in domestic operations',
+  body: 'Trump’s latest order could violate 1878 law designed to keep Armed Forces out of law enforcement concerns.',
+  links: [
+    {
+      href: 'https://kfor.com/news/local/were-citizens-oklahoma-city-family-traumatized-after-ice-raids-home-but-they-werent-suspects/',
+      linkText: 'KFOR'
+    },
+  ],
+},
+
+{
   id: 'Citizens_Traumatized',
   categories: ['Project 2025', 'Immigration', 'Civil Liberties', 'Dic(tator) Move'],
   color: 'red',
   faicon: 'plane',
   date: '2025-04-29',
   title: '‘We’re citizens!’: Oklahoma City family traumatized after ICE raids home, but they weren’t suspects',
-  body: 'A woman says her family’s fresh start in Oklahoma turned into a nightmare after federal immigration agents raided their home, taking their phones, laptops, and life savings – even though they were not the suspects the agents were looking for',
+  body: 'A woman says her family’s fresh start in Oklahoma turned into a nightmare after federal immigration agents raided their home, taking their phones, laptops, and life savings – even though they were not the suspects the agents were looking for.',
   links: [
     {
       href: 'https://kfor.com/news/local/were-citizens-oklahoma-city-family-traumatized-after-ice-raids-home-but-they-werent-suspects/',
@@ -149,6 +197,22 @@ const entries = [
 
 
 {
+  id: '800_Arrests',
+  categories: ['Project 2025', 'Immigration', 'Civil Liberties', 'Discrimination'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-04-28',
+  title: 'ICE: ‘First-of-its-kind’ operation with local law enforcement leads to nearly 800 immigrant arrests in Florida',
+  body: 'ICE and state law enforcement in Florida have arrested nearly 800 people over four days in a “massive, multi-agency immigration enforcement crackdown.”',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/04/27/us/ice-operation-first-of-its-kind-florida-hnk/index.html',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+{
   id: 'WH_Threat_Sanctuary',
   categories: ['Project 2025', 'Immigration', 'Civil Liberties', 'Dic(tator) Move', 'Fascism'],
   color: 'red',
@@ -176,6 +240,22 @@ const entries = [
     {
       href: 'https://www.theatlantic.com/ideas/archive/2025/04/trump-civil-service-schedule-f/682609/',
       linkText: 'The Atlantic'
+    },
+  ],
+},
+
+{
+  id: 'EO_Police_Power',
+  categories: ['Fascism', 'Orwell', 'Civil Liberties', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-04-28',
+  title: 'Stengthening and Unleashing America\'s Law Enforcement to Pursue Criminals and Protect Innocent Citizens',
+  body: 'Executive Order granting greater power to police and prosecuting state and local officials who "unlawfully engage in discrimination or civil-rights violations under the guise of \'diversity, equity, and inclusion\' initiatives that restrict law enforcement activity or endanger citizens."',
+  links: [
+    {
+      href: 'https://www.whitehouse.gov/presidential-actions/2025/04/strengthening-and-unleashing-americas-law-enforcement-to-pursue-criminals-and-protect-innocent-citizens/',
+      linkText: 'White House'
     },
   ],
 },
