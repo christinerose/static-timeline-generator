@@ -31,8 +31,7 @@ const entries = [
   //Layoffs, DOGE work, restructuring, etc. = Project 2025
   //DOGE & J6 = Fascism
  
- //Orwell :: rewriting history, double speak, new speak, silencing dissent, etc.
-
+ //Orwell :: rewriting history, double speak, new speak, silencing dissent, heavy policing, etc.
 
 
  {
