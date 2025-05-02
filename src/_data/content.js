@@ -26,13 +26,161 @@ const entries = [
   //Civil Liberties = flag
   //Orwell = eye
   //Civil War = gun
-  //Dic(tator) Move = 
+  //Dic(tator) Move = grimace
 
   //Layoffs, DOGE work, restructuring, etc. = Project 2025
   //DOGE & J6 = Fascism
  
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, heavy policing, etc.
 
+
+
+ {
+  id: 'Block_NPR',
+  categories: ['Fascism', 'Orwell', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-05-02',
+  title: 'Trump signs order to block funding to public radio',
+  body: 'Trump has issued an executive order calling for all federal funding to the Public Broadcasting Service (PBS) and National Public Radio (NPR) to be blocked.',
+  links: [
+    {
+      href: 'https://www.bbc.com/news/articles/cly1jwe7582o',
+      linkText: 'BBC'
+    },
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/02/trump-signs-executive-order-to-cut-funding-for-public-broadcasters',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'DOJ_Personal_Lawyers',
+  categories: ['Fascism','Dic(tator) Move', 'Courts'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-05-02',
+  title: 'Pam Bondi turning DoJ into Trump’s ‘personal law firm’, top experts warn',
+  body: 'Attorney general accused of targeting political foes, halting prosecutions and placing premium on loyalty to president.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/02/trump-doj-pam-bondi',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Threaten_Judiciary',
+  categories: ['Fascism', 'Orwell', 'Dic(tator) Move', 'Courts', 'Resist'],
+  color: 'green',
+  faicon: 'fire',
+  date: '2025-05-02',
+  title: 'Supreme court justice condemns Trump rhetoric ‘designed to intimidate the judiciary’',
+  body: 'She also spoke of White House’s undermining of the constitution and rule of law. “Across the nation, judges are facing increased threats of not only physical violence, but also professional retaliation just for doing our jobs."',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/02/supreme-courrt-ketanji-brown-jackson-trump-speech',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'News_Favor_Trump',
+  categories: ['Fascism', 'Orwell', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'grimace',
+  date: '2025-05-01',
+  title: 'White House launches news-style site to promote favorable coverage of Trump',
+  body: 'Administration’s news ‘wire’ will promote press releases, posts by high-level officials and positive news about itself. The Trump administration has been attempting to sideline the established press in favor of friendlier media.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/01/white-house-trump-news-website',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'DOJ_Loses_Civil_Rights_Dept',
+  categories: ['Project 2025', 'Fascism', 'Civil Liberties', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'flag',
+  date: '2025-05-01',
+  title: 'Justice department civil rights division loses 70% of lawyers under Trump',
+  body: 'More than 250 lawyers have left or been reassigned since January as critics fear ‘end of the division as we’ve known it’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/01/civil-rights-division-doj-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'May_Day',
+  categories: ['Project 2025', 'Fascism', 'Resist'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-05-01',
+  title: 'May Day demonstrations span coast to coast in ‘50501’ anti-Trump protests',
+  body: 'Thousands of people attended May Day protests across the country Thursday in response to the Trump administration’s controversial moves against immigrants and federal workers over its first 100 days.',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/05/01/us/50501-movement-anti-trump-protests',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+{
+  id: 'End_Desegregation',
+  categories: ['Project 2025', 'Discrimination'],
+  color: 'red',
+  faicon: 'person',
+  date: '2025-05-01',
+  title: 'The Justice Department ended a decades-old school desegregation order. Others are expected to fall',
+  body: 'Officials called its continued existence a “historical wrong” and suggested that others dating to the Civil Rights Movement should be reconsidered.',
+  links: [
+    {
+      href: 'https://apnews.com/article/school-segregation-order-civil-rights-justice-department-7fc5e2e4ef8e9ad4a283f563c042ae7c',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'Judge_Bars_Alien_Act',
+  categories: ['Project 2025', 'Resist', 'Immigration', 'Courts'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-05-01',
+  title: 'Federal judge bars use of Alien Enemies Act in key South Texas area',
+  body: 'Judge Fernando Rodriguez Jr., whom Trump appointed in 2017, wrote in a 36-page order that the administration’s invocation of the 1798 Alien Enemies Act was unlawful, especially during a time when the U.S. is not at war.',
+  links: [
+    {
+      href: 'https://michiganadvance.com/2025/05/01/repub/federal-judge-bars-use-of-alien-enemies-act-in-key-south-texas-area/',
+      linkText: 'Michigan Advance'
+    },
+    {
+      href: 'https://abcnews.go.com/US/judge-blocks-alien-enemies-act-deport-venezuelans-texas/story?id=121364022',
+      linkText: 'ABC'
+    },
+    {
+      href: 'https://www.cnn.com/2025/05/01/politics/alien-enemies-act-trump-rodriguez-ruling',
+      linkText: 'CNN'
+    },
+    {
+      href: 'https://apnews.com/article/trump-deportations-alien-enemies-act-venezuelans-texas-e0dda59f64b1f5752fb92a91ff7878f8',
+      linkText: 'Associated Press'
+    },
+  ],
+},
 
  {
   id: 'Trump_Losing',
@@ -46,6 +194,69 @@ const entries = [
     {
       href: 'https://www.vox.com/politics/410966/trump-democracy-100-days-losing',
       linkText: 'Vox'
+    },
+  ],
+},
+
+{
+  id: 'Harris_Speech',
+  categories: ['Project 2025', 'Fascism', 'Resist'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-04-30',
+  title: 'Kamala Harris says ‘courage is contagious’ in major speech excoriating Trump',
+  body: 'Kamala Harris delivered a searing indictment of Donald Trump’s first 100 days in power, warning in her first major address since leaving office that the nation was witnessing a “wholesale abandonment of America’s highest ideals” by its president.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/30/kamala-harris-speech-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'DOGE_Surveillance',
+  categories: ['Orwell', 'Fascism', 'Dic(tator) Move', 'DOGE'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-30',
+  title: '‘This Is What We Were Always Scared of’: DOGE Is Building a Surveillance State',
+  body: 'DOGE is assembling a sprawling domestic surveillance system for the Trump administration — the likes of which we have never seen in the United States.',
+  links: [
+    {
+      href: 'https://www.nytimes.com/2025/04/30/opinion/musk-doge-data-ai.html',
+      linkText: 'New York Times (Opinion)'
+    },
+  ],
+},
+
+{
+  id: 'Trump_Pressures_Journalist',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'Orwell', 'Immigration', 'Tariff War'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-30',
+  title: 'Trump pressures journalist to accept doctored photo as real: ‘Why don’t you just say yes?’',
+  body: 'President lashed out at Terry Moran in tense TV interview, which included questions about deportations and tariffs.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/apr/30/trump-abc-news-terry-moran',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'No_Review_Tariffs',
+  categories: ['Fascism', 'Dic(tator) Move', 'Courts', 'Economy', 'Tariff War'],
+  color: 'red',
+  faicon: 'grimace',
+  date: '2025-04-30',
+  title: 'Trump Tells Court His Tariffs Can\'t Be Reviewed by Judges',
+  links: [
+    {
+      href: 'https://www.bloomberg.com/news/articles/2025-04-30/trump-tells-court-his-tariff-powers-can-t-be-reviewed-by-judges',
+      linkText: 'Bloomberg'
     },
   ],
 },
@@ -174,6 +385,23 @@ const entries = [
     {
       href: 'https://www.vox.com/politics/410893/elon-musk-doge-failed-cabinet-spending',
       linkText: 'Vox'
+    },
+  ],
+},
+
+
+{
+  id: 'Jones_Fuentes_FAFO',
+  categories: ['Project 2025', 'Fascism', 'Immigration', 'Civil Liberties', 'Dic(tator) Move', 'FAFO', 'Resist'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-04-29',
+  title: 'When You’ve Lost Alex Jones',
+  body: 'Nick Fuentes, the self-described white supremacist incel, also seems to think the Trump administration is getting out over its skis. The fact that Fuentes and Jones, who both celebrated Trump’s political victory in November, are now expressing buyer’s remorse should tell you just how radical the current administration is.',
+  links: [
+    {
+      href: 'https://gizmodo.com/alex-jones-thinks-trump-has-gone-too-far-2000595784',
+      linkText: 'Gizmodo'
     },
   ],
 },
@@ -672,6 +900,22 @@ const entries = [
     {
       href: 'https://www.cnn.com/2025/04/27/politics/approval-rating-trump-100-days/index.html',
       linkText: 'CNN'
+    },
+  ],
+},
+
+{
+  id: 'Panopticon',
+  categories: ['Orwell', 'Fascism', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-04-27',
+  title: 'American Panopticon',
+  body: 'The Trump administration is pooling data on Americans. Experts fear what comes next.',
+  links: [
+    {
+      href: 'https://www.theatlantic.com/technology/archive/2025/04/american-panopticon/682616/',
+      linkText: 'The Atlantic'
     },
   ],
 },
