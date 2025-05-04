@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "serve": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy && mv _site/index_xml/index.html _site/index.xml && rm -rf _site/index_xml",
+    "build": "npx @11ty/eleventy && mv _site/index_xml/index.html _site/index.xml && mv _site/index-all/index.html _site/index-all.html && mv _site/index-first/index.html _site/index-first.html && rm -rf _site/index_xml _site/index-all _side/index-first",
     "prettier": "prettier --write .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

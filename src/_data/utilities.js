@@ -31,9 +31,23 @@ const isWrappedInParagraphTags = function (html) {
   return html.substring(0, 3) === '<p>';
 };
 
+const isInDateFilter = function(dateString, filteredDateRange) {
+  if (filteredDateRange === 'all' || filteredDateRange === '') {
+    return true;
+  }
+  if (filteredDateRange === 'first') {
+    return dateString < '2025-04-30';
+  }
+  if (filteredDateRange === 'second') {
+    return dateString >= '2025-04-30';
+  }
+  return false;
+}
+
 module.exports = {
   sentenceCase,
   humanizeDate,
   rssDate,
   isWrappedInParagraphTags,
+  isInDateFilter
 };
