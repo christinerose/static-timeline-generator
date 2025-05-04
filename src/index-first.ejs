@@ -50,14 +50,14 @@
           </ul>
           <div class="grouping">
             <a href="/index-all.html">◎ All entries</a>
-            <a href="/index-first.html">◎ First 100 Days</a>
-            <a href="/index.html">◉ 101+ Days</a>
+            <a href="/index-first.html">◉ First 100 Days</a>
+            <a href="/index.html">◎ 101+ Days</a>
           </div>
         </header>
       </div>
       <article class="timeline">
         <% content.entries.forEach(function(entry){ %>
-        <% if (utilities.isInDateFilter(entry.date, 'second')) { %>
+        <% if (utilities.isInDateFilter(entry.date, 'first')) { %>
         <div
           class="timeline-entry"
           data-category="<%= entry.categoriesString %>"
