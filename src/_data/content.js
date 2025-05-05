@@ -34,6 +34,140 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, heavy policing, etc.
 
 
+ {
+  id: 'Slippery_Slope',
+  categories: ['Fascism', 'Health', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-05-05',
+  title: '‘A slippery slope to eugenics’: advocates reject RFK Jr’s national autism database',
+  body: 'US health secretary claims data will be used for research but has not addressed privacy concerns and potential misuse.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/05/autism-national-database-rfk-jr',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'States_Sue',
+  categories: ['Climate', 'Resist', 'Courts', 'FAFO'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-05-05',
+  title: 'Democratic-led states sue Trump for blocking wind energy projects',
+  body: 'Administration is ‘devastating one of our nation’s fastest-growing sources of clean energy’, says NY attorney general.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/05/state-lawsuit-trump-wind-energy-policy',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'MAGA_Briefing_Room',
+  categories: ['Fascism', 'Orwell', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-05-05',
+  title: 'Maga media mob: meet the new rightwing faces in the White House briefing room',
+  body: 'A disgraced ultra-conservative banjo player ousted from his Grammy-winning band; a far-right conspiracy theorist with alleged ties to Russia; a TikTok creator known as “Maga Malfoy” for his resemblance to the Harry Potter character; and an extremist social media “influencer” once banned from Twitter for posting a video depicting sexual abuse of a child.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/05/white-house-briefing-rightwing-media',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'Insider_Trading_Investigation',
+  categories: ['Tariff War', 'Resist'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-05-05',
+  title: 'Letitia James is hunting for insider trading in Trump\'s inner circle.',
+  body: 'Ex-prosecutors call her tariff inquiry unprecedented.',
+  links: [
+    {
+      href: 'https://www.businessinsider.com/ny-attorney-general-letitia-james-trump-tariffs-insider-trading-investigation-2025-5',
+      linkText: 'Business Insider'
+    },
+  ],
+},
+
+
+{
+  id: 'No_Due_Process',
+  categories: ['Orwell', 'Immigration', 'Fascism', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-05-04',
+  title: 'Trump says he doesn’t know if he needs to uphold constitutional due process',
+  body: 'When it comes to giving immigrants full rights in US law in the face of Trump’s long-promised campaign of mass deportations, Trump was less clear on the need for due process and following US law and court decisions.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/04/trump-due-process-rights-constitution',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Gut_NEA',
+  categories: ['Orwell', 'Economy', 'Fascism', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-05-04',
+  title: 'Arts agency terminates dozens of grants after Trump proposes eliminating NEA',
+  body: 'National Endowment for the Arts notifies organizations that offers of government grants were terminated.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/04/nea-terminates-grants-trump-proposes-eliminating-agency',
+      linkText: 'The Guardian'
+    },
+
+    {
+      href: 'https://www.npr.org/2025/05/03/nx-s1-5385888/sweeping-cuts-hit-nea-after-trump-administration-calls-to-eliminate-the-agency',
+      linkText: 'NPR'
+    },
+  ],
+},
+
+{
+  id: 'Rewrite_History_250',
+  categories: ['Orwell', 'Dic(tator) Move', 'Fascism'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-05-04',
+  title: 'Historians alarmed as Trump seeks to rewrite US story for 250th anniversary',
+  body: 'Ignorance no barrier as president begins to put out approved version of history that ignores American failures.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/04/trump-us-250th-anniversary',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Economy_Falters',
+  categories: ['Tariff War', 'Economy', 'FAFO'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-05-04',
+  title: 'Trump feels tug of political gravity as economy falters and polls plunge',
+  body: 'The president started his second term fast and furious with a flurry of activity – much of it legally dubious – but analysts say the honeymoon is over.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/04/trump-popularity-voters-economy-immigration',
+      linkText: 'The Guardian'
+    },
+  ],
+},
 
  {
   id: 'Block_NPR',
@@ -51,6 +185,22 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/may/02/trump-signs-executive-order-to-cut-funding-for-public-broadcasters',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Uthmeier_Federal_Defiant',
+  categories: ['Fascism', 'Immigration', 'Civil Liberties', 'Courts', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-02',
+  title: 'Defiant Uthmeier says he won’t tell cops to stop arrests under suspended immigration law',
+  body: 'AG faces hearing on May 29, when a U.S. judge will consider holding him in contempt.',
+  links: [
+    {
+      href: 'https://floridaphoenix.com/2025/05/02/defiant-uthmeier-says-he-wont-tell-cops-to-stop-arrests-under-suspended-immigration-law/',
+      linkText: 'Florida Phoenix'
     },
   ],
 },
@@ -73,6 +223,70 @@ const entries = [
 },
 
 {
+  id: 'Perkins_Unconstitutional',
+  categories: ['Fascism', 'Courts', 'Resist', 'FAFO'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-05-02',
+  title: 'Trump order targeting law firm Perkins Coie is unconstitutional, judge rules',
+  body: 'US district judge Beryl Howell says order violates first, fifth and sixth amendments and permanently blocks it.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/02/trump-perkins-coie-unconstitutional',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Destory_Civil_Rights',
+  categories: ['Fascism', 'Civil Liberties', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-02',
+  title: 'Trump turns civil rights upside down in ‘biggest rollback’ since Reconstruction',
+  body: 'Addressing or even acknowledging racial injustice toward people of color is out. Separating church and state is out, according to Trump. Exposing anti-Christian bias and being ‘anti-woke’ is in.',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/05/02/politics/trump-civil-rights-rollback-what-matters',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+{
+  id: 'Maine_Wins',
+  categories: ['LGBTQ', 'Project 2025', 'Discrimination', 'Resist', 'Civil Liberties'],
+  color: 'green',
+  faicon: 'rainbow',
+  date: '2025-05-02',
+  title: 'Win for Maine as Trump officials agree to halt school funding freeze',
+  body: 'USDA had suspended funds for child nutrition program after state said it would not bar trans girls from girls’ sports.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/02/trump-maine-funding-freeze',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Circumvent_SCOTUS',
+  categories: ['Fascism', 'Orwell', 'Dic(tator) Move', 'Courts'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-02',
+  title: 'Fascist Stephen Miller declares Trump intends to circumvent Supreme Court, deploy National Guard to carry out mass deportations',
+  body: 'Top policy adviser Stephen Miller confirmed Friday that the administration intends to defy Supreme Court rulings and use the National Guard to carry out mass deportations.',
+  links: [
+    {
+      href: 'https://www.wsws.org/en/articles/2025/05/03/twwa-m03.html',
+      linkText: 'World Socialist Web Site'
+    },
+  ],
+},
+
+{
   id: 'Threaten_Judiciary',
   categories: ['Fascism', 'Orwell', 'Dic(tator) Move', 'Courts', 'Resist'],
   color: 'green',
@@ -84,6 +298,22 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/may/02/supreme-courrt-ketanji-brown-jackson-trump-speech',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'ICE_Storm_Home',
+  categories: ['Fascism', 'Orwell', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-01',
+  title: 'ICE agents storm Irvine couple\'s home in search for answers about posters placed around LA',
+  body: '"They say they traced back the IP." Annie Yang and YuZong Chang told Eyewitness News they are still in shock after being woken up by U.S. Department of Homeland Security investigators.',
+  links: [
+    {
+      href: 'https://abc7.com/post/ice-agents-storm-michael-changs-parents-irvine-home-search-answers-posters-placed-around-la/16298909/',
+      linkText: 'ABC'
     },
   ],
 },
@@ -450,6 +680,11 @@ const entries = [
     {
       href: 'https://kfor.com/news/local/were-citizens-oklahoma-city-family-traumatized-after-ice-raids-home-but-they-werent-suspects/',
       linkText: 'KFOR'
+    },
+
+    {
+      href: 'https://www.independent.co.uk/news/world/americas/ice-deportations-raid-oklahoma-family-b2742769.html',
+      linkText: 'The Independent'
     },
   ],
 },
@@ -1416,6 +1651,22 @@ const entries = [
     {
       href: 'https://www.politico.com/news/2025/04/25/trump-admin-reverses-termination-foreign-student-visa-registrations-00309407',
       linkText: 'Politico'
+    },
+  ],
+},
+
+{
+  id: 'Volunteer_Patrols',
+  categories: ['Project 2025', 'Immigration', 'Resist'],
+  color: 'green',
+  faicon: 'plane',
+  date: '2025-04-25',
+  title: 'How Volunteer Patrols Are Working to Protect San Diego Immigrant Communities From ICE',
+  body: 'In response to mass deportation threats and mixed messages from county leaders on federal cooperation, San Diego organizers are taking action to inform residents of ICE activity.',
+  links: [
+    {
+      href: 'https://boltsmag.org/how-volunteer-patrols-are-working-to-protect-san-diego-immigrant-communities-from-ice/',
+      linkText: 'Bolts Magazine'
     },
   ],
 },
