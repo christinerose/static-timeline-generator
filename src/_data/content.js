@@ -34,6 +34,23 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, heavy policing, etc.
 
 
+
+ {
+  id: 'Passenger_Lists',
+  categories: ['Immigration', 'Resist', 'Project 2025', 'FAFO'],
+  color: 'green',
+  faicon: 'plane',
+  date: '2025-05-05',
+  title: 'GlobalX, Airline for Trump’s Deportations, Hacked',
+  body: '“Anonymous has decided to enforce the Judge\'s order since you and your sycophant staff ignore lawful orders that go against your fascist plans,” a defacement message posted to GlobalX’s website reads.',
+  links: [
+    {
+      href: 'https://www.404media.co/globalx-airline-for-trumps-deportations-hacked/',
+      linkText: '404 Media'
+    },
+  ],
+},
+
  {
   id: 'Slippery_Slope',
   categories: ['Fascism', 'Health', 'Orwell'],
