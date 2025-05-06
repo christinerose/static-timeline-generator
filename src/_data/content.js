@@ -36,6 +36,22 @@ const entries = [
 
 
  {
+  id: 'WW3_10yrs',
+  categories: ['WW3', 'Global'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-05-05',
+  title: 'Many in US and western Europe think ‘third world war likely within five to 10 years’',
+  body: 'Poll before 80th anniversary of VE Day finds tensions with Russia seen as most probable cause.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/world/2025/may/06/majority-in-us-and-west-europe-think-third-world-war-likely-within-10-years-poll-ve-day',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
   id: 'Passenger_Lists',
   categories: ['Immigration', 'Resist', 'Project 2025', 'FAFO'],
   color: 'green',
@@ -118,6 +134,38 @@ const entries = [
 
 
 {
+  id: 'Take_That_Trump',
+  categories: ['Project 2025', 'Courts', 'Fascism', 'Resist'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-05-04',
+  title: 'The ruling against Trump\'s law firm order shows how to respond in this moment',
+  body: 'Judge Howell\'s decision striking down the order targeting Perkins Coie can serve as a framework for addressing Trump.',
+  links: [
+    {
+      href: 'https://www.lawdork.com/p/judge-howell-trump-perkins-coie-final-order',
+      linkText: 'Law Dork'
+    },
+  ],
+},
+
+{
+  id: 'Military_Greenland',
+  categories: ['WW3', 'Project 2025', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-05-04',
+  title: 'Trump says he ‘doesn’t rule out’ using military force to control Greenland',
+  body: 'President has repeatedly expressed idea of expansion into autonomous territory within fellow Nato member Denmark',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/04/trump-greenland-denmark-military-force',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
   id: 'No_Due_Process',
   categories: ['Orwell', 'Immigration', 'Fascism', 'Dic(tator) Move'],
   color: 'red',
@@ -129,6 +177,22 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/may/04/trump-due-process-rights-constitution',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Tarrio_Thanks_Trump',
+  categories: ['J6', 'Dic(tator) Move', 'Fascism'],
+  color: 'red',
+  faicon: 'skull',
+  date: '2025-05-04',
+  title: 'Proud Boys’ Ex-Leader Thanks Trump for Pardon at Mar-a-Lago Encounter',
+  body: 'Enrique Tarrio said he told Mr. Trump that he had saved his life by including him in a blanket grant of clemency for Jan. 6 defendants.',
+  links: [
+    {
+      href: 'https://www.nytimes.com/2025/05/04/us/politics/trump-tarrio-proud-boys-pardon.html',
+      linkText: 'New York Times'
     },
   ],
 },
@@ -224,8 +288,56 @@ const entries = [
 
 
 {
+  id: 'Police_Arrest_Activisits',
+  categories: ['Dic(tator) Move', 'Fascism', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-02',
+  title: 'Police disband pro-Palestinian camp at Swarthmore College and arrest nine activists',
+  body: 'Some students were also temporarily suspended as other colleges respond with disciplinary action to protests.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/02/swarthmore-students-suspended-pro-palestinian-camp',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'SCOTUS_DOGE',
+  categories: ['DOGE', 'Economy', 'Courts'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-05-02',
+  title: 'Trump administration asks Supreme Court to let DOGE access Social Security systems',
+  body: 'The emergency appeal is the first in a string of applications to the high court involving DOGE’s swift-moving work across the federal government.',
+  links: [
+    {
+      href: 'https://apnews.com/article/doge-social-security-trump-administration-supreme-court-a38db8e9908e56b01265432f4d46e8e3',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'Babbitt_Payout',
+  categories: ['J6', 'Dic(tator) Move', 'Courts'],
+  color: 'red',
+  faicon: 'skull',
+  date: '2025-05-02',
+  title: 'Trump administration reaches ‘settlement in principle’ with rioter shot by cop on Jan. 6',
+  body: 'The settlement news comes as the Justice Department has also argued in favor of refunding restitution payments made by some rioters — funds meant to cover damage caused to the Capitol — and shortly after Trump himself floated the notion of payments to rioters.',
+  links: [
+    {
+      href: 'https://www.politico.com/news/2025/05/02/trump-administration-reaches-settlement-in-principle-with-rioter-shot-by-cop-on-jan-6-00324453',
+      linkText: 'Politico'
+    },
+  ],
+},
+
+{
   id: 'DOJ_Personal_Lawyers',
-  categories: ['Fascism','Dic(tator) Move', 'Courts'],
+  categories: ['Fascism', 'Dic(tator) Move', 'Courts'],
   color: 'red',
   faicon: 'landmark',
   date: '2025-05-02',
