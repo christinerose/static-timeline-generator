@@ -36,6 +36,55 @@ const entries = [
 
 
  {
+  id: 'Professor_Resigns',
+  categories: ['Resist', 'Fascism', 'Project 2025','Education'],
+  color: 'green',
+  faicon: 'scroll',
+  date: '2025-05-08',
+  title: 'West Point professor resigns over education shift under Trump',
+  body: 'Graham Parsons criticizes military institution in NYT essay for ‘failing to provide an adequate education’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/08/west-point-resignation-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'LesMiz_Boycott',
+  categories: ['Resist', 'Fascism'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-05-08',
+  title: 'Les Misérables actors to boycott Kennedy Center performance over Trump attendance',
+  body: 'At least 10 of musical’s cast members will not participate in June show the president is expected to attend.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/stage/2025/may/08/les-miserables-kennedy-center-boycott-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+ {
+  id: 'Father_Disappeared',
+  categories: ['Immigration', 'Orwell'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-05-08',
+  title: 'The desperate search for a father disappeared by Trump to El Salvador: ‘We don’t know anything’',
+  body: 'Jerce Barrios told his family he might be transferred from a California detention center – no one’s heard from him since.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/world/2025/may/08/cecot-detained-family-impact',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
   id: 'WW3_10yrs',
   categories: ['WW3', 'Global'],
   color: 'red',
