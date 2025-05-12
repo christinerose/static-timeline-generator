@@ -41,12 +41,28 @@ const entries = [
   color: 'red',
   faicon: 'fire',
   date: '2025-05-08',
+  title: 'The Trump Administration Signal Scandal, Somehow, Gets Worse',
+  body: 'The Reuters photo showing former National Security Advisor Mike Waltz checking his Signal messages under the table, but he was actually using an obscure modified Signal app called TM SGNL, and not the real and actually secure Signal app.',
+  links: [
+    {
+      href: 'https://daringfireball.net/linked/2025/05/08/trump-admin-tm-sgnl',
+      linkText: 'Daring Fireball'
+    },
+  ],
+},
+
+ {
+  id: 'Lose_Democracy',
+  categories: ['Project 2025', 'Civil Liberties','Orwell', 'Fascism', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-08',
   title: 'How Will We Know When We Have Lost Our Democracy?',
   body: 'When citizens must think twice about criticizing or opposing the government because they could credibly face government retribution, they no longer live in a full democracy.',
   links: [
     {
       href: 'https://www.nytimes.com/2025/05/08/opinion/trump-authoritarianism-democracy.html',
-      linkText: 'New York Times (Opinion_'
+      linkText: 'New York Times (Opinion)'
     },
   ],
 },
@@ -170,13 +186,61 @@ const entries = [
 
 
 {
+  id: 'Wyden_Investigation',
+  categories: ['Resist', 'WW3', 'Project 2025', 'FAFO'],
+  color: 'green',
+  faicon: 'globe',
+  date: '2025-05-06',
+  title: 'Senator Demands Investigation into Trump Admin Signal Clone After 404 Media Investigation',
+  body: '404 Media reported on Sunday a hacker had got users\' messages and group chats from TeleMessage. Now Senator Ron Wyden is demanding an investigation.',
+  links: [
+    {
+      href: 'https://www.404media.co/senator-demands-investigation-into-trump-admin-signal-clone-after-404-media-investigation/',
+      linkText: '404 Media'
+    },
+  ],
+},
+
+{
+  id: 'Photos_Immigrants',
+  categories: ['Dic(tator) Move', 'Immigration', 'Project 2025', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-05-06',
+  title: 'US Border Agents Are Asking for Help Taking Photos of Everyone Entering the Country by Car',
+  body: 'Customs and Border Protection has called for tech companies to pitch real-time face recognition technology that can capture everyone in a vehicle—not just those in the front seats.',
+  links: [
+    {
+      href: 'https://www.wired.com/story/cbp-photo-everyone-in-vehicle-us-border/',
+      linkText: 'Wired'
+    },
+  ],
+},
+
+{
+  id: 'Never_Say_Never',
+  categories: ['Dic(tator) Move', 'Global', 'Project 2025', 'WW3'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-05-06',
+  title: 'Carney told Trump that Canada is not for sale. \'Never say never,\' Trump replied',
+  body: 'Trump told reporters he would like to see Canada become part of the United States but nodded to the opposition to the idea from Canadians. "Takes two to tango, right?" Trump said.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/05/06/nx-s1-5387465/trump-carney-canada-tariffs',
+      linkText: 'NPR'
+    },
+  ],
+},
+
+{
   id: 'Trans_Ban_Military',
   categories: ['Orwell', 'LGBTQ', 'Project 2025', 'Civil Liberties', 'Courts'],
   color: 'red',
   faicon: 'landmark',
   date: '2025-05-06',
   title: 'Supreme Court allows Trump ban on transgender members of the military to take effect',
-  body: 'Neither the justices in the majority or dissent explained their votes, which is not uncommon in emergency appeals',
+  body: 'Neither the justices in the majority or dissent explained their votes, which is not uncommon in emergency appeals.',
   links: [
     {
       href: 'https://apnews.com/article/supreme-court-transgender-military-ban-ef67038857bd5b99e128bf0b8866afb4',
@@ -16778,6 +16842,23 @@ const entries = [
       {
         href: 'https://apnews.com/article/trump-presidential-power-executive-congress-grants-freeze-60fa3a9fabf6328f9aa3c45ed34e2cc3',
         linkText: 'Associated Press',
+      },
+    ],
+  },
+
+
+  {
+    id: 'ICE_Impersonator_Rape',
+    categories: ['Project 2025', 'Women', 'Immigration'],
+    color: 'red',
+    faicon: 'venus',
+    date: '2025-01-28',
+    title: 'North Carolina man impersonates ICE agent and threatens deportation to coerce woman into having sex (aka rape).',
+    body: 'Immigrant advocate said alleged attack showed ‘perfect storm’ of how national immigration policy is prompting local abuse.',
+    links: [
+      {
+        href: 'https://www.the-independent.com/news/world/americas/crime/north-carolina-impersonate-ice-agent-b2687973.html',
+        linkText: 'The Independent',
       },
     ],
   },
