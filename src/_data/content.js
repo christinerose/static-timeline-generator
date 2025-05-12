@@ -36,6 +36,72 @@ const entries = [
 
 
  {
+  id: 'Lose_Democracy',
+  categories: ['Project 2025', 'Civil Liberties','Orwell', 'Fascism', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-08',
+  title: 'How Will We Know When We Have Lost Our Democracy?',
+  body: 'When citizens must think twice about criticizing or opposing the government because they could credibly face government retribution, they no longer live in a full democracy.',
+  links: [
+    {
+      href: 'https://www.nytimes.com/2025/05/08/opinion/trump-authoritarianism-democracy.html',
+      linkText: 'New York Times (Opinion_'
+    },
+  ],
+},
+
+ {
+  id: 'States_Secrets',
+  categories: ['Project 2025', 'Civil Liberties','Immigration', 'Fascism', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-05-08',
+  title: 'Trump administration invokes state secrets privilege in Kilmar Ábrego García case',
+  body: 'Lawyers say they’re ‘still in dark’ about government’s efforts to free the man who was wrongly deported to El Salvador.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/08/trump-abrego-garcia-el-salvador-state-secrets',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Irish_Woman_Released',
+  categories: ['Project 2025', 'Civil Liberties', 'Immigration'],
+  color: 'green',
+  faicon: 'plane',
+  date: '2025-05-08',
+  title: 'Irish woman detained by US immigration released after 17 days in custody',
+  body: 'Cliona Ward, who has lived legally in US for decades, was returning from trip to Ireland when held over criminal record from 20 years ago.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/08/irish-woman-cliona-ward-detained-us-immigration-released-17-days-custody',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+ {
+  id: 'Student_Freed',
+  categories: ['Resist', 'Fascism', 'Civil Liberties','Immigration'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-05-08',
+  title: 'Palestinian student freed after Ice arrest forms group to aid other immigrants',
+  body: 'Mohsen Mahdawi was detained after leading protests at Columbia against Israel’s war in Gaza and later freed.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/08/mohsen-mahdawi-vermont-immigrant-deportations',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+ {
   id: 'Professor_Resigns',
   categories: ['Resist', 'Fascism', 'Project 2025','Education'],
   color: 'green',
@@ -80,6 +146,57 @@ const entries = [
     {
       href: 'https://www.theguardian.com/world/2025/may/08/cecot-detained-family-impact',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+
+{
+  id: 'ICE_Restaurants',
+  categories: ['Dic(tator) Move', 'Immigration', 'Project 2025', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-05-07',
+  title: 'ICE targets businesses and restaurants across DC',
+  body: 'ICE visited more than 100 businesses in the Washington, D.C., area this week in what the agency said was part of a broad effort to conduct “worksite enforcement across the nation to ensure businesses are following U.S. immigration and employment laws.',
+  links: [
+    {
+      href: 'https://abcnews.go.com/US/ice-reportedly-targeting-businesses-restaurants-dc/story?id=121539713',
+      linkText: 'ABC'
+    },
+  ],
+},
+
+
+{
+  id: 'Trans_Ban_Military',
+  categories: ['Orwell', 'LGBTQ', 'Project 2025', 'Civil Liberties', 'Courts'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-05-06',
+  title: 'Supreme Court allows Trump ban on transgender members of the military to take effect',
+  body: 'Neither the justices in the majority or dissent explained their votes, which is not uncommon in emergency appeals',
+  links: [
+    {
+      href: 'https://apnews.com/article/supreme-court-transgender-military-ban-ef67038857bd5b99e128bf0b8866afb4',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'FL_Anti_LGBTQ',
+  categories: ['Resist', 'LGBTQ'],
+  color: 'green',
+  faicon: 'rainbow',
+  date: '2025-05-05',
+  title: 'Against All Odds, Florida Queer Advocates Just Made History',
+  body: 'In a stunning turn during the 2025 legislative session on Friday, not a single one of the proposed anti-LGBTQ+ bills made it into law.',
+  links: [
+    {
+      href: 'https://gomag.com/article/against-all-odds-florida-queer-advocates-just-made-history/',
+      linkText: 'GoMag'
     },
   ],
 },
