@@ -35,6 +35,198 @@ const entries = [
 
 
 
+
+ {
+  id: 'Big_Brother_Trump',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-15',
+  title: '‘Deeply creepy’: Enormous brooding banner of Trump now hangs next to Lincoln outside Department of Agriculture',
+  body: 'The picture of Trump is reminiscent of portraits of leaders hanging from public buildings, often seen in dictatorships, monarchies, and in descriptions in George Orwell’s 1984 of “Big Brother.”',
+  links: [
+    {
+      href: 'https://www.independent.co.uk/news/world/americas/us-politics/trump-banner-portrait-department-agriculture-b2751192.html',
+      linkText: 'The Independent'
+    },
+  ],
+},
+
+
+{
+  id: 'SCOTUS_Birthright',
+  categories: ['Project 2025', 'Immigration', 'Civil Liberties', 'Courts'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-05-15',
+  title: 'Supreme court to hear birthright citizenship dispute that could expand Trump’s power',
+  body: 'President’s lawyers have asked for ruling on whether lower court judges should be able to block his orders nationwide',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/15/supreme-court-birthright-citizenship',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'RFK_Idiot',
+  categories: ['Project 2025', 'Health'],
+  color: 'red',
+  faicon: 'virus',
+  date: '2025-05-15',
+  title: 'RFK Jr tells Congress ‘people shouldn’t take medical advice from me’',
+  body: 'Health secretary demurs on questions about vaccine stance and defends Republican plans to cut healthcare',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/14/rfk-jr-kennedy-senate-house-hearings',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Dems_Rage_Tiddlywinks',
+  categories: ['Tiddlywinks'],
+  color: 'red',
+  faicon: 'democrat',
+  date: '2025-05-13',
+  title: 'Dems privately rage over "utterly selfish" Trump impeachment vote',
+  body: 'House Democrats erupted into fury and profane invective Tuesday as Rep. Shri Thanedar (D-Mich.) forced a vote on his rogue efforts to impeach President Trump.',
+  links: [
+    {
+      href: 'https://www.axios.com/2025/05/13/donald-trump-impeachment-thanedar-democrats-react',
+      linkText: 'Axios'
+    },
+  ],
+},
+
+{
+  id: 'Force_Impeachment_Vote',
+  categories: ['Tiddlywinks', 'RESIST'],
+  color: 'green',
+  faicon: 'democrat',
+  date: '2025-05-13',
+  title: 'House Democrat forces vote on impeaching Trump',
+  body: 'Rep. Shri Thanedar (D-Mich.) on Tuesday started the clock for the House to vote on his seven articles of impeachment against President Trump.',
+  links: [
+    {
+      href: 'https://www.axios.com/2025/05/13/trump-impeachment-house-democrat-vote-thanedar',
+      linkText: 'Axios'
+    },
+
+    {
+      href: 'https://www.congress.gov/bill/119th-congress/house-resolution/353/text',
+      linkText: 'Congress.gov'
+    },
+  ],
+},
+
+
+ {
+  id: 'Plane_Bribe_Dems_Resist',
+  categories: ['Tiddlywinks', 'Resist', 'Dic(tator) Move', 'Global'],
+  color: 'green',
+  faicon: 'plane',
+  date: '2025-05-12',
+  title: '‘Just wildly illegal’: top Democrats push to censure Trump’s plan to accept Qatar jet',
+  body: 'Four senators, including Cory Booker, say they will press for vote against president’s plan to take $400m gift from Qatar.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/12/trump-qatar-jet-gift-democrats',
+      linkText: 'The Guardian'
+    },
+    {
+      href: 'https://www.cnn.com/2025/05/13/politics/schumer-qatar-plane-trump-justice-department',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+ {
+  id: 'White_Africaans',
+  categories: ['Project 2025', 'Racism', 'Immigration', 'Global'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-05-12',
+  title: 'First white South Africans arrive in US after Trump grants them refugee status',
+  body: 'Trump stirs controversy by calling Afrikaners, minority descended from Dutch colonists, victims of a ‘genocide’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/12/white-south-africans-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'Porn_Outlawed',
+  categories: ['Civil Liberties', 'Orwell', 'Fascism'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-05-12',
+  title: 'New Bill Would Make All Pornography a Federal Crime in the U.S.',
+  body: 'Republican Senator Mike Lee introduced Interstate Obscenity Definition Act (again) last week, which would criminalize porn at the federal level.',
+  links: [
+    {
+      href: 'https://www.404media.co/mike-lee-porn-law-interstate-obscenity-definition-act/',
+      linkText: '404 Media'
+    },
+  ],
+},
+
+
+{
+  id: 'Ensnare_Americans',
+  categories: ['Project 2025', 'Civil Liberties', 'Dic(tator) Move', 'Immigration', 'Fascism', 'Courts'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-10',
+  title: 'Judges warn Trump’s mass deportations could lay groundwork to ensnare Americans',
+  body: 'Judges across the country continue to note that if courts don’t protect the rights of the least popular and most vulnerable, everyone is at risk.',
+  links: [
+    {
+      href: 'https://www.politico.com/news/2025/05/10/donald-trump-immigration-deportations-due-process-00339319',
+      linkText: 'Politico'
+    },
+  ],
+},
+
+
+{
+  id: '20k_More_Troops',
+  categories: ['Project 2025', 'Civil Liberties','Dic(tator) Move', 'Immigration'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-05-10',
+  title: 'Trump Calls for 20,000 Extra Officers to Help With Deportation Efforts',
+  body: 'The order, which would use state and local officers, among others, would represent an enormous expansion of immigration enforcement.',
+  links: [
+    {
+      href: 'https://www.nytimes.com/2025/05/10/us/politics/dhs-deportation-extra-officers.html',
+      linkText: 'New York Times'
+    },
+  ],
+},
+
+{
+  id: 'DOGE_Food_Stamps',
+  categories: ['Project 2025', 'Civil Liberties','DOGE', 'Economy'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-05-09',
+  title: 'USDA, DOGE demand states hand over personal data about food stamp recipients',
+  body: 'The Department of Agriculture is demanding states hand over personal data of food assistance recipients — including Social Security numbers, addresses and, in at least one state, citizenship status.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/05/09/nx-s1-5389952/usda-snap-doge-data-immigration',
+      linkText: 'NPR'
+    },
+  ],
+},
+
  {
   id: 'Lose_Democracy',
   categories: ['Project 2025', 'Civil Liberties','Orwell', 'Fascism', 'Dic(tator) Move'],
@@ -2010,6 +2202,22 @@ const entries = [
     {
       href: 'https://www.politico.com/news/2025/04/25/trump-admin-reverses-termination-foreign-student-visa-registrations-00309407',
       linkText: 'Politico'
+    },
+  ],
+},
+
+{
+  id: 'Support_Impeachement',
+  categories: ['Project 2025', 'Tiddlywinks', 'Resist'],
+  color: 'green',
+  faicon: 'democrat',
+  date: '2025-04-25',
+  title: 'Sen. Jon Ossoff signals support for Trump impeachment',
+  body: 'The Georgia senator told attendees at a town hall that the effort is not feasible without Democratic control of the House.',
+  links: [
+    {
+      href: 'https://www.nbcnews.com/politics/congress/sen-jon-ossoff-signals-support-trump-impeachment-rcna203126',
+      linkText: 'NBC'
     },
   ],
 },
