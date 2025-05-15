@@ -102,6 +102,38 @@ const entries = [
   ],
 },
 
+{
+  id: 'Sue_Trump_Immigration',
+  categories: ['Project 2025', 'Immigration', 'Resist', 'Economy'],
+  color: 'green',
+  faicon: 'plane',
+  date: '2025-05-13',
+  title: '20 states sue Trump admin over immigration enforcement funding threats',
+  body: '1A coalition of 20 Democratic attorneys general is suing President Trump\'s administration over threats to withhold billions of dollars in federal funding if they don\'t follow his immigration enforcement polices.',
+  links: [
+    {
+      href: 'https://www.axios.com/2025/05/14/states-sue-trump-immigration-federal-funding',
+      linkText: 'Axios'
+    },
+  ],
+},
+
+{
+  id: 'Dems_BackDown_Tiddlywinks',
+  categories: ['Tiddlywinks'],
+  color: 'red',
+  faicon: 'democrat',
+  date: '2025-05-14',
+  title: 'Democratic congressman pushes Trump impeachment, but backs down from vote',
+  body: 'A Democratic lawmaker is backing down, for now, from a renegade bid to impeach President Donald Trump after colleagues in his own party criticized the effort and refused to support it.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-impeachment-thanedar-7f5d4b2d7cfa07be98a5267915357d6e',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
  {
   id: 'Dems_Rage_Tiddlywinks',
   categories: ['Tiddlywinks'],
@@ -139,6 +171,38 @@ const entries = [
   ],
 },
 
+{
+  id: 'Cartel_Family',
+  categories: ['Project 2025', 'Immigration', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-05-13',
+  title: 'Mexican security chief confirms cartel family members entered US in a deal with Trump administration',
+  body: '17 family members of cartel leaders crossed into the U.S. last week as part of a deal between a son of the former head of the Sinaloa Cartel and the Trump administration.',
+  links: [
+    {
+      href: 'https://apnews.com/article/el-chapo-sinaloa-cartel-trump-border-harfuch-86572a31c88a216da7cd5f33006a0011',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'Judge_Backs_Aliens_Act',
+  categories: ['Project 2025', 'Civil Liberties', 'Courts', 'Immigration'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-05-13',
+  title: 'In first, judge allows Trump to use Alien Enemies Act to deport Venezuelans',
+  body: 'The Trump administration can invoke the Aliens Enemies Act to deport alleged Tren de Aragua gang members, a federal judge ruled on Tuesday.',
+  links: [
+    {
+      href: 'https://www.axios.com/2025/05/13/alien-enemies-act-judge-deportatations',
+      linkText: 'Axios'
+    },
+  ],
+},
+
 
  {
   id: 'Plane_Bribe_Dems_Resist',
@@ -160,9 +224,41 @@ const entries = [
   ],
 },
 
+{
+  id: 'US_Citizen_Grilled',
+  categories: ['Project 2025', 'Civil Liberties', 'Dic(tator) Move', 'Immigration', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-05-12',
+  title: 'Leftwing pundit Hasan Piker says US border agents grilled him on Trump and Gaza',
+  body: 'US-born progressive streamer says officials at Chicago airport led him to private room on return from France.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/12/hasan-piker-border-trump-gaza',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'White_Africaans_Episcopal',
+  categories: ['Project 2025', 'Discrimination', 'Immigration', 'Global', 'Religion', 'Resist'],
+  color: 'green',
+  faicon: 'plane',
+  date: '2025-05-12',
+  title: 'Episcopal church says it won’t help resettle white South Africans granted refugee status',
+  body: 'Church refuses White House directive, citing longstanding ‘commitment to racial justice and reconciliation’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/12/episcopal-church-white-south-africans-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
  {
   id: 'White_Africaans',
-  categories: ['Project 2025', 'Racism', 'Immigration', 'Global'],
+  categories: ['Project 2025', 'Discrimination', 'Immigration', 'Global'],
   color: 'red',
   faicon: 'plane',
   date: '2025-05-12',
@@ -176,6 +272,21 @@ const entries = [
   ],
 },
 
+{
+  id: 'Medicaid_Cuts',
+  categories: ['Economy', 'Health', 'Project 2025'],
+  color: 'red',
+  faicon: 'medkit',
+  date: '2025-05-12',
+  title: 'House Republicans unveil Medicaid cuts that Democrats warn will leave millions without care',
+  body: 'Republicans insist they are simply rooting out “waste, fraud and abuse” to generate savings with new work and eligibility requirements.',
+  links: [
+    {
+      href: 'https://apnews.com/article/medicaid-cuts-trump-tax-cuts-bill-1e2b12a91a3d12ceb0420ce7053de58e',
+      linkText: 'Associated Press'
+    },
+  ],
+},
 
 {
   id: 'Porn_Outlawed',
@@ -189,6 +300,22 @@ const entries = [
     {
       href: 'https://www.404media.co/mike-lee-porn-law-interstate-obscenity-definition-act/',
       linkText: '404 Media'
+    },
+  ],
+},
+
+{
+  id: 'Hire_Lackey',
+  categories: ['Civil Liberties', 'Dic(tator) Move', 'Fascism'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-12',
+  title: 'Deputy attorney general who defended Trump in hush money trial is named acting librarian of Congress',
+  body: 'Deputy Attorney General Todd Blanche, who represented Donald Trump during his 2024 criminal trial, has been appointed acting librarian of Congress. He replaces longtime librarian Carla Hayden, whom the White House fired last week amid criticism from conservatives that she was advancing a “woke” agenda.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-library-congress-todd-blanche-carla-hayden-cc2154fa8644a5c29d196e505e4faa51',
+      linkText: 'Associated Press'
     },
   ],
 },
@@ -209,6 +336,22 @@ const entries = [
   ],
 },
 
+
+{
+  id: 'Firing_Enemies_LibCongress',
+  categories: ['Civil Liberties', 'Dic(tator) Move', 'Fascism'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-11',
+  title: 'Trump administration fires top copyright official days after firing Librarian of Congress',
+  body: 'The office recently released a report examining whether artificial intelligence companies can use copyrighted materials to “train” their AI systems and then compete in the same market as the human-made works they were trained on.',
+  links: [
+    {
+      href: 'https://apnews.com/article/copyright-director-firing-government-trump-7ab99992a96131bce7de853b66feec68',
+      linkText: 'Associated Press'
+    },
+  ],
+},
 
 {
   id: 'Elon_Security',
@@ -292,6 +435,22 @@ const entries = [
 },
 
 {
+  id: 'Firing_Enemies_Consumer',
+  categories: ['Civil Liberties', 'Dic(tator) Move', 'Fascism'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-11',
+  title: 'Trump fires all 3 Democrats on the Consumer Product Safety Commission',
+  body: 'It\'s the latest instance of Trump seeking to replace high-ranking officials at independent federal agencies — efforts that have drawn legal challenges.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/05/09/nx-s1-5393374/trump-consumer-product-safety-commission-cpsc-firing',
+      linkText: 'NPR'
+    },
+  ],
+},
+
+{
   id: 'DOGE_Food_Stamps',
   categories: ['Project 2025', 'Civil Liberties','DOGE', 'Economy'],
   color: 'red',
@@ -303,6 +462,22 @@ const entries = [
     {
       href: 'https://www.npr.org/2025/05/09/nx-s1-5389952/usda-snap-doge-data-immigration',
       linkText: 'NPR'
+    },
+  ],
+},
+
+{
+  id: 'Suspend_Habeas',
+  categories: ['Project 2025', 'Civil Liberties','Immigration', 'Fascism'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-09',
+  title: 'Trump administration ‘looking at’ suspending habeas corpus for migrants',
+  body: '“The Constitution is clear, and that, of course, is the supreme law of the land, that the privilege of the writ of habeas corpus can be suspended in time of invasion.”',
+  links: [
+    {
+      href: 'https://www.cnbc.com/2025/05/09/trump-deportation-habeas-corpus-miller.html',
+      linkText: 'CNBC'
     },
   ],
 },
