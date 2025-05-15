@@ -52,6 +52,22 @@ const entries = [
   ],
 },
 
+{
+  id: 'Ben_Arrested',
+  categories: ['Fascism', 'Civil Liberties', 'Orwell', 'Global', 'Global'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-15',
+  title: 'Ben & Jerry’s co-founder arrested for protesting Gaza blockade at US Senate hearing',
+  body: 'Ben Cohen and others interrupted RFK Jr at hearing to protest Israel’s Gaza blockade and Medicaid cuts',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/15/ben-jerrys-co-founder-arrested-protesting-gaza-blockade-senate-hearing',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
 
 {
   id: 'SCOTUS_Birthright',
@@ -177,6 +193,54 @@ const entries = [
   ],
 },
 
+{
+  id: 'Storming_ICE_Intimidation',
+  categories: ['Project 2025', 'Civil Liberties', 'Immigration', 'Fascism', 'Tiddlywinks'],
+  color: 'red',
+  faicon: 'democrat',
+  date: '2025-05-11',
+  title: 'Democrats involved in tense encounter at ICE facility say Trump administration is trying to intimidate them',
+  body: 'Three Democratic lawmakers who were involved in a tense encounter outside an Immigrations and Customs Enforcement facility in Newark, New Jersey, are accusing the administration of “intimidation” after a Department of Homeland Security official suggested they could be arrested.',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/05/11/politics/ice-facility-democrats-arrest-newark-mayor-baraka?iid=cnn_buildContentRecirc_end_recirc',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+
+{
+  id: 'Elon_Security',
+  categories: ['Civil Liberties', 'Orwell', 'Fascism', 'DOGE'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-05-11',
+  title: 'Elon Musk\'s Plan for Americans\' Sensitive Data Has Security Experts Terrified',
+  body: 'DOGE now wants to consolidate the federal government\'s vast data reserves. They\'re currently siloed across government agencies, and DOGE wants to merge them into a sprawling centralized database.',
+  links: [
+    {
+      href: 'https://futurism.com/the-byte/doge-elon-musk-data-hackers',
+      linkText: 'Futurism'
+    },
+  ],
+},
+
+{
+  id: 'Meta_Surveillance',
+  categories: ['Civil Liberties', 'Orwell', 'Fascism'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-05-10',
+  title: 'Mark Zuckerberg is building a new surveillance state',
+  body: 'Mark Zuckerberg isn’t building a product; he’s building a world — a filtered, augmented, monitored and monetized world where Meta AI becomes the interface between your mind and your surroundings.',
+  links: [
+    {
+      href: 'https://thehill.com/opinion/5292465-meta-ai-glasses-society-threat/',
+      linkText: 'The Hill'
+    },
+  ],
+},
 
 {
   id: 'Ensnare_Americans',
@@ -194,6 +258,22 @@ const entries = [
   ],
 },
 
+
+{
+  id: 'Storming_ICE',
+  categories: ['Project 2025', 'Civil Liberties', 'Immigration', 'Fascism', 'Tiddlywinks'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-05-10',
+  title: 'Homeland Security Dept. accuses lawmakers of ‘storming’ an ICE facility despite oversight laws saying they could be there',
+  body: 'Three members of Congress from New Jersey, along with protesters, faced off with Department of Homeland Security officers on Friday after visiting a local ICE detention facility.',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/05/10/politics/dhs-lawmakers-ice-newark-mayor-arrest',
+      linkText: 'CNN'
+    },
+  ],
+},
 
 {
   id: '20k_More_Troops',
@@ -1199,6 +1279,22 @@ const entries = [
     {
       href: 'https://apnews.com/article/canada-election-trump-carney-poilievre-861f5b00794355b231ee3f218568949b',
       linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'Hetero_Fest',
+  categories: ['Discrimination', 'Project 2025', 'LGBTQ'],
+  color: 'red',
+  faicon: 'rainbow',
+  date: '2025-04-29',
+  title: '\'Hetero Awesome Fest\' planned for Idaho capitol during LGBTQ Pride Month',
+  body: 'A local restaurant owner is organizing the Boise event after hosting a “Heterosexual Awesomeness Month” last year.',
+  links: [
+    {
+      href: 'https://www.nbcnews.com/nbc-out/out-news/hetero-awesome-fest-planned-boise-idaho-lgbtq-pride-month-rcna203543',
+      linkText: 'NBC'
     },
   ],
 },
