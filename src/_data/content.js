@@ -35,6 +35,171 @@ const entries = [
 
 
 
+ {
+  id: 'Court_Halts_Sudan',
+  categories: ['Fascism', 'Discrimination', 'Immigration', 'Global', 'Resist', 'Courts'  ],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-05-23',
+  title: 'Court halts Trump administration’s effort to send eight men to South Sudan',
+  body: 'The group is in temporary custody of homeland security in Djibouti following challenges in court.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/23/trump-south-sudan-deportations-halted-judge',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Judge_Harvard_Ban',
+  categories: ['Fascism', 'Dic(tator) Move', 'Discrimination', 'Education', 'Immigration', 'Global', 'Resist', 'Courts'  ],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-05-23',
+  title: 'Judge blocks Trump administration’s ban on Harvard accepting international students',
+  body: 'Ivy League school filed suit accusing White House of unconstitutional retaliation for defying its demands.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/education/2025/may/23/harvard-university-sues-trump-administration-ban-foreign-students',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Harvard_Scared',
+  categories: ['Fascism', 'Dic(tator) Move', 'Discrimination', 'Education', 'Immigration', 'Global'],
+  color: 'red',
+  faicon: 'scroll',
+  date: '2025-05-23',
+  title: 'Fear on campus: Harvard’s international students in ‘mass panic’ over Trump move',
+  body: 'Students at the oldest US university are feeling shocked and frightened by an attempt to ban foreign scholars.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/education/2025/may/23/harvard-international-students-panic',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Judge_Halts_Harvard',
+  categories: ['Courts', 'Resist', 'Education', 'Dic(tator) Move'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-05-22',
+  title: 'Federal judge halts Trump administration ban on Harvard’s ability to enroll international students',
+  body: 'Harvard argued revocation of its certification in the Student and Exchange Visitor Program was “clear retaliation” for its refusal of the government’s ideologically rooted policy demands.',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/05/22/us/harvard-university-trump-international-students',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+{
+  id: 'Trump_Sudan',
+  categories: ['Fascism', 'Discrimination', 'Immigration', 'Global', 'Dic(tator) Move', 'Courts'  ],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-21',
+  title: 'Trump administration ‘unquestionably’ violated court order with possible deportation flight to South Sudan',
+  body: 'Eight detainees of various nationalities were placed on a flight early Tuesday.',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/05/21/politics/deportation-flight-south-sudan-controversy',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+ {
+  id: 'Lawyers_Arrested',
+  categories: ['Fascism', 'Dic(tator) Move', 'Discrimination'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-05-21',
+  title: 'Trump ambushes South African president with video and false claims of anti-white racism',
+  body: 'Cyril Ramaphosa responds to hectoring stunt in Oval Office and egregious claim of white genocide by suggesting calm.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/21/trump-south-africa-president-meeting',
+      linkText: 'The Guardian'
+    },
+
+    {
+      href: 'https://www.npr.org/2025/05/21/nx-s1-5404667/south-africa-white-house-visit-ramaphosa-trump-tensions',
+      linkText: 'NPR'
+    },
+  ],
+},
+
+
+ {
+  id: 'Judge_Custody',
+  categories: ['Courts', 'Resist', 'Immigration', 'Fascism', 'Orwell'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-05-20',
+  title: 'Judge orders US officials to keep custody of migrants flown to South Sudan',
+  body: 'Brian Murphy says deportations appear to flout court order and says ‘if they want to turn the plane around, they can.’',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/20/judge-migrants-south-sudan',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Lawyers_Arrested',
+  categories: ['Courts', 'Dic(tator) Move', 'Immigration', 'Fascism', 'Orwell'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-05-19',
+  title: 'Lawyer for Venezuelans deported to El Salvador prison arrested',
+  body: 'Ruth López held without access to lawyers at secret location accused of ‘embezzlement’ a decade ago.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/world/2025/may/19/el-salvador-lawyer-arrested-deported-venezuelans',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'SCOTUS_Strip',
+  categories: ['Courts', 'Immigration', 'Fascism'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-05-19',
+  title: 'Supreme Court allows Trump to strip legal protections from 350,000 Venezuelans who risk deportation',
+  body: 'The high court’s order appears to be the “single largest action in modern American history stripping any group of non-citizens of immigration status.”',
+  links: [
+    {
+      href: 'https://apnews.com/article/supreme-court-venezuelans-deportation-trump-5589f17e0ecd5d33bfb220e15720f88d',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+{
+  id: 'Judge_Strikes_DOGE',
+  categories: ['Courts', 'DOGE', 'Resist', 'FAFO'],
+  color: 'red',
+  faicon: 'poop',
+  date: '2025-05-19',
+  title: 'Judge strikes down DOGE takeover of the U.S. Institute of Peace',
+  body: 'A federal judge ruled that the actions of "illegitimately-installed leaders" — including the purported transfer of the institute\'s building — were "null and void."',
+  links: [
+    {
+      href: 'https://www.nbcnews.com/politics/doge/judge-strikes-doge-takeover-us-institute-peace-rcna207741',
+      linkText: 'NBC'
+    },
+  ],
+},
 
  {
   id: 'Lawyers_Fight_Back',
@@ -53,20 +218,37 @@ const entries = [
 },
 
 {
-  id: 'SCOTUS_Blocks_1798',
-  categories: ['Courts', 'Immigration', 'Resist'],
+  id: 'Walmart_FAFO',
+  categories: ['Economy', 'Dic(tator) Move', 'FAFO'],
   color: 'green',
-  faicon: 'landmark',
-  date: '2025-05-16',
-  title: 'Supreme court blocks Trump bid to resume deportations under 1798 law',
-  body: 'Administration’s appeal to quickly deport Venezuelans under Alien Enemies Act rejected with two dissenting.',
+  faicon: 'poop',
+  date: '2025-05-18',
+  title: 'US treasury secretary says Walmart will ‘eat some of the tariffs’ after Trump demand',
+  body: 'Scott Bessent claims he received assurance in a personal call with company’s chief executive.',
   links: [
     {
-      href: 'https://www.theguardian.com/us-news/2025/may/16/supreme-court-alien-enemies-act-trump',
+      href: 'https://www.theguardian.com/us-news/2025/may/18/trump-walmart-tariffs',
       linkText: 'The Guardian'
     },
   ],
 },
+
+{
+  id: 'Protection_Removed',
+  categories: ['Fascism', 'Dic(tator) Move', 'Courts', 'Orwell'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-05-17',
+  title: 'Trump Justice Dept. considers removing key check on lawmaker prosecutions',
+  body: 'The Justice Department’s Public Integrity Section is charged with ensuring cases against elected officials are not politically motivated. The Trump administration is considering changing that.',
+  links: [
+    {
+      href: 'https://www.washingtonpost.com/national-security/2025/05/17/trump-justice-department-prosecutions/',
+      linkText: 'Washington Post'
+    },
+  ],
+},
+
 
 {
   id: 'Trump_Abuse_Judges',
@@ -111,6 +293,22 @@ const entries = [
   links: [
     {
       href: 'https://www.theguardian.com/us-news/2025/may/17/trump-foreign-gifts-plane-gulf-states',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'SCOTUS_Blocks_1798',
+  categories: ['Courts', 'Immigration', 'Resist'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-05-16',
+  title: 'Supreme court blocks Trump bid to resume deportations under 1798 law',
+  body: 'Administration’s appeal to quickly deport Venezuelans under Alien Enemies Act rejected with two dissenting.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/16/supreme-court-alien-enemies-act-trump',
       linkText: 'The Guardian'
     },
   ],
@@ -190,6 +388,12 @@ const entries = [
   title: 'New Reality TV Show That Sees immigrants Compete for US Citizenship Has Backing of Trump Administration',
   body: 'Homeland Security Secretary Kristi Noem is reportedly working with writer and producer Rob Worsoff (of Duck Dynasty fame) on a new series called The American',
   links: [
+
+    {
+      href: 'https://www.washingtonpost.com/immigration/2025/05/16/reality-show-immigrant-competition-dhs/',
+      linkText: 'Washington Post'
+    },
+
     {
       href: 'https://consequence.net/2025/05/immigrants-citizenship-kristi-noem-tv-show/',
       linkText: 'Consequence'
@@ -329,7 +533,7 @@ const entries = [
 
 {
   id: 'Force_Impeachment_Vote',
-  categories: ['Tiddlywinks', 'RESIST'],
+  categories: ['Tiddlywinks', 'Resist'],
   color: 'green',
   faicon: 'democrat',
   date: '2025-05-13',
@@ -659,9 +863,25 @@ const entries = [
   ],
 },
 
+{
+  id: 'GOP_Gulf_America',
+  categories: ['Fascism', 'Global', 'Orwell'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-08',
+  title: 'House passes GOP-led bill to rename Gulf of Mexico the Gulf of America',
+  body: 'Sponsored by Trump ally Rep. Marjorie Taylor Greene and backed by House GOP leadership, the bill would require federal agencies to update all maps and documents with the name Gulf of America.',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/05/08/politics/gulf-of-america-bill-house',
+      linkText: 'CNN',
+    },
+  ],
+},
+
  {
-  id: 'Lose_Democracy',
-  categories: ['Project 2025', 'Civil Liberties','Orwell', 'Fascism', 'Dic(tator) Move'],
+  id: 'Signal_Scandal_Worse',
+  categories: ['Project 2025', 'Civil Liberties', 'Orwell', 'Fascism', 'Dic(tator) Move'],
   color: 'red',
   faicon: 'fire',
   date: '2025-05-08',
@@ -671,6 +891,22 @@ const entries = [
     {
       href: 'https://daringfireball.net/linked/2025/05/08/trump-admin-tm-sgnl',
       linkText: 'Daring Fireball'
+    },
+  ],
+},
+
+{
+  id: 'State_Secrets_Act',
+  categories: ['Fascism', 'Immigration', 'Orwell', 'Fascism', 'Dic(tator) Move', 'Courts'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-08',
+  title: 'Trump administration invokes state secrets privilege in Kilmar Abrego Garcia’s case',
+  body: 'The Trump administration is invoking the “ state secrets privilege ” in an apparent attempt to avoid answering a judge’s questions about its mistaken deportation of Kilmar Abrego Garcia to El Salvador.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-state-secrets-kilmar-abrego-garcia-deport-136439b19bf4299028999f85554ba170',
+      linkText: 'Associated Press'
     },
   ],
 },
@@ -785,6 +1021,23 @@ const entries = [
   links: [
     {
       href: 'https://www.theguardian.com/world/2025/may/08/cecot-detained-family-impact',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'Deport_Libya',
+  categories: ['Dic(tator) Move', 'Immigration', 'Fascism', 'Courts'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-07',
+  title: 'US reportedly planning to deport migrants to Libya despite ‘clear’ violation of court order',
+  body: 'Judge confirms move would breach order as Libya’s rival governments say both would refuse any US deportees.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/world/2025/may/07/us-planning-to-deport-migrants-to-libya-despite-hellish-conditions-reports',
       linkText: 'The Guardian'
     },
   ],
@@ -15824,7 +16077,7 @@ const entries = [
 
   {
     id: 'Musk-Delete-Agencies',
-    categories: ['Fascism', 'DOGE'],
+    categories: ['Fascism', 'DOGE', 'Orwell'],
     color: 'red',
     faicon: 'hammer',
     date: '2025-02-13',
@@ -15866,7 +16119,7 @@ const entries = [
 
   {
     id: 'Google-Deletes-Reviews',
-    categories: ['Fascism', 'Global'],
+    categories: ['Fascism', 'Global', 'Orwell'],
     color: 'red',
     faicon: 'fire',
     date: '2025-02-13',
@@ -15963,7 +16216,7 @@ const entries = [
 
   {
     id: 'Gulf-America',
-    categories: ['Fascism', 'Global'],
+    categories: ['Fascism', 'Global', 'Orwell'],
     color: 'red',
     faicon: 'globe',
     date: '2025-02-12',
