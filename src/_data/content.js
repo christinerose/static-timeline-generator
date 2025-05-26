@@ -37,6 +37,167 @@ const entries = [
 
 
  {
+  id: 'Lawyers_Fight_Back',
+  categories: ['Courts', 'Dic(tator) Move', 'Resist'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-05-18',
+  title: 'US lawyers set up own firms to lead legal fightback in face of Trump onslaught',
+  body: 'Several law firms have capitulated to Trump pressure but some lawyers have left to fight government cuts.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/18/trump-administration-law-firms',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'SCOTUS_Blocks_1798',
+  categories: ['Courts', 'Immigration', 'Resist'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-05-16',
+  title: 'Supreme court blocks Trump bid to resume deportations under 1798 law',
+  body: 'Administration’s appeal to quickly deport Venezuelans under Alien Enemies Act rejected with two dissenting.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/16/supreme-court-alien-enemies-act-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Trump_Abuse_Judges',
+  categories: ['Fascism', 'Dic(tator) Move', 'Courts'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-05-17',
+  title: 'US judges who rule against Trump are being barraged with abuse and threats',
+  body: 'Verbal attacks by Trump and allies are creating a hostile climate that endangers judges’ safety, experts say.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/17/trump-judges-courts-threats',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Judge_Thwarts',
+  categories: ['Courts', 'Immigration', 'Resist', 'Civil Liberties', 'FAFO'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-05-17',
+  title: 'Judges thwart Trump effort to deport pro-Palestinian students – but their fight isn’t over',
+  body: 'The administration seems to be getting clobbered in court, but it’s still unsettled whether the government can detain and deport noncitizens over political speech.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/17/trump-effort-deport-pro-palestinian-students',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Trump_Bribe_Concern',
+  categories: ['Fascism', 'Dic(tator) Move', 'Global'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-05-17',
+  title: '‘Very disturbing’: Trump receipt of overseas gifts unprecedented, experts warn',
+  body: 'White House remakes foreign policy under pay-for-access code that critics say could violate US constitution.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/17/trump-foreign-gifts-plane-gulf-states',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Dems_Trump_Bribe_Concern',
+  categories: ['Fascism', 'Dic(tator) Move', 'Global', 'Tiddlywinks', 'Resist'],
+  color: 'green',
+  faicon: 'democrat',
+  date: '2025-05-15',
+  title: 'Dems move to block Middle East arms sales over Qatar plane deal',
+  body: 'More than $3.5 billion in weapons sales are on the line.',
+  links: [
+    {
+      href: 'https://www.politico.com/live-updates/2025/05/15/congress/dems-block-middle-east-arms-sales-00351865',
+      linkText: 'Politico'
+    },
+  ],
+},
+
+{
+  id: 'WH_Secrets',
+  categories: ['Fascism', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-15',
+  title: '\'Most Transparent’ White House In History Keeps Majority Of Trump’s Remarks Secret',
+  body: 'Trump\'s aides released just 20% of the transcripts of his speeches and interactions with the press over his first 100 days, excluding many of his most unhinged comments.',
+  links: [
+    {
+      href: 'https://www.huffpost.com/entry/trump-secret-transcripts_n_6824fe20e4b021b5064adc84',
+      linkText: 'Huffington Post'
+    },
+  ],
+},
+
+
+{
+  id: 'BD_Parade_Cost',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-15',
+  title: 'Tanks, cannons and soldiers sleeping in DC offices: Inside Trump birthday military parade',
+  body: 'Plans include bringing 7,500 cots to DC office buildings for soldiers. The latest price tag for the affair: $30 million, a figure expected to rise to $45 million.',
+  links: [
+    {
+      href: 'https://www.usatoday.com/story/news/politics/2025/05/15/trump-birthday-army-parade/83602867007/',
+      linkText: 'USA Today'
+    },
+  ],
+},
+
+{
+  id: 'Immigration_Crackdown_Troops',
+  categories: ['Fascism', 'Dic(tator) Move', 'Immigration'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-05-15',
+  title: 'D.H.S. Requests 20,000 National Guard Members to Help With Immigration Crackdown',
+  body: 'The Defense Department is reviewing the request. If approved, one official said, it would be the first time National Guard troops were used to help enforce an immigration crackdown in the country.',
+  links: [
+    {
+      href: 'https://www.nytimes.com/2025/05/15/us/politics/national-guard-immigration.html',
+      linkText: 'New York Times'
+    },
+  ],
+},
+
+{
+  id: 'Big_Brother_TV',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Immigration'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-15',
+  title: 'New Reality TV Show That Sees immigrants Compete for US Citizenship Has Backing of Trump Administration',
+  body: 'Homeland Security Secretary Kristi Noem is reportedly working with writer and producer Rob Worsoff (of Duck Dynasty fame) on a new series called The American',
+  links: [
+    {
+      href: 'https://consequence.net/2025/05/immigrants-citizenship-kristi-noem-tv-show/',
+      linkText: 'Consequence'
+    },
+  ],
+},
+
+ {
   id: 'Big_Brother_Trump',
   categories: ['Fascism', 'Dic(tator) Move', 'Orwell'],
   color: 'red',
@@ -98,6 +259,22 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/may/14/rfk-jr-kennedy-senate-house-hearings',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Trump_Bribe_Constitution',
+  categories: ['Fascism', 'Dic(tator) Move', 'Global'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-05-14',
+  title: 'Trump Writes Congress out of the Constitution—and Congress Says Fine',
+  body: 'The question regarding the Qatari plane deal isn’t whether it’s corrupt or illegal. It’s both of those. The question is, who will stop it?',
+  links: [
+    {
+      href: 'https://newrepublic.com/article/195238/trump-qatar-plane-congress-constitution-corruption',
+      linkText: 'New Republic'
     },
   ],
 },
