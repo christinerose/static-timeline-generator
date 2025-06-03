@@ -35,6 +35,206 @@ const entries = [
 
 
 
+  {
+  id: 'SCOTUS_Stakes',
+  categories: ['Fascism', 'Dic(tator) Move', 'Education', 'Courts'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-06-01',
+  title: 'Stakes are high for US democracy as conservative supreme court hears raft of cases',
+  body: 'Former critics now hope the justices have enough fealty to the US constitution to mitigate Trump’s assault on rights.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/01/us-supreme-court-democracy',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Why_Harvard',
+  categories: ['Fascism', 'Dic(tator) Move', 'Education', 'Immigration'],
+  color: 'red',
+  faicon: 'scroll',
+  date: '2025-06-01',
+  title: 'Why Trump is really going after Harvard',
+  body: 'If the US’s oldest university bends the knee, the door to authoritarianism opens and democracy fades, experts warn.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/01/trump-harvard-authoritarianism-democracy',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Fear_Harvard',
+  categories: ['Fascism', 'Dic(tator) Move', 'Education', 'Immigration'],
+  color: 'red',
+  faicon: 'scroll',
+  date: '2025-06-01',
+  title: '‘Insidious fear’ fills universities as Trump escalates conflict during commencement season',
+  body: 'From warnings about free speech to Kermit’s innocuous remarks, speeches respond to a politically charged US.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/01/university-commencement-speeches-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'NPR_Lawsuit',
+  categories: ['Fascism', 'Orwell', 'Resist', 'Courts'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-06-01',
+  title: 'NPR lawsuit aims to strike a blow for press freedom against Trump’s attacks',
+  body: 'Lawsuit challenges president’s move to cut federal funding as station says it is ‘matter of necessity and principle.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/01/npr-lawsuit-trump-war-on-media',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Dystopian_Texas',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Immigration'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-31',
+  title: 'US immigration authorities collecting DNA information of children in criminal database',
+  body: 'Collection of migrants’ DNA has increased by 5,000% in three years in a ‘massive expansion of genetic surveillance.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/31/cbp-dna-collection-children-immigrants',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+ {
+  id: 'Target_Harvard_Again',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Education'],
+  color: 'red',
+  faicon: 'scroll',
+  date: '2025-05-30',
+  title: 'White House targets Harvard again with social media screening of all foreign visitors to school',
+  body: 'Move comes as Trump administration also moved to stop student visa interviews at all US embassies worldwide.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/30/harvard-social-media-screening-visitors-trump-administration',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Dropped_Interviews',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Education'],
+  color: 'red',
+  faicon: 'scroll',
+  date: '2025-05-30',
+  title: '‘My stomach just dropped’: foreign students in panicked limbo as Trump cancels visa interviews',
+  body: 'State department move to cancel student visa interviews at all US embassies has shocked international scholars.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/30/trump-international-students-visas',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Revoke_Protected',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Immigration'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-05-30',
+  title: 'Supreme court allows White House to revoke temporary protected status of many migrants',
+  body: 'Ruling reverses hold on Trump administration’s ending humanitarian parole of Venezuelan migrants and others.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/30/supreme-court-trump-administration-revoke-temporary-protected-status',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Dystopian_Texas',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-05-31',
+  title: 'A dystopian surveillance fear has become reality in Texas',
+  body: 'Law enforcement used license-plate readers in several states to search for a woman who had an abortion.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/commentisfree/2025/may/31/a-dystopian-surveillance-fear-has-become-reality-in-texas',
+      linkText: 'The Guardian (Opinion)'
+    },
+  ],
+},
+
+{
+  id: 'Master_Database',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-30',
+  title: 'Trump Taps Palantir to Create Master Database on Every American',
+  body: 'Trump’s dystopian plan is already underway.',
+  links: [
+    {
+      href: 'https://newrepublic.com/post/195904/trump-palantir-data-americans',
+      linkText: 'New Republic'
+    },
+  ],
+},
+
+
+ {
+  id: 'Trump_Parade',
+  categories: ['Fascism', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-30',
+  title: 'We’re minimizing the horror of Trump’s military birthday parade',
+  body: 'The media has focused on the price tag and potholes. But history may mark 14 June as the ceremonial birth of US fascism.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/commentisfree/2025/may/30/trump-military-parade-fascism',
+      linkText: 'The Guardian (Opinion)'
+    },
+  ],
+},
+
+
+{
+  id: 'Remigration',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Immigration'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-29',
+  title: 'The Trump Administration Wants to Create an ‘Office of Remigration’',
+  body: '“Remigration”—a far-right European plan to expel minorities and immigrants from Western nations—may soon have a dedicated office following a Trump administration reorganization of the State Department.',
+  links: [
+    {
+      href: 'https://www.wired.com/story/trump-office-remigration-state-department-europe-far-right/',
+      linkText: 'Wired'
+    },
+
+        {
+      href: 'https://www.theguardian.com/us-news/2025/may/30/state-department-plans-office-of-remigration-to-support-trump-agenda',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
  {
   id: 'Court_Halts_Sudan',
   categories: ['Fascism', 'Discrimination', 'Immigration', 'Global', 'Resist', 'Courts'  ],
