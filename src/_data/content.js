@@ -34,6 +34,101 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, heavy policing, etc.
 
 
+  {
+  id: 'Scared_Children',
+  categories: ['Fascism', 'Dic(tator) Move', 'Immigration', 'Global', 'Orwell'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-06-05',
+  title: 'Trump’ immigration crackdown is leaving children terrified and ‘truly alone’',
+  body: 'Advocates say unaccompanied minors are being detained longer and used as bait to arrest those who care for them.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/ng-interactive/2025/jun/05/trumps-immigration-children-unaccompanied-minors',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Miscarriage_Crime',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Women'],
+  color: 'red',
+  faicon: 'venus',
+  date: '2025-06-05',
+  title: 'Women in West Virginia who miscarry could face criminal charges, prosecutor says',
+  body: 'Tom Truman of Raleigh county advised women to report their miscarriages to the police to protect themselves.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/05/west-virginia-miscarriage-crime-abortion-ban',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Democrat_Travel_Ban',
+  categories: ['Fascism', 'Dic(tator) Move', 'Global', 'Tiddlywinks', 'Resist'],
+  color: 'green',
+  faicon: 'democrat',
+  date: '2025-06-05',
+  title: 'Democrats denounce Trump’s ‘reckless’ and ‘discriminatory’ travel ban',
+  body: 'Lawmakers also said the president’s ban on travel from certain countries would isolate the US.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/05/democrats-respond-trump-travel-ban',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Travel_Ban_Explained',
+  categories: ['Fascism', 'Dic(tator) Move', 'Global'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-06-04',
+  title: 'What is Trump’s new travel ban, and which countries are affected?',
+  body: 'President’s sweeping proclamation targets citizens of many countries and would dramatically reshape US border policy.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/04/what-is-trump-travel-ban-countries',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+  {
+  id: 'Travel_Ban',
+  categories: ['Fascism', 'Dic(tator) Move', 'Global'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-06-04',
+  title: 'Trump signs order banning citizens of 12 countries from entering the US',
+  body: 'Nationals from countries including Afghanistan, Haiti and Sudan banned as those of seven others partially restricted.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/04/trump-proclamation-travel-ban',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Bernie_Speaks',
+  categories: ['Tiddlywinks', 'Dic(tator) Move', 'Global', 'Tiddlywinks', 'Resist'],
+  color: 'green',
+  faicon: 'democrat',
+  date: '2025-06-05',
+  title: '‘Saying Trump is dangerous is not enough’: Bernie Sanders on Biden, billionaires – and why the Democrats failed',
+  body: 'The senator and twice Democratic presidential hopeful is on tour with Alexandria Ocasio-Cortez trying to build a new progressive movement.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/ng-interactive/2025/jun/04/saying-trump-is-dangerous-is-not-enough-bernie-sanders-on-biden-billionaires-and-why-the-democrats-failed',
+      linkText: 'The Guardian'
+    },
+  ],
+},
 
   {
   id: 'SCOTUS_Stakes',
@@ -164,22 +259,6 @@ const entries = [
   ],
 },
 
- {
-  id: 'Dystopian_Texas',
-  categories: ['Fascism', 'Dic(tator) Move', 'Orwell'],
-  color: 'red',
-  faicon: 'eye',
-  date: '2025-05-31',
-  title: 'A dystopian surveillance fear has become reality in Texas',
-  body: 'Law enforcement used license-plate readers in several states to search for a woman who had an abortion.',
-  links: [
-    {
-      href: 'https://www.theguardian.com/commentisfree/2025/may/31/a-dystopian-surveillance-fear-has-become-reality-in-texas',
-      linkText: 'The Guardian (Opinion)'
-    },
-  ],
-},
-
 {
   id: 'Master_Database',
   categories: ['Fascism', 'Dic(tator) Move', 'Orwell'],
@@ -195,6 +274,7 @@ const entries = [
     },
   ],
 },
+
 
 
  {
@@ -213,6 +293,38 @@ const entries = [
   ],
 },
 
+
+ {
+  id: 'Children_DNA',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Immigration'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-29',
+  title: 'The US Is Storing Migrant Children’s DNA in a Criminal Database',
+  body: 'Customs and Border Protection has swabbed the DNA of migrant children as young as 4, whose genetic data is uploaded to an FBI-run database that can track them if they commit crimes in the future.',
+  links: [
+    {
+      href: 'https://www.wired.com/story/cbp-dna-migrant-children-fbi-codis/',
+      linkText: 'Wired'
+    },
+  ],
+},
+
+ {
+  id: 'Judge_Expands',
+  categories: ['Fascism', 'Dic(tator) Move', 'Discrimination', 'Education', 'Immigration', 'Global', 'Resist', 'Courts' ],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-05-29',
+  title: 'Judge expands order protecting Harvard from Trump block on enrolling international students',
+  body: 'Injunction comes after judge issued block last week, when White House escalated battle against university.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/29/trump-harvard-international-students',
+      linkText: 'The Guardian'
+    },
+  ],
+},
 
 {
   id: 'Remigration',
@@ -235,6 +347,119 @@ const entries = [
   ],
 },
 
+
+ {
+  id: 'Judge_Bid',
+  categories: ['Project 2025', 'Immigration', 'Courts', 'Resist', 'Dic(tator) Move'],
+  color: 'green',
+  faicon: 'plane',
+  date: '2025-05-28',
+  title: 'Judge says Trump’s bid to deport Mahmoud Khalil is unconstitutional',
+  body: 'Starting Wednesday at 1 p.m. ET and lasting for 100 straight hours, climate and weather specialists will spend 15 minutes each talking about their work and why it is so valuable for the American people.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/28/mahmoud-khalil-trump-unconstitutional',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Trump_Reprieve',
+  categories: ['Project 2025', 'Courts', 'Global', 'Economy', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-05-28',
+  title: 'Trump wins temporary reprieve as he fights against court block on tariffs',
+  body: 'US president rails against judges who ruled against him as appeals court grants pause until challenge is heard.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/28/us-court-blocks-trump-tariffs',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Court_Blocks',
+  categories: ['Project 2025', 'Courts', 'Global', 'Economy', 'Dic(tator) Move', 'Resist'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-05-28',
+  title: 'US court blocks Trump from imposing the bulk of his tariffs',
+  body: 'A three-judge panel at the US Court of International Trade, a relatively low-profile court in Manhattan, stopped Trump’s global tariffs that he imposed citing emergency economic powers.',
+  links: [
+    {
+      href: 'https://www.cnn.com/2025/05/28/business/us-court-blocks-trumps-tariffs',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+ {
+  id: 'Bye_Carol',
+  categories: ['Project 2025', 'Immigration', 'FAFO'],
+  color: 'red',
+  faicon: 'poop',
+  date: '2025-05-28',
+  title: 'A Missouri Town Was Solidly Behind Trump. Then Carol Was Detained.',
+  body: 'For 20 years, Carol Hui has served waffles, raised her children and embraced the small town of Kennett, Mo. Her detention and pending deportation to Hong Kong has hit the community hard.',
+  links: [
+    {
+      href: 'https://www.nytimes.com/2025/05/28/us/missouri-immigrant-trump.html',
+      linkText: 'New York Times'
+    },
+  ],
+},
+
+{
+  id: 'Refuse_Visas',
+  categories: ['Fascism', 'Global', 'Dic(tator) Move', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-05-28',
+  title: 'US will refuse visas to foreign officials who block Americans’ social media posts',
+  body: 'Marco Rubio says he is acting against ‘flagrant censorship actions’ overseas against US tech firms.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/28/us-refuse-visas-foreign-officials-social-media',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Scientists_Resist',
+  categories: ['Fascism', 'Climate', 'Global', 'Resist'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-05-27',
+  title: 'Climate and weather scientists are joining the anti-Trump resistance in the most ‘scientist-iest’ way',
+  body: 'Starting Wednesday at 1 p.m. ET and lasting for 100 straight hours, climate and weather specialists will spend 15 minutes each talking about their work and why it is so valuable for the American people.',
+  links: [
+    {
+      href: 'https://www.cnn.com/scientists-resistance-livestream-trump',
+      linkText: 'CNN'
+    },
+  ],
+},
+
+{
+  id: 'GOP_Threatens',
+  categories: ['Fascism', 'Economy', 'Resist', 'FAFO'  ],
+  color: 'green',
+  faicon: 'coins',
+  date: '2025-05-25',
+  title: 'Top Republicans threaten to block Trump’s spending bill if national debt is not reduced',
+  body: 'Prominent US senators warn Trump to ‘get serious’ about addressing budget deficit or they will block ‘beautiful bill’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/25/trump-beautiful-bill-republicans',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
  {
   id: 'Court_Halts_Sudan',
   categories: ['Fascism', 'Discrimination', 'Immigration', 'Global', 'Resist', 'Courts'  ],
@@ -247,6 +472,44 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/may/23/trump-south-sudan-deportations-halted-judge',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+ {
+  id: 'Trump_Apple_Threat',
+  categories: ['Fascism', 'Dic(tator) Move', 'Economy', 'Global', 'Tariff War'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-05-23',
+  title: 'Trump threatens 25% tariff on Apple and Samsung phones not made in US',
+  body: 'Announcement wipes about $70bn off Apple shares amid pressure on company to build smartphones in US.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/23/donald-trump-threatens-25-percent-tariff-iphones-not-made-in-us',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Trump_Tariff_Threat',
+  categories: ['Fascism', 'Dic(tator) Move', 'Economy', 'Global', 'Tariff War'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-05-23',
+  title: 'Trump threatens steep tariffs on trade with the European Union, Then Delays',
+  body: 'Trump said he had run out of patience with trade negotiators from the European Union and has decided to set the tariff on imports at 50% starting on June 1.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/05/23/nx-s1-5408573/trump-tariffs-eu-apple-iphones',
+      linkText: 'NPR'
+    },
+
+        {
+      href: 'https://www.nbcnews.com/politics/trump-administration/trump-delays-50-tariffs-eu-july-9-rcna209026',
+      linkText: 'NBC'
     },
   ],
 },
