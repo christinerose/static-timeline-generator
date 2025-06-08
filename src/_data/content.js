@@ -295,6 +295,54 @@ const entries = [
 
 
  {
+  id: 'Compile_Data',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-30',
+  title: 'Trump Taps Palantir to Compile Data on Americans',
+  body: 'The Trump administration has expanded Palantir’s work with the government, spreading the company’s technology — which could easily merge data on Americans — throughout agencies.',
+  links: [
+    {
+      href: 'https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html',
+      linkText: 'New York Times'
+    },
+  ],
+},
+
+ {
+  id: 'SCOTUS_BS',
+  categories: ['Fascism', 'Dic(tator) Move', 'Courts', 'Immigration'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-30',
+  title: 'Supreme Court lets Trump end legal protections for 500,000 migrants, exposing more to deportation',
+  body: 'The justices lifted a lower-court order that kept humanitarian parole protections in place for more than 500,000 migrants from four countries: Cuba, Haiti, Nicaragua and Venezuela.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-supreme-court-immigration-deportation-8bc46820c6444fbb3540c09764e32905',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'Pardon_Reality',
+  categories: ['Dic(tator) Move', 'Fascism', 'Orwell'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-29',
+  title: 'Trump pardons Todd and Julie Chrisley, the reality TV couple convicted of fraud',
+  body: 'Though the Chrisleys portrayed themselves as successful real estate tycoons and self-made multimillionaires, they were eventually accused of funding their lifestyle through dishonest means.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/05/28/nx-s1-5414091/todd-julie-chrisley-pardon-trump',
+      linkText: 'NPR'
+    },
+  ],
+},
+
+ {
   id: 'Children_DNA',
   categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Immigration'],
   color: 'red',
@@ -397,6 +445,22 @@ const entries = [
 },
 
  {
+  id: 'ICE_Supercharge',
+  categories: ['Project 2025', 'Immigration', 'Fascism', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-05-28',
+  title: 'Scoop: Stephen Miller, Noem tell ICE to supercharge immigrant arrests',
+  body: 'The new target is triple the number of daily arrests that agents were making in the early days of Trump\'s term — and suggests the president\'s top immigration officials are full-steam ahead in pushing for mass deportations.',
+  links: [
+    {
+      href: 'https://www.axios.com/2025/05/28/immigration-ice-deportations-stephen-miller',
+      linkText: 'Axios'
+    },
+  ],
+},
+
+ {
   id: 'Bye_Carol',
   categories: ['Project 2025', 'Immigration', 'FAFO'],
   color: 'red',
@@ -429,6 +493,198 @@ const entries = [
 },
 
  {
+  id: 'Pardon_Kidnap',
+  categories: ['Dic(tator) Move', 'Fascism', 'Orwell'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-28',
+  title: 'Trump says he will look into possible pardons for the men convicted of plotting to kidnap Michigan Gov. Gretchen Whitmer',
+  body: 'Whitmer, who met with Trump multiple times this year, once placed some of the blame for the plot on Trump\'s rhetoric.',
+  links: [
+    {
+      href: 'https://www.nbcnews.com/politics/donald-trump/trump-says-will-take-look-possible-pardons-men-convicted-plotting-kidn-rcna209512',
+      linkText: 'NBC'
+    },
+  ],
+},
+
+ {
+  id: 'DOGE_Access',
+  categories: ['Project 2025', 'Fascism', 'DOGE', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'hammer',
+  date: '2025-05-28',
+  title: 'Trump asking Congress to help with $9.4 billion in DOGE cuts',
+  body: 'The White House wants a big public fight over funding for NPR, PBS and foreign aid. They are likely to get it.',
+  links: [
+    {
+      href: 'https://www.axios.com/2025/05/28/trump-budget-doge-npr-pbs-usaid-congress',
+      linkText: 'Axios'
+    },
+  ],
+},
+
+ {
+  id: 'DOGE_Access',
+  categories: ['Dic(tator) Move', 'Courts', 'Fascism', 'Orwell', 'DOGE', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-05-28',
+  title: 'Judge allows DOGE to access sensitive Treasury payment systems',
+  body: 'U.S. District Judge Jeannette Vargas gave permission for four DOGE employees to access the Bureau of the Fiscal Service, which essentially serves as the checkbook for the federal government. ',
+  links: [
+    {
+      href: 'https://abcnews.go.com/Politics/judge-allows-doge-access-sensitive-treasury-payment-systems/story?id=122261449',
+      linkText: 'ABC'
+    },
+  ],
+},
+
+ {
+  id: 'No_Publishing',
+  categories: ['Dic(tator) Move', 'Health', 'Fascism', 'Orwell'],
+  color: 'red',
+  faicon: 'medkit',
+  date: '2025-05-28',
+  title: 'RFK Jr threatens ban on federal scientists publishing in top journals',
+  body: 'US health secretary calls leading medical journals such as Lancet ‘corrupt’ and pushes to create state-run alternatives',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/may/28/rfk-jr-medical-journals',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: '250k_Harvard',
+  categories: ['Dic(tator) Move', 'Education'],
+  color: 'red',
+  faicon: 'scroll',
+  date: '2025-05-28',
+  title: 'Trump escalates war with Harvard: \'They\'re getting in deeper and deeper\'',
+  body: '"Every time they fight, they lose another $250 million," the president said.',
+  links: [
+    {
+      href: 'https://abcnews.go.com/Politics/trump-escalates-war-harvard-theyre-deeper-deeper/story?id=122275995',
+      linkText: 'ABC'
+    },
+  ],
+},
+
+ {
+  id: 'TACO',
+  categories: ['Global', 'Economy', 'FAFO'],
+  color: 'red',
+  faicon: 'coins',
+  date: '2025-05-28',
+  title: 'Trump says he’s not ‘chickening out’ on trade: ‘It’s called negotiation’',
+  body: 'President Donald Trump pushed back against those using the term “TACO trade” — “Trump Always Chickens Out” — to describe how markets view his tariff moves.',
+  links: [
+    {
+      href: 'https://www.cnbc.com/2025/05/28/trump-tariffs-taco-trade-chickening-out.html',
+      linkText: 'CNBC'
+    },
+  ],
+},
+
+ {
+  id: 'Sue_NC',
+  categories: ['Fascism', 'Orwell', 'Courts', 'Civil Liberties', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'person',
+  date: '2025-05-27',
+  title: 'Trump administration sues North Carolina over its voter registration records',
+  body: 'The Trump administration accused North Carolina’s election board on Tuesday of violating federal law by failing to ensure voter registration records of some applicants contained identifying numbers.',
+  links: [
+    {
+      href: 'https://apnews.com/article/north-carolina-voter-records-federal-government-lawsuit-a9c470880fb423412977c59772b40151',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
+  id: 'NPR_Sues',
+  categories: ['Fascism', 'Orwell', 'Resist', 'Courts', 'Civil Liberties'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-05-27',
+  title: 'NPR and Colorado public radio stations sue Trump White House',
+  body: 'NPR and three Colorado public radio stations filed suit Tuesday morning in federal court against the Trump White House over the president\'s executive order that purportedly bars the use of Congressionally appropriated funds for NPR and PBS.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/05/27/nx-s1-5413094/npr-public-radio-lawsuit-trump-funding-ban',
+      linkText: 'NPR'
+    },
+  ],
+},
+
+ {
+  id: 'Pardon_Lawyer',
+  categories: ['Dic(tator) Move', 'Fascism', 'Orwell', 'J6'],
+  color: 'red',
+  faicon: 'skull',
+  date: '2025-05-27',
+  title: 'Trump’s new pardon attorney personally reviewed application for Jan. 6 ringleader Stewart Rhodes',
+  body: 'During his first full week in office, Trump’s pardon attorney has reviewed applications for Jan. 6 rioters and a former state senator prosecuted by Jack Smith’s onetime unit.',
+  links: [
+    {
+      href: 'https://www.politico.com/news/2025/05/27/ed-martin-stewart-rhodes-jan-6-pardon-00371222',
+      linkText: 'Politico'
+    },
+  ],
+},
+
+ {
+  id: 'Pardon_Cheat',
+  categories: ['Dic(tator) Move', 'Fascism', 'Orwell'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-27',
+  title: 'Trump Pardoned Tax Cheat After Mother Attended $1 Million Dinner',
+  body: 'Paul Walczak’s pardon application cited his mother’s support for the president, including raising millions of dollars and a connection to a plot to publicize a Biden family diary.',
+  links: [
+    {
+      href: 'https://www.nytimes.com/2025/05/27/us/politics/trump-pardon-paul-walczak-tax-crimes.html',
+      linkText: 'New York Times'
+    },
+  ],
+},
+
+ {
+  id: 'Avoid_Impeach',
+  categories: ['Dic(tator) Move', 'Fascism'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-27',
+  title: 'How Trump Plans to Avoid a Potential Third Impeachment',
+  body: 'Trump has openly profited from his seat, and helped his allies get rich too—whether by manipulating the market or by turning administration officials into salespeople.',
+  links: [
+    {
+      href: 'https://newrepublic.com/post/195750/donald-trump-plans-house-republican-control',
+      linkText: 'New Republic'
+    },
+  ],
+},
+
+ {
+  id: '100k_Harvard',
+  categories: ['Dic(tator) Move', 'Education'],
+  color: 'red',
+  faicon: 'scroll',
+  date: '2025-05-27',
+  title: 'Trump administration moves to cut $100 million in federal contracts for Harvard',
+  body: 'The government already has canceled more than $2.6 billion in federal research grants for the Ivy League school, which has pushed back on the administration’s demands for changes to several of its policies.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-harvard-federal-contracts-51d2d2618e1f0f5de39cb649644e1dae',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+ {
   id: 'Scientists_Resist',
   categories: ['Fascism', 'Climate', 'Global', 'Resist'],
   color: 'green',
@@ -444,9 +700,25 @@ const entries = [
   ],
 },
 
+ {
+  id: 'Pardon_Sheriff',
+  categories: ['Dic(tator) Move', 'Fascism', 'Orwell'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-05-26',
+  title: 'Trump says he’s pardoning a Virginia sheriff convicted on bribery charges',
+  body: '“This Sheriff is a victim of an overzealous Biden Department of Justice, and doesn’t deserve to spend a single day in jail. He is a wonderful person, who was persecuted by the Radical Left “monsters,” and “left for dead,” Trump said.',
+  links: [
+    {
+      href: 'https://apnews.com/article/sheriff-bribery-conviction-trump-pardon-3a35152ebb86d4ab4a2d3d018c0bda8e',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
 {
   id: 'GOP_Threatens',
-  categories: ['Fascism', 'Economy', 'Resist', 'FAFO'  ],
+  categories: ['Fascism', 'Economy', 'Resist', 'FAFO'],
   color: 'green',
   faicon: 'coins',
   date: '2025-05-25',
@@ -456,6 +728,38 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/may/25/trump-beautiful-bill-republicans',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Jenner_Unconstitutional',
+  categories: ['Fascism', 'Dic(tator) Move', 'Resist', 'Courts'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-05-23',
+  title: 'Trump executive order targeting Jenner law firm unconstitutional, judge rules',
+  body: '“This order, like the others, seeks to chill legal representation the administration doesn’t like," wrote Judge John Bates.',
+  links: [
+    {
+      href: 'https://www.nbcnews.com/politics/justice-department/trump-executive-order-targeting-jenner-law-firm-unconstitutional-judge-rcna205230',
+      linkText: 'NBC'
+    },
+  ],
+},
+
+ {
+  id: 'Rad_Transform',
+  categories: ['Project 2025', 'Dic(tator) Move', 'Resist', 'Courts'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-05-23',
+  title: 'A federal judge further halts Trump\'s radical transformation of government',
+  body: 'U.S. District Judge Susan Illston issued the preliminary injunction late Thursday, nearly two weeks after temporarily halting Trump\'s Feb. 11 executive order directing agencies to shut down offices and lay off thousands of people.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/05/23/nx-s1-5407344/trump-government-reorganization-rif-pause',
+      linkText: 'NPR'
     },
   ],
 },
