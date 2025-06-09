@@ -27,11 +27,367 @@ const entries = [
   //Orwell = eye
   //Civil War = gun
   //Dic(tator) Move = grimace
+  //Insurrection Act
 
   //Layoffs, DOGE work, restructuring, etc. = Project 2025
   //DOGE & J6 = Fascism
  
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, heavy policing, etc.
+
+
+   {
+  id: 'Imperialism_Travel_Starts',
+  categories: ['Fascism', 'Dic(tator) Move', 'Global'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-06-09',
+  title: 'Trump travel ban barring citizens from 12 countries goes into effect',
+  body: 'US’s cruel escalation of policy puts misplaced target on vulnerable nations such as Afghanistan and Sudan.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/09/trump-travel-ban',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+   {
+  id: 'MI_Spy2',
+  categories: ['Fascism', 'Dic(tator) Move', 'Education', 'Orwell', 'FAFO', 'Resist', 'Civil Liberties'],
+  color: 'green',
+  faicon: 'flag',
+  date: '2025-06-09',
+  title: 'University of Michigan ends undercover surveillance contracts after Guardian revelations',
+  body: 'Outcry after report that private investigators had been trailing and recording pro-Palestinian protesters for months.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/09/university-of-michigan-surveillance-students',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Unleashed',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Civil Liberties', 'Civil War', 'Insurrection Act'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-09',
+  title: 'Trump has unleashed something terrifying in the US – that even he may be powerless to control',
+  body: 'The protests in LA are what everyone feared, and a warning to countries that flirt with populism.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/commentisfree/2025/jun/09/donald-trump-protests-los-angeles-national-guard-unleashed-terrifying',
+      linkText: 'The Guardian (Opinion)'
+    },
+  ],
+},
+
+
+{
+  id: 'Vets_Warns',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Civil Liberties', 'Civil War', 'Insurrection Act'],
+  color: 'red',
+  faicon: 'gun',
+  date: '2025-06-09',
+  title: 'Trump LA protest response risks turning US military into political force, veterans warn',
+  body: 'Memo authorising the military to be deployed against anticipated protests is pre-emptive act – a first for the US.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/09/veterans-trump-national-guard-la-protests',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Marines_LA',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Civil Liberties', 'Civil War', 'Insurrection Act'],
+  color: 'red',
+  faicon: 'gun',
+  date: '2025-06-09',
+  title: 'Pentagon to temporarily deploy hundreds of active-duty marines to Los Angeles',
+  body: 'US official says military is sending 700 marines to the city but that Insurrection Act is not expected to be invoked.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/live/2025/jun/09/los-angeles-protests-live-tensions-flare-trump-deploys-national-guard-troops',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Not_Afraid',
+  categories: ['Fascism', 'Resist', 'Orwell', 'Civil Liberties', 'Civil War', 'Insurrection Act', 'Immigration'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-06-08',
+  title: '‘We’re not afraid of you’: LA protesters, enraged by Trump, flood the streets',
+  body: 'Traffic stopped, signs were brandished, insults hurled – and the size of the protest seemed to take police by surprise.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/08/los-angeles-protests-dispatch',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'ABC_Suspends',
+  categories: ['Fascism', 'Orwell', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-06-08',
+  title: 'ABC News suspends journalist who called Trump and adviser ‘world-class’ haters',
+  body: 'Terry Moran to be evaluated after now deleted post said Stephen Miller is ‘richly endowed with capacity for hatred’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/08/abc-news-suspends-journalist-stephen-miller-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'NatGuard_LA',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Civil Liberties', 'Civil War', 'Insurrection Act', 'Immigration'],
+  color: 'red',
+  faicon: 'gun',
+  date: '2025-06-08',
+  title: 'US national guard arrive in Los Angeles after protests over immigration raids',
+  body: 'Order to deploy troops came from Trump on Saturday night in stunning escalation in crackdown on immigrants.',
+  links: [
+    {
+      href: 'https://abcnews.go.com/US/protests-erupt-immigration-raids-los-angeles/story?id=122604723',
+      linkText: 'ABC'
+    },
+  ],
+},
+
+{
+  id: 'NatGuard_How',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Civil Liberties', 'Civil War', 'Insurrection Act'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-07',
+  title: 'How can Trump use the national guard on US soil?',
+  body: 'The US president says he’s deploying 2,000 troops to Los Angeles amid immigration protests.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/07/trump-national-guard',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: '2K_NatGuard_LA',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Civil Liberties', 'Civil War', 'Insurrection Act', 'Immigration'],
+  color: 'red',
+  faicon: 'gun',
+  date: '2025-06-07',
+  title: 'Trump authorizes 2,000 national guard troops to deploy to LA amid Ice protests',
+  body: 'California governor calls move ‘purposefully inflammatory’ and says it will ‘escalate tensions’ amid immigration crackdown.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/07/immigration-raids-los-angeles',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Police_Clash',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Civil Liberties', 'Civil War', 'Insurrection Act', 'Immigration'],
+  color: 'red',
+  faicon: 'gun',
+  date: '2025-06-08',
+  title: 'Police clash with Los Angeles protesters as opposition to Trump intensifies',
+  body: 'Thousands take to LA streets to protest against Ice raids and president’s deployment of national guard troops.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/08/los-angeles-protests-immigration-ice',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'ICE_Raids',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Civil Liberties', 'Civil War', 'Insurrection Act', 'Immigration'],
+  color: 'red',
+  faicon: 'gun',
+  date: '2025-06-07',
+  title: 'ICE launches ‘military-style’ raids in Los Angeles',
+  body: 'More than 40 people have been arrested by immigration officials in what has been described as an ‘oppressive and vile paramilitary operation’.',
+  links: [
+    {
+      href: 'https://www.aljazeera.com/news/2025/6/7/ice-launches-military-style-raids-in-los-angeles-what-we-know',
+      linkText: 'AlJazeera'
+    },
+  ],
+},
+
+{
+  id: 'NeoNazi_Army',
+  categories: ['Fascism', 'Civil War', 'J6'],
+  color: 'red',
+  faicon: 'gun',
+  date: '2025-06-07',
+  title: 'Neo-Nazi group ‘actively seeking to grow in US’ with planned paramilitary training event',
+  body: 'The Base is emerging from shadows and ramping up its ranks as White House turns blind eye to the far right.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/07/the-base-neo-nazi-group-paramilitary-training',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Musk_Spat',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'DOGE'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-07',
+  title: 'Trump warns Musk of ‘very serious consequences’ if he backs Democrats',
+  body: 'US president says he’s ‘too busy doing other things’ to try to reconcile with erstwhile ally and campaign backer.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/07/trump-threatens-musk-democrats',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+  {
+  id: 'Russia_Germany',
+  categories: ['Fascism', 'WW3', 'Global'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-06-07',
+  title: 'Germany plans rapid bunker expansion amid fears of Russian attack',
+  body: 'Civil protection agency chief says country is ill-prepared for conflict and calls for urgent upgrades to cold war shelters.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/world/2025/jun/07/germany-plans-rapid-bunker-expansion-amid-fears-of-russian-attack',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Torrio_Sue',
+  categories: ['Fascism', 'Courts', 'J6'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-06',
+  title: 'Enrique Tarrio and other freed January 6 convicts sue over prosecutions',
+  body: 'Ex-leader of far-right Proud Boys and three others whom Trump gave pardons or commutations sue government.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/06/january-6-enrique-tarrio-lawsuit',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'SCOTUS_DOGE',
+  categories: ['Fascism', 'Dic(tator) Move', 'Courts', 'DOGE', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-06-06',
+  title: 'US supreme court rules Doge can access social security data during legal challenge',
+  body: 'Key player in Trump’s drive to slash federal workforce keeps access to sensitive records including family court and mental health records.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/06/supreme-court-doge-data',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Shipping_Container',
+  categories: ['Fascism', 'Dic(tator) Move', 'Immigration', 'Global', 'FAFO'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-06-06',
+  title: 'Group stranded with Ice in Djibouti shipping container after removal from US',
+  body: 'Deportees and officers are ‘ill’ and face risks after flight to South Sudan was stopped by US court in late May.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/06/migrants-djibouti-ice',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+  {
+  id: 'Garcia_Charges',
+  categories: ['Fascism', 'Dic(tator) Move', 'Immigration', 'Global', 'Orwell'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-06-06',
+  title: 'Kilmar Ábrego García returned from El Salvador to face criminal charges in US',
+  body: 'Man mistakenly deported to El Salvador indicted on counts of illegally smuggling undocumented people, says Bondi.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/06/kilmar-abrego-garcia-charges',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+  {
+  id: 'Russia_UK',
+  categories: ['Fascism', 'WW3', 'Global'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-06-06',
+  title: 'Russia is at war with Britain and US is no longer a reliable ally, UK adviser says',
+  body: 'Government defence expert Fiona Hill warns UK to respond to threats by becoming more cohesive and resilient.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/politics/2025/jun/06/russia-is-at-war-with-uk-and-us-no-longer-reliable-ally',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+  {
+  id: 'Imperialism_Travel',
+  categories: ['Fascism', 'Dic(tator) Move', 'Global'],
+  color: 'red',
+  faicon: 'globe',
+  date: '2025-06-06',
+  title: 'What unites countries under Trump’s travel ban is American imperialism',
+  body: 'US’s cruel escalation of policy puts misplaced target on vulnerable nations such as Afghanistan and Sudan.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/06/trump-travel-ban-imperialism',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+  {
+  id: 'MI_Spy',
+  categories: ['Fascism', 'Dic(tator) Move', 'Education', 'Orwell', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-06-06',
+  title: 'University of Michigan using undercover investigators to surveil student Gaza protesters',
+  body: 'Revealed: security trailing students on and off campus as video shows investigator faking disability when confronted.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/06/michigan-university-gaza-surveillance',
+      linkText: 'The Guardian'
+    },
+  ],
+},
 
 
   {
@@ -126,6 +482,22 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/ng-interactive/2025/jun/04/saying-trump-is-dangerous-is-not-enough-bernie-sanders-on-biden-billionaires-and-why-the-democrats-failed',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+  {
+  id: 'Essay_Trump',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-06-03',
+  title: 'New Federal Employees Must Now Write Essays Praising Trump\'s Policies',
+  body: 'The federal government\'s strategy to hire people to the civil service, dubbed the "Merit Hiring Plan," will require certain applicants to write four 200-word essays about their work ethic, skills and experience, commitment to the Constitution, and plans to "advance the President\'s Executive Orders and policy priorities."',
+  links: [
+    {
+      href: 'https://www.newsweek.com/trump-administration-federal-employees-merit-hiring-plan-2080139',
+      linkText: 'Newsweek'
     },
   ],
 },
