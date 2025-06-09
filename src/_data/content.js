@@ -471,17 +471,49 @@ const entries = [
 },
 
  {
+  id: 'Trump_Bans_Harvard',
+  categories: ['Fascism', 'Dic(tator) Move', 'Discrimination', 'Education', 'Immigration', 'Global' ],
+  color: 'red',
+  faicon: 'scroll',
+  date: '2025-05-29',
+  title: 'Trump bans Harvard from admitting new international students',
+  body: 'In an executive order issued June 4, Trump declared that Harvard\'s admission of international students represents a threat to the United States.',
+  links: [
+    {
+      href: 'https://www.usatoday.com/story/news/nation/2025/06/04/trump-bans-harvard-international-students/84038655007/',
+      linkText: 'USA Today'
+    },
+  ],
+},
+
+ {
   id: 'Bernie_Speaks',
-  categories: ['Tiddlywinks', 'Dic(tator) Move', 'Global', 'Tiddlywinks', 'Resist'],
+  categories: ['Dic(tator) Move', 'Global', 'Tiddlywinks', 'Resist'],
   color: 'green',
   faicon: 'democrat',
-  date: '2025-06-05',
+  date: '2025-06-04',
   title: '‘Saying Trump is dangerous is not enough’: Bernie Sanders on Biden, billionaires – and why the Democrats failed',
   body: 'The senator and twice Democratic presidential hopeful is on tour with Alexandria Ocasio-Cortez trying to build a new progressive movement.',
   links: [
     {
       href: 'https://www.theguardian.com/us-news/ng-interactive/2025/jun/04/saying-trump-is-dangerous-is-not-enough-bernie-sanders-on-biden-billionaires-and-why-the-democrats-failed',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Challenge_Case',
+  categories: ['Global', 'Courts', 'Resist'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-06-04',
+  title: 'Judge says migrants sent to El Salvador prison must get a chance to challenge their removals',
+  body: 'The judge wrote that “significant evidence” has surfaced indicating that many of the migrants imprisoned in El Salvador are not connected to the gang “and thus languish in a foreign prison on flimsy, even frivolous, accusations.”',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-alien-enemies-act-deportations-c581c1ef8ce5199286727b17c12f81d9',
+      linkText: 'Associated Press'
     },
   ],
 },
@@ -643,6 +675,11 @@ const entries = [
     {
       href: 'https://newrepublic.com/post/195904/trump-palantir-data-americans',
       linkText: 'New Republic'
+    },
+
+        {
+      href: 'https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html',
+      linkText: 'New York Times'
     },
   ],
 },
