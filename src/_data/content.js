@@ -35,7 +35,174 @@ const entries = [
  //Orwell :: rewriting history, double speak, new speak, silencing dissent, heavy policing, etc.
 
 
-   {
+
+
+  {
+  id: 'No_Kings_Protests',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'Resist'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-06-14',
+  title: '‘No Kings’ protests across US loom over Trump’s military parade',
+  body: 'Millions of people expected for potentially biggest day of demonstrations since president’s second term began.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/14/no-kings-protests-trump-military-parade',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+ {
+  id: 'Tanks_DC',
+  categories: ['Fascism', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-14',
+  title: 'Tanks to roll through Washington as Trump hosts US military parade',
+  body: 'Parade – ostensibly to mark US army’s 250th birthday – takes place as president turns 79 and comes amid large protests.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/14/trump-military-parade',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+ {
+  id: 'US_Cit_Detained',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-13',
+  title: 'US marines detain civilian in first known instance since Trump deployed troops to LA',
+  body: 'The civilian who was detained identified himself as Marcos Leao, an army veteran, and said he was treated ‘very fairly’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/13/marines-los-angeles-protests-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+
+ {
+  id: 'Dictator_Chic',
+  categories: ['Fascism', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-13',
+  title: 'Tanks, flypasts, missiles: what to expect at Trump’s ‘dictator chic’ military parade',
+  body: 'Washington will host a celebration of US army’s 250th anniversary, which also coincides with president’s birthday.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/13/trump-military-parade-washington',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+ {
+  id: 'Padilla_FBI',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-13',
+  title: 'Trump news at a glance: Democrats rage after Secret Service, FBI shove and handcuff senator',
+  body: 'Security officers grabbed and pushed to the ground Alex Padilla after he tried to ask a question at a news conference.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/13/trump-administration-updates-today-',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'Drones_LA',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'Orwell', 'Immigration'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-12',
+  title: 'US immigration agency flies drones capable of surveillance over LA protests',
+  body: 'CBP claims in statement that they are ‘providing officer safety surveillance when requested by officers’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/12/predator-drone-los-angeles-protests',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+{
+  id: 'ICE_Snatch',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'Orwell'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-12',
+  title: '‘Snatching off the streets’: Ice targets churches, car washes and workplaces',
+  body: 'Sweeping raids under way across California as part of Trump’s immigration crackdown, creating ‘havoc and fear’.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/12/los-angeles-ice-raids',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+{
+  id: 'NatGuard_Still_LA',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'Orwell'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-12',
+  title: 'Trump keeps national guards in LA for now as appeals court puts brakes on ban',
+  body: 'Temporary victory for Trump in back-and-forth court decisions on heated issue of control of security force.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/12/newsom-restraining-order-trump-troops-los-angeles',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'Padilla_Detained',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'Immigration', 'Orwell'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-12',
+  title: 'Senator Alex Padilla handcuffed and forcibly removed from Kristi Noem’s LA press conference',
+  body: 'Video shows Padilla being restrained and ejected as he tries to question homeland security secretary at press event.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/12/los-angeles-protests-alex-padilla-kristi-noem',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Trump_Threat_Protesters',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-10',
+  title: 'Trump Issues Horrifying Threat to Parade Protesters',
+  body: 'The president said that anyone who protests his birthday parade on Saturday will be met with “very heavy force,” even if they’re being peaceful.',
+  links: [
+    {
+      href: 'https://newrepublic.com/post/196672/trump-issues-threat-parade-protesters-no-kings',
+      linkText: 'New Republic'
+    },
+  ],
+},
+
+
+{
   id: 'Imperialism_Travel_Starts',
   categories: ['Fascism', 'Dic(tator) Move', 'Global'],
   color: 'red',
@@ -51,7 +218,7 @@ const entries = [
   ],
 },
 
-   {
+{
   id: 'MI_Spy2',
   categories: ['Fascism', 'Dic(tator) Move', 'Education', 'Orwell', 'FAFO', 'Resist', 'Civil Liberties'],
   color: 'green',
