@@ -199,6 +199,38 @@ const entries = [
   ],
 },
 
+{
+  id: 'No_NPR',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-12',
+  title: 'House approves Trump’s request to cut funding for NPR, PBS and foreign aid',
+  body: 'The package targets foreign aid programs and the Corporation for Public Broadcasting, which provides money for National Public Radio and the Public Broadcasting Service as well as thousands of public radio and television stations around the country.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-budget-cuts-npr-pbs-global-health-2844a884091dce5255a3f4ad70f3a1c6',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+
+{
+  id: 'Lost_It',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'Resist'],
+  color: 'green',
+  faicon: 'fire',
+  date: '2025-06-12',
+  title: '"He\'s lost it": Inside Newsom\'s attack on Trump\'s mental fitness',
+  body: '"He is not the same person that I dealt with just four years ago, and he\'s incapable of even a train of thought."',
+  links: [
+    {
+      href: 'https://www.axios.com/2025/06/12/gavin-newsom-trump-mental-fitness',
+      linkText: 'Axios'
+    },
+  ],
+},
 
 {
   id: 'Padilla_Detained',
@@ -260,7 +292,29 @@ const entries = [
   links: [
     {
       href: 'https://www.theguardian.com/us-news/2025/jun/11/trump-administration-news-updates-today',
-      linkText: 'The Guardian'
+      linkText: 'The Gurdian'
+    },
+
+        {
+      href: 'https://apnews.com/article/donald-trump-gavin-newsom-california-immigration-protests-a6467fcd3fa66c945ac7c15c40362972',
+      linkText: 'Associated Press'
+    },
+  ],
+},
+
+
+{
+  id: 'Protesters_Not_J6',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'J6'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-11',
+  title: 'Bondi says LA protests \'very different\' than Jan. 6 rioters who were pardoned',
+  body: 'Bondi rejected that President Donald Trump\'s pardons for hundreds of rioters who assaulted police during the Jan. 6 attack on the Capitol creates a double standard with the administration\'s aggressive response to violence at immigration protests in Los Angeles.',
+  links: [
+    {
+      href: 'https://abcnews.go.com/Politics/bondi-argues-trump-jan-6-pardons-create-double/story?id=122737210',
+      linkText: 'ABC'
     },
   ],
 },
@@ -396,6 +450,22 @@ const entries = [
 
 
 {
+  id: 'More_Chaos',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'Resist'],
+  color: 'green',
+  faicon: 'fire',
+  date: '2025-06-10',
+  title: 'California governor says Trump is sowing \'more chaos\' by ordering Marines to LA',
+  body: '"He\'s inciting just the same and more fear, more anxiety, more likelihood that people are going to be hurt."',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/06/09/nx-s1-5428342/per-california-gov-newsom-trump-order-to-send-in-guard-affects-all-states',
+      linkText: 'NPR'
+    },
+  ],
+},
+
+{
   id: 'Trump_Threat_Protesters',
   categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties'],
   color: 'red',
@@ -407,6 +477,43 @@ const entries = [
     {
       href: 'https://newrepublic.com/post/196672/trump-issues-threat-parade-protesters-no-kings',
       linkText: 'New Republic'
+    },
+
+        {
+      href: 'https://abcnews.go.com/Politics/trump-warns-protesters-military-parade-met-heavy-force/story?id=122692921',
+      linkText: 'ABC'
+    },
+  ],
+},
+
+{
+  id: 'Money_Troops',
+  categories: ['Fascism', 'Dic(tator) Move', 'Economy'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-10',
+  title: 'Troops deployed to LA will cost $134M, Pentagon predicts',
+  body: 'The estimate came during a budget hearing with Defense Secretary Pete Hegseth, who said the president is enforcing “law and order.”',
+  links: [
+    {
+      href: 'https://www.politico.com/news/2025/06/10/troops-deployed-to-la-will-cost-134m-pentagon-official-says-00396632',
+      linkText: 'Politico'
+    },
+  ],
+},
+
+{
+  id: '700_Marines',
+  categories: ['Fascism', 'Dic(tator) Move', 'Economy'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-09',
+  title: 'Trump authorizes additional 2,000 National Guard members to Los Angeles',
+  body: 'Another 2,000 National Guard troops along with 700 Marines are headed to Los Angeles on orders Monday from President Donald Trump, escalating a military presence local officials and Gov. Gavin Newsom don’t want and the police chief says creates logistical challenges for safely handling protests.',
+  links: [
+    {
+      href: 'https://apnews.com/article/los-angeles-protests-national-guard-trump-14c9dda32663d7d2c45f2b1c5a1d219c',
+      linkText: 'Associated Press'
     },
   ],
 },
@@ -509,6 +616,21 @@ const entries = [
   ],
 },
 
+{
+  id: 'Comes_Next',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Civil Liberties', 'Civil War', 'Insurrection Act'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-09',
+  title: 'Trump’s troop deployment is a warning sign for what comes next, legal scholars fear',
+  body: 'Trump has cited a provision of U.S. law that allows the president to use the National Guard to suppress the “danger of a rebellion.”',
+  links: [
+    {
+      href: 'https://www.politico.com/news/2025/06/09/trump-national-guard-deployment-legal-00394387',
+      linkText: 'Politico'
+    },
+  ],
+},
 
 {
   id: 'Vets_Warns',
@@ -570,6 +692,22 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/jun/08/abc-news-suspends-journalist-stephen-miller-trump',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Not_Stop_Riots',
+  categories: ['Fascism', 'Dic(tator) Move', 'Orwell', 'Civil Liberties', 'Immigration'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-08',
+  title: 'Sending the National Guard to LA is not about stopping rioting',
+  body: 'The city is being punished for resisting the Trump administration’s deportation efforts.',
+  links: [
+    {
+      href: 'https://www.economist.com/united-states/2025/06/08/sending-the-national-guard-to-la-is-not-about-stopping-rioting',
+      linkText: 'Economist'
     },
   ],
 },
