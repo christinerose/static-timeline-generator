@@ -36,6 +36,37 @@ const entries = [
 
 
 
+ {
+  id: 'Dems_Shot',
+  categories: ['Fascism', 'Gun Violence'],
+  color: 'red',
+  faicon: 'gun',
+  date: '2025-06-14',
+  title: 'Two Democratic lawmakers shot, one fatally, in ‘politically motivated assassination’ in Minnesota',
+  body: 'Police say suspect dressed as law enforcement and shot at responding officers before escaping.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/14/democratic-lawmakers-minnesota-shot',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+ {
+  id: 'Hinted_Crackdown',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-14',
+  title: 'How Trump hinted at a crackdown on protests long before his inauguration',
+  body: 'Similarly, how cities have long planned their responses to a Trump-led escalation, which is finally here.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/14/trump-response-protests-campaign',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
 
   {
   id: 'No_Kings_Protests',
@@ -186,6 +217,185 @@ const entries = [
 },
 
 {
+  id: 'Little_Food_Water',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties',, 'Immigration'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-06-11',
+  title: 'Families arrested in LA Ice raids held in basements with little food or water,',
+  body: 'Agents confiscated belongings and rushed deportees to California’s high desert or Texas, saying local facilities had not prepared for influx.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/11/la-ice-raids-immigration-conditions',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Judge_Khalil',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'Courts', 'Immigration', 'Resist'],
+  color: 'green',
+  faicon: 'landmark',
+  date: '2025-06-11',
+  title: 'Judge rules Trump administration can no longer detain Mahmoud Khalil on claims he’s a threat to foreign policy',
+  body: 'But Columbia University graduate can be held for inaccurately filling out green card application, says judge.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/11/judge-trump-administration-mahmoud-khalil',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'Newsome_Democracy_Under_Assault',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'Insurrection Act', 'Resist'],
+  color: 'green',
+  faicon: 'fire',
+  date: '2025-06-11',
+  title: 'Trump news at a glance: Gavin Newsom declares ‘democracy is under assault’ in blistering attack on president',
+  body: 'California’s governor issued a warning to other states as he decried Trump’s decision to deploy the National Guard without his support.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/11/trump-administration-news-updates-today',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Protesters_Invaders',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'Insurrection Act'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-11',
+  title: 'As military is deployed to LA, rightwing media decry protesters as ‘invaders’',
+  body: 'From Newsmax to Charlie Kirk, outlets and podcasts are calling for ‘hard actions’, arrests and the Insurrection Act.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/11/la-ice-protests-trump-rightwing-fox-charlie-kirk',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Texas_NatGuard',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-11',
+  title: 'Texas governor orders national guard to deploy for protests in San Antonio',
+  body: 'Greg Abbott says troops ‘on standby’ in response to local police request ahead of planned protests this week.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/11/texas-protests-national-guard-san-antonio',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Farm_Raids',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'Immigration'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-06-11',
+  title: 'US immigration officials raid California farms as Trump ramps up conflict',
+  body: 'Stepped-up ‘enforcement activity’ to fulfill arrest quotas leads to reports of agents chasing workers across farmland.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/11/la-los-angeles-police-mass-arrests-overnight-curfew',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'Woman_Less_Lethal',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'Gun Violence'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-11',
+  title: 'LA police filmed shooting woman point-blank with ‘less lethal’ round',
+  body: 'Woman in video appears unarmed as she walks alone before police shoot her near her residence.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/11/la-police-shoot-woman-point-blank',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Not_Isolated',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-11',
+  title: '‘This isn’t an isolated incident’: Trump’s show of military force in LA was years in the making',
+  body: 'The president had been waiting for this made-for-TV clash that allows the administration to ‘manufacture’ a crisis.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/11/trump-military-force-plotting',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Seattle_Chief',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'Resist'],
+  color: 'green',
+  faicon: 'person',
+  date: '2025-06-10',
+  title: 'Seattle Police Chief Barnes says he expects to be jailed for resisting Trump\'s orders',
+  body: '“I will do everything in my power to protect anyone in Seattle from anyone who comes to this city with the intention to hurt them or inhibit their First Amendment rights."',
+  links: [
+    {
+      href: 'https://www.kuow.org/stories/seattle-police-chief-barnes-says-he-expects-to-be-jailed-for-resisting-trump-s-orders',
+      linkText: 'KUOW'
+    },
+  ],
+},
+
+{
+  id: 'Permanent_Emergency',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-10',
+  title: 'American carnage revisited as Trump plays president of permanent emergency',
+  body: 'The president declined at Fort Bragg to hum a tune of virtue and valor – instead it was a tour of his darkest horizons.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/10/trump-fort-bragg-los-angeles-sketch',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'LA_Curfew',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-10',
+  title: 'Los Angeles mayor sets curfew as Newsom intensifies criticism of Trump',
+  body: 'Karen Bass institutes 8pm-6am curfew for downtown LA as California governor urges people to ‘not give in’ to president.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/10/los-angeles-marines-trump-protests-military',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
   id: 'Trump_Threat_Protesters',
   categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties'],
   color: 'red',
@@ -197,6 +407,55 @@ const entries = [
     {
       href: 'https://newrepublic.com/post/196672/trump-issues-threat-parade-protesters-no-kings',
       linkText: 'New Republic'
+    },
+  ],
+},
+
+{
+  id: 'Mayor_Arrested',
+  categories: ['Fascism', 'Dic(tator) Move', 'Resist', 'Immigration'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-06-09',
+  title: '‘History will judge us as cowards or heroes’: Ras Baraka, the mayor arrested by Ice, won’t be intimidated',
+  body: 'The politician, who’s been labeled ‘too progressive, too Black’ in the race for New Jersey governor, reflects on Trump, immigration and the power of poetry.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/09/ras-baraka-newark-mayor-ice',
+      linkText: 'The Guardian'
+    },
+  ],
+},
+
+
+{
+  id: 'First_Stage_Police_State',
+  categories: ['Fascism', 'Dic(tator) Move', 'Insurrection Act'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-09',
+  title: 'We are witnessing the first stages of a Trump police state',
+  body: 'The national guard’s deployment in Los Angeles sets the US on a familiar authoritarian pathway.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/commentisfree/2025/jun/09/trump-police-state-robert-reich',
+      linkText: 'The Guardian (Opinion)'
+    },
+  ],
+},
+
+{
+  id: 'Authoritarian_Move',
+  categories: ['Fascism', 'Dic(tator) Move', 'Insurrection Act'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-09',
+  title: 'LA protests: Trump sends thousands more troops in ‘authoritarian’ move',
+  body: 'California leaders decry mobilization of 700 marines and 4,000 national guard members as tensions escalate.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/09/los-angeles-protests',
+      linkText: 'The Guardian'
     },
   ],
 },
@@ -440,6 +699,22 @@ const entries = [
     {
       href: 'https://www.theguardian.com/world/2025/jun/07/germany-plans-rapid-bunker-expansion-amid-fears-of-russian-attack',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Dress_Rehearsal',
+  categories: ['Fascism', 'Dic(tator) Move', 'Insurrection Act'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-06',
+  title: 'For Trump, This Is a Dress Rehearsal',
+  body: 'Ordering the National Guard to deploy in Los Angeles is a warning of what to expect when his hold on power is threatened.',
+  links: [
+    {
+      href: 'https://www.theatlantic.com/ideas/archive/2025/06/los-angeles-dress-rehearsal-trump/683078/t',
+      linkText: 'The Atlantic'
     },
   ],
 },
