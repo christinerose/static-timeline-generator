@@ -120,6 +120,22 @@ const entries = [
 }, 
 
  {
+  id: 'Democrat_Cities',
+  categories: ['Fascism', 'Tiddlywinks', 'Dic(tator) Move', 'Discrimination', 'Orwell', 'Immigration'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-06-15',
+  title: 'Trump directs ICE to expand deportations in Democratic-run cities, undeterred by protests',
+  body: 'Trump in a social media posting called on ICE officials “to do all in their power to achieve the very important goal of delivering the single largest Mass Deportation Program in History.”',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-ice-deportations-protests-65fa8d64ea12a78a0ee0ebeea008ee4d',
+      linkText: 'Associated Press'
+    },
+  ],
+}, 
+
+ {
   id: 'No_Kings_PDX',
   categories: ['Fascism', 'Civil Liberties', 'Dic(tator) Move', 'Resist', 'Immigration'],
   color: 'green',
@@ -279,6 +295,23 @@ const entries = [
     },
   ],
 },
+
+
+ {
+  id: 'Trump_NatGuard',
+  categories: ['Fascism', 'Dic(tator) Move', 'Courts'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-06-13',
+  title: 'Appeals court blocks earlier ruling, allows Trump to command California Guard for now',
+  body: 'Just a couple hours after a federal judge had ordered President Trump to relinquish control of the California National Guard saying he had violated the U.S. Constitution, an appeals court put the order on hold until a hearing on an appeal can be held Tuesday.',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/06/12/nx-s1-5429752/trump-newsom-california-national-guard-ice-immigration',
+      linkText: 'NPR'
+    },
+  ],
+}, 
 
 
  {
