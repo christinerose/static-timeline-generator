@@ -36,6 +36,186 @@ const entries = [
 
 
 
+  {
+  id: 'Farm_Raids',
+  categories: ['Fascism', 'Dic(tator) Move', 'Immigration'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-06-16',
+  title: 'Trump orders Ice raids on farms and hotels after pausing them days earlier',
+  body: 'Reversal comes days after president posted on Truth Social his ‘very aggressive’ raids were hurting farmers and hotels.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/17/ice-raids-farms-hotels-trump',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+
+ {
+  id: 'VA_Docs',
+  categories: ['Fascism', 'Civil Liberties', 'Dic(tator) Move', 'Discrimination', 'Tiddlywinks', 'Health', 'Orwell'],
+  color: 'red',
+  faicon: 'medkit',
+  date: '2025-06-16',
+  title: '‘Extremely disturbing and unethical’: new rules allow VA doctors to refuse to treat Democrats, unmarried veterans',
+  body: 'Doctors and other medical staff can also be barred from working at VA hospitals based on their marital status, political party affiliation or union activity.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/16/va-doctors-refuse-treat-patients',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+
+ {
+  id: 'Crackdown',
+  categories: ['Fascism', 'Civil Liberties', 'Dic(tator) Move', 'Immigration', 'Orwell'],
+  color: 'red',
+  faicon: 'plane',
+  date: '2025-06-16',
+  title: 'Trump promises expanded immigration crackdown after ‘No Kings’ protests',
+  body: 'Statement comes amid questions over whether Ice – reportedly $1bn over budget – is set to run out of money.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/16/trump-immigration-protests-ice-budget',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+
+ {
+  id: 'Journalist_Arrested',
+  categories: ['Fascism', 'Civil Liberties', 'Dic(tator) Move', 'Discrimination', 'Orwell', 'Immigration'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-16',
+  title: 'Spanish-language journalist to be turned over to Ice after protest arrest',
+  body: 'El Salvador-born Mario Guevara, arrested by Georgia police on Saturday, transferred to Ice officers after bond release.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/16/journalist-ice-protest-arrest-mario-guevara',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+ {
+  id: 'Lame',
+  categories: ['Fascism', 'Civil Liberties', 'Dic(tator) Move', 'FAFO', 'Immigration'],
+  color: 'green',
+  faicon: 'poo',
+  date: '2025-06-15',
+  title: 'Trump coveted a military spectacle but his parade proved underwhelming: ‘Just kind of lame’',
+  body: 'Trump’s army parade was neither the totalitarian North Korean spectacle that critics had grimly predicted, nor the triumph of Maga nationalism fans craved.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/15/trump-army-parade',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+ {
+  id: 'No_Kings_PDX',
+  categories: ['Fascism', 'Civil Liberties', 'Dic(tator) Move', 'Resist', 'Immigration'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-06-14',
+  title: 'Tens of thousands join peaceful ‘No Kings’ protest in Portland; much smaller crowd turns chaotic at ICE facility',
+  body: 'The events drew people into the streets to denounce what organizers described as authoritarianism, anti-immigrant policies and attacks on democracy. (I\'m so proud to have been there!)',
+  links: [
+    {
+      href: 'https://www.oregonlive.com/portland/2025/06/people-protest-against-the-trump-administration-in-portland-and-across-the-nation.html',
+      linkText: 'The Oregonian'
+    },
+    
+     {
+      href: 'https://www.wweek.com/news/2025/06/14/portlands-anti-trump-march-stretches-nine-city-blocks/',
+      linkText: 'Willamette Week'
+    },
+  ],
+}, 
+
+ {
+  id: 'No_Kings',
+  categories: ['Fascism', 'Civil Liberties', 'Dic(tator) Move', 'Resist'],
+  color: 'green',
+  faicon: 'jedi',
+  date: '2025-06-14',
+  title: 'Millions across US turn out for ‘No Kings’ protests against Donald Trump',
+  body: 'Protesters demonstrate at about 2,000 sites nationwide on day US president holds military parade in Washington. (Final count: 13.4 million nationwide!)',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/14/no-kings-protests-trump-military-parade',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+
+ {
+  id: 'Military_Parade',
+  categories: ['Fascism', 'Dic(tator) Move'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-14',
+  title: 'Military parade rolls through DC as ‘No Kings’ protesters across US decry Trump',
+  body: 'Attendance appeared to fall far short of early predictions that as many as 200,000 people would attend the festival and parade. There were large gaps between viewers.',
+  links: [
+    {
+      href: 'https://apnews.com/article/trump-army-parade-troops-tanks-birthday-protests-4cca4da0e89908d39c820240744375a1',
+      linkText: 'Associated Press'
+    },
+
+        {
+      href: 'https://www.nbcnews.com/politics/donald-trump/trump-presides-military-parade-turmoil-home-abroad-rcna212834',
+      linkText: 'NBC'
+    },
+
+            {
+      href: 'https://www.bbc.com/news/live/c2kqe5yv0yzt',
+      linkText: 'BBC'
+    },
+  ],
+}, 
+
+
+ {
+  id: 'Arrests_Surge',
+  categories: ['Fascism', 'Immigration', 'Dic(tator) Move', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-06-14',
+  title: 'Ice arrests of migrants with no criminal history surging under Trump',
+  body: 'Guardian analysis sharply contradicts president’s claim that officials are targeting ‘criminals’ for deportation from US.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/14/ice-arrests-migrants-trump-figures',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+ {
+  id: 'Escalation',
+  categories: ['Fascism', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-14',
+  title: 'How US cities have long planned for a Trump-led escalation against protests',
+  body: 'The US president hinted at a crackdown on demonstrations long before his inauguration, and it’s finally here. The militarization on the streets and in immigration raids dramatically marks the places the administration wants to punish dissent.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/14/trump-response-protests-campaign',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
  {
   id: 'Dems_Shot',
   categories: ['Fascism', 'Gun Violence'],
@@ -396,6 +576,22 @@ const entries = [
     {
       href: 'https://www.theguardian.com/us-news/2025/jun/11/trump-military-force-plotting',
       linkText: 'The Guardian'
+    },
+  ],
+},
+
+{
+  id: 'Protestor_Animals',
+  categories: ['Fascism', 'Dic(tator) Move', 'Civil Liberties', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-06-10',
+  title: 'Trump calls L.A. protesters ‘animals,’ ‘foreign enemy’ in speech to recognize anniversary of the U.S. Army',
+  body: 'Trump, in his most aggressive language yet regarding the protests in Los Angeles, used a speech ostensibly supposed to be used to recognize the 250th anniversary of the U.S. Army to denounce the demonstrators while repeating his false statements about the 2020 election being rigged and attacking the previous commander-in-chief, former President Joe Biden.',
+  links: [
+    {
+      href: 'https://www.oregonlive.com/nation/2025/06/trump-calls-la-protesters-animals-foreign-enemy-in-speech-to-recognize-anniversary-of-the-us-army.html',
+      linkText: 'The Oregonian'
     },
   ],
 },
