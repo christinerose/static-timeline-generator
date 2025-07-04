@@ -36,6 +36,71 @@ const entries = [
 
 
 
+{
+  id: 'Limit_Power',
+  categories: ['Fascism', 'Dic(tator) Move', 'Courts'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-06-27',
+  title: 'US supreme court limits federal judges’ power to block Trump orders',
+  body: 'Ruling to limit nationwide injunctions could see president’s order to ban birthright citizenship partially implemented.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/27/trump-supreme-court-birthright-citizenship-scotus',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+
+{
+  id: 'US_Arrested',
+  categories: ['Fascism', 'Dic(tator) Move', 'Immigration', 'Civil Liberties'],
+  color: 'red',
+  faicon: 'fire',
+  date: '2025-06-26',
+  title: 'US citizen arrested during Ice raid in what family describes as ‘kidnapping\'',
+  body: 'Andrea Velez, 32, a graduate of Cal Poly Pomona, had just been dropped off at work by her mother and sister.',
+  links: [
+    {
+      href: 'https://www.theguardian.com/us-news/2025/jun/26/immigration-ice-raid-andrea-velez',
+      linkText: 'The Guardian'
+    },
+  ],
+}, 
+
+{
+  id: 'Refused_Entry_Meme',
+  categories: ['Fascism', 'Dic(tator) Move', 'Immigration', 'Orwell'],
+  color: 'red',
+  faicon: 'eye',
+  date: '2025-06-24',
+  title: 'Man \'refused entry into US\' as border control catch him with bald JD Vance meme',
+  body: 'A 21-year-old tourist has described the horrendous treatment he allegedly received after being denied entry to the USA due to a meme depicting JD Vance as bald being found on his phone.',
+  links: [
+    {
+      href: 'https://www.dublinlive.ie/news/world-news/man-refused-entry-us-border-31925059',
+      linkText: 'Dublin Live'
+    },
+  ],
+}, 
+
+{
+  id: '3rd_Deportations',
+  categories: ['Fascism', 'Dic(tator) Move', 'Immigration', 'Courts'],
+  color: 'red',
+  faicon: 'landmark',
+  date: '2025-06-23',
+  title: 'U.S. Supreme Court allows — for now — third-country deportations',
+  body: 'The order focused on a flight carrying several men from various countries — including Myanmar, Laos, Vietnam, Cuba and Mexico',
+  links: [
+    {
+      href: 'https://www.npr.org/2025/06/23/g-s1-71529/supreme-court-south-sudan-deportation',
+      linkText: 'NPR'
+    },
+  ],
+}, 
+
   {
   id: 'Farm_Raids',
   categories: ['Fascism', 'Dic(tator) Move', 'Immigration'],
