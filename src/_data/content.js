@@ -36,6 +36,22 @@ const entries = [
 
 
 
+ {
+  id: 'No_More',
+  categories: ['Fascism'],
+  color: 'gray',
+  faicon: 'fire',
+  date: '2025-06-27',
+  title: 'This site is no longer being updated',
+  body: 'The timeline remains as a record of how it started, what people did (and didn’t) do, and how Democratic leaders failed to meet the moment.',
+  links: [
+    {
+      href: 'https://americaisgoinggreat.com/about/index.html',
+      linkText: 'Read More'
+    },
+  ],
+}, 
+
 {
   id: 'Limit_Power',
   categories: ['Fascism', 'Dic(tator) Move', 'Courts'],
